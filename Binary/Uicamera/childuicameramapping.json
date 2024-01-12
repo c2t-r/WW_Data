@@ -1,0 +1,20 @@
+{
+    "2001": "RoleAttributeTabView",
+    "2002": "RoleSkillTabView",
+    "2003": "RoleResonanceTabNewView",
+    "2004": "RoleWeaponTabView",
+    "2005": "RolePhantomTabView",
+    "2006": "RoleFavorTabView",
+    "2012": "RolePreviewDescribeTabView",
+    "2013": "RolePreviewSkillTabView",
+    "2014": "RolePreviewWeaponTabView",
+    "2015": "RolePreviewPhantomTabView",
+    "2016": "RolePreviewResonanceTabView",
+    "2017": "WeaponPreviewLevelUpView",
+    "2018": "WeaponPreviewBreachView",
+    "2019": "WeaponPreviewResonanceView",
+    "2020": "RoleHandBookPreviewView",
+    "2022": "PersonalCardTabView",
+    "2021": "PersonalInfoTabView",
+    "2023": "RolePreviewAttributeTabView"
+}
