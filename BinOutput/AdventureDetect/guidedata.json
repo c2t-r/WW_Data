@@ -1,0 +1,22 @@
+[
+    {
+        "Id": 0,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_TabIconDevelopment02.SP_TabIconDevelopment02\u0000\u0000\u0000\u0014\u0000\u0000\u0000GuideData_0_NoteText\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000GuideData_0_TitleText\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_TabIconDevelopment05.SP_TabIconDevelopment05\u0000\u0000\u0000\u0014\u0000\u0000\u0000GuideData_1_NoteText\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000GuideData_1_TitleText\u0000\u0000\u0000"
+    },
+    {
+        "Id": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_TabIconDevelopment03.SP_TabIconDevelopment03\u0000\u0000\u0000\u0014\u0000\u0000\u0000GuideData_2_NoteText\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000GuideData_2_TitleText\u0000\u0000\u0000"
+    },
+    {
+        "Id": 3,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_TabIconDevelopment04.SP_TabIconDevelopment04\u0000\u0000\u0000\u0014\u0000\u0000\u0000GuideData_3_NoteText\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000GuideData_3_TitleText\u0000\u0000\u0000"
+    },
+    {
+        "Id": 4,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_TabIconDevelopment01.SP_TabIconDevelopment01\u0000\u0000\u0000\u0014\u0000\u0000\u0000GuideData_4_NoteText\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000GuideData_4_TitleText\u0000\u0000\u0000"
+    }
+]

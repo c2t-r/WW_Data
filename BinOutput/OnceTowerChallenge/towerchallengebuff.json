@@ -1,0 +1,18 @@
+[
+    {
+        "Id": 92005013,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000��{\u0005o\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertybluereaction_UI.T_Iconpropertybluereaction_UI\u0000 \u0000\u0000\u0000TowerChallengeBuff_92005013_Desc\u0000\u0000\u0000\u0000 \u0000\u0000\u0000TowerChallengeBuff_92005013_Name\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 92005014,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000��{\u0005m\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertygreenenergy_UI.T_Iconpropertygreenenergy_UI\u0000\u0000\u0000 \u0000\u0000\u0000TowerChallengeBuff_92005014_Desc\u0000\u0000\u0000\u0000 \u0000\u0000\u0000TowerChallengeBuff_92005014_Name\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 92005015,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000��{\u0005e\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyphysics_UI.T_Iconpropertyphysics_UI\u0000\u0000\u0000 \u0000\u0000\u0000TowerChallengeBuff_92005015_Desc\u0000\u0000\u0000\u0000 \u0000\u0000\u0000TowerChallengeBuff_92005015_Name\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 92005016,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000��{\u0005g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredbaoji_UI.T_Iconpropertyredbaoji_UI\u0000 \u0000\u0000\u0000TowerChallengeBuff_92005016_Desc\u0000\u0000\u0000\u0000 \u0000\u0000\u0000TowerChallengeBuff_92005016_Name\u0000\u0000\u0000\u0000"
+    }
+]

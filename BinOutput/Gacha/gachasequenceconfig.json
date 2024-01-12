@@ -1,0 +1,78 @@
+[
+    {
+        "Id": 3,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000b\u0000\u0000\u0000/Game/Aki/Map/Level/Function/ChouKa/Art/Sequence/GachaShowSequence_Weapon.GachaShowSequence_Weapon\u0000\u0000"
+    },
+    {
+        "Id": 1503,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0005\u0000\u0000[\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/Jueyuan/SC_Jueyuan_DrawCard.SC_Jueyuan_DrawCard\u0000"
+    },
+    {
+        "Id": 1302,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0016\u0005\u0000\u0000X\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/YinLin/SC_YinLin_DrawCard.SC_YinLin_DrawCard\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1203,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0004\u0000\u0000R\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/AnKe/SC_Anke_DrawCard.SC_AnKe_DrawCard\u0000\u0000"
+    },
+    {
+        "Id": 1103,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000O\u0004\u0000\u0000[\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/BaiLian/SC_BaiLian_DrawCard.SC_BaiLian_DrawCard\u0000"
+    },
+    {
+        "Id": 1404,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000|\u0005\u0000\u0000U\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/JiYan/SC_JiYan_DrawCard.SC_JiYan_DrawCard\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1202,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0004\u0000\u0000d\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/MaXiaoFang/SC_MaXiaoFang_DrawCard.SC_MaXiaoFang_DrawCard\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1601,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000A\u0006\u0000\u0000U\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/Taoqi/SC_Taoqi_DrawCard.SC_Taoqi_DrawCard\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1102,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000N\u0004\u0000\u0000X\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/SanHua/SC_SanHua_DrawCard.SC_SanHua_DrawCard\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1303,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0017\u0005\u0000\u0000X\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/Yuanwu/SC_Yuanwu_DrawCard.SC_Yuanwu_DrawCard\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1402,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000z\u0005\u0000\u0000^\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/YangYang/SC_YangYang_DrawCard.SC_YangYang_DrawCard\u0000\u0000"
+    },
+    {
+        "Id": 1602,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000B\u0006\u0000\u0000U\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/MiCai/SC_MiCai_DrawCard.SC_MiCai_DrawCard\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1403,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000{\u0005\u0000\u0000[\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/QiuShui/SC_QiuShui_DrawCard.SC_QiuShui_DrawCard\u0000"
+    },
+    {
+        "Id": 1204,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0004\u0000\u0000R\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/Baer/SC_Baer_DrawCard.SC_Baer_DrawCard\u0000\u0000"
+    },
+    {
+        "Id": 1301,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0015\u0005\u0000\u0000[\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/KaKaLuo/SC_KaKaLuo_DrawCard.SC_KaKaLuo_DrawCard\u0000"
+    },
+    {
+        "Id": 1603,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000C\u0006\u0000\u0000R\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/Chun/SC_Chun_DrawCard.SC_Chun_DrawCard\u0000\u0000"
+    },
+    {
+        "Id": 1405,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000}\u0005\u0000\u0000[\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/JianXin/SC_JianXin_DrawCard.SC_JianXin_DrawCard\u0000"
+    },
+    {
+        "Id": 1104,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000P\u0004\u0000\u0000^\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/Lingyang/SC_Lingyang_DrawCard.SC_Lingyang_DrawCard\u0000\u0000"
+    },
+    {
+        "Id": 1304,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0005\u0000\u0000U\u0000\u0000\u0000/Game/Aki/Character/SequenceCamera/DrawCard/JinXi/SC_JinXi_DrawCard.SC_JinXi_DrawCard\u0000\u0000\u0000"
+    }
+]

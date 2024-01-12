@@ -1,0 +1,77 @@
+[
+    {
+        "Id": 1003,
+        "ViewName": "CookRootView",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking.SP_BlackIconCooking\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconCooking.SP_IconCooking\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000CookRootView\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1002,
+        "ViewName": "CookRoleView",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking1.SP_BlackIconCooking1\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiCooking/Atlas/SP_CookingiconXiezhu.SP_CookingiconXiezhu\u0000\u0000%\u0000\u0000\u0000NpcSystemBackground_1002_CaptionTitle\u0000\u0000\u0000\f\u0000\u0000\u0000CookRoleView\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1004,
+        "ViewName": "CookLevelView",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking1.SP_BlackIconCooking1\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiCooking/Atlas/SP_CookingiconLevel1.SP_CookingiconLevel1\u0000\u0000%\u0000\u0000\u0000NpcSystemBackground_1004_CaptionTitle\u0000\u0000\u0000\r\u0000\u0000\u0000CookLevelView\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1005,
+        "ViewName": "ComposeRootView",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconSynthesis.SP_BlackIconSynthesis\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconSynthesis.SP_IconSynthesis\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000ComposeRootView\u0000"
+    },
+    {
+        "Id": 1006,
+        "ViewName": "ComposeLevelView",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking2.SP_BlackIconCooking2\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiCooking/Atlas/SP_CookingiconLevel2.SP_CookingiconLevel2\u0000\u0000%\u0000\u0000\u0000NpcSystemBackground_1006_CaptionTitle\u0000\u0000\u0000\u0010\u0000\u0000\u0000ComposeLevelView\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1007,
+        "ViewName": "ManufactureHelpRoleView",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking2.SP_BlackIconCooking2\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiCooking/Atlas/SP_CookingiconXiezhu.SP_CookingiconXiezhu\u0000\u0000%\u0000\u0000\u0000NpcSystemBackground_1002_CaptionTitle\u0000\u0000\u0000\u0017\u0000\u0000\u0000ManufactureHelpRoleView\u0000"
+    },
+    {
+        "Id": 1008,
+        "ViewName": "ForgingRootView",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000h\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconForge.SP_BlackIconForge\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconForge.SP_IconForge\u0000\u001e\u0000\u0000\u0000NpcSystemBackground_1008_Title\u0000\u0000\u000f\u0000\u0000\u0000ForgingRootView\u0000"
+    },
+    {
+        "Id": 10101,
+        "ViewName": "ShopView10101",
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000u'\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconWeapon.SP_BlackIconWeapon\u0000I\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconWeapon.SP_IconWeapon\u0000\u0000\u0000\u001f\u0000\u0000\u0000NpcSystemBackground_10101_Title\u0000\r\u0000\u0000\u0000ShopView10101\u0000\u0000\u0000"
+    },
+    {
+        "Id": 10103,
+        "ViewName": "ShopView10103",
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000w'\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconDrug.SP_BlackIconDrug\u0000E\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconDrug.SP_IconDrug\u0000\u0000\u0000\u001f\u0000\u0000\u0000NpcSystemBackground_10103_Title\u0000\r\u0000\u0000\u0000ShopView10103\u0000\u0000\u0000"
+    },
+    {
+        "Id": 10104,
+        "ViewName": "ShopView10104",
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000x'\u0000\u0000\u0001\u0000\u0000\u0000)��\u0002O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconGift.SP_BlackIconGift\u0000E\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift\u0000\u0000\u0000\u001f\u0000\u0000\u0000NpcSystemBackground_10104_Title\u0000\r\u0000\u0000\u0000ShopView10104\u0000\u0000\u0000"
+    },
+    {
+        "Id": 10107,
+        "ViewName": "ShopView10107",
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{'\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconShop.SP_BlackIconShop\u0000E\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconShop.SP_IconShop\u0000\u0000\u0000\u001f\u0000\u0000\u0000NpcSystemBackground_10107_Title\u0000\r\u0000\u0000\u0000ShopView10107\u0000\u0000\u0000"
+    },
+    {
+        "Id": 10108,
+        "ViewName": "ShopView10108",
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000|'\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking.SP_BlackIconCooking\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconCooking.SP_IconCooking\u0000\u001f\u0000\u0000\u0000NpcSystemBackground_10108_Title\u0000\r\u0000\u0000\u0000ShopView10108\u0000\u0000\u0000"
+    },
+    {
+        "Id": 10109,
+        "ViewName": "ShopView10109",
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000}'\u0000\u0000\u0001\u0000\u0000\u0000��\u0002M\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconOre.SP_BlackIconOre\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconOre.SP_IconOre\u0000\u001f\u0000\u0000\u0000NpcSystemBackground_10109_Title\u0000\r\u0000\u0000\u0000ShopView10109\u0000\u0000\u0000"
+    },
+    {
+        "Id": 10110,
+        "ViewName": "ShopView10110",
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000~'\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking.SP_BlackIconCooking\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconCooking.SP_IconCooking\u0000\u001f\u0000\u0000\u0000NpcSystemBackground_10110_Title\u0000\r\u0000\u0000\u0000ShopView10110\u0000\u0000\u0000"
+    },
+    {
+        "Id": 10111,
+        "ViewName": "ShopView10111",
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000'\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconDrug.SP_BlackIconDrug\u0000E\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconDrug.SP_IconDrug\u0000\u0000\u0000\u001f\u0000\u0000\u0000NpcSystemBackground_10111_Title\u0000\r\u0000\u0000\u0000ShopView10111\u0000\u0000\u0000"
+    }
+]

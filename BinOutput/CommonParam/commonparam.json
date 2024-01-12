@@ -1,0 +1,2758 @@
+[
+    {
+        "KeyName": "bag_size",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "custom_mark_size",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "mail_size",
+        "BinData": "c\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "exp_conversion_count",
+        "BinData": "�\r\u0000\u0000"
+    },
+    {
+        "KeyName": "loadingtips_time",
+        "BinData": "\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "init_area_id",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "weapon_strengthen_exp_cost",
+        "BinData": "(#\u0000\u0000"
+    },
+    {
+        "KeyName": "weapon_strengthen_panel_restrain1",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "weapon_strengthen_panel_restrain2",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "network_mask_time",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "network_mask_box_time",
+        "BinData": "\u000f\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "get_token_timeout",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "login_timeout",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "connect_timeout",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "weapon_strengthen_num_limit",
+        "BinData": "\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "character_name_def_limit",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "default_single_map_id",
+        "BinData": "\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "default_multi_map_id",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "weapon_quick_strengthen_restrain_num",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "adsorption_speed",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "adsorption_time",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "prewar_team_invite_cd",
+        "BinData": "\u000f\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "additem_accumulate_speed",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "additem_accumulate_frequency",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "drop_create_range",
+        "BinData": "\u0000�5w"
+    },
+    {
+        "KeyName": "renew_energy_timespan",
+        "BinData": "h\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "renew_energy_limit",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "charge_energy_limit",
+        "BinData": "`\t\u0000\u0000"
+    },
+    {
+        "KeyName": "player_max_level",
+        "BinData": "P\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "next_new_item_show_time",
+        "BinData": "\u0004\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "login_fail_reset_time",
+        "BinData": "��\u0000\u0000"
+    },
+    {
+        "KeyName": "vision_skill_default_level",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "item_list_max_size",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "drop_height_protect",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "main_quest_count",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "branch_quest_count",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "action_stand_show_time",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "tape_panel_using_model",
+        "BinData": "\u0000-1\u0001"
+    },
+    {
+        "KeyName": "role_panel_using_model",
+        "BinData": "\u0001-1\u0001"
+    },
+    {
+        "KeyName": "world_level_change_conditon_level",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "world_level_change_cd",
+        "BinData": "�Q\u0001\u0000"
+    },
+    {
+        "KeyName": "additem_accumulate_initialtime",
+        "BinData": ",\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "additem_accumulate_mintime",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "additem_accumulate_deltaspeed",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "change_role_cooldown",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "check_gear_distance",
+        "BinData": "\u0000ʚ;"
+    },
+    {
+        "KeyName": "jump_priority",
+        "BinData": "\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "fly_priority",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "npcicon_location_offsetz",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "marquee_speed",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "aoi_dibiao_playerView",
+        "BinData": "@\r\u0003\u0000"
+    },
+    {
+        "KeyName": "aoi_dibiao_gridSize",
+        "BinData": "P�\u0000\u0000"
+    },
+    {
+        "KeyName": "aoi_region_gridSize",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "sdk_relogin_time",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "area_quest_daily_num",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "area_quest_week_num",
+        "BinData": "#\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "npc_headinfo_limit_min_distance",
+        "BinData": ",\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "npc_headinfo_limit_max_distance",
+        "BinData": "�\u000f\u0000\u0000"
+    },
+    {
+        "KeyName": "npc_headinfo_name_limit_distance",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "role_reson_animation_interval",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "mail_function_condition",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "mail_attachment_limit",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "mail_take_limit",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "proto_key_timeout",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "gametime_localcache_quota",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "blocklist_limit",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "friend_apply_list_limit",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "friend_apply_time_limit",
+        "BinData": "\u0000�'\u0000"
+    },
+    {
+        "KeyName": "friend_list_limit",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "friend_remark_limit",
+        "BinData": "\f\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "friend_apply_request_limit",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "into_bag_list_low_count",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "into_bag_list_fast_count",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "into_bag_show_time",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "into_bag_next_item_time",
+        "BinData": "P\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "into_bag_slide_time",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "into_bag_next_item_low_time",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "into_bag_next_item_fast_time",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "role_change_name_favor",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "skill_roulette_count",
+        "BinData": "\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "skill_roulette_way",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "chat_character",
+        "BinData": "P\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "chat_interval",
+        "BinData": "\u000f\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "chatbox_show",
+        "BinData": "x\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "chat_autounlock",
+        "BinData": "�Q\u0001\u0000"
+    },
+    {
+        "KeyName": "chat_show",
+        "BinData": "\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "chat_shield",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "player_name_limit",
+        "BinData": "\f\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "player_sign_limit",
+        "BinData": "(\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "drop_pickup_range",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "initial_male_icon",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "initial_female_icon",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "drop_item_pickup_range",
+        "BinData": " �\u0002\u0000"
+    },
+    {
+        "KeyName": "drop_pickup_in_bag_range",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "adsorption_acceleration",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "drop_bounce_coefficient",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "drop_friction",
+        "BinData": "\u0000e�\u001d"
+    },
+    {
+        "KeyName": "drop_fall_ground_speed",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "drop_lock_rotation_time",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "drop_chest_zaxis_offset",
+        "BinData": "Z\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "drop_born_radius",
+        "BinData": "\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "world_team_member",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "world_level_enter_diff",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "world_lobby_extract_count",
+        "BinData": "\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "apply_valid_time",
+        "BinData": "\u000f\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "world_lobby_separate_level",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "world_lobby_stranger_cd",
+        "BinData": ",\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "foundation_distance",
+        "BinData": "���\u0002"
+    },
+    {
+        "KeyName": "gacha_daily_total_limit_times",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "phantom_level_up_coin_cost",
+        "BinData": "�\u000f\u0000\u0000"
+    },
+    {
+        "KeyName": "phantom_exp_return_ratio",
+        "BinData": "L\u001d\u0000\u0000"
+    },
+    {
+        "KeyName": "trial_role_revive_buff_id",
+        "BinData": ">e�\u0002\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "match_member_count",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "match_confirm_time_out_seconds",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "match_fail_seconds",
+        "BinData": "X\u0002\u0000\u0000"
+    },
+    {
+        "KeyName": "ai_heartbeat_timeout",
+        "BinData": "\u0002\u0000\u0000\u0000�\u000b\u0000\u0000(#\u0000\u0000"
+    },
+    {
+        "KeyName": "ai_rtt_poor_count",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ai_switch_cd_for_hate",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "weather_refresh_time",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "infodisplay_use_item_cd",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "voice_delta_angle",
+        "BinData": "-\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "voice_check_radius",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "voice_check_interval",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "voice_check_offset",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "entity_max_flow_count",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "daily_report_limit",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "report_mail_id",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "report_max_length",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleQuest_DailyRefresh",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleQuest_MaxCount",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "max_cooking_count",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "excitation_state_buff_id",
+        "BinData": "�\u001d,\u0004"
+    },
+    {
+        "KeyName": "initial_phantom",
+        "BinData": "#\u0000\u0000\u00001,1001,1003|2,1001,1003|3,1001,1003"
+    },
+    {
+        "KeyName": "custom_mark_name",
+        "BinData": " \u0000\u0000\u0000CommonParam_200_custom_mark_name"
+    },
+    {
+        "KeyName": "energy_sort",
+        "BinData": "\u000b\u0000\u0000\u000010800:1,3:0"
+    },
+    {
+        "KeyName": "login_fail_params",
+        "BinData": "\u0007\u0000\u0000\u00003,3|6,6"
+    },
+    {
+        "KeyName": "interaction_icon_dialogue",
+        "BinData": "Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiPlot/Image/T_PlotIconDialogue_UI.T_PlotIconDialogue_UI"
+    },
+    {
+        "KeyName": "interaction_icon_shop",
+        "BinData": "I\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiPlot/Image/T_PlotIconShop_UI.T_PlotIconShop_UI"
+    },
+    {
+        "KeyName": "interaction_icon_other",
+        "BinData": "Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiPlot/Image/T_PlotIconLevelgeneral_UI.T_PlotIconLevelgeneral_UI"
+    },
+    {
+        "KeyName": "npcicon_socketname",
+        "BinData": "\b\u0000\u0000\u0000MarkCase"
+    },
+    {
+        "KeyName": "lantern_cat_tag_name",
+        "BinData": "\u001b\u0000\u0000\u0000物体.机关.状态.激活"
+    },
+    {
+        "KeyName": "check_gear_tag_name",
+        "BinData": "\u001b\u0000\u0000\u0000物体.机关.状态.激活"
+    },
+    {
+        "KeyName": "aoi_dibiao_entityTag",
+        "BinData": "\f\u0000\u0000\u0000DiBiaoVision"
+    },
+    {
+        "KeyName": "player_use_accountname",
+        "BinData": "\u0001"
+    },
+    {
+        "KeyName": "dev_sdk_loginserver_ip",
+        "BinData": "\u000e\u0000\u0000\u0000192.168.11.164"
+    },
+    {
+        "KeyName": "mainline_sdk_loginserver_ip",
+        "BinData": "\u000e\u0000\u0000\u0000192.168.12.131"
+    },
+    {
+        "KeyName": "player_male_headicon",
+        "BinData": "V\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiFunc/Image/Iconhead/T_IconHeadNanzhu_UI.T_IconHeadNanzhu_UI"
+    },
+    {
+        "KeyName": "player_female_headicon",
+        "BinData": "T\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiFunc/Image/Iconhead/T_IconHeadNvzhu_UI.T_IconHeadNvzhu_UI"
+    },
+    {
+        "KeyName": "target_gear_cycle_tag",
+        "BinData": "\u001e\u0000\u0000\u0000关卡.Common.靶机关.循环"
+    },
+    {
+        "KeyName": "target_gear_receive_tag",
+        "BinData": "\u001e\u0000\u0000\u0000关卡.Common.靶机关.接收"
+    },
+    {
+        "KeyName": "default_name_prefix",
+        "BinData": "\t\u0000\u0000\u0000漂泊者"
+    },
+    {
+        "KeyName": "treasurebox_reward_tag",
+        "BinData": "\u001a\u0000\u0000\u0000关卡.物资箱.已领取"
+    },
+    {
+        "KeyName": "treasurebox_death_tag",
+        "BinData": "\u0017\u0000\u0000\u0000关卡.物资箱.死亡"
+    },
+    {
+        "KeyName": "silent_tag_name",
+        "BinData": "\u001b\u0000\u0000\u0000关卡.Common.状态.静默"
+    },
+    {
+        "KeyName": "lock_tag_name",
+        "BinData": "\u001b\u0000\u0000\u0000关卡.Common.属性.锁定"
+    },
+    {
+        "KeyName": "active_tag_name",
+        "BinData": "\u001b\u0000\u0000\u0000关卡.Common.状态.激活"
+    },
+    {
+        "KeyName": "normal_tag_name",
+        "BinData": "\u001b\u0000\u0000\u0000关卡.Common.状态.常态"
+    },
+    {
+        "KeyName": "enable_server_ai",
+        "BinData": "\u0001"
+    },
+    {
+        "KeyName": "complete_tag_name",
+        "BinData": "\u001b\u0000\u0000\u0000关卡.Common.状态.完成"
+    },
+    {
+        "KeyName": "born_tag_name",
+        "BinData": "\u001b\u0000\u0000\u0000关卡.Common.状态.出生"
+    },
+    {
+        "KeyName": "destroy_tag_name",
+        "BinData": "\u001b\u0000\u0000\u0000关卡.Common.状态.销毁"
+    },
+    {
+        "KeyName": "nearby_tracking_icon_path",
+        "BinData": "X\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_CS_01_UI.T_IconMap_CS_01_UI"
+    },
+    {
+        "KeyName": "high_voltage_tag_name",
+        "BinData": "\u001b\u0000\u0000\u0000关卡.Common.状态.高压"
+    },
+    {
+        "KeyName": "low_voltage_tag_name",
+        "BinData": "\u001b\u0000\u0000\u0000关卡.Common.状态.低压"
+    },
+    {
+        "KeyName": "initial_role",
+        "BinData": "\u0002\u0000\u0000\u0000�\u0005\u0000\u0000�\u0005\u0000\u0000"
+    },
+    {
+        "KeyName": "initial_female_formation",
+        "BinData": "\u0001\u0000\u0000\u0000�\u0005\u0000\u0000"
+    },
+    {
+        "KeyName": "initial_male_formation",
+        "BinData": "\u0001\u0000\u0000\u0000�\u0005\u0000\u0000"
+    },
+    {
+        "KeyName": "role_vision_skill_bind",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "vision_skill_role_bind",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "use_buff_item_id_list",
+        "BinData": "\u0004\u0000\u0000\u0000-e�\u0002.e�\u0002/e�\u00020e�\u0002"
+    },
+    {
+        "KeyName": "area_quest_order_list",
+        "BinData": "\u000f\u0000\u0000\u0000\u0006�\u0001\u0000\b�\u0001\u0000\u000b�\u0001\u0000\u0014�\u0001\u0000\u001a�\u0001\u0000\u0007�\u0001\u0000\f�\u0001\u0000\n�\u0001\u0000 �\u0001\u0000\u001b�\u0001\u0000\u0005�\u0001\u0000\u0010�\u0001\u0000\t�\u0001\u0000\u0016�\u0001\u0000!�\u0001\u0000"
+    },
+    {
+        "KeyName": "guide_top_middle_offset",
+        "BinData": "\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000���"
+    },
+    {
+        "KeyName": "guide_right_middle_offset",
+        "BinData": "\u0002\u0000\u0000\u0000r�������"
+    },
+    {
+        "KeyName": "floor_flower_init_point",
+        "BinData": "\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0006\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "floor_flower_list",
+        "BinData": "\u0003\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "notice_tags",
+        "BinData": "\u0006\u0000\u0000\u0000%\u0000\u0000\u0000怪物.MB1Wuguanzhe00601.濒死触发(\u0000\u0000\u0000怪物.MB1Wuguanzhe00601.一阶段标记%\u0000\u0000\u0000怪物.MB1Wuguanzhe00601.第二阶段%\u0000\u0000\u0000怪物.MB1Wuguanzhe00601.第三阶段.\u0000\u0000\u0000怪物.MB1Wuguanzhe00601.三阶段拼刀教学*\u0000\u0000\u0000怪物.ML1LinrenMd00301.召唤第二阶段"
+    },
+    {
+        "KeyName": "notice_character_tags",
+        "BinData": "\u0006\u0000\u0000\u0000-\u0000\u0000\u0000角色.Common.技能通用标识.战斗幻象-\u0000\u0000\u0000角色.Common.技能通用标识.瞄准射击:\u0000\u0000\u0000角色.R2T1PlayerFemaleMd10011.无冠者战斗锁血触发 \u0000\u0000\u0000行为状态.动作状态.滑翔 \u0000\u0000\u0000行为状态.动作状态.跑步'\u0000\u0000\u0000角色.Common.技能通用标识.普攻"
+    },
+    {
+        "KeyName": "chat_lock",
+        "BinData": "\u0002\u0000\u0000\u0000\b\u0007\u0000\u0000\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "chat_refresh",
+        "BinData": "\u0002\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "scene_z_range",
+        "BinData": "\u0002\u0000\u0000\u0000 l��@B\u000f\u0000"
+    },
+    {
+        "KeyName": "world_owner_apply_cd",
+        "BinData": "\u0002\u0000\u0000\u0000\u0010\u000e\u0000\u0000�Q\u0001\u0000"
+    },
+    {
+        "KeyName": "forbid_online_quest_ids",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "item_type_history_concern",
+        "BinData": "\u0002\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "negative_money_type",
+        "BinData": "\u0005\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0004\u0000\u0000\u0000Q�\u0000\u0000R�\u0000\u0000"
+    },
+    {
+        "KeyName": "ComStateShowDistance",
+        "BinData": "�W\u0000\u0000"
+    },
+    {
+        "KeyName": "ComStateShowMaxDistance",
+        "BinData": "��\u0000"
+    },
+    {
+        "KeyName": "BossStateShowDistance",
+        "BinData": "�NZ\u0003"
+    },
+    {
+        "KeyName": "BossStateShowMaxDistance",
+        "BinData": "�NZ\u0003"
+    },
+    {
+        "KeyName": "Detail_Head_State_Range",
+        "BinData": "\u0010^_\u0000"
+    },
+    {
+        "KeyName": "Min_Scale",
+        "BinData": "p\u0017\u0000\u0000"
+    },
+    {
+        "KeyName": "Scale_Max_Distance",
+        "BinData": "\u0000�\t\u0000"
+    },
+    {
+        "KeyName": "ComHPAttenuateBufferSpeed",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "PlayerHPAttenuateBufferSpeed",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "BossHPAttenuateBufferSpeed",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "UiDistanceMin",
+        "BinData": "Њ��"
+    },
+    {
+        "KeyName": "UiDistanceMax",
+        "BinData": "0u\u0000\u0000"
+    },
+    {
+        "KeyName": "UiScaleMin",
+        "BinData": "x���"
+    },
+    {
+        "KeyName": "UiScaleMax",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "CommonBossLowHpPercent",
+        "BinData": "\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "CommonMonsterLowHpPercent",
+        "BinData": "\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "EliteMonsterLowHpPercent",
+        "BinData": "\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "LevelUpAnimationLength",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "HiddenLevelUpView",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "LevelUpViewCloseDelay",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "MaxExpCloseDelay",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "HiddenCalabashLevelUpView",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "BattleViewShopId",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "TimeCameraSettingName",
+        "BinData": "\b\u0004\u0000\u0000"
+    },
+    {
+        "KeyName": "TimeCameraBlendDataName",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "LowEndurancePercent",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "navigate_tolerance",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "ShowTimeDifferent",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ChatViewTimeDown",
+        "BinData": "��\u0001\u0000"
+    },
+    {
+        "KeyName": "ChatInputMaxNum",
+        "BinData": "<\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonsterCursorMaxCount",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonsterCursorMaxDistance",
+        "BinData": "��-\u0000"
+    },
+    {
+        "KeyName": "MonsterCursorMaxScale",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonsterCursorMinScale",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonsterCursorMaxScaleDistance",
+        "BinData": "��\u001e\u0000"
+    },
+    {
+        "KeyName": "MonsterCursorMinScaleDistance",
+        "BinData": "P�\u0000\u0000"
+    },
+    {
+        "KeyName": "MonsterCursorWidthToScreenPercent",
+        "BinData": "\u001e\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonsterCursorHeightToScreenPercent",
+        "BinData": "\u001e\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonsterCursorRefreshInterval",
+        "BinData": ",\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "PrimaryCurrency",
+        "BinData": "\u0004\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "SecondCurrency",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "GachaRecordActiveAlpha",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "GachaRecordNoActiveAlpha",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "MaxCurrencyLength",
+        "BinData": "\u000b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "LongPressInterval",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MaxTutorialTipCd",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "MaxLatestTutorial",
+        "BinData": "\u0007\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MaxWaitSuccessTime",
+        "BinData": "�\t\u0000\u0000"
+    },
+    {
+        "KeyName": "DailyTaskViewSettingName",
+        "BinData": "\b\u0004\u0000\u0000"
+    },
+    {
+        "KeyName": "DailyTaskViewBlendDataName",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "HeadStateScaleCurvePath",
+        "BinData": "b\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiFight/Curve/HeadStateScaleCurve/HeadStateScaleCurve.HeadStateScaleCurve"
+    },
+    {
+        "KeyName": "NPCHeadStateScaleCurvePath",
+        "BinData": "T\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiWorld/Curve/NPCHeadStateScaleCurve.NPCHeadStateScaleCurve"
+    },
+    {
+        "KeyName": "highlight_when_mouse_moveout",
+        "BinData": "\u0001"
+    },
+    {
+        "KeyName": "mobile_highlight",
+        "BinData": "\u0001"
+    },
+    {
+        "KeyName": "pc_press",
+        "BinData": "\u0000"
+    },
+    {
+        "KeyName": "TutorialSearchColor",
+        "BinData": "\u0007\u0000\u0000\u0000#1E90FF"
+    },
+    {
+        "KeyName": "OpenGraphicTextMix",
+        "BinData": "\u0000"
+    },
+    {
+        "KeyName": "NoticeTitle",
+        "BinData": "\u001b\u0000\u0000\u0000CommonParam_200_NoticeTitle"
+    },
+    {
+        "KeyName": "NoticeUrl",
+        "BinData": ";\u0000\u0000\u0000https://wutheringwaves.kurogame.com/p/agreement_public.html"
+    },
+    {
+        "KeyName": "FeedbackTitle",
+        "BinData": "\u001d\u0000\u0000\u0000CommonParam_200_FeedbackTitle"
+    },
+    {
+        "KeyName": "FeedbackUrl",
+        "BinData": "A\u0000\u0000\u0000https://web-survey.kurogame.com/feedback/questionnaire/pid0TXVZvB"
+    },
+    {
+        "KeyName": "HardnessPercentStage1",
+        "BinData": "\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "HardnessPercentStage2",
+        "BinData": "\u0002\u0000\u0000\u00002\u0000\u0000\u0000\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "HardnessPercentStage3",
+        "BinData": "\u0002\u0000\u0000\u0000P\u0000\u0000\u0000\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "HardnessPercentStage4",
+        "BinData": "\u0002\u0000\u0000\u0000d\u0000\u0000\u0000\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulatableItemDisconnectDistance",
+        "BinData": "�\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulatableItemSearchRange",
+        "BinData": "`\t\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulateDontUseLineDistance",
+        "BinData": "�\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulatePrecastTime",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulatableItemPushFXAsset",
+        "BinData": "]\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Control_Obj_Push.DA_Fx_Group_Control_Obj_Push"
+    },
+    {
+        "KeyName": "ManipulatePrecastLineTable",
+        "BinData": ">\u0000\u0000\u0000/Game/Aki/Data/Manipulate/Precast/DT_Manipulate_Precast.uasset"
+    },
+    {
+        "KeyName": "ManipulatePrecastLine_L",
+        "BinData": "\u0019\u0000\u0000\u0000Manipulate_Precast_Line_L"
+    },
+    {
+        "KeyName": "ManipulatePrecastLine_R",
+        "BinData": "\u0019\u0000\u0000\u0000Manipulate_Precast_Line_R"
+    },
+    {
+        "KeyName": "ManipulatePrecastLine_F",
+        "BinData": "\u0019\u0000\u0000\u0000Manipulate_Precast_Line_F"
+    },
+    {
+        "KeyName": "ManipulatePrecastLine_B",
+        "BinData": "\u0019\u0000\u0000\u0000Manipulate_Precast_Line_B"
+    },
+    {
+        "KeyName": "ManipulateItemLineTable",
+        "BinData": "9\u0000\u0000\u0000/Gamet/Aki/Data/Manipulate/Item/DT_Manipulate_Item.uasset"
+    },
+    {
+        "KeyName": "ManipulateItemLine_Common",
+        "BinData": "\u0016\u0000\u0000\u0000Manipulate_Item_Common"
+    },
+    {
+        "KeyName": "ManipulateItemAppearEffect",
+        "BinData": "a\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Control_Obj_Appear.DA_Fx_Group_Control_Obj_Appear"
+    },
+    {
+        "KeyName": "ManipulateItemDisappearEffect",
+        "BinData": "g\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Control_Obj_Disappear.DA_Fx_Group_Control_Obj_Disappear"
+    },
+    {
+        "KeyName": "ManipulatebleItemSearchAngle",
+        "BinData": "\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000\n\u0000\u0000\u0000\u001e\u0000\u0000\u0000<\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulatebleItemSearchAngleWeight",
+        "BinData": "\u0004\u0000\u0000\u0000�\u0000\u0000\u0000d\u0000\u0000\u0000\n\u0000\u0000\u0000\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonthCardDailyItemId",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonthCardDailyItemCount",
+        "BinData": "Z\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonthCardRemindId",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonthCardRemindCd",
+        "BinData": "��!\u0000"
+    },
+    {
+        "KeyName": "MonthCardRemindDays",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonthCardItemId",
+        "BinData": "[�\u0000\u0000"
+    },
+    {
+        "KeyName": "MonthCardMaxDays",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "tower_lock_role_num",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonsterEnergyBulletId",
+        "BinData": "�9z\u0012\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "BattlePassExp",
+        "BinData": "\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "max_guide_register_count",
+        "BinData": "\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "max_guide_pending_count",
+        "BinData": "\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "tower_inherit_property",
+        "BinData": "\t\u0000\u0000\u0000\u0003\u0000\u0000\u0000<\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "tower_init_buff",
+        "BinData": "\u0003\u0000\u0000\u0000�~\u0014%\u0000\u0000\u0000\u0000�~\u0014%\u0000\u0000\u0000\u0000�~\u0014%\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "player_male_stand",
+        "BinData": "N\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiInfluence/Image/T_InfluenceNan_UI.T_InfluenceNan_UI"
+    },
+    {
+        "KeyName": "player_female_stand",
+        "BinData": "L\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiInfluence/Image/T_InfluenceNv_UI.T_InfluenceNv_UI"
+    },
+    {
+        "KeyName": "scan_max_distance",
+        "BinData": "\u001e\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "scan_interaction_effect_max_distance",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "monstercapture_aliveduration",
+        "BinData": "\u000e\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "interaction_icon_os",
+        "BinData": "G\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiPlot/Image/T_PlotIconXin_UI.T_PlotIconXin_UI"
+    },
+    {
+        "KeyName": "interaction_icon_weapon",
+        "BinData": "Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiPlot/Image/T_PlotIconDialogue_UI.T_PlotIconDialogue_UI"
+    },
+    {
+        "KeyName": "TempHeadStateHideTime",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "AdvancedWithActive",
+        "BinData": ",\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "AdvancedWithoutActive",
+        "BinData": "-\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "PrimaryBattlePassShopId",
+        "BinData": "+\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "qianxing_notify_interval",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "trackinfo_show_mini",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "scan_interaction_effect_duration",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "scan_detect_concealed_distance",
+        "BinData": "\u0007\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "nearby_drop_distance",
+        "BinData": "@\r\u0003\u0000"
+    },
+    {
+        "KeyName": "BattlePassSettleMail",
+        "BinData": "\u0007\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MinDamageOffsetScale",
+        "BinData": "\u001e\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MaxDamageOffsetScale",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MinDamageOffsetDistance",
+        "BinData": "@B\u000f\u0000"
+    },
+    {
+        "KeyName": "MaxDamageOffsetDistance",
+        "BinData": "\u0000�5"
+    },
+    {
+        "KeyName": "quest_update_tips_duration",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "DurabilityHeadStateScaleCurvePath",
+        "BinData": "v\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiFight/Curve/HeadStateScaleCurve/DurabilityHeadStateScaleCurve.DurabilityHeadStateScaleCurve"
+    },
+    {
+        "KeyName": "elevator_end_tag",
+        "BinData": "\u0014\u0000\u0000\u0000关卡.电梯.停靠"
+    },
+    {
+        "KeyName": "elevator_forward_tag",
+        "BinData": "\u0014\u0000\u0000\u0000关卡.电梯.上升"
+    },
+    {
+        "KeyName": "elevator_reverse_tag",
+        "BinData": "\u0014\u0000\u0000\u0000关卡.电梯.下降"
+    },
+    {
+        "KeyName": "dailyquest_trackinfo_mini",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "CloseAdviceViewEntityDistance",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceTemplateId",
+        "BinData": "Ɵ�\u0000"
+    },
+    {
+        "KeyName": "AdviceVoteLimit",
+        "BinData": "�\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceCreateLimit",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "default_area_id",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ShowSneakMask",
+        "BinData": "\u0000"
+    },
+    {
+        "KeyName": "AdviceInteractDefaultModel",
+        "BinData": "\u0000�\t\u0000"
+    },
+    {
+        "KeyName": "tower_current_role_num",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ready_tag_name",
+        "BinData": "\u001e\u0000\u0000\u0000关卡.Common.状态.准备中"
+    },
+    {
+        "KeyName": "interact_input_cache_time",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceHighNum",
+        "BinData": "\u000f'\u0000\u0000"
+    },
+    {
+        "KeyName": "CameraSourceMaxYaw",
+        "BinData": "U\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "CameraSourceMinYaw",
+        "BinData": "����"
+    },
+    {
+        "KeyName": "CameraSourceMaxPitch",
+        "BinData": "U\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "CameraSourceMinPitch",
+        "BinData": "����"
+    },
+    {
+        "KeyName": "HighDangerLevelOffset",
+        "BinData": "����"
+    },
+    {
+        "KeyName": "MidDangerLevelOffset",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleTrainingDegreeGreat",
+        "BinData": "4!\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleTrainingDegreeGood",
+        "BinData": "X\u001b\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleTrainingDegreeNormal",
+        "BinData": "p\u0017\u0000\u0000"
+    },
+    {
+        "KeyName": "HighDangerColor",
+        "BinData": "\u0006\u0000\u0000\u0000e2524c"
+    },
+    {
+        "KeyName": "MidDangerColor",
+        "BinData": "\u0006\u0000\u0000\u0000dab244"
+    },
+    {
+        "KeyName": "ControlCameraRate",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "PhotoDeltaHideDelay",
+        "BinData": "�\r\u0000\u0000"
+    },
+    {
+        "KeyName": "ScreenShotSavePath",
+        "BinData": "\u0011\u0000\u0000\u0000Saved/ScreenShot/"
+    },
+    {
+        "KeyName": "AdviceCreateUnlockAddItem",
+        "BinData": "1*\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulateItemPopupSpeed",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulateItemPopupAngle",
+        "BinData": "����"
+    },
+    {
+        "KeyName": "ManipulateItemPopupPlayRate",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "HitDelayTime",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "HitRefreshTime",
+        "BinData": "\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "HitBufferDisappearTime",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "HitEffectDuration",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ThreatLevel1",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ThreatLevel3",
+        "BinData": "����"
+    },
+    {
+        "KeyName": "ThreatLevelColor1",
+        "BinData": "\u0006\u0000\u0000\u0000e2524c"
+    },
+    {
+        "KeyName": "ThreatLevelColor2",
+        "BinData": "\u0006\u0000\u0000\u0000dab244"
+    },
+    {
+        "KeyName": "ThreatLevelColor3",
+        "BinData": "\b\u0000\u0000\u0000FFFFFFFF"
+    },
+    {
+        "KeyName": "MonsterBarColor0",
+        "BinData": "\b\u0000\u0000\u0000939CA1FF"
+    },
+    {
+        "KeyName": "MonsterBarColor1",
+        "BinData": "\b\u0000\u0000\u00001891E7FF"
+    },
+    {
+        "KeyName": "MonsterBarColor2",
+        "BinData": "\b\u0000\u0000\u0000DE713FFF"
+    },
+    {
+        "KeyName": "MonsterBarColor3",
+        "BinData": "\b\u0000\u0000\u00009656D8FF"
+    },
+    {
+        "KeyName": "MonsterBarColor4",
+        "BinData": "\b\u0000\u0000\u00002AC197FF"
+    },
+    {
+        "KeyName": "MonsterBarColor5",
+        "BinData": "\b\u0000\u0000\u0000D4BF5FFF"
+    },
+    {
+        "KeyName": "MonsterBarColor6",
+        "BinData": "\b\u0000\u0000\u00007e1f57FF"
+    },
+    {
+        "KeyName": "GuideFocusTextOffsetY",
+        "BinData": "X\u0002\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceShowMax",
+        "BinData": "\u000f'\u0000\u0000"
+    },
+    {
+        "KeyName": "SingleStrengthValue",
+        "BinData": "�\t\u0000\u0000"
+    },
+    {
+        "KeyName": "SingleTemporaryStrengthValue",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceDefaultShowSetting",
+        "BinData": "\u0001"
+    },
+    {
+        "KeyName": "AdviceVoteDownMaxValue",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceVoteUpMaxValue",
+        "BinData": "0u\u0000\u0000"
+    },
+    {
+        "KeyName": "MaxNavigateToGuideEffectDist",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "MinNavigateToGuideEffectDist",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "GuideEffectRaiseDist",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "LiufangzheWeaponDiscardRate",
+        "BinData": "�\u0005\u0000\u0000"
+    },
+    {
+        "KeyName": "be_controlled_tag_name",
+        "BinData": "\u001e\u0000\u0000\u0000关卡.Common.属性.被控中"
+    },
+    {
+        "KeyName": "LiufangzheWeaponDiscardMaps",
+        "BinData": "\u0001\u0000\u0000\u0000\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ConcertoChangeEffectDelay",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "MutiWorldMonsterRatio1",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MutiWorldMonsterRatio2",
+        "BinData": "\u000b\u0000\u0000\u0000\u0002\u0000\u0000\u0000�:\u0000\u0000\u0003\u0000\u0000\u0000�:\u0000\u0000N\u0000\u0000\u0000�:\u0000\u0000O\u0000\u0000\u0000�:\u0000\u0000P\u0000\u0000\u0000�:\u0000\u0000\u0000\u0000\u0000�:\u0000\u0000�\u0000\u0000\u0000�:\u0000\u0000�\u0000\u0000\u0000�:\u0000\u0000T\u0000\u0000\u0000 N\u0000\u0000U\u0000\u0000\u0000 N\u0000\u0000V\u0000\u0000\u0000 N\u0000\u0000"
+    },
+    {
+        "KeyName": "MutiWorldMonsterRatio3",
+        "BinData": "\u000b\u0000\u0000\u0000\u0002\u0000\u0000\u0000 N\u0000\u0000\u0003\u0000\u0000\u0000 N\u0000\u0000N\u0000\u0000\u0000 N\u0000\u0000O\u0000\u0000\u0000 N\u0000\u0000P\u0000\u0000\u0000 N\u0000\u0000\u0000\u0000\u0000 N\u0000\u0000�\u0000\u0000\u0000 N\u0000\u0000�\u0000\u0000\u0000 N\u0000\u0000T\u0000\u0000\u00000u\u0000\u0000U\u0000\u0000\u00000u\u0000\u0000V\u0000\u0000\u00000u\u0000\u0000"
+    },
+    {
+        "KeyName": "AtkScoreRatio",
+        "BinData": "�6\u0000\u0000"
+    },
+    {
+        "KeyName": "SkillLevelScoreRatio",
+        "BinData": "W\u0004\u0000\u0000"
+    },
+    {
+        "KeyName": "ResonanceScoreRatio",
+        "BinData": "�\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "scene_loading_time_out",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "placehold_tag_name",
+        "BinData": "\u001a\u0000\u0000\u0000关卡.时间回放.占位"
+    },
+    {
+        "KeyName": "LoadingViewCameraAnimationLength",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "LoadingViewManualFocusDistance",
+        "BinData": "P�\u0000\u0000"
+    },
+    {
+        "KeyName": "LoadingViewAperture",
+        "BinData": "`m\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulatableItemMass",
+        "BinData": "����"
+    },
+    {
+        "KeyName": "ManipulatableItemLinearDamping",
+        "BinData": "�\u000f\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulatableItemAngularDamping",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulatableItemLineBPAssetPath",
+        "BinData": "K\u0000\u0000\u0000/Game/Aki/Effect/BluePrint/BP_FX_Common/BP_Fx_Control_Obj.BP_Fx_Control_Obj"
+    },
+    {
+        "KeyName": "ManipulatableItemHandFXAssetPath",
+        "BinData": "]\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Control_Obj_Hand.DA_Fx_Group_Control_Obj_Hand"
+    },
+    {
+        "KeyName": "SingleTimeTowerMapPreviewRewards",
+        "BinData": "�\f\u0000\u0000"
+    },
+    {
+        "KeyName": "CycleTowerMapPreviewRewards",
+        "BinData": "�\f\u0000\u0000"
+    },
+    {
+        "KeyName": "RecentlyTeamLimit",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "multi_game_hide_time",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "check_multi_game_hide_diff",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RecentlyTeamValidTime",
+        "BinData": "��\u0013\u0000"
+    },
+    {
+        "KeyName": "landing_damage_min_height",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ElementPowerMax",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "DailyTaskUnlockCond",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MinTouchMoveDifference",
+        "BinData": "Њ��"
+    },
+    {
+        "KeyName": "MaxTouchMoveDifference",
+        "BinData": "0u\u0000\u0000"
+    },
+    {
+        "KeyName": "CommonRotationRate",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "ArmRotationRate",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "chair_state_type",
+        "BinData": "\f\u0000\u0000\u0000场景交互"
+    },
+    {
+        "KeyName": "chair_tag_name",
+        "BinData": "*\u0000\u0000\u0000关卡.Common.状态.场景物件交互中"
+    },
+    {
+        "KeyName": "BoPianId",
+        "BinData": "*��\u0002"
+    },
+    {
+        "KeyName": "TowerSeaonRewardLock",
+        "BinData": "I\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonBtnIcon5.SP_CommonBtnIcon5"
+    },
+    {
+        "KeyName": "TowerSeaonRewardUnLock",
+        "BinData": "K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonBtnIcon10.SP_CommonBtnIcon10"
+    },
+    {
+        "KeyName": "ProbabilityRefreshWeightAdd",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "mail_question_key",
+        "BinData": "$\u0000\u0000\u000034d7eca5-96e9-46d8-b475-e687d9ef9a0d"
+    },
+    {
+        "KeyName": "drop_item_show_time",
+        "BinData": "�:\u0000\u0000"
+    },
+    {
+        "KeyName": "MaxTouchMoveValue",
+        "BinData": "P�\u0000\u0000"
+    },
+    {
+        "KeyName": "MinTouchMoveValue",
+        "BinData": "�<��"
+    },
+    {
+        "KeyName": "SkillButtonRotationRate",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "PowerId",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "DailyTaskNpcMarkId",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "PlayerHeadStateHpColor",
+        "BinData": "\u0006\u0000\u0000\u000036cd33"
+    },
+    {
+        "KeyName": "MonsterHeadStateHpColor",
+        "BinData": "\u0006\u0000\u0000\u0000cf4b3c"
+    },
+    {
+        "KeyName": "CommonFriendHeadStateHpColor",
+        "BinData": "\u0006\u0000\u0000\u000036cd33"
+    },
+    {
+        "KeyName": "LiuFangZheEnemyHeadStateHpColor",
+        "BinData": "\b\u0000\u0000\u0000E15547FF"
+    },
+    {
+        "KeyName": "LiuFangZheFriendHeadStateHpColor",
+        "BinData": "\u0006\u0000\u0000\u000036cd33"
+    },
+    {
+        "KeyName": "AttackAnimyHeadStateHpColor",
+        "BinData": "\u0006\u0000\u0000\u000036cd33"
+    },
+    {
+        "KeyName": "UnAttackAnimyHeadStateHpColor",
+        "BinData": "\u0006\u0000\u0000\u0000ffd926"
+    },
+    {
+        "KeyName": "YawOffset",
+        "BinData": "����"
+    },
+    {
+        "KeyName": "PitchOffset",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RollOffset",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RotationTime",
+        "BinData": "X\u0002\u0000\u0000"
+    },
+    {
+        "KeyName": "DoubleTouchTime",
+        "BinData": ",\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleElementSwitchDelayTime",
+        "BinData": "�\r\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleGenderSwitchDelayTime",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleElementTransferFunctionId",
+        "BinData": "D'\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceShowModel",
+        "BinData": "�\u0015\f\u0000"
+    },
+    {
+        "KeyName": "AdviceCannotPutDistance",
+        "BinData": ",\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceIgnoreArea",
+        "BinData": "\u0001\u0000\u0000\u0000�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "AdventureTargetCond",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MonsterDetectCond",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "SilentAreaDetectCond",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "DungeonDetectCond",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MutiWorldDamageRatio2",
+        "BinData": "�#\u0000\u0000"
+    },
+    {
+        "KeyName": "MutiWorldDamageRatio3",
+        "BinData": "4!\u0000\u0000"
+    },
+    {
+        "KeyName": "MutiWorldToughRatio2",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "MutiWorldToughRatio3",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "MutiWorldHardnessRageRatio2",
+        "BinData": "\u0003\u0000\u0000\u0000�\u0013\u0000\u0000�\u0013\u0000\u0000�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "MutiWorldHardnessRageRatio3",
+        "BinData": "\u0003\u0000\u0000\u0000�\u000b\u0000\u0000�\u000b\u0000\u0000�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "ControlScaleRate",
+        "BinData": ",\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "HardnessRageLevelRatio",
+        "BinData": "\u0003\u0000\u0000\u0000��\u0001\u0000�\u0001\u0000\u0000�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "ExploreProgressInstId",
+        "BinData": "\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "role_show_list_max_count",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "card_show_list_max_count",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "detection_revive_time",
+        "BinData": "\b\u0000\u0000\u000004:00:00"
+    },
+    {
+        "KeyName": "map_range",
+        "BinData": "\u0006\u0000\u0000\u0000\u0000|(�\u0000|(�\u0000|(�\u0000��\u0017\u0000��\u0017\u0000��\u0017"
+    },
+    {
+        "KeyName": "default_background_card",
+        "BinData": "`��\u0004"
+    },
+    {
+        "KeyName": "ParkourTimeScore",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ActionGetItemAlertCount",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "landing_damage_args_role",
+        "BinData": "\u0004\u0000\u0000\u0000�\u000b\u0000\u0000�\u000f\u0000\u0000�*\u0000\u0000�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "landing_damage_args_monster",
+        "BinData": "\u0004\u0000\u0000\u0000 \u0003\u0000\u0000 N\u0000\u0000��-\u0000\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "normal_lastrtt_weight",
+        "BinData": "(#\u0000\u0000"
+    },
+    {
+        "KeyName": "battle_lastrtt_weight",
+        "BinData": "(#\u0000\u0000"
+    },
+    {
+        "KeyName": "normal_maxrtt_value",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "battle_maxrtt_value",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "extreme_maxrtt_value",
+        "BinData": "|\u0015\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulateAimVisibleTags",
+        "BinData": "F\u0000\u0000\u0000角色.Common.探索技能.新版控物.战斗控物通用瞄准镜头"
+    },
+    {
+        "KeyName": "GuideTutorialDropId",
+        "BinData": "��\u0001\u0000"
+    },
+    {
+        "KeyName": "QuestFinishAnimDelayTime",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "HitLargePercent",
+        "BinData": "�\u0005\u0000\u0000"
+    },
+    {
+        "KeyName": "AutoLongPressTime",
+        "BinData": "�\u0002\u0000\u0000"
+    },
+    {
+        "KeyName": "ActiveInteractGuideCount",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ShowLongPressTime",
+        "BinData": ",\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceModelMat",
+        "BinData": "P\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_SuYan_LiuYan.DA_Fx_SuYan_LiuYan"
+    },
+    {
+        "KeyName": "netstate_push_interval",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "netstate_timeout_time",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "QuestMarkTrackStayTime",
+        "BinData": "X\u0002\u0000\u0000"
+    },
+    {
+        "KeyName": "netstate_great",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "netstate_good",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "netstate_weak",
+        "BinData": ",\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "BuffItemMaxUseCount",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "rogue_buff_group_count",
+        "BinData": "\n\u0000\u0000\u0000P\u0000\u0000\u0000K\u0000\u0000\u0000F\u0000\u0000\u0000A\u0000\u0000\u0000<\u0000\u0000\u00007\u0000\u0000\u00002\u0000\u0000\u0000-\u0000\u0000\u0000(\u0000\u0000\u0000#\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "HighlightColor",
+        "BinData": "\u0006\u0000\u0000\u0000ffd12f"
+    },
+    {
+        "KeyName": "PhantomTotalCost",
+        "BinData": "\f\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleAttributeDisplay6",
+        "BinData": "\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0007\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleAttributeDisplay3",
+        "BinData": "\u0003\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0007\u0000\u0000\u0000\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "Move_Status_GapValue_GamePad",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "enter_inst_offset",
+        "BinData": "\u0004\u0000\u0000\u0000j��������\u0000\u0000\u0000����"
+    },
+    {
+        "KeyName": "HighlightColorCommon",
+        "BinData": "\u0006\u0000\u0000\u00008c7e51"
+    },
+    {
+        "KeyName": "PhantomSlotUnlockLevel",
+        "BinData": "\u0003\u0000\u0000\u0000\n\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "DoubleInstanceRewardCount",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "EnableRoleUnlockPhantomExp",
+        "BinData": "\u0000"
+    },
+    {
+        "KeyName": "SettingMaxCount",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "SettingIntArrayMaxCount",
+        "BinData": "\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionMainViewShowAttribute",
+        "BinData": "\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0007\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "panel_interval_time",
+        "BinData": ",\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "hulu_rotate_time",
+        "BinData": " N\u0000\u0000"
+    },
+    {
+        "KeyName": "is_panel_cd_open",
+        "BinData": "\u0001"
+    },
+    {
+        "KeyName": "LivenessTaskCount",
+        "BinData": "\u0006\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "CommunicateViewCloseTime",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "LivenessItemId",
+        "BinData": "\t\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "WeaponBreachChangeDelay",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "GatherActivityGuideTask",
+        "BinData": "��H\b"
+    },
+    {
+        "KeyName": "InitialCameraPitch",
+        "BinData": "����"
+    },
+    {
+        "KeyName": "UiRoleRotateYawSensitivity",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "UiRoleRotateMinFov",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "UiRoleRotateMaxFov",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionLockSprite",
+        "BinData": "I\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonBtnIcon5.SP_CommonBtnIcon5"
+    },
+    {
+        "KeyName": "VisionUnlockSprite",
+        "BinData": "I\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonBtnIcon6.SP_CommonBtnIcon6"
+    },
+    {
+        "KeyName": "UiExploreCanDragLimitTime",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "UiExploreRouletteLongPressOpenTime",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "SignalDecodeFailStopTime",
+        "BinData": "@\u001f\u0000\u0000"
+    },
+    {
+        "KeyName": "SignalDecodeSuccessRange",
+        "BinData": " �\u0007\u0000"
+    },
+    {
+        "KeyName": "VisionMainViewExtraAttribute",
+        "BinData": "\u0012\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0007\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000#\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "SubmitLevelUpSequence",
+        "BinData": "E\u0000\u0000\u0000/Game/Aki/Sequence/Main_Seq/Function_Seq/GuWuJiaoFu/Guwu_All.Guwu_All"
+    },
+    {
+        "KeyName": "VisionHighQuality",
+        "BinData": "\u0004\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionHighRare",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionHighLevel",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MatControllerDAPath",
+        "BinData": "l\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_QuanXiTouYing.DA_Fx_ActorItem_QuanXiTouYing"
+    },
+    {
+        "KeyName": "ComposeEnterStateId",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ComposeEnterFlowId",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ComposeSuccessStateId",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ComposeSuccessFlowId",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ComposeFailStateId",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ComposeFailFlowId",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ForgingEnterStateId",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ForgingEnterFlowId",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ForgingSuccessStateId",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ForgingSuccessFlowId",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ForgingFailStateId",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ForgingFailFlowId",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ComposeEnterFlowListName",
+        "BinData": "\u0010\u0000\u0000\u0000剧情_系统NPC"
+    },
+    {
+        "KeyName": "ComposeSuccessFlowListName",
+        "BinData": "\u0010\u0000\u0000\u0000剧情_系统NPC"
+    },
+    {
+        "KeyName": "ComposeFailFlowListName",
+        "BinData": "\u0010\u0000\u0000\u0000剧情_系统NPC"
+    },
+    {
+        "KeyName": "ForgingEnterFlowListName",
+        "BinData": "\u0010\u0000\u0000\u0000剧情_系统NPC"
+    },
+    {
+        "KeyName": "ForgingSuccessFlowListName",
+        "BinData": "\u0010\u0000\u0000\u0000剧情_系统NPC"
+    },
+    {
+        "KeyName": "ForgingFailFlowListName",
+        "BinData": "\u0010\u0000\u0000\u0000剧情_系统NPC"
+    },
+    {
+        "KeyName": "BattlePassSettleMailMaxTime",
+        "BinData": "\u001e\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionFilterSpriteOwn",
+        "BinData": "Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Jiguan_UI.T_IconTips_Jiguan_UI"
+    },
+    {
+        "KeyName": "VisionFilterSpriteNotOwn",
+        "BinData": "T\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon01_UI.T_AdviceIcon01_UI"
+    },
+    {
+        "KeyName": "VisionFilterSpriteEquipped",
+        "BinData": "Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyE_UI.T_IconPcBtn_KeyE_UI"
+    },
+    {
+        "KeyName": "VisionFilterSpriteNotEquipped",
+        "BinData": "Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyX_UI.T_IconPcBtn_KeyX_UI"
+    },
+    {
+        "KeyName": "MaxForgingCount",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionScrollerLongPressTime",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionScrollerMoveDistance",
+        "BinData": "\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionScrollerOffsetX",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionScrollerOffsetY",
+        "BinData": "@\r\u0003\u0000"
+    },
+    {
+        "KeyName": "VisionScrollerOffsetXDir",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionScrollerOffsetYDir",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "TrialRoleReviveHp",
+        "BinData": "�\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "TowerRoleTotalCost",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "TowerFormationRoleCount",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionDragAnimationTime",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionDragCurve",
+        "BinData": "[\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/LevelSequence/RoleVision/Drag/Ani_VisionDrag.Ani_VisionDrag"
+    },
+    {
+        "KeyName": "TowerRecordCount",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "TowerRecommendCalLimit",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "TowerRecommendTeamCount",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "AutoAttachVelocityTime",
+        "BinData": "��\u001e\u0000"
+    },
+    {
+        "KeyName": "AutoAttachInertiaTime",
+        "BinData": "��\u001e\u0000"
+    },
+    {
+        "KeyName": "TowerSeasonPreCheckDay",
+        "BinData": "*\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionBeforeScrollerLongPressTime",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleElementPreviewEffectCase",
+        "BinData": "\u000e\u0000\u0000\u0000RoleEffectCase"
+    },
+    {
+        "KeyName": "ItemGridCoolDownSecond",
+        "BinData": ",\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "ItemGridNameMaxLength",
+        "BinData": "\u0006\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "NetGood",
+        "BinData": "I\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonSignal01.SP_CommonSignal01"
+    },
+    {
+        "KeyName": "NetMiddle",
+        "BinData": "I\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonSignal02.SP_CommonSignal02"
+    },
+    {
+        "KeyName": "NetBad",
+        "BinData": "I\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonSignal03.SP_CommonSignal03"
+    },
+    {
+        "KeyName": "NetGoodMobile",
+        "BinData": "E\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonWifi01.SP_CommonWifi01"
+    },
+    {
+        "KeyName": "NetMiddleMobile",
+        "BinData": "E\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonWifi02.SP_CommonWifi02"
+    },
+    {
+        "KeyName": "NetBadMobile",
+        "BinData": "E\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonWifi03.SP_CommonWifi03"
+    },
+    {
+        "KeyName": "ElementChangePreviewEffectOffset",
+        "BinData": "\u0003\u0000\u0000\u0000T\u0011���_��|�\u0000\u0000"
+    },
+    {
+        "KeyName": "CatapultAnimAngle",
+        "BinData": "�\u001a\u0006\u0000"
+    },
+    {
+        "KeyName": "RogueOptionMaxCount",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RogueRoleBuffMaxCount",
+        "BinData": "\u0004\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RougeSpecialBuff1",
+        "BinData": "\u0001(.��\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RougeSpecialBuff2",
+        "BinData": "\n(.��\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "GmViewPath",
+        "BinData": "8\u0000\u0000\u0000/Game/NotInFinalPackage/UI/GmOrder_Prefab.GmOrder_Prefab"
+    },
+    {
+        "KeyName": "NewMailGap",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "PingUnChangeValue",
+        "BinData": "\u001e\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ParkourPointScore",
+        "BinData": "\u0002\u0000\u0000\u0000\t\u0000\u0000\u0000smallcoin\u0014\u0000\u0000\u0000\u0007\u0000\u0000\u0000bigcoin2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "DodgeJoystickSlideMinTime",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "DodgeMinLength",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulatableItemLineNiagaraSystemAssetPath",
+        "BinData": "P\u0000\u0000\u0000/Game/Aki/Effect/Niagara/NI_Common/NS_Fx_Control_Obj_Beam.NS_Fx_Control_Obj_Beam"
+    },
+    {
+        "KeyName": "AdviceCellDensitySize",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceCellDensityNum",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceMinDistance",
+        "BinData": " N\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceCellRandomNum",
+        "BinData": "\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleLevelUpSuccessDelayTime",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleBreachSuccessDelayTime",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "WeaponLevelUpSuccessDelayTime",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ShopDiscountLabel_1",
+        "BinData": "G\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiShop/Atlas/SP_ShopFontLabel.SP_ShopFontLabel"
+    },
+    {
+        "KeyName": "ShopDiscountLabel_2",
+        "BinData": "G\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiShop/Atlas/SP_ShopFontLabel.SP_ShopFontLabel"
+    },
+    {
+        "KeyName": "ShopDiscountLabel_3",
+        "BinData": "G\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiShop/Atlas/SP_ShopFontLabel.SP_ShopFontLabel"
+    },
+    {
+        "KeyName": "MonthCardPayItemId",
+        "BinData": "*\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ResetToBattleViewCount",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ElementFuncBuffIds",
+        "BinData": "\u0006\u0000\u0000\u0000�\b�A�\b�A�\b�A�\b�A�\b�A�\b�A"
+    },
+    {
+        "KeyName": "RoguelikeRoomFloatTips_NoHeadIcon",
+        "BinData": "G\u0000\u0000\u0000/Game/Aki/UI/UIEditor/UiTips/Atlas/、SP_RogueBossIcon.SP_RogueBossIcon"
+    },
+    {
+        "KeyName": "MonthCardRewardId",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "MainlandCurrencyChar",
+        "BinData": "\u0002\u0000\u0000\u0000¥"
+    },
+    {
+        "KeyName": "GlobalCurrencyChar",
+        "BinData": "\u0001\u0000\u0000\u0000$"
+    },
+    {
+        "KeyName": "battle_heartbeat_interval_ms",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "battle_heartbeat_timeout_ms",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "battle_heartbeat_timeout_reconnect",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "normal_heartbeat_interval_ms",
+        "BinData": "�\f\u0000\u0000"
+    },
+    {
+        "KeyName": "normal_heartbeat_timeout_ms",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "normal_heartbeat_timeout_reconnect",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "reconnect_show_mask_timeout_ms",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "reconnect_count_per_try",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "max_try_reconnect_count",
+        "BinData": "\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "reconnect_channel_close_seconds",
+        "BinData": "<\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "HeadStateOutMonsterHeight",
+        "BinData": "�%&\u0000"
+    },
+    {
+        "KeyName": "HeadStateOutTopMargin",
+        "BinData": "&\u0002\u0000\u0000"
+    },
+    {
+        "KeyName": "HeadStateOutHorizontalMargin",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "HitLargeBufferPercent",
+        "BinData": "�\u0005\u0000\u0000"
+    },
+    {
+        "KeyName": "roulette_item_pos",
+        "BinData": "\u0007\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "EnvironmentPropertyInfoPath",
+        "BinData": "Q\u0000\u0000\u0000/Game/Aki/Data/Fight/UI/DT_UiEnvironmentPropertyInfo.DT_UiEnvironmentPropertyInfo"
+    },
+    {
+        "KeyName": "RoguelikeSettle_S",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoguelikeSettle_A",
+        "BinData": "P\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoguelikeSettle_B",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoguelikeSettle_C",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoguelikeSettle_S_Sprite",
+        "BinData": "@\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRogue/Atlas/SP_AccountsS.SP_AccountsS"
+    },
+    {
+        "KeyName": "RoguelikeSettle_A_Sprite",
+        "BinData": "@\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRogue/Atlas/SP_AccountsA.SP_AccountsA"
+    },
+    {
+        "KeyName": "RoguelikeSettle_B_Sprite",
+        "BinData": "@\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRogue/Atlas/SP_AccountsB.SP_AccountsB"
+    },
+    {
+        "KeyName": "RoguelikeSettle_C_Sprite",
+        "BinData": "@\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRogue/Atlas/SP_AccountsC.SP_AccountsC"
+    },
+    {
+        "KeyName": "TemporaryTeleportCountLimit",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "TemporaryTeleportValidDistance",
+        "BinData": "���\u0000"
+    },
+    {
+        "KeyName": "TemporaryTeleportBlueprintType",
+        "BinData": "\u0016\u0000\u0000\u0000TemporaryTeleporter001"
+    },
+    {
+        "KeyName": "phantom_identify_return_ratio",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "SpecialEnergyBarInfoPath",
+        "BinData": "G\u0000\u0000\u0000/Game/Aki/Data/Fight/UI/DT_SpecialEnergyBarInfo.DT_SpecialEnergyBarInfo"
+    },
+    {
+        "KeyName": "max_add_day",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "PanelQteInfoPath",
+        "BinData": "/\u0000\u0000\u0000/Game/Aki/Data/Fight/UI/DT_PanelQte.DT_PanelQte"
+    },
+    {
+        "KeyName": "TemporaryTeleportMail",
+        "BinData": "\b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "TreasureBoxDetectionMaxNum",
+        "BinData": "\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "TreasureBoxDetectionMaxDistance",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "PayRebateMail",
+        "BinData": "@\r\u0003\u0000"
+    },
+    {
+        "KeyName": "PayRebateTimeQuantum",
+        "BinData": "\u001e\u0004\u0000\u0000"
+    },
+    {
+        "KeyName": "PayRebateAwardItemId",
+        "BinData": "\u0004\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "PayRebateMaxMonthCount",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "AllowApiOperateMoneyId",
+        "BinData": "\u0005\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0004\u0000\u0000\u0000S�\u0000\u0000T�\u0000\u0000"
+    },
+    {
+        "KeyName": "PayRebateMonthCardItemId",
+        "BinData": "\\�\u0000\u0000"
+    },
+    {
+        "KeyName": "PayRebateBPLowerItemId",
+        "BinData": "`�\u0000\u0000"
+    },
+    {
+        "KeyName": "PayRebateBPSeniorItemId",
+        "BinData": "a�\u0000\u0000"
+    },
+    {
+        "KeyName": "MiniMap_Mark_Scale",
+        "BinData": "X\u001b\u0000\u0000"
+    },
+    {
+        "KeyName": "LordGymLevelVar",
+        "BinData": "\u0005\u0000\u0000\u0000Level"
+    },
+    {
+        "KeyName": "Roulette_EquipItem_ShowTypeList",
+        "BinData": "\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0004\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "Roulette_EmptyItem_Sprite",
+        "BinData": "c\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSkillswitching/Atlas/SP_SkillswitchingItemNone.SP_SkillswitchingItemNone"
+    },
+    {
+        "KeyName": "SoundBoxDetection",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "TreasureBoxDetection",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "TemporaryTeleport",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "MapDissolveTime",
+        "BinData": "\u0006\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "InstEnterDefaultPos",
+        "BinData": "\u0006\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ai_rtt_network_good",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ai_rtt_switch",
+        "BinData": "�\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionLevelUpUnlockTexture",
+        "BinData": "m\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_IconpropertyblueVisionl_UI.T_IconpropertyblueVisionl_UI"
+    },
+    {
+        "KeyName": "VisionFetterGroupDefaultColor",
+        "BinData": "\b\u0000\u0000\u0000FFFFFFFF"
+    },
+    {
+        "KeyName": "VisionFetterGroupDefaultTexture",
+        "BinData": "m\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_IconpropertyblueVisionl_UI.T_IconpropertyblueVisionl_UI"
+    },
+    {
+        "KeyName": "VisionHeadSprBgB",
+        "BinData": "O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_ItemIconVisionBgB.SP_ItemIconVisionBgB"
+    },
+    {
+        "KeyName": "VisionHeadSprBgA",
+        "BinData": "O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_ItemIconVisionBgA.SP_ItemIconVisionBgA"
+    },
+    {
+        "KeyName": "VisionHeadLightBgA",
+        "BinData": "Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_ItemIconVisionFrmA.SP_ItemIconVisionFrmA"
+    },
+    {
+        "KeyName": "VisionHeadLightBgB",
+        "BinData": "Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SP_ItemIconVisionFrmB.SP_ItemIconVisionFrmB"
+    },
+    {
+        "KeyName": "ExploreModeWaitTime",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "BaseCylinderStaticMeshForRange",
+        "BinData": "%\u0000\u0000\u0000/Engine/BasicShapes/Cylinder.Cylinder"
+    },
+    {
+        "KeyName": "MaxSingleStrengthItemCount",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionQualityDefaultSprite",
+        "BinData": "V\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityA.SP_VisionlQualityA"
+    },
+    {
+        "KeyName": "item_prior_list_max_size",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "BattlePassUnlockWeapons",
+        "BinData": "\u0005\u0000\u0000\u0000E�@\u0001U�@\u0001e�@\u0001u\rA\u0001�4A\u0001"
+    },
+    {
+        "KeyName": "BattlePassSettleBugTime",
+        "BinData": "H\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "CdKeyLengthLimit",
+        "BinData": "\u0002\u0000\u0000\u0000\u0006\u0000\u0000\u0000\"\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "AdvancedGiftItem",
+        "BinData": "\u0001\u0000\u0000\u0000a�\u0000\u0000"
+    },
+    {
+        "KeyName": "AutoInteractionGuideCount",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "CalabashExpItemId",
+        "BinData": "\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ResonantChainMaxLevel",
+        "BinData": "\u0006\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionFetterDefaultColor",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionFetterDefaultTexture",
+        "BinData": "P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconVisionAll.T_IconVisionAll"
+    },
+    {
+        "KeyName": "YeguiHeadStateHpColor",
+        "BinData": "\u0006\u0000\u0000\u000036cd33"
+    },
+    {
+        "KeyName": "buff_consumer_tag_name",
+        "BinData": "\u001e\u0000\u0000\u0000关卡.Buff消费者.可消费"
+    },
+    {
+        "KeyName": "GachaRoleBeforeEndFrame",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "GachaWeaponBeforeEndFrame",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "DailyCounterItem",
+        "BinData": "\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "DailyCounterMonsterKillType",
+        "BinData": "\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "DailyCounterItemUseBuffType",
+        "BinData": "\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0004\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionLevelUpDelay",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionIdentifyDelay",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "LockExecutionShowDistance",
+        "BinData": "�W\u0000\u0000"
+    },
+    {
+        "KeyName": "TrainingDegreeSkillTypes",
+        "BinData": "\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "CdKeyMailId",
+        "BinData": "��\u0001\u0000"
+    },
+    {
+        "KeyName": "PrimaryGiftItem",
+        "BinData": "\u0001\u0000\u0000\u0000`�\u0000\u0000"
+    },
+    {
+        "KeyName": "KuroStreetUrl",
+        "BinData": "!\u0000\u0000\u0000https://www.kurobbs.com/mc/home/9"
+    },
+    {
+        "KeyName": "StrengthItemId",
+        "BinData": "�\u001d,\u0004"
+    },
+    {
+        "KeyName": "flow_tag_name",
+        "BinData": "#\u0000\u0000\u0000功能.逻辑状态标识.剧情中"
+    },
+    {
+        "KeyName": "LogUploadTimeInterval",
+        "BinData": "\u001e\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ThirdPartyShareReward",
+        "BinData": "-#\u0000\u0000"
+    },
+    {
+        "KeyName": "WeaponBaseAtkRatio",
+        "BinData": "�\u0005\u0000\u0000"
+    },
+    {
+        "KeyName": "AddDamageRatio",
+        "BinData": "�:\u0000\u0000"
+    },
+    {
+        "KeyName": "OtherAddDamageRatio",
+        "BinData": "�\u0013\u0000\u0000"
+    },
+    {
+        "KeyName": "WeaponCritRateDic",
+        "BinData": "\u0007\u0000\u0000\u0000\u0007\u0000\u0000\u0000�:\u0000\u0000\b\u0000\u0000\u0000\u0010'\u0000\u0000\t\u0000\u0000\u0000 N\u0000\u0000\u000b\u0000\u0000\u0000�>\u0000\u0000\u0002\u0000\u0000\u0000�:\u0000\u0000\n\u0000\u0000\u00008J\u0000\u0000#\u0000\u0000\u0000�.\u0000\u0000"
+    },
+    {
+        "KeyName": "AddDamageList",
+        "BinData": "\u0007\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u000f\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "OtherAddDamageList",
+        "BinData": "\u0005\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0014\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "PhantomCritRateDic",
+        "BinData": "\u0007\u0000\u0000\u0000\u0007\u0000\u0000\u0000�:\u0000\u0000\b\u0000\u0000\u0000\u0010'\u0000\u0000\t\u0000\u0000\u0000 N\u0000\u0000\u000b\u0000\u0000\u0000�>\u0000\u0000\u0002\u0000\u0000\u0000�:\u0000\u0000\n\u0000\u0000\u00008J\u0000\u0000#\u0000\u0000\u0000�.\u0000\u0000"
+    },
+    {
+        "KeyName": "PhantomCommonPowerRatio",
+        "BinData": "\u0003\u0000\u0000\u0000\u0007\u0000\u0000\u0000�y�\u0000\u0002\u0000\u0000\u0000���\b\n\u0000\u0000\u0000`_�\u0000"
+    },
+    {
+        "KeyName": "FirstShareRewardOpen",
+        "BinData": "\u0001"
+    },
+    {
+        "KeyName": "BlockPay",
+        "BinData": "\u0001"
+    },
+    {
+        "KeyName": "PrimaryBattlePassGiftPack",
+        "BinData": "-\u0001\u0000\u0000"
+    }
+]

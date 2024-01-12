@@ -1,0 +1,47 @@
+[
+    {
+        "MapId": 1,
+        "GroupMark": 0,
+        "BinData": "\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000PL_AkiWorld001\u0000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0007\u0000\u0000\u0000limit()"
+    },
+    {
+        "MapId": 2,
+        "GroupMark": 2000,
+        "BinData": "\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000����\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00006\u0000\u0000\u0000/Game/Aki/UI/Module/Minimap/Atlas/Frames/Floor1.Floor1d\u0000\u0000\u0000d\u0000\u0000\u0000\u0007\u0000\u0000\u0000limit()"
+    },
+    {
+        "MapId": 3,
+        "GroupMark": 2000,
+        "BinData": "\u0003\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00006\u0000\u0000\u0000/Game/Aki/UI/Module/Minimap/Atlas/Frames/Floor2.Floor2d\u0000\u0000\u0000d\u0000\u0000\u0000\u0007\u0000\u0000\u0000limit()"
+    },
+    {
+        "MapId": 4,
+        "GroupMark": 2000,
+        "BinData": "\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00006\u0000\u0000\u0000/Game/Aki/UI/Module/Minimap/Atlas/Frames/Floor3.Floor3d\u0000\u0000\u0000d\u0000\u0000\u0000\u0007\u0000\u0000\u0000limit()"
+    },
+    {
+        "MapId": 5,
+        "GroupMark": 2000,
+        "BinData": "\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00006\u0000\u0000\u0000/Game/Aki/UI/Module/Minimap/Atlas/Frames/Floor4.Floor4d\u0000\u0000\u0000d\u0000\u0000\u0000\u0007\u0000\u0000\u0000limit()"
+    },
+    {
+        "MapId": 6,
+        "GroupMark": 2001,
+        "BinData": "\u0006\u0000\u0000\u0000\u0001\u0000\u0000\u0000����\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00006\u0000\u0000\u0000/Game/Aki/UI/Module/Minimap/Atlas/Frames/Floor1.Floor1d\u0000\u0000\u0000d\u0000\u0000\u0000\u0007\u0000\u0000\u0000limit()"
+    },
+    {
+        "MapId": 7,
+        "GroupMark": 2001,
+        "BinData": "\u0007\u0000\u0000\u0000\u0001\u0000\u0000\u0000����\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00006\u0000\u0000\u0000/Game/Aki/UI/Module/Minimap/Atlas/Frames/Floor2.Floor2d\u0000\u0000\u0000d\u0000\u0000\u0000\u0007\u0000\u0000\u0000limit()"
+    },
+    {
+        "MapId": 8,
+        "GroupMark": 2001,
+        "BinData": "\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000����\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00006\u0000\u0000\u0000/Game/Aki/UI/Module/Minimap/Atlas/Frames/Floor3.Floor3d\u0000\u0000\u0000d\u0000\u0000\u0000\u0007\u0000\u0000\u0000limit()"
+    },
+    {
+        "MapId": 9,
+        "GroupMark": 2001,
+        "BinData": "\t\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00006\u0000\u0000\u0000/Game/Aki/UI/Module/Minimap/Atlas/Frames/Floor4.Floor4d\u0000\u0000\u0000d\u0000\u0000\u0000\u0007\u0000\u0000\u0000limit()"
+    }
+]

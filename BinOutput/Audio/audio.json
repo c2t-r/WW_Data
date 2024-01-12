@@ -1,0 +1,298 @@
+[
+    {
+        "Id": "Play_AE_UI_FB_ExReady",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000P\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_exready.play_ae_ui_fb_exready\u0000\u0015\u0000\u0000\u0000Play_AE_UI_FB_ExReady\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_But_Change",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000P\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_but_change.play_ae_ui_but_change\u0000\u0015\u0000\u0000\u0000Play_AE_UI_But_Change\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_But_Scan",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000L\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_but_scan.play_ae_ui_but_scan\u0000\u0013\u0000\u0000\u0000Play_AE_UI_But_Scan\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_But_ScanLoop",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000T\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_but_scanloop.play_ae_ui_but_scanloop\u0000\u0017\u0000\u0000\u0000Play_AE_UI_But_ScanLoop\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_But_ScanOver",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000T\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_but_scanover.play_ae_ui_but_scanover\u0000\u0017\u0000\u0000\u0000Play_AE_UI_But_ScanOver\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_But_ItemUnChoose",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_but_itemunchoose.play_ae_ui_but_itemunchoose\u0000\u001b\u0000\u0000\u0000Play_AE_UI_But_ItemUnChoose\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_But_MapMark",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000T\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_but_mapmark.play_ae_ui_but_mapmark\u0000\u0000\u0000\u0016\u0000\u0000\u0000Play_AE_UI_But_MapMark\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_Common_Progress",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_common_progress.play_ae_ui_common_progress\u0000\u0000\u0000\u001a\u0000\u0000\u0000Play_AE_UI_Common_Progress\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_Common_Preview_LevelUp",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000_\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_common_preview_levelup.play_ae_ui_common_preview_levelup\u0000!\u0000\u0000\u0000Play_AE_UI_Common_Preview_LevelUp\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_Common_Preview_LevelMax",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_common_preview_levelmax.play_ae_ui_common_preview_levelmax\u0000\u0000\u0000\"\u0000\u0000\u0000Play_AE_UI_Common_Preview_LevelMax\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_Role_Feedback_LevelUp",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_role_feedback_levelup.play_ae_ui_role_feedback_levelup\u0000\u0000\u0000 \u0000\u0000\u0000Play_AE_UI_Role_Feedback_LevelUp\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_Role_Feedback_Breach",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_role_feedback_breach.play_ae_ui_role_feedback_breach\u0000\u001f\u0000\u0000\u0000Play_AE_UI_Role_Feedback_Breach\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_Role_Feedback_Resonance",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_role_feedback_resonance.play_ae_ui_role_feedback_resonance\u0000\u0000\u0000\"\u0000\u0000\u0000Play_AE_UI_Role_Feedback_Resonance\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_Role_Feedback_ResonanceGrouth",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000x\u0000\u0000\u0000m\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_role_feedback_resonancegrouth.play_ae_ui_role_feedback_resonancegrouth\u0000\u0000\u0000(\u0000\u0000\u0000Play_AE_UI_Role_Feedback_ResonanceGrouth\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_Role_Feedback_Skill",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_role_feedback_skiil.play_ae_ui_role_feedback_skiil\u0000\u0000\u0000\u001e\u0000\u0000\u0000Play_AE_UI_Role_Feedback_Skill\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_Calabash_LevelUp",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_calabash_levelup.play_ae_ui_calabash_levelup\u0000\u001b\u0000\u0000\u0000Play_AE_UI_Calabash_LevelUp\u0000"
+    },
+    {
+        "Id": "Play_AE_Play_Loading_Music",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000L\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_loading_music.play_loading_music\u0000\u0000\u0000\u001a\u0000\u0000\u0000Play_AE_Play_Loading_Music\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_Stop_Loading_Music",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000L\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/stop_loading_music.stop_loading_music\u0000\u0000\u0000\u001a\u0000\u0000\u0000Play_AE_Stop_Loading_Music\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Skill_Open",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000X\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_skill_open.play_ae_ui_fb_skill_open\u0000\u0000\u0000\u0018\u0000\u0000\u0000Play_AE_UI_FB_Skill_Open\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_But_Skill_Active",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_but_skill_active.play_ae_ui_but_skill_active\u0000\u001b\u0000\u0000\u0000Play_AE_UI_But_Skill_Active\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Weapon_Enhance",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000`\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_weapon_enhance.play_ae_ui_fb_weapon_enhance\u0000\u0000\u0000\u001c\u0000\u0000\u0000Play_AE_UI_FB_Weapon_Enhance\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Weapon_Breach",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_weapon_breach.play_ae_ui_fb_weapon_breach\u0000\u001b\u0000\u0000\u0000Play_AE_UI_FB_Weapon_Breach\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_Common_Function",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_common_function.play_ae_ui_common_function\u0000\u0000\u0000\u001a\u0000\u0000\u0000Play_AE_UI_Common_Function\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_World_Levelup",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_world_levelup.play_ae_ui_fb_world_levelup\u0000\u001b\u0000\u0000\u0000Play_AE_UI_FB_World_Levelup\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Chouka_Show",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000X\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_chouka_show.play_ae_ui_fb_chouka_show\u0000\u0019\u0000\u0000\u0000Play_AE_UI_FB_Chouka_Show\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Chouka_List",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000X\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_chouka_list.play_ae_ui_fb_chouka_list\u0000\u0019\u0000\u0000\u0000Play_AE_UI_FB_Chouka_List\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Gongminglian_Whoosh1",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_gongminglian_whoosh1.play_ae_ui_fb_gongminglian_whoosh1\u0000\u0000\u0000\"\u0000\u0000\u0000Play_AE_UI_FB_Gongminglian_Whoosh1\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Gongminglian_Whoosh2",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_gongminglian_whoosh2.play_ae_ui_fb_gongminglian_whoosh2\u0000\u0000\u0000\"\u0000\u0000\u0000Play_AE_UI_FB_Gongminglian_Whoosh2\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Gongminglian_Whoosh3",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_gongminglian_whoosh3.play_ae_ui_fb_gongminglian_whoosh3\u0000\u0000\u0000\"\u0000\u0000\u0000Play_AE_UI_FB_Gongminglian_Whoosh3\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Gongminglian_Whoosh4",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_gongminglian_whoosh4.play_ae_ui_fb_gongminglian_whoosh4\u0000\u0000\u0000\"\u0000\u0000\u0000Play_AE_UI_FB_Gongminglian_Whoosh4\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Gongminglian_Whoosh5",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_gongminglian_whoosh5.play_ae_ui_fb_gongminglian_whoosh5\u0000\u0000\u0000\"\u0000\u0000\u0000Play_AE_UI_FB_Gongminglian_Whoosh5\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Gongminglian_Whoosh6",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_gongminglian_whoosh6.play_ae_ui_fb_gongminglian_whoosh6\u0000\u0000\u0000\"\u0000\u0000\u0000Play_AE_UI_FB_Gongminglian_Whoosh6\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Chouka_Music_Idle",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000X\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_chouka_music_idle.play_ui_chouka_music_idle\u0000\u001f\u0000\u0000\u0000Play_AE_UI_FB_Chouka_Music_Idle\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Chouka_Part02",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_chouka_part02.play_ae_ui_fb_chouka_part02\u0000\u001b\u0000\u0000\u0000Play_AE_UI_FB_Chouka_Part02\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Chouka_Start",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_chouka_start.play_ae_ui_fb_chouka_start\u0000\u0000\u0000\u001a\u0000\u0000\u0000Play_AE_UI_FB_Chouka_Start\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_FB_Chouka_Idle_Back",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_chouka_idle_back.play_ae_ui_fb_chouka_idle_back\u0000\u0000\u0000\u001e\u0000\u0000\u0000Play_AE_UI_FB_Chouka_Idle_Back\u0000\u0000"
+    },
+    {
+        "Id": "Play_AE_UI_But_Camera_Click",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_but_camera_click.play_ae_ui_but_camera_click\u0000\u001b\u0000\u0000\u0000Play_AE_UI_But_Camera_Click\u0000"
+    },
+    {
+        "Id": "entity_time_scale_lowspd_pause",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000H\u0000\u0000\u0000=\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/time_scale_pause.time_scale_pause\u0000\u0000\u0000\u001e\u0000\u0000\u0000entity_time_scale_lowspd_pause\u0000\u0000"
+    },
+    {
+        "Id": "entity_time_scale_lowspd_resume",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000H\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/time_scale_resume.time_scale_resume\u0000\u001f\u0000\u0000\u0000entity_time_scale_lowspd_resume\u0000"
+    },
+    {
+        "Id": "play_ui_fb_concerto_energy",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_fb_concerto_energy.play_ui_fb_concerto_energy\u0000\u0000\u0000\u001a\u0000\u0000\u0000play_ui_fb_concerto_energy\u0000\u0000"
+    },
+    {
+        "Id": "role_action_common_run",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000H\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_footstep_run.play_footstep_run\u0000\u0016\u0000\u0000\u0000role_action_common_run\u0000\u0000"
+    },
+    {
+        "Id": "role_action_common_fastrun",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000P\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_footstep_fastrun.play_footstep_fastrun\u0000\u001a\u0000\u0000\u0000role_action_common_fastrun\u0000\u0000"
+    },
+    {
+        "Id": "role_action_common_walk",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000L\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_footstep_walk.play_footstep_walk\u0000\u0000\u0000\u0017\u0000\u0000\u0000role_action_common_walk\u0000"
+    },
+    {
+        "Id": "role_action_common_fastrun_stop",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_footstep_fastrun_stop.play_footstep_fastrun_stop\u0000\u0000\u0000\u001f\u0000\u0000\u0000role_action_common_fastrun_stop\u0000"
+    },
+    {
+        "Id": "play_amb_interact_signal_ui_open",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_signal_ui_open.play_amb_interact_signal_ui_open\u0000\u0000\u0000 \u0000\u0000\u0000play_amb_interact_signal_ui_open\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "play_amb_interact_signal_ui_move",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_signal_ui_move.play_amb_interact_signal_ui_move\u0000\u0000\u0000 \u0000\u0000\u0000play_amb_interact_signal_ui_move\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "play_amb_interact_signal_ui_drag",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_signal_ui_drag.play_amb_interact_signal_ui_drag\u0000\u0000\u0000 \u0000\u0000\u0000play_amb_interact_signal_ui_drag\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "play_amb_interact_signal_ui_conncet",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000c\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_signal_ui_conncet.play_amb_interact_signal_ui_conncet\u0000#\u0000\u0000\u0000play_amb_interact_signal_ui_conncet\u0000"
+    },
+    {
+        "Id": "play_amb_interact_signal_ui_reset",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000_\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_signal_ui_reset.play_amb_interact_signal_ui_reset\u0000!\u0000\u0000\u0000play_amb_interact_signal_ui_reset\u0000\u0000\u0000"
+    },
+    {
+        "Id": "area_audio_first_map_load_after_login",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000H\u0000\u0000\u0000=\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_field_music.play_field_music\u0000\u0000\u0000%\u0000\u0000\u0000area_audio_first_map_load_after_login\u0000\u0000\u0000"
+    },
+    {
+        "Id": "play_amb_interact_signal_ui_choose",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_signal_ui_choose.play_amb_interact_signal_ui_choose\u0000\u0000\u0000\"\u0000\u0000\u0000play_amb_interact_signal_ui_choose\u0000\u0000"
+    },
+    {
+        "Id": "SignalDecodeGame_count_down",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_fx_com_count_number.play_ui_fx_com_count_number\u0000\u001b\u0000\u0000\u0000SignalDecodeGame_count_down\u0000"
+    },
+    {
+        "Id": "SignalDecodeGame_count_down_End",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_fx_com_count_start.play_ui_fx_com_count_start\u0000\u0000\u0000\u001f\u0000\u0000\u0000SignalDecodeGame_count_down_End\u0000"
+    },
+    {
+        "Id": "SignalDecodeGame_play_base_noise",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000t\u0000\u0000\u0000i\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_noise.play_amb_interact_capture_signal_noise\u0000\u0000\u0000 \u0000\u0000\u0000SignalDecodeGame_play_base_noise\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "SignalDecodeGame_stop_base_noise",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000t\u0000\u0000\u0000i\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/stop_amb_interact_capture_signal_noise.stop_amb_interact_capture_signal_noise\u0000\u0000\u0000 \u0000\u0000\u0000SignalDecodeGame_stop_base_noise\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "SignalDecodeGame_play_press_loop",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000|\u0000\u0000\u0000s\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_press_loop.play_amb_interact_capture_signal_press_loop\u0000 \u0000\u0000\u0000SignalDecodeGame_play_press_loop\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "SignalDecodeGame_stop_press_loop",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000|\u0000\u0000\u0000s\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/stop_amb_interact_capture_signal_press_loop.stop_amb_interact_capture_signal_press_loop\u0000 \u0000\u0000\u0000SignalDecodeGame_stop_press_loop\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "SignalDecodeGame_release_correct",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000}\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_release_correct.play_amb_interact_capture_signal_release_correct\u0000\u0000\u0000 \u0000\u0000\u0000SignalDecodeGame_release_correct\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "SignalDecodeGame_release_error",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000y\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_release_error.play_amb_interact_capture_signal_release_error\u0000\u0000\u0000\u001e\u0000\u0000\u0000SignalDecodeGame_release_error\u0000\u0000"
+    },
+    {
+        "Id": "PlotSkip_ui_button_show",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000X\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_chouka_show.play_ae_ui_fb_chouka_show\u0000\u0017\u0000\u0000\u0000PlotSkip_ui_button_show\u0000"
+    },
+    {
+        "Id": "PlotSkip_ui_button_hold_start",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000|\u0000\u0000\u0000s\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_press_loop.play_amb_interact_capture_signal_press_loop\u0000\u001d\u0000\u0000\u0000PlotSkip_ui_button_hold_start\u0000\u0000\u0000"
+    },
+    {
+        "Id": "PlotSkip_ui_button_release",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000|\u0000\u0000\u0000s\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/stop_amb_interact_capture_signal_press_loop.stop_amb_interact_capture_signal_press_loop\u0000\u001a\u0000\u0000\u0000PlotSkip_ui_button_release\u0000\u0000"
+    },
+    {
+        "Id": "PlotSkip_ui_skip_confirm",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000X\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_chouka_show.play_ae_ui_fb_chouka_show\u0000\u0018\u0000\u0000\u0000PlotSkip_ui_skip_confirm\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "PlotSkip_ui_interrput",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000X\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_chouka_show.play_ae_ui_fb_chouka_show\u0000\u0015\u0000\u0000\u0000PlotSkip_ui_interrput\u0000\u0000\u0000"
+    },
+    {
+        "Id": "PlotSkip_skip_current_plot",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000X\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_chouka_show.play_ae_ui_fb_chouka_show\u0000\u001a\u0000\u0000\u0000PlotSkip_skip_current_plot\u0000\u0000"
+    },
+    {
+        "Id": "SceneItemDrop_play_item_drop",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000T\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ae_ui_fb_itemdrop.play_ae_ui_fb_itemdrop\u0000\u0000\u0000\u001c\u0000\u0000\u0000SceneItemDrop_play_item_drop\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "SceneItemDrop_play_item_pickup",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000H\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_fb_pickup.play_ui_fb_pickup\u0000\u001e\u0000\u0000\u0000SceneItemDrop_play_item_pickup\u0000\u0000"
+    },
+    {
+        "Id": "play_amb_interact_sundial_inner_circle_loop",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000|\u0000\u0000\u0000s\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_inner_circle_loop.play_amb_interact_sundial_inner_circle_loop\u0000+\u0000\u0000\u0000play_amb_interact_sundial_inner_circle_loop\u0000"
+    },
+    {
+        "Id": "play_amb_interact_sundial_inner_circle_stuck",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000u\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_inner_circle_stuck.play_amb_interact_sundial_inner_circle_stuck\u0000\u0000\u0000,\u0000\u0000\u0000play_amb_interact_sundial_inner_circle_stuck\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "play_amb_interact_sundial_outer_circle_loop",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000|\u0000\u0000\u0000s\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_outer_circle_loop.play_amb_interact_sundial_outer_circle_loop\u0000+\u0000\u0000\u0000play_amb_interact_sundial_outer_circle_loop\u0000"
+    },
+    {
+        "Id": "play_amb_interact_sundial_outer_circle_stuck",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000u\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_outer_circle_stuck.play_amb_interact_sundial_outer_circle_stuck\u0000\u0000\u0000,\u0000\u0000\u0000play_amb_interact_sundial_outer_circle_stuck\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "play_amb_interact_sundial_activate",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_activate.play_amb_interact_sundial_activate\u0000\u0000\u0000\"\u0000\u0000\u0000play_amb_interact_sundial_activate\u0000\u0000"
+    },
+    {
+        "Id": "play_amb_interact_sundial_deactivate",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000p\u0000\u0000\u0000e\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_deactivate.play_amb_interact_sundial_deactivate\u0000\u0000\u0000$\u0000\u0000\u0000play_amb_interact_sundial_deactivate\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "play_amb_interact_sundial_finish",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_finish.play_amb_interact_sundial_finish\u0000\u0000\u0000 \u0000\u0000\u0000play_amb_interact_sundial_finish\u0000\u0000\u0000\u0000"
+    }
+]

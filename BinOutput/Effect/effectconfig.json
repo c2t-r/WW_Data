@@ -1,0 +1,218 @@
+[
+    {
+        "Id": "RoleSkillTabEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000`\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Character_002.DA_Fx_Group_UI_Character_002\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000RoleSkillTabEffect\u0000\u0000"
+    },
+    {
+        "Id": "ChangeRoleEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000`\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_ChangeRole.DA_Fx_Group_UIMap_ChangeRole\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000ChangeRoleEffect\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ShowHideWeaponEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_WeaponStart.DA_Fx_Group_UI_WeaponStart\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000ShowHideWeaponEffect\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "WeaponRootWeaponShowHideEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_WeaponEnd.DA_Fx_Group_UI_WeaponEnd\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000WeaponRootWeaponShowHideEffect\u0000\u0000"
+    },
+    {
+        "Id": "WeaponLevelUpEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000`\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_WeaponLevelUp.DA_Fx_Group_UI_WeaponLevelUp\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000WeaponLevelUpEffect\u0000"
+    },
+    {
+        "Id": "WeaponResonanceUpEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000b\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_WeaponGongming.DA_Fx_Group_UI_WeaponGongming\u0000\u0000\u0017\u0000\u0000\u0000WeaponResonanceUpEffect\u0000"
+    },
+    {
+        "Id": "WeaponBreachEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000p\u0000\u0000\u0000f\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_WeaponLevelBreak.DA_Fx_Group_UI_WeaponLevelBreak\u0000\u0000\u0012\u0000\u0000\u0000WeaponBreachEffect\u0000\u0000"
+    },
+    {
+        "Id": "RoleLevelUpEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000p\u0000\u0000\u0000f\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Character_Levelup02.DA_Fx_Group_Character_Levelup02\u0000\u0000\u0011\u0000\u0000\u0000RoleLevelUpEffect\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ChipNoEquipEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Role_Chip_001.DA_Fx_Group_Role_Chip_001\u0000\u0000\u0011\u0000\u0000\u0000ChipNoEquipEffect\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ChipEquipEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Role_Chip_002.DA_Fx_Group_Role_Chip_002\u0000\u0000\u000f\u0000\u0000\u0000ChipEquipEffect\u0000"
+    },
+    {
+        "Id": "ChipSuitEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Role_Chip_003.DA_Fx_Group_Role_Chip_003\u0000\u0000\u000e\u0000\u0000\u0000ChipSuitEffect\u0000\u0000"
+    },
+    {
+        "Id": "WorldLevelUpEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000p\u0000\u0000\u0000f\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Character_Levelup01.DA_Fx_Group_Character_Levelup01\u0000\u0000\u0012\u0000\u0000\u0000WorldLevelUpEffect\u0000\u0000"
+    },
+    {
+        "Id": "ModelHideEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000_\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/3DUIScenes/DA_Fx_Group_Common_Particle.DA_Fx_Group_Common_Particle\u0000\u000f\u0000\u0000\u0000ModelHideEffect\u0000"
+    },
+    {
+        "Id": "RoleSkillTabEffectIce",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000t\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_Character_Sphere_Ice.DA_Fx_Group_UIMap_Character_Sphere_Ice\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000RoleSkillTabEffectIce\u0000\u0000\u0000"
+    },
+    {
+        "Id": "RoleSkillTabEffectFire",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000v\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_Character_Sphere_Fire.DA_Fx_Group_UIMap_Character_Sphere_Fire\u0000\u0000\u0016\u0000\u0000\u0000RoleSkillTabEffectFire\u0000\u0000"
+    },
+    {
+        "Id": "RoleSkillTabEffectThunder",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000|\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_Character_Sphere_Thunder.DA_Fx_Group_UIMap_Character_Sphere_Thunder\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000RoleSkillTabEffectThunder\u0000\u0000\u0000"
+    },
+    {
+        "Id": "RoleSkillTabEffectWind",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000v\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_Character_Sphere_Wind.DA_Fx_Group_UIMap_Character_Sphere_Wind\u0000\u0000\u0016\u0000\u0000\u0000RoleSkillTabEffectWind\u0000\u0000"
+    },
+    {
+        "Id": "RoleSkillTabEffectLight",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000x\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_Character_Sphere_Light.DA_Fx_Group_UIMap_Character_Sphere_Light\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000RoleSkillTabEffectLight\u0000"
+    },
+    {
+        "Id": "RoleSkillTabEffectDark",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000v\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_Character_Sphere_Dark.DA_Fx_Group_UIMap_Character_Sphere_Dark\u0000\u0000\u0016\u0000\u0000\u0000RoleSkillTabEffectDark\u0000\u0000"
+    },
+    {
+        "Id": "CreateCharacterClickRole",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000`\u0000\u0000\u0000/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_CreateRole_Aperture.DA_Fx_CreateRole_Aperture\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000CreateCharacterClickRole\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "RoleSystemFloorEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000p\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/3DUIScenes/DA_Fx_Group_UIMap_Charact_Decal.DA_Fx_Group_UIMap_Charact_Decal\u0000\u0015\u0000\u0000\u0000RoleSystemFloorEffect\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ModelRoleBreachEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000R\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Role_Star.DA_Fx_Group_Role_Star\u0000\u0000\u0015\u0000\u0000\u0000ModelRoleBreachEffect\u0000\u0000\u0000"
+    },
+    {
+        "Id": "RoleBreachFinishEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000^\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Character_Break.DA_Fx_Group_Character_Break\u0000\u0000\u0016\u0000\u0000\u0000RoleBreachFinishEffect\u0000\u0000"
+    },
+    {
+        "Id": "ResonanceSwitchEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000x\u0000\u0000\u0000l\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Role_Device_Replace.DA_Fx_Group_UI_Role_Device_Replace\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000ResonanceSwitchEffect\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ResonanceActiveEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000t\u0000\u0000\u0000j\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_DeviceCircle_Activate.DA_Fx_Group_DeviceCircle_Activate\u0000\u0000\u0015\u0000\u0000\u0000ResonanceActiveEffect\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ChangeRoleMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_UIChangeRole.DA_Fx_UIChangeRole\u0000\u0000\u0000\u0000\u001c\u0000\u0000\u0000ChangeRoleMaterialController\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "WeaponRootWeaponMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_Weapon_Qiehuan_UI.DA_Fx_Weapon_Qiehuan_UI\u0000\u0000\"\u0000\u0000\u0000WeaponRootWeaponMaterialController\u0000\u0000"
+    },
+    {
+        "Id": "ChangeWeaponMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000`\u0000\u0000\u0000T\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_WeaponStart_UI.DA_Fx_WeaponStart_UI\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000ChangeWeaponMaterialController\u0000\u0000"
+    },
+    {
+        "Id": "RoleLevelUpMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000P\u0000\u0000\u0000F\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_Levelup.DA_Fx_Levelup\u0000\u0000\u001d\u0000\u0000\u0000RoleLevelUpMaterialController\u0000\u0000\u0000"
+    },
+    {
+        "Id": "CreateCharacterMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_Character_Select.DA_Fx_Character_Select\u0000\u0000\u0000\u0000!\u0000\u0000\u0000CreateCharacterMaterialController\u0000\u0000\u0000"
+    },
+    {
+        "Id": "WeaponLevelUpMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_UI_WeaponLevlelUp.DA_Fx_UI_WeaponLevlelUp\u0000\u0000\u001f\u0000\u0000\u0000WeaponLevelUpMaterialController\u0000"
+    },
+    {
+        "Id": "WeaponResonanceUpMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_UI_Weapongongming.DA_Fx_UI_Weapongongming\u0000\u0000#\u0000\u0000\u0000WeaponResonanceUpMaterialController\u0000"
+    },
+    {
+        "Id": "WeaponBreachMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000b\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_UI_Weaponbreakthrough.DA_Fx_UI_Weaponbreakthrough\u0000\u0000\u001e\u0000\u0000\u0000WeaponBreachMaterialController\u0000\u0000"
+    },
+    {
+        "Id": "RoleBreachFinishMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000L\u0000\u0000\u0000B\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_Break.DA_Fx_Break\u0000\u0000\"\u0000\u0000\u0000RoleBreachFinishMaterialController\u0000\u0000"
+    },
+    {
+        "Id": "RoleMaleBurstEyeMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000p\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/Denglu/DA_Fx_Seq_Nanzhu_BurstEye.DA_Fx_Seq_Nanzhu_BurstEye\u0000\"\u0000\u0000\u0000RoleMaleBurstEyeMaterialController\u0000\u0000"
+    },
+    {
+        "Id": "RoleFemaleBurstEyeMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000p\u0000\u0000\u0000e\u0000\u0000\u0000/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/Denglu/DA_Fx_Seq_Nvzhu_BurstEye.DA_Fx_Seq_Nvzhu_BurstEye\u0000\u0000\u0000$\u0000\u0000\u0000RoleFemaleBurstEyeMaterialController\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ConcertoResponseNiagara",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000L\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_Burst_Light_04\u0000\u0017\u0000\u0000\u0000ConcertoResponseNiagara\u0000"
+    },
+    {
+        "Id": "ConcertoResponseQTEShowNiagara",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000D\u0000\u0000\u0000:\u0000\u0000\u0000/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_FightQTE_05\u0000\u0000\u001e\u0000\u0000\u0000ConcertoResponseQTEShowNiagara\u0000\u0000"
+    },
+    {
+        "Id": "GoBattleMaterial",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000^\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Group_ShowPlayer.DA_Fx_Group_ShowPlayer\u0000\u0000\u0010\u0000\u0000\u0000GoBattleMaterial\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "GoDownMaterial",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000R\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_HidePlayer.DA_Fx_HidePlayer\u0000\u0000\u000e\u0000\u0000\u0000GoDownMaterial\u0000\u0000"
+    },
+    {
+        "Id": "GachaMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_UIChangeRole.DA_Fx_UIChangeRole\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000GachaMaterialController\u0000"
+    },
+    {
+        "Id": "GachaWeaponMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_WeaponGacha_W_UI.DA_Fx_WeaponGacha_W_UI\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GachaWeaponMaterialController\u0000\u0000\u0000"
+    },
+    {
+        "Id": "GachaBurstPurpleController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_WeaponGacha_P_UI.DA_Fx_WeaponGacha_P_UI\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000GachaBurstPurpleController\u0000\u0000"
+    },
+    {
+        "Id": "GachaBurstGoldController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_WeaponGacha_Y_UI.DA_Fx_WeaponGacha_Y_UI\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000GachaBurstGoldController\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "GachaBurstWhiteController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_WeaponGacha_W_UI.DA_Fx_WeaponGacha_W_UI\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000GachaBurstWhiteController\u0000\u0000\u0000"
+    },
+    {
+        "Id": "AttributeSwitchHandEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/AttributeSwitch/DA_Fx_UI_KeYin.DA_Fx_UI_KeYin\u0000\u0000\u0019\u0000\u0000\u0000AttributeSwitchHandEffect\u0000\u0000\u0000"
+    },
+    {
+        "Id": "AttributeSwitchBodyEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000^\u0000\u0000\u0000/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/AttributeSwitch/DA_Fx_UI_QieHuan.DA_Fx_UI_QieHuan\u0000\u0000\u0019\u0000\u0000\u0000AttributeSwitchBodyEffect\u0000\u0000\u0000"
+    },
+    {
+        "Id": "AttributePreviewHandEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000^\u0000\u0000\u0000/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/AttributeSwitch/DA_Fx_UI_Xinghen.DA_Fx_UI_Xinghen\u0000\u0000\u001a\u0000\u0000\u0000AttributePreviewHandEffect\u0000\u0000"
+    },
+    {
+        "Id": "AttributePreviewBodyEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000`\u0000\u0000\u0000/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/AttributeSwitch/DA_Fx_UI_Shengwen.DA_Fx_UI_Shengwen\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000AttributePreviewBodyEffect\u0000\u0000"
+    },
+    {
+        "Id": "ChooseCharacterMaterialController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_Xuanzhong_OL.DA_Fx_Xuanzhong_OL\u0000\u0000\u0000\u0000!\u0000\u0000\u0000ChooseCharacterMaterialController\u0000\u0000\u0000"
+    },
+    {
+        "Id": "VisionLevelUpEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Setup_SH.DA_Fx_Group_Setup_SH\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000VisionLevelUpEffect\u0000"
+    },
+    {
+        "Id": "VisionChangeEffect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000p\u0000\u0000\u0000d\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Shenghai_Change.DA_Fx_Group_UI_Shenghai_Change\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000VisionChangeEffect\u0000\u0000"
+    },
+    {
+        "Id": "VisionChangeController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_UI_Change_SH.DA_Fx_UI_Change_SH\u0000\u0000\u0000\u0000\u0016\u0000\u0000\u0000VisionChangeController\u0000\u0000"
+    },
+    {
+        "Id": "VisionStepupController",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000X\u0000\u0000\u0000N\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_UI_Setup_SH.DA_Fx_UI_Setup_SH\u0000\u0000\u0016\u0000\u0000\u0000VisionStepupController\u0000\u0000"
+    }
+]

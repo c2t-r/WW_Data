@@ -1,0 +1,214 @@
+[
+    {
+        "Id": "NetworkConnect",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000e\u0000\u0000\u0000NetworkConnect\u0000\u0000"
+    },
+    {
+        "Id": "PatchDown",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\t\u0000\u0000\u0000PatchDown\u0000\u0000\u0000"
+    },
+    {
+        "Id": "PatchDownTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0004\u0000\u0000\u0000\r\u0000\u0000\u0000PatchDownTips\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Install",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0007\u0000\u0000\u0000Install\u0000"
+    },
+    {
+        "Id": "InstallTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000b\u0000\u0000\u0000InstallTips\u0000"
+    },
+    {
+        "Id": "CheckIntegrity",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000e\u0000\u0000\u0000CheckIntegrity\u0000\u0000"
+    },
+    {
+        "Id": "NoNetwork",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0004\u0000\u0000\u0000\t\u0000\u0000\u0000NoNetwork\u0000\u0000\u0000"
+    },
+    {
+        "Id": "GetUpdateInfoFail",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0011\u0000\u0000\u0000GetUpdateInfoFail\u0000\u0000\u0000"
+    },
+    {
+        "Id": "HotFixTipsTitle",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000f\u0000\u0000\u0000HotFixTipsTitle\u0000"
+    },
+    {
+        "Id": "HotFixQuit",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\u0004\u0000\u0000\u0000\n\u0000\u0000\u0000HotFixQuit\u0000\u0000"
+    },
+    {
+        "Id": "HotFixRetry",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000b\u0000\u0000\u0000HotFixRetry\u0000"
+    },
+    {
+        "Id": "HotFixNewVersion",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000HotFixNewVersion\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "HotFixToDownload",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\r\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000HotFixToDownload\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "HotFixNewPatch",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000e\u0000\u0000\u0000HotFixNewPatch\u0000\u0000"
+    },
+    {
+        "Id": "HotFixUseNetworkDownload",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000HotFixUseNetworkDownload\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "HotFixNoIntegrityTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0015\u0000\u0000\u0000HotFixNoIntegrityTips\u0000\u0000\u0000"
+    },
+    {
+        "Id": "HotFixRestartToCompleteHotFix",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001d\u0000\u0000\u0000HotFixRestartToCompleteHotFix\u0000\u0000\u0000"
+    },
+    {
+        "Id": "HotFixRestartToRepairFiles",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001a\u0000\u0000\u0000HotFixRestartToRepairFiles\u0000\u0000"
+    },
+    {
+        "Id": "HotFixWriteStorageTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0016\u0000\u0000\u0000HotFixWriteStorageTips\u0000\u0000"
+    },
+    {
+        "Id": "HotFixNotEnoughSpace",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0014\u0000\u0000\u0000HotFixNotEnoughSpace\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "HotFixContinue",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000e\u0000\u0000\u0000HotFixContinue\u0000\u0000"
+    },
+    {
+        "Id": "HotFixCancel",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0004\u0000\u0000\u0000\f\u0000\u0000\u0000HotFixCancel\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "HotFixNetworkChange",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0013\u0000\u0000\u0000HotFixNetworkChange\u0000"
+    },
+    {
+        "Id": "HotFixCellNetworkTip",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0014\u0000\u0000\u0000HotFixCellNetworkTip\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "SplashCautionTitle",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0012\u0000\u0000\u0000SplashCautionTitle\u0000\u0000"
+    },
+    {
+        "Id": "SplashCautionContent",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0014\u0000\u0000\u0000SplashCautionContent\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "SplashLoading",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\r\u0000\u0000\u0000SplashLoading\u0000\u0000\u0000"
+    },
+    {
+        "Id": "SplashHealthyGamingAdvisory",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001b\u0000\u0000\u0000SplashHealthyGamingAdvisory\u0000"
+    },
+    {
+        "Id": "SplashCopyrightInformation",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001a\u0000\u0000\u0000SplashCopyrightInformation\u0000\u0000"
+    },
+    {
+        "Id": "GetRemoteConfigFailed",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0015\u0000\u0000\u0000GetRemoteConfigFailed\u0000\u0000\u0000"
+    },
+    {
+        "Id": "StartHotFix",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u001f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000b\u0000\u0000\u0000StartHotFix\u0000"
+    },
+    {
+        "Id": "GetRemoteVersion",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000 \u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000GetRemoteVersion\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "GetRemoteVersionFailed",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000!\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0016\u0000\u0000\u0000GetRemoteVersionFailed\u0000\u0000"
+    },
+    {
+        "Id": "CheckAppUpdate",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\"\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000e\u0000\u0000\u0000CheckAppUpdate\u0000\u0000"
+    },
+    {
+        "Id": "CheckResourceVersion",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000#\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0014\u0000\u0000\u0000CheckResourceVersion\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ResolveIndexFile",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000ResolveIndexFile\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "MountPak",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000%\u0000\u0000\u0000\u0004\u0000\u0000\u0000\b\u0000\u0000\u0000MountPak\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "CompleteHotFix",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000&\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000e\u0000\u0000\u0000CompleteHotFix\u0000\u0000"
+    },
+    {
+        "Id": "DownloadIndexFileFailed",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000'\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0017\u0000\u0000\u0000DownloadIndexFileFailed\u0000"
+    },
+    {
+        "Id": "DownloadResourcePatchFailed",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001b\u0000\u0000\u0000DownloadResourcePatchFailed\u0000"
+    },
+    {
+        "Id": "EvaluateDownloadResourcePatchFailed",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000)\u0000\u0000\u0000\u0004\u0000\u0000\u0000#\u0000\u0000\u0000EvaluateDownloadResourcePatchFailed\u0000"
+    },
+    {
+        "Id": "GetResourceInfoFailed",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000*\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0015\u0000\u0000\u0000GetResourceInfoFailed\u0000\u0000\u0000"
+    },
+    {
+        "Id": "CheckResourceVersionFailed",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000+\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001a\u0000\u0000\u0000CheckResourceVersionFailed\u0000\u0000"
+    },
+    {
+        "Id": "ResolveIndexFileFailed",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000,\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0016\u0000\u0000\u0000ResolveIndexFileFailed\u0000\u0000"
+    },
+    {
+        "Id": "ValidateResourceFailed",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000-\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0016\u0000\u0000\u0000ValidateResourceFailed\u0000\u0000"
+    },
+    {
+        "Id": "DownloadStateNone",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000.\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0011\u0000\u0000\u0000DownloadStateNone\u0000\u0000\u0000"
+    },
+    {
+        "Id": "DownloadStateHttpError",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000/\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0016\u0000\u0000\u0000DownloadStateHttpError\u0000\u0000"
+    },
+    {
+        "Id": "DownloadStateFileRenameError",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001c\u0000\u0000\u0000DownloadStateFileRenameError\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "DownloadStateValidateError",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001a\u0000\u0000\u0000DownloadStateValidateError\u0000\u0000"
+    },
+    {
+        "Id": "DownloadStateOpenToWriteError",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001d\u0000\u0000\u0000DownloadStateOpenToWriteError\u0000\u0000\u0000"
+    },
+    {
+        "Id": "DownloadStateNotEnoughSpace",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00003\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001b\u0000\u0000\u0000DownloadStateNotEnoughSpace\u0000"
+    },
+    {
+        "Id": "DownloadStateDownloadCanceled",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00004\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001d\u0000\u0000\u0000DownloadStateDownloadCanceled\u0000\u0000\u0000"
+    },
+    {
+        "Id": "DownloadStateSuccess",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00005\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0014\u0000\u0000\u0000DownloadStateSuccess\u0000\u0000\u0000\u0000"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "Id": 1,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\u0002\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_08_UI.T_IconMap_Shop_08_UI\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000NpcHeadInfo_2_SecondName\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 3,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\u0003\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_01_UI.T_IconMap_Shop_01_UI\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000NpcHeadInfo_3_SecondName\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 4,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\u0004\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_02_UI.T_IconMap_Shop_02_UI\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000NpcHeadInfo_4_SecondName\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 5,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\u0005\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_03_UI.T_IconMap_Shop_03_UI\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000NpcHeadInfo_5_SecondName\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 6,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\u0006\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_10_UI.T_IconMap_Shop_10_UI\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000NpcHeadInfo_6_SecondName\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 7,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\u0007\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Play_06_UI.T_IconMap_Play_06_UI\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000NpcHeadInfo_7_SecondName\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 8,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_06_UI.T_IconMap_Shop_06_UI\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000NpcHeadInfo_8_SecondName\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 9,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\t\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Play_07_UI.T_IconMap_Play_07_UI\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000NpcHeadInfo_9_SecondName\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 10,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\n\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_06_UI.T_IconMap_Shop_06_UI\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000NpcHeadInfo_10_SecondName\u0000\u0000\u0000"
+    },
+    {
+        "Id": 11,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\u000b\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_04_UI.T_IconMap_Shop_04_UI\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000NpcHeadInfo_11_SecondName\u0000\u0000\u0000"
+    },
+    {
+        "Id": 12,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_07_UI.T_IconMap_Shop_07_UI\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000NpcHeadInfo_12_SecondName\u0000\u0000\u0000"
+    },
+    {
+        "Id": 13,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\r\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_11_UI.T_IconMap_Shop_11_UI\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000NpcHeadInfo_13_SecondName\u0000\u0000\u0000"
+    },
+    {
+        "Id": 14,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\u000e\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_06_UI.T_IconMap_Shop_06_UI\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000NpcHeadInfo_14_SecondName\u0000\u0000\u0000"
+    },
+    {
+        "Id": 15,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\u000f\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_03_UI.T_IconMap_Shop_03_UI\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000NpcHeadInfo_15_SecondName\u0000\u0000\u0000"
+    },
+    {
+        "Id": 16,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\u0010\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Play_01_UI.T_IconMap_Play_01_UI\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000NpcHeadInfo_16_SecondName\u0000\u0000\u0000"
+    }
+]

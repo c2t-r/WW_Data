@@ -1,0 +1,18 @@
+[
+    {
+        "Id": 1,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000!\u0000\u0000\u0000TowerChallengeTypeInfo_1_TypeName\u0000\u0000\u0000"
+    },
+    {
+        "Id": 2,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000!\u0000\u0000\u0000TowerChallengeTypeInfo_2_TypeName\u0000\u0000\u0000"
+    },
+    {
+        "Id": 3,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000!\u0000\u0000\u0000TowerChallengeTypeInfo_3_TypeName\u0000\u0000\u0000"
+    },
+    {
+        "Id": 4,
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000!\u0000\u0000\u0000TowerChallengeTypeInfo_4_TypeName\u0000\u0000\u0000"
+    }
+]

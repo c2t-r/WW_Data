@@ -1,0 +1,157 @@
+[
+    {
+        "Id": 1,
+        "KeyName": "LeftMouseButton",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseLeft_UI.T_IconPcBtn_MouseLeft_UI\u0000\f\u0000\u0000\u0000鼠标左键\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000LeftMouseButton\u0000"
+    },
+    {
+        "Id": 2,
+        "KeyName": "RightMouseButton",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000e\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseRight_UI.T_IconPcBtn_MouseRight_UI\u0000\u0000\u0000\f\u0000\u0000\u0000鼠标右键\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000RightMouseButton\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 3,
+        "KeyName": "SpaceBar",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySpaceBar_UI.T_IconPcBtn_KeySpaceBar_UI\u0000\u0006\u0000\u0000\u0000空格\u0000\u0000\b\u0000\u0000\u0000SpaceBar\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 4,
+        "KeyName": "LeftShift",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0000\u0000\u0000i\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftShift_UI.T_IconPcBtn_KeyLeftShift_UI\u0000\u0000\u0000\b\u0000\u0000\u0000左Shift\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000LeftShift\u0000\u0000\u0000"
+    },
+    {
+        "Id": 5,
+        "KeyName": "W",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u0005\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyW_UI.T_IconPcBtn_KeyW_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘W\u0000\u0001\u0000\u0000\u0000W\u0000\u0000\u0000"
+    },
+    {
+        "Id": 6,
+        "KeyName": "S",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u0006\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyS_UI.T_IconPcBtn_KeyS_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘S\u0000\u0001\u0000\u0000\u0000S\u0000\u0000\u0000"
+    },
+    {
+        "Id": 7,
+        "KeyName": "A",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u0007\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyA_UI.T_IconPcBtn_KeyA_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘A\u0000\u0001\u0000\u0000\u0000A\u0000\u0000\u0000"
+    },
+    {
+        "Id": 8,
+        "KeyName": "D",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\b\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyD_UI.T_IconPcBtn_KeyD_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘D\u0000\u0001\u0000\u0000\u0000D\u0000\u0000\u0000"
+    },
+    {
+        "Id": 9,
+        "KeyName": "Q",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\t\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyQ_UI.T_IconPcBtn_KeyQ_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘Q\u0000\u0001\u0000\u0000\u0000Q\u0000\u0000\u0000"
+    },
+    {
+        "Id": 10,
+        "KeyName": "E",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\n\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyE_UI.T_IconPcBtn_KeyE_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘E\u0000\u0001\u0000\u0000\u0000E\u0000\u0000\u0000"
+    },
+    {
+        "Id": 11,
+        "KeyName": "R",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u000b\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyR_UI.T_IconPcBtn_KeyR_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘R\u0000\u0001\u0000\u0000\u0000R\u0000\u0000\u0000"
+    },
+    {
+        "Id": 12,
+        "KeyName": "T",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\f\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyT_UI.T_IconPcBtn_KeyT_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘T\u0000\u0001\u0000\u0000\u0000T\u0000\u0000\u0000"
+    },
+    {
+        "Id": 13,
+        "KeyName": "O",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\r\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyO_UI.T_IconPcBtn_KeyO_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘O\u0000\u0001\u0000\u0000\u0000O\u0000\u0000\u0000"
+    },
+    {
+        "Id": 14,
+        "KeyName": "P",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u000e\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyP_UI.T_IconPcBtn_KeyP_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘P\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000"
+    },
+    {
+        "Id": 15,
+        "KeyName": "F",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u000f\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF_UI.T_IconPcBtn_KeyF_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘F\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000"
+    },
+    {
+        "Id": 16,
+        "KeyName": "J",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u0010\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyJ_UI.T_IconPcBtn_KeyJ_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘J\u0000\u0001\u0000\u0000\u0000J\u0000\u0000\u0000"
+    },
+    {
+        "Id": 17,
+        "KeyName": "V",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u0011\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyV_UI.T_IconPcBtn_KeyV_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘V\u0000\u0001\u0000\u0000\u0000V\u0000\u0000\u0000"
+    },
+    {
+        "Id": 18,
+        "KeyName": "B",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u0012\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyB_UI.T_IconPcBtn_KeyB_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘B\u0000\u0001\u0000\u0000\u0000B\u0000\u0000\u0000"
+    },
+    {
+        "Id": 19,
+        "KeyName": "M",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u0013\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyM_UI.T_IconPcBtn_KeyM_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘M\u0000\u0001\u0000\u0000\u0000M\u0000\u0000\u0000"
+    },
+    {
+        "Id": 20,
+        "KeyName": "One",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u0014\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key1_UI.T_IconPcBtn_Key1_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘1\u0000\u0003\u0000\u0000\u0000One\u0000"
+    },
+    {
+        "Id": 21,
+        "KeyName": "Two",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u0015\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key2_UI.T_IconPcBtn_Key2_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘2\u0000\u0003\u0000\u0000\u0000Two\u0000"
+    },
+    {
+        "Id": 22,
+        "KeyName": "Three",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u0016\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key3_UI.T_IconPcBtn_Key3_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘3\u0000\u0005\u0000\u0000\u0000Three\u0000\u0000\u0000"
+    },
+    {
+        "Id": 23,
+        "KeyName": "MiddleMouseButton",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u0017\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseMiddle_UI.T_IconPcBtn_MouseMiddle_UI\u0000\f\u0000\u0000\u0000鼠标中键\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000MiddleMouseButton\u0000\u0000\u0000"
+    },
+    {
+        "Id": 24,
+        "KeyName": "LeftAlt",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000p\u0000\u0000\u0000x\u0000\u0000\u0000\u0018\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyAlt_UI.T_IconPcBtn_KeyAlt_UI\u0000\u0000\u0000\u0006\u0000\u0000\u0000左Alt\u0000\u0000\u0007\u0000\u0000\u0000LeftAlt\u0000"
+    },
+    {
+        "Id": 25,
+        "KeyName": "X",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u0019\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyX_UI.T_IconPcBtn_KeyX_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘X\u0000\u0001\u0000\u0000\u0000X\u0000\u0000\u0000"
+    },
+    {
+        "Id": 26,
+        "KeyName": "Tilde",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000t\u0000\u0000\u0000|\u0000\u0000\u0000\u001a\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyTilde_UI.T_IconPcBtn_KeyTilde_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘~\u0000\u0005\u0000\u0000\u0000Tilde\u0000\u0000\u0000"
+    },
+    {
+        "Id": 27,
+        "KeyName": "G",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u001b\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyG_UI.T_IconPcBtn_KeyG_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘G\u0000\u0001\u0000\u0000\u0000G\u0000\u0000\u0000"
+    },
+    {
+        "Id": 28,
+        "KeyName": "H",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u001c\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyH_UI.T_IconPcBtn_KeyH_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘H\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000"
+    },
+    {
+        "Id": 29,
+        "KeyName": "Four",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000t\u0000\u0000\u0000\u001d\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key4_UI.T_IconPcBtn_Key4_UI\u0000\u0000\u0000\u0007\u0000\u0000\u0000键盘4\u0000\u0004\u0000\u0000\u0000Four\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 30,
+        "KeyName": "MouseWheelAxis",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000\u001e\u0000\u0000\u0000i\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyWheelAxis_UI.T_IconPcBtn_KeyWheelAxis_UI\u0000\u0000\u0000\f\u0000\u0000\u0000鼠标滚轮\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000MouseWheelAxis\u0000\u0000"
+    },
+    {
+        "Id": 31,
+        "KeyName": "Tab",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000p\u0000\u0000\u0000|\u0000\u0000\u0000\u001f\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyTab_UI.T_IconPcBtn_KeyTab_UI\u0000\u0000\u0000\t\u0000\u0000\u0000键盘Tab\u0000\u0000\u0000\u0003\u0000\u0000\u0000Tab\u0000"
+    }
+]

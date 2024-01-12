@@ -1,0 +1,52 @@
+[
+    {
+        "Id": 1,
+        "Tag": "行为状态.逻辑状态.新控物.控制",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000(\u0000\u0000\u0000|\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0017\u0000\u0000\u0000SkillButton_210005_Name\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT4.SP_IconT4\u0000\u0000\u0000\u0000*\u0000\u0000\u0000行为状态.逻辑状态.新控物.控制\u0000\u0000"
+    },
+    {
+        "Id": 2,
+        "Tag": "角色.Common.技能通用标识.定点钩索可用",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000h\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT7.SP_IconT7\u0000\u0000\u0000\u00003\u0000\u0000\u0000角色.Common.技能通用标识.定点钩索可用\u0000"
+    },
+    {
+        "Id": 3,
+        "Tag": "角色.Common.技能通用标识.定点钩索",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000h\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT7.SP_IconT7\u0000\u0000\u0000\u0000-\u0000\u0000\u0000角色.Common.技能通用标识.定点钩索\u0000\u0000\u0000"
+    },
+    {
+        "Id": 4,
+        "Tag": "GameplayCue.幻象.控物.控物角色表现",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000(\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0017\u0000\u0000\u0000SkillButton_210006_Name\u0000b\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconSkillUnlock.SP_IconSkillUnlock\u0000\u0000,\u0000\u0000\u0000GameplayCue.幻象.控物.控物角色表现\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 5,
+        "Tag": "角色.Common.技能通用标识.控物拼图旋转.可用",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000x\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000b\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconSkillSwitch.SP_IconSkillSwitch\u0000\u0000:\u0000\u0000\u0000角色.Common.技能通用标识.控物拼图旋转.可用\u0000\u0000"
+    },
+    {
+        "Id": 6,
+        "Tag": "角色.Common.技能通用标识.控物拼图旋转.不可用",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000x\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000b\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconSkillSwitch.SP_IconSkillSwitch\u0000\u0000=\u0000\u0000\u0000角色.Common.技能通用标识.控物拼图旋转.不可用\u0000\u0000\u0000"
+    },
+    {
+        "Id": 7,
+        "Tag": "幻象.技能.鳞人二阶段技能期间不进CD",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000l\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiFight/Image/FightSkill/T_FightHX_Z_B2_UI.T_FightHX_Z_B2_UI\u0000\u0000\u00001\u0000\u0000\u0000幻象.技能.鳞人二阶段技能期间不进CD\u0000\u0000\u0000"
+    },
+    {
+        "Id": 8,
+        "Tag": "行为状态.位置状态.水中",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000t\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconSwimming.SP_IconSwimming\u0000\u0000\u0000\u0000 \u0000\u0000\u0000行为状态.位置状态.水中\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 9,
+        "Tag": "角色.Common.技能通用标识.拉取巨物可用",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000h\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT7.SP_IconT7\u0000\u0000\u0000\u00003\u0000\u0000\u0000角色.Common.技能通用标识.拉取巨物可用\u0000"
+    },
+    {
+        "Id": 10,
+        "Tag": "角色.Common.探索技能.新版控物.抛物线模式",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconAimPre.SP_IconAimPre\u0000\u0000\u0000\u00007\u0000\u0000\u0000角色.Common.探索技能.新版控物.抛物线模式\u0000"
+    }
+]

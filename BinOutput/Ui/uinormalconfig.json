@@ -1,0 +1,34 @@
+[
+    {
+        "ViewName": "DefaultView",
+        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000b\u0000\u0000\u0000DefaultView\u0000"
+    },
+    {
+        "ViewName": "FunctionOpenView",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000FunctionOpenView\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ViewName": "JoinTeamView",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0004\u0000\u0000\u0000\f\u0000\u0000\u0000JoinTeamView\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ViewName": "GuidePictureAndTextView",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0017\u0000\u0000\u0000GuidePictureAndTextView\u0000"
+    },
+    {
+        "ViewName": "GuideTutorialView",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0011\u0000\u0000\u0000GuideTutorialView\u0000\u0000\u0000"
+    },
+    {
+        "ViewName": "ChapterStartFloatTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0015\u0000\u0000\u0000ChapterStartFloatTips\u0000\u0000\u0000"
+    },
+    {
+        "ViewName": "ChapterEndFloatTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0013\u0000\u0000\u0000ChapterEndFloatTips\u0000"
+    },
+    {
+        "ViewName": "MonthCardRewardView",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0013\u0000\u0000\u0000MonthCardRewardView\u0000"
+    }
+]

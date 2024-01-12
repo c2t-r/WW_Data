@@ -1,0 +1,14 @@
+[
+    {
+        "Id": 1,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000 \u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0011\u0000\u0000\u0000Text_AllMail_Text\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiMail/Atlas/SP_MailTabAll.SP_MailTabAll\u0000\u0000\u0000"
+    },
+    {
+        "Id": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0017\u0000\u0000\u0000Text_ImportantMail_Text\u0000G\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiMail/Atlas/SP_MailTabUnread.SP_MailTabUnread\u0000"
+    },
+    {
+        "Id": 3,
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000Text_UnReadMail_Text\u0000\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiMail/Atlas/SP_MailTabRead.SP_MailTabRead\u0000"
+    }
+]
