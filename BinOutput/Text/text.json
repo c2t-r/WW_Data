@@ -4898,5 +4898,13 @@
     {
         "Id": "Condition_13000015_Description",
         "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000Condition_13000015_Description\u0000\u0000\u001e\u0000\u0000\u0000Condition_13000015_Description\u0000\u0000"
+    },
+    {
+        "Id": "CannotFindTarget",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0010\u0000\u0000\u0000CannotFindTarget\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000CannotFindTarget\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "OverSeaServerLv",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0019\u0000\u0000\u0000Text_OverSeaServerLv_text\u0000\u0000\u0000\u000f\u0000\u0000\u0000OverSeaServerLv\u0000"
     }
 ]

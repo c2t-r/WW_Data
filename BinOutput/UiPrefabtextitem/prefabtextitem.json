@@ -4245,39 +4245,9 @@
         "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u001c\u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000��L�\u0000\u0000\u0000\u0000\u0016~;�\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000PrefabTextItem_3686660709_Text\u0000\u0000/\u0000\u0000\u0000UiItem_TeamRoleSlot_Prefab/Online/UITextActor53\u0000"
     },
     {
-        "ItemId": 3163617890,
-        "PrefabPathHash": 2437740955,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000��L�\u0000\u0000\u0000\u0000b���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000PrefabTextItem_3163617890_Text\u0000\u0000:\u0000\u0000\u0000UiItem_TeamRoleSlot_Prefab/State1/Conflict/3/UITextActor48\u0000\u0000"
-    },
-    {
-        "ItemId": 3133029236,
-        "PrefabPathHash": 2437740955,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000��L�\u0000\u0000\u0000\u0000t;��\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000PrefabTextItem_3133029236_Text\u0000\u00009\u0000\u0000\u0000UiItem_TeamRoleSlot_Prefab/State1/DengDai/2/UITextActor48\u0000\u0000\u0000"
-    },
-    {
-        "ItemId": 1966978125,
-        "PrefabPathHash": 2437740955,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u001c\u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000��L�\u0000\u0000\u0000\u0000M�=u\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000PrefabTextItem_1966978125_Text\u0000\u00004\u0000\u0000\u0000UiItem_TeamRoleSlot_Prefab/State1/Die1/UITextActor50\u0000\u0000\u0000\u0000"
-    },
-    {
-        "ItemId": 1698897580,
-        "PrefabPathHash": 2437740955,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000��L�\u0000\u0000\u0000\u0000�\u001eCe\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000PrefabTextItem_1698897580_Text\u0000\u00008\u0000\u0000\u0000UiItem_TeamRoleSlot_Prefab/State1/LiXian/2/UITextActor48\u0000\u0000\u0000\u0000"
-    },
-    {
-        "ItemId": 3737437354,
-        "PrefabPathHash": 2437740955,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u001c\u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000��L�\u0000\u0000\u0000\u0000����\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000PrefabTextItem_1180726482_Text\u0000\u00007\u0000\u0000\u0000UiItem_TeamRoleSlot_Prefab/State1/PiPei/2/UITextActor48\u0000"
-    },
-    {
         "ItemId": 1692157747,
         "PrefabPathHash": 2437740955,
         "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000��L�\u0000\u0000\u0000\u00003G�d\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000PrefabTextItem_1692157747_Text\u0000\u00009\u0000\u0000\u0000UiItem_TeamRoleSlot_Prefab/State1/Prepare/1/UITextActor48\u0000\u0000\u0000"
-    },
-    {
-        "ItemId": 173619242,
-        "PrefabPathHash": 2437740955,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000��L�\u0000\u0000\u0000\u0000*8Y\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000PrefabTextItem_173619242_Text\u0000\u0000\u00009\u0000\u0000\u0000UiItem_TeamRoleSlot_Prefab/State1/WaitFor/2/UITextActor48\u0000\u0000\u0000"
     },
     {
         "ItemId": 3240589818,
@@ -16210,11 +16180,6 @@
         "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u001c\u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0018\u0000\u0000\u00004\u0000\u0000\u0000��^�\u0000\u0000\u0000\u0000�\u00054\u0015\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000PrefabTextItem_Default_Text\u0000#\u0000\u0000\u0000UiView_LoginLogo/PnlFull/TxtLoading\u0000"
     },
     {
-        "ItemId": 3035949705,
-        "PrefabPathHash": 2437740955,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000��L�\u0000\u0000\u0000\u0000����\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001f\u0000\u0000\u0000PrefabTextItem_3035949705 _Text\u0000:\u0000\u0000\u0000UiItem_TeamRoleSlot_Prefab/State1/Entering/2/UITextActor48\u0000\u0000"
-    },
-    {
         "ItemId": 997824479,
         "PrefabPathHash": 0,
         "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0014\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u0000ߗy;\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000PrefabTextItem_Default_Text\u0000A\u0000\u0000\u0000UiItem_WorldPosition_Prefab/ItemRoot/HeadState/Txtlayout/Txt_Name\u0000\u0000\u0000"
@@ -20313,21 +20278,6 @@
         "ItemId": 3589122930,
         "PrefabPathHash": 3662311335,
         "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u001c\u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000�oJ�\u0000\u0000\u0000\u0000r���\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000PrefabTextItem_3589122930_Text\u0000\u00006\u0000\u0000\u0000UiView_DailyTowerReview/UiItem_LayerUi_Prefab/TxtTitle\u0000\u0000"
-    },
-    {
-        "ItemId": 1439574937,
-        "PrefabPathHash": 2437740955,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u00008\u0000\u0000\u0000��L�\u0000\u0000\u0000\u0000�+�U\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000PrefabTextItem_Default_Text\u0000O\u0000\u0000\u0000UiItem_TeamRoleSlot_Prefab/UiItem_RoleDetail/PnlEnergy/PnlChange/PnlLeft/TxtNum\u0000"
-    },
-    {
-        "ItemId": 1677655910,
-        "PrefabPathHash": 2437740955,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u00008\u0000\u0000\u0000��L�\u0000\u0000\u0000\u0000f��c\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000PrefabTextItem_Default_Text\u0000T\u0000\u0000\u0000UiItem_TeamRoleSlot_Prefab/UiItem_RoleDetail/PnlEnergy/PnlChange/PnlRight/TxtNextNum\u0000\u0000\u0000\u0000"
-    },
-    {
-        "ItemId": 325327212,
-        "PrefabPathHash": 2437740955,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u001c\u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000��L�\u0000\u0000\u0000\u0000l\u0019d\u0013\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000PrefabTextItem_325327212_Text\u0000\u0000\u0000D\u0000\u0000\u0000UiItem_TeamRoleSlot_Prefab/UiItem_RoleDetail/PnlEnergy/PnlRed/TxtRed\u0000\u0000\u0000\u0000"
     },
     {
         "ItemId": 2788616159,
@@ -24715,11 +24665,6 @@
         "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u00008\u0000\u0000\u0000�\r]5\u0000\u0000\u0000\u0000�$\n-\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000PrefabTextItem_Default_Text\u0000t\u0000\u0000\u0000UiView_CookingCommon/UiItem_LayerUi_Prefab/UiItem_CommonArticleTipsStroe/PnlVertical/SvInfo/Viewport/Content/TxtType\u0000\u0000\u0000\u0000"
     },
     {
-        "ItemId": 1875692031,
-        "PrefabPathHash": 2472636585,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000�pa�\u0000\u0000\u0000\u0000���o\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000PrefabTextItem_1875692031_Text\u0000\u0000*\u0000\u0000\u0000UiItem_BattlePass/PnlInfo/PnlTmpTip/TxtTmp\u0000\u0000"
-    },
-    {
         "ItemId": 2531848691,
         "PrefabPathHash": 1917929021,
         "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000=FQr\u0000\u0000\u0000\u0000���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000PrefabTextItem_2531848691_Text\u0000\u0000\u001a\u0000\u0000\u0000UiItem_BtnReward/TxtRevice\u0000\u0000"
@@ -24772,6 +24717,16 @@
     {
         "ItemId": 3925864990,
         "PrefabPathHash": 4076698753,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u00008\u0000\u0000\u0000�|��\u0000\u0000\u0000\u0000\u001e���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000PrefabTextItem_Default_Text\u0000o\u0000\u0000\u0000PC_UiView_VisionAtlas_Prefab/UiView_VisionAtlas_Prefab/UiItem_LayerUi/UiItem_VisionAtlas2/UiItem_LayerUi/TxtTmp\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u001c\u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0018\u0000\u0000\u0000@\u0000\u0000\u0000�|��\u0000\u0000\u0000\u0000\u001e���\u0000\u0000\u0000\u0000$\u0000\u0000\u0000PrefabTextItem_PhantomFetterTip_Text\u0000\u0000\u0000\u0000o\u0000\u0000\u0000PC_UiView_VisionAtlas_Prefab/UiView_VisionAtlas_Prefab/UiItem_LayerUi/UiItem_VisionAtlas2/UiItem_LayerUi/TxtTmp\u0000"
+    },
+    {
+        "ItemId": 1969970335,
+        "PrefabPathHash": 3162240894,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u001c\u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0018\u0000\u0000\u00004\u0000\u0000\u0000~�{�\u0000\u0000\u0000\u0000�\\ku\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000PrefabTextItem_Default_Text\u0000)\u0000\u0000\u0000PC_UiView_Fight_Prefab/PnlPosition/TxtPos\u0000\u0000\u0000"
+    },
+    {
+        "ItemId": 502887035,
+        "PrefabPathHash": 4084737680,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000 \u0000\u0014\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u001c\u0000\u0000\u00008\u0000\u0000\u0000�&x�\u0000\u0000\u0000\u0000{r�\u001d\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000PrefabTextItem_Default_Text\u0000&\u0000\u0000\u0000UiView_Fight_Prefab/PnlPosition/TxtPos\u0000\u0000"
     }
 ]

@@ -1001,7 +1001,7 @@
     },
     {
         "KeyName": "ManipulatableItemSearchRange",
-        "BinData": "`\t\u0000\u0000"
+        "BinData": "�\u0013\u0000\u0000"
     },
     {
         "KeyName": "ManipulateDontUseLineDistance",
@@ -1937,7 +1937,7 @@
     },
     {
         "KeyName": "LivenessTaskCount",
-        "BinData": "\u0006\u0000\u0000\u0000"
+        "BinData": "\u0007\u0000\u0000\u0000"
     },
     {
         "KeyName": "CommunicateViewCloseTime",
@@ -2329,7 +2329,7 @@
     },
     {
         "KeyName": "RoguelikeRoomFloatTips_NoHeadIcon",
-        "BinData": "G\u0000\u0000\u0000/Game/Aki/UI/UIEditor/UiTips/Atlas/、SP_RogueBossIcon.SP_RogueBossIcon"
+        "BinData": "G\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Atlas/SP_RogueBossIcon.SP_RogueBossIcon"
     },
     {
         "KeyName": "MonthCardRewardId",
@@ -2749,7 +2749,7 @@
     },
     {
         "KeyName": "BlockPay",
-        "BinData": "\u0001"
+        "BinData": "\u0000"
     },
     {
         "KeyName": "PrimaryBattlePassGiftPack",

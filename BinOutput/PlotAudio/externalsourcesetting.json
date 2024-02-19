@@ -5,6 +5,6 @@
     },
     {
         "Id": "normal_3d",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000 \u0000\u0000\u0000t\u0000\u0000\u0000\u0013\u0000\u0000\u0000external_plot_voice\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_external_vo_normal_3d.play_external_vo_normal_3d\u0000\u0000\u0000\t\u0000\u0000\u0000normal_3d\u0000\u0000\u0000"
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000|\u0000\u0000\u0000\u001a\u0000\u0000\u0000external_plot_voice_bubble\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_external_vo_normal_3d.play_external_vo_normal_3d\u0000\u0000\u0000\t\u0000\u0000\u0000normal_3d\u0000\u0000\u0000"
     }
 ]
