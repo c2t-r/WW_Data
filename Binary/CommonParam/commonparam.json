@@ -129,7 +129,7 @@
     },
     {
         "KeyName": "item_list_max_size",
-        "BinData": "\u0003\u0000\u0000\u0000"
+        "BinData": "\u0002\u0000\u0000\u0000"
     },
     {
         "KeyName": "drop_height_protect",
@@ -161,7 +161,7 @@
     },
     {
         "KeyName": "world_level_change_cd",
-        "BinData": "�Q\u0001\u0000"
+        "BinData": "��\u0000\u0000"
     },
     {
         "KeyName": "additem_accumulate_initialtime",
@@ -193,7 +193,7 @@
     },
     {
         "KeyName": "npcicon_location_offsetz",
-        "BinData": "\n\u0000\u0000\u0000"
+        "BinData": "\u0000\u0000\u0000\u0000"
     },
     {
         "KeyName": "marquee_speed",
@@ -341,7 +341,7 @@
     },
     {
         "KeyName": "chat_show",
-        "BinData": "\u0014\u0000\u0000\u0000"
+        "BinData": "2\u0000\u0000\u0000"
     },
     {
         "KeyName": "chat_shield",
@@ -409,7 +409,7 @@
     },
     {
         "KeyName": "world_level_enter_diff",
-        "BinData": "\u0002\u0000\u0000\u0000"
+        "BinData": "\u0000\u0000\u0000\u0000"
     },
     {
         "KeyName": "world_lobby_extract_count",
@@ -733,7 +733,7 @@
     },
     {
         "KeyName": "negative_money_type",
-        "BinData": "\u0005\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0004\u0000\u0000\u0000Q�\u0000\u0000R�\u0000\u0000"
+        "BinData": "\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0004\u0000\u0000\u0000Q�\u0000\u0000R�\u0000\u0000U�\u0000\u0000"
     },
     {
         "KeyName": "ComStateShowDistance",
@@ -1301,7 +1301,7 @@
     },
     {
         "KeyName": "RoleTrainingDegreeNormal",
-        "BinData": "p\u0017\u0000\u0000"
+        "BinData": "@\u001f\u0000\u0000"
     },
     {
         "KeyName": "HighDangerColor",
@@ -1445,7 +1445,7 @@
     },
     {
         "KeyName": "LiufangzheWeaponDiscardRate",
-        "BinData": "�\u0005\u0000\u0000"
+        "BinData": "\u0000\u0000\u0000\u0000"
     },
     {
         "KeyName": "be_controlled_tag_name",
@@ -1629,7 +1629,7 @@
     },
     {
         "KeyName": "PlayerHeadStateHpColor",
-        "BinData": "\u0006\u0000\u0000\u000036cd33"
+        "BinData": "\u0006\u0000\u0000\u00007ac769"
     },
     {
         "KeyName": "MonsterHeadStateHpColor",
@@ -1637,7 +1637,7 @@
     },
     {
         "KeyName": "CommonFriendHeadStateHpColor",
-        "BinData": "\u0006\u0000\u0000\u000036cd33"
+        "BinData": "\u0006\u0000\u0000\u00007ac769"
     },
     {
         "KeyName": "LiuFangZheEnemyHeadStateHpColor",
@@ -1645,11 +1645,11 @@
     },
     {
         "KeyName": "LiuFangZheFriendHeadStateHpColor",
-        "BinData": "\u0006\u0000\u0000\u000036cd33"
+        "BinData": "\u0006\u0000\u0000\u00007ac769"
     },
     {
         "KeyName": "AttackAnimyHeadStateHpColor",
-        "BinData": "\u0006\u0000\u0000\u000036cd33"
+        "BinData": "\u0006\u0000\u0000\u00007ac769"
     },
     {
         "KeyName": "UnAttackAnimyHeadStateHpColor",
@@ -1825,7 +1825,7 @@
     },
     {
         "KeyName": "AutoLongPressTime",
-        "BinData": "�\u0002\u0000\u0000"
+        "BinData": "�\u0000\u0000\u0000"
     },
     {
         "KeyName": "ActiveInteractGuideCount",
@@ -1937,11 +1937,11 @@
     },
     {
         "KeyName": "LivenessTaskCount",
-        "BinData": "\u0007\u0000\u0000\u0000"
+        "BinData": "\b\u0000\u0000\u0000"
     },
     {
         "KeyName": "CommunicateViewCloseTime",
-        "BinData": "�\u0013\u0000\u0000"
+        "BinData": "@\u001f\u0000\u0000"
     },
     {
         "KeyName": "LivenessItemId",
@@ -2009,11 +2009,11 @@
     },
     {
         "KeyName": "VisionHighRare",
-        "BinData": "\u0002\u0000\u0000\u0000"
+        "BinData": "\u0001\u0000\u0000\u0000"
     },
     {
         "KeyName": "VisionHighLevel",
-        "BinData": "\n\u0000\u0000\u0000"
+        "BinData": "\t\u0000\u0000\u0000"
     },
     {
         "KeyName": "MatControllerDAPath",
@@ -2021,7 +2021,7 @@
     },
     {
         "KeyName": "ComposeEnterStateId",
-        "BinData": "\n\u0000\u0000\u0000"
+        "BinData": "\r\u0000\u0000\u0000"
     },
     {
         "KeyName": "ComposeEnterFlowId",
@@ -2029,7 +2029,7 @@
     },
     {
         "KeyName": "ComposeSuccessStateId",
-        "BinData": "\n\u0000\u0000\u0000"
+        "BinData": "\r\u0000\u0000\u0000"
     },
     {
         "KeyName": "ComposeSuccessFlowId",
@@ -2037,7 +2037,7 @@
     },
     {
         "KeyName": "ComposeFailStateId",
-        "BinData": "\n\u0000\u0000\u0000"
+        "BinData": "\r\u0000\u0000\u0000"
     },
     {
         "KeyName": "ComposeFailFlowId",
@@ -2045,7 +2045,7 @@
     },
     {
         "KeyName": "ForgingEnterStateId",
-        "BinData": "\n\u0000\u0000\u0000"
+        "BinData": "\r\u0000\u0000\u0000"
     },
     {
         "KeyName": "ForgingEnterFlowId",
@@ -2053,7 +2053,7 @@
     },
     {
         "KeyName": "ForgingSuccessStateId",
-        "BinData": "\n\u0000\u0000\u0000"
+        "BinData": "\r\u0000\u0000\u0000"
     },
     {
         "KeyName": "ForgingSuccessFlowId",
@@ -2061,7 +2061,7 @@
     },
     {
         "KeyName": "ForgingFailStateId",
-        "BinData": "\n\u0000\u0000\u0000"
+        "BinData": "\r\u0000\u0000\u0000"
     },
     {
         "KeyName": "ForgingFailFlowId",
@@ -2069,27 +2069,27 @@
     },
     {
         "KeyName": "ComposeEnterFlowListName",
-        "BinData": "\u0010\u0000\u0000\u0000剧情_系统NPC"
+        "BinData": "!\u0000\u0000\u0000剧情_天城生态_NPC_研究院"
     },
     {
         "KeyName": "ComposeSuccessFlowListName",
-        "BinData": "\u0010\u0000\u0000\u0000剧情_系统NPC"
+        "BinData": "!\u0000\u0000\u0000剧情_天城生态_NPC_研究院"
     },
     {
         "KeyName": "ComposeFailFlowListName",
-        "BinData": "\u0010\u0000\u0000\u0000剧情_系统NPC"
+        "BinData": "!\u0000\u0000\u0000剧情_天城生态_NPC_研究院"
     },
     {
         "KeyName": "ForgingEnterFlowListName",
-        "BinData": "\u0010\u0000\u0000\u0000剧情_系统NPC"
+        "BinData": "!\u0000\u0000\u0000剧情_天城生态_NPC_研究院"
     },
     {
         "KeyName": "ForgingSuccessFlowListName",
-        "BinData": "\u0010\u0000\u0000\u0000剧情_系统NPC"
+        "BinData": "!\u0000\u0000\u0000剧情_天城生态_NPC_研究院"
     },
     {
         "KeyName": "ForgingFailFlowListName",
-        "BinData": "\u0010\u0000\u0000\u0000剧情_系统NPC"
+        "BinData": "!\u0000\u0000\u0000剧情_天城生态_NPC_研究院"
     },
     {
         "KeyName": "BattlePassSettleMailMaxTime",
@@ -2125,11 +2125,11 @@
     },
     {
         "KeyName": "VisionScrollerOffsetX",
-        "BinData": "\u0000\u0000\u0000\u0000"
+        "BinData": "����"
     },
     {
         "KeyName": "VisionScrollerOffsetY",
-        "BinData": "@\r\u0003\u0000"
+        "BinData": "��\u0010\u0000"
     },
     {
         "KeyName": "VisionScrollerOffsetXDir",
@@ -2249,7 +2249,7 @@
     },
     {
         "KeyName": "GmViewPath",
-        "BinData": "8\u0000\u0000\u0000/Game/NotInFinalPackage/UI/GmOrder_Prefab.GmOrder_Prefab"
+        "BinData": "9\u0000\u0000\u0000/Game/Aki/UI/UIResources/gm/GmOrder_Prefab.GmOrder_Prefab"
     },
     {
         "KeyName": "NewMailGap",
@@ -2453,7 +2453,7 @@
     },
     {
         "KeyName": "phantom_identify_return_ratio",
-        "BinData": "\u0000\u0000\u0000\u0000"
+        "BinData": "�\u000b\u0000\u0000"
     },
     {
         "KeyName": "SpecialEnergyBarInfoPath",
@@ -2641,7 +2641,7 @@
     },
     {
         "KeyName": "YeguiHeadStateHpColor",
-        "BinData": "\u0006\u0000\u0000\u000036cd33"
+        "BinData": "\u0006\u0000\u0000\u00007ac769"
     },
     {
         "KeyName": "buff_consumer_tag_name",
@@ -2754,5 +2754,417 @@
     {
         "KeyName": "PrimaryBattlePassGiftPack",
         "BinData": "-\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "RegionNameList",
+        "BinData": "\u0007\u0000\u0000\u0000\u0007\u0000\u0000\u0000Default\u0005\u0000\u0000\u0000China\u0006\u0000\u0000\u0000Europe\u0004\u0000\u0000\u0000Asia\u0003\u0000\u0000\u0000SEA\u0003\u0000\u0000\u0000HMT\u0007\u0000\u0000\u0000America"
+    },
+    {
+        "KeyName": "TowerGuideDelayTime",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "CookRefreshTimeId",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ForgeRefreshTimeId",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "SynthesisRefreshTimeId",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MovementDirectionDistanceMin",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MovementDirectionDistanceMax",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "MovementDirectionAngleThreshold",
+        "BinData": "-\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "PermissionRequestsTimeId",
+        "BinData": "\u0000�\u0002\u0000"
+    },
+    {
+        "KeyName": "FKHitForceFeedbackPath",
+        "BinData": "V\u0000\u0000\u0000/Game/Aki/Character/Role/Common/Data/GamePadShake/BasicShake/FF_Basic_Lv1.FF_Basic_Lv1"
+    },
+    {
+        "KeyName": "LightHitForceFeedbackPath",
+        "BinData": "V\u0000\u0000\u0000/Game/Aki/Character/Role/Common/Data/GamePadShake/BasicShake/FF_Basic_Lv3.FF_Basic_Lv3"
+    },
+    {
+        "KeyName": "HeavyHitForceFeedbackPath",
+        "BinData": "V\u0000\u0000\u0000/Game/Aki/Character/Role/Common/Data/GamePadShake/BasicShake/FF_Basic_Lv5.FF_Basic_Lv5"
+    },
+    {
+        "KeyName": "RoleFadeInDuration",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "RoleFadeOutDuration",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "MonsterFadeInDuration",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "MonsterFadeOutDuration",
+        "BinData": "�\u0003\u0000\u0000"
+    },
+    {
+        "KeyName": "MapDragInertiaTime",
+        "BinData": "@\u001f\u0000\u0000"
+    },
+    {
+        "KeyName": "MapMarkSelectedAdditionScale",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "WorldLevelBreakthroughTask",
+        "BinData": "\u0003\u0000\u0000\u0000\u0001�s4\u0002�s4\u0003�s4"
+    },
+    {
+        "KeyName": "ai_far_away_distance_check",
+        "BinData": "\u0019\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ai_switch_cd_for_distance",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "ManipulateInteractBuffId",
+        "BinData": "ī%&"
+    },
+    {
+        "KeyName": "ManipulateInteractEffectPath",
+        "BinData": "h\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/Common/PullHook/DA_Fx_Group_Sl2_PullHook_Pull.DA_Fx_Group_Sl2_PullHook_Pull"
+    },
+    {
+        "KeyName": "ExpConversionCount",
+        "BinData": "^\u0001\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "WeaponStrengthenExpCost",
+        "BinData": "�\u0003\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "PhantomLevelUpCoinCost",
+        "BinData": "�\u0001\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "PhantomExpReturnRatio",
+        "BinData": "�\u0002\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "PhantomIdentifyReturnRatio",
+        "BinData": ",\u0001\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "TeleportRatingRange",
+        "BinData": "0u\u0000\u0000"
+    },
+    {
+        "KeyName": "PhantomSkinChangeCd",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "PayRefundMailId",
+        "BinData": "A\r\u0003\u0000"
+    },
+    {
+        "KeyName": "ReplenishmentMailId",
+        "BinData": "B\r\u0003\u0000"
+    },
+    {
+        "KeyName": "ManipulateInteractBuffId_MaleXL",
+        "BinData": "ū%&"
+    },
+    {
+        "KeyName": "MowingMark",
+        "BinData": "r�\u0005\u0000"
+    },
+    {
+        "KeyName": "MowingMarkType",
+        "BinData": "\u0006\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ReplenishmentTime",
+        "BinData": "\u001e\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "Magnification",
+        "BinData": "\r\u0000\u0000\u0000Magnification"
+    },
+    {
+        "KeyName": "Totalpoints",
+        "BinData": "\u000b\u0000\u0000\u0000Totalpoints"
+    },
+    {
+        "KeyName": "CookCost",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ComposeCost",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ForgingCost",
+        "BinData": "\u0002\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "DurabilityHitDelayTime",
+        "BinData": "\u0000\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "DurabilityHitBufferDisappearTime",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionCostColorBase",
+        "BinData": "\u0006\u0000\u0000\u0000AA9B6A"
+    },
+    {
+        "KeyName": "VisionCostColorFull",
+        "BinData": "\u0006\u0000\u0000\u0000FFE89D"
+    },
+    {
+        "KeyName": "VisionCostColorAlert",
+        "BinData": "\u0006\u0000\u0000\u0000FF3535"
+    },
+    {
+        "KeyName": "VisionUnlockDelayTime",
+        "BinData": "�\u0006\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionUnlockDisplayTime",
+        "BinData": "�\u000f\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionIdentifyAnimationTime",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "TimeOfDaySecondMiddleOffsetCurve",
+        "BinData": "Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTime/Curve/TimeOfDayOffsetXCurve.TimeOfDayOffsetXCurve"
+    },
+    {
+        "KeyName": "ChooseRoleTabDelayDuration",
+        "BinData": "J\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "AbnormalDamageRoleRatio",
+        "BinData": "O\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "MaxClientId",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "FullEnergyPushTitle",
+        "BinData": "\r\u0000\u0000\u0000Mail_4_Sender"
+    },
+    {
+        "KeyName": "FullEnergyPushContent",
+        "BinData": "\f\u0000\u0000\u0000Mail_4_Title"
+    },
+    {
+        "KeyName": "FullEnergyPushTime",
+        "BinData": "\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000\u0018\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "AreaTipsShowCd",
+        "BinData": "\u0010'\u0000\u0000"
+    },
+    {
+        "KeyName": "KurobbsSignMailId",
+        "BinData": "\u0004\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "KurobbsVerifyCodeMailId",
+        "BinData": "\u0004\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "KurobbsFirstBindMailId",
+        "BinData": "\u0004\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "KurobbsFirstBindReward",
+        "BinData": "\u0001\u0000\u0000\u0000\u0003\u0000\u0000\u0000x\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "PayRefundMailContent",
+        "BinData": "\u000f\u0000\u0000\u0000ItemInfo_4_Name"
+    },
+    {
+        "KeyName": "ReplenishmentMailContent",
+        "BinData": "\u000f\u0000\u0000\u0000ItemInfo_4_Name"
+    },
+    {
+        "KeyName": "CashCoinTextId",
+        "BinData": "\u000f\u0000\u0000\u0000ItemInfo_4_Name"
+    },
+    {
+        "KeyName": "RareCoinTextId",
+        "BinData": "\u000f\u0000\u0000\u0000ItemInfo_3_Name"
+    },
+    {
+        "KeyName": "GmLoginViewPath",
+        "BinData": "C\u0000\u0000\u0000/Game/Aki/UI/UIResources/gm/UiView_Login_Prefab.UiView_Login_Prefab"
+    },
+    {
+        "KeyName": "BattleSettlementTime",
+        "BinData": "`m\u0000\u0000"
+    },
+    {
+        "KeyName": "BattleSettlementAudioEvent",
+        "BinData": "\u001b\u0000\u0000\u0000play_role_com_char_finalhit"
+    },
+    {
+        "KeyName": "ActivitySettleMail",
+        "BinData": "\t\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ActivitySettleDay",
+        "BinData": "\u001e\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "AiInformationRequestParamArrayLimit",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "AiBlackboardCdRequestParamArrayLimit",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "KuroBbsSignCheckDay",
+        "BinData": "\u0001\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "KuroBbsLateSignDay",
+        "BinData": " \u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "AdviceContentLength",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "BattleSettlementTimeScaleRadius",
+        "BinData": "�\u000b\u0000\u0000"
+    },
+    {
+        "KeyName": "BattleSettlementTimeScaleDuration",
+        "BinData": "�a\u0000\u0000"
+    },
+    {
+        "KeyName": "BattleSettlementTimeScalePriority",
+        "BinData": "P\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "BattleSettlementTimeDilation",
+        "BinData": "�\u0001\u0000\u0000"
+    },
+    {
+        "KeyName": "PhantomRefiningCount",
+        "BinData": "\u0005\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "IntensifyCaptureGuarantee",
+        "BinData": "\u000f\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionRecoveryPreviewRewardDropId",
+        "BinData": "�*\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionMainAttributeSortArray",
+        "BinData": "\u000e\u0000\u0000\u0000\u0006\u0000\u0000\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\r\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionMainPercentageAttributeSortArray",
+        "BinData": "\u0003\u0000\u0000\u0000\u0007\u0000\u0000\u0000\t\u0000\u0000\u0000\u000b\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionSubAttributeSortArray",
+        "BinData": "\u000e\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionSubPercentageAttributeSortArray",
+        "BinData": "\u0003\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "RoguelikeSettle_S_Bar_Sprite",
+        "BinData": "F\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRogue/Atlas/SP_AccountsSBar.SP_AccountsSBar"
+    },
+    {
+        "KeyName": "RoguelikeSettle_A_Bar_Sprite",
+        "BinData": "F\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRogue/Atlas/SP_AccountsABar.SP_AccountsABar"
+    },
+    {
+        "KeyName": "RoguelikeSettle_B_Bar_Sprite",
+        "BinData": "F\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRogue/Atlas/SP_AccountsBBar.SP_AccountsBBar"
+    },
+    {
+        "KeyName": "RoguelikeSettle_C_Bar_Sprite",
+        "BinData": "F\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRogue/Atlas/SP_AccountsCBar.SP_AccountsCBar"
+    },
+    {
+        "KeyName": "LowShake",
+        "BinData": "2\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "MiddleShake",
+        "BinData": "d\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "HighShake",
+        "BinData": "�\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ExpDisplayTime",
+        "BinData": "�\u0004\u0000\u0000"
+    },
+    {
+        "KeyName": "VisionFilterSpriteCost1",
+        "BinData": "B\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiInventory/Image/T_SortCost1.T_SortCost1"
+    },
+    {
+        "KeyName": "VisionFilterSpriteCost3",
+        "BinData": "B\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiInventory/Image/T_SortCost3.T_SortCost3"
+    },
+    {
+        "KeyName": "VisionFilterSpriteCost4",
+        "BinData": "B\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiInventory/Image/T_SortCost4.T_SortCost4"
+    },
+    {
+        "KeyName": "ExpDisplayCloseTime",
+        "BinData": "�\u0004\u0000\u0000"
+    },
+    {
+        "KeyName": "WorldLevelDisplayTime",
+        "BinData": "�\u0007\u0000\u0000"
+    },
+    {
+        "KeyName": "SoundBoxItemId",
+        "BinData": "A�b\u0002"
+    },
+    {
+        "KeyName": "GachaPoolUrlLanguage",
+        "BinData": "\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\n\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "BBsTreasureBoxMoneyType",
+        "BinData": "\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\n\u0000\u0000\u0000\u0014\u0000\u0000\u0000(\u0000\u0000\u0000"
+    },
+    {
+        "KeyName": "ShareGap",
+        "BinData": "\u0003\u0000\u0000\u0000"
     }
 ]

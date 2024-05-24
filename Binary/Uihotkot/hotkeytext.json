@@ -290,5 +290,97 @@
     {
         "TextId": "ChatTips",
         "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0018\u0000\u0000\u0000HotKeyText_ChatTips_Name\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000ChatTips\u0000\u0000\u0000\u0000"
+    },
+    {
+        "TextId": "EnvironmentBuffTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000,\u0000\u0000\u0000#\u0000\u0000\u0000HotKeyText_EnvironmentBuffTips_Name\u0000\u0013\u0000\u0000\u0000EnvironmentBuffTips\u0000"
+    },
+    {
+        "TextId": "ContrastTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001c\u0000\u0000\u0000HotKeyText_ContrastTips_Name\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000ContrastTips\u0000\u0000\u0000\u0000"
+    },
+    {
+        "TextId": "PreviewTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u001b\u0000\u0000\u0000HotKeyText_PreviewTips_Name\u0000\u000b\u0000\u0000\u0000PreviewTips\u0000"
+    },
+    {
+        "TextId": "RemoveTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u001a\u0000\u0000\u0000HotKeyText_RemoveTips_Name\u0000\u0000\n\u0000\u0000\u0000RemoveTips\u0000\u0000"
+    },
+    {
+        "TextId": "ScrollTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u001a\u0000\u0000\u0000HotKeyText_ScrollTips_Name\u0000\u0000\n\u0000\u0000\u0000ScrollTips\u0000\u0000"
+    },
+    {
+        "TextId": "ChangeScrollTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000,\u0000\u0000\u0000 \u0000\u0000\u0000HotKeyText_ChangeScrollTips_Name\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000ChangeScrollTips\u0000\u0000\u0000\u0000"
+    },
+    {
+        "TextId": "SkipTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0018\u0000\u0000\u0000HotKeyText_SkipTips_Name\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000SkipTips\u0000\u0000\u0000\u0000"
+    },
+    {
+        "TextId": "DestoryTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000 \u0000\u0000\u0000\u0017\u0000\u0000\u0000HotKeyText_Destory_Name\u0000\u000b\u0000\u0000\u0000DestoryTips\u0000"
+    },
+    {
+        "TextId": "SkillDetailTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001f\u0000\u0000\u0000HotKeyText_SkillDetailTips_Name\u0000\u000f\u0000\u0000\u0000SkillDetailTips\u0000"
+    },
+    {
+        "TextId": "AutoTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0018\u0000\u0000\u0000HotKeyText_AutoTips_Name\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000AutoTips\u0000\u0000\u0000\u0000"
+    },
+    {
+        "TextId": "StopAutoTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001c\u0000\u0000\u0000HotKeyText_StopAutoTips_Name\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000StopAutoTips\u0000\u0000\u0000\u0000"
+    },
+    {
+        "TextId": "HideTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0018\u0000\u0000\u0000HotKeyText_HideTips_Name\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000HideTips\u0000\u0000\u0000\u0000"
+    },
+    {
+        "TextId": "CheckInfoTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001d\u0000\u0000\u0000HotKeyText_CheckInfoTips_Name\u0000\u0000\u0000\r\u0000\u0000\u0000CheckInfoTips\u0000\u0000\u0000"
+    },
+    {
+        "TextId": "VisionSkinTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000HotKeyText_VisionSkinTips_Name\u0000\u0000\u000e\u0000\u0000\u0000VisionSkinTips\u0000\u0000"
+    },
+    {
+        "TextId": "CheckandGetTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001f\u0000\u0000\u0000HotKeyText_CheckandGetTips_Name\u0000\u000f\u0000\u0000\u0000CheckandGetTips\u0000"
+    },
+    {
+        "TextId": "DiscardTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u001b\u0000\u0000\u0000HotKeyText_DiscardTips_Name\u0000\u000b\u0000\u0000\u0000DiscardTips\u0000"
+    },
+    {
+        "TextId": "LongPressSkipTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000,\u0000\u0000\u0000!\u0000\u0000\u0000HotKeyText_LongPressSkipTips_Name\u0000\u0000\u0000\u0011\u0000\u0000\u0000LongPressSkipTips\u0000\u0000\u0000"
+    },
+    {
+        "TextId": "InPutTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0019\u0000\u0000\u0000HotKeyText_InPutTips_Name\u0000\u0000\u0000\t\u0000\u0000\u0000InPutTips\u0000\u0000\u0000"
+    },
+    {
+        "TextId": "AddTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0013\u0000\u0000\u0000HotKeyText_Add_Name\u0000\u0007\u0000\u0000\u0000AddTips\u0000"
+    },
+    {
+        "TextId": "LinkTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0018\u0000\u0000\u0000HotKeyText_LinkTips_Name\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000LinkTips\u0000\u0000\u0000\u0000"
+    },
+    {
+        "TextId": "LoadingNextTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001f\u0000\u0000\u0000HotKeyText_LoadingNextTips_Name\u0000\u000f\u0000\u0000\u0000LoadingNextTips\u0000"
+    },
+    {
+        "TextId": "ResetGameTips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001d\u0000\u0000\u0000HotKeyText_ResetGameTips_Name\u0000\u0000\u0000\r\u0000\u0000\u0000ResetGameTips\u0000\u0000\u0000"
+    },
+    {
+        "TextId": "RefuseTips2",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u001b\u0000\u0000\u0000HotKeyText_RefuseTips2_Name\u0000\u000b\u0000\u0000\u0000RefuseTips2\u0000"
     }
 ]

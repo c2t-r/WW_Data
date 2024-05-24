@@ -1,7 +1,8 @@
 [
     {
         "Id": 1,
-        "Name": 1,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_8_UI.T_IconMonsterPile_8_UI\u0000"
+        "NameStringKey": 1,
+        "Name": 2,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_8_UI.T_IconMonsterPile_8_UI\u0000"
     }
 ]

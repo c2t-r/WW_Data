@@ -41,8 +41,8 @@
     },
     {
         "Id": 9,
-        "Tag": "角色.Common.技能通用标识.拉取巨物可用",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000h\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT7.SP_IconT7\u0000\u0000\u0000\u00003\u0000\u0000\u0000角色.Common.技能通用标识.拉取巨物可用\u0000"
+        "Tag": "角色.Common.技能通用标识.拉取巨物进入范围",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000l\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000T\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconPull.SP_IconPull\u0000\u0000\u0000\u00009\u0000\u0000\u0000角色.Common.技能通用标识.拉取巨物进入范围\u0000\u0000\u0000"
     },
     {
         "Id": 10,

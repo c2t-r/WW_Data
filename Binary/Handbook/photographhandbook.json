@@ -1,32 +1,82 @@
 [
     {
-        "Id": 1,
-        "Type": 1,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000 \u0000\u0000\u0000PhotographHandBook_1_Descrtption\u0000\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_ArchivePhoto_01b_UI.T_ArchivePhoto_01b_UI\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_ArchivePhoto_01a_UI.T_ArchivePhoto_01a_UI\u0000\u0000\u0000\u0019\u0000\u0000\u0000PhotographHandBook_1_Name\u0000\u0000\u0000"
+        "Id": 10,
+        "Type": 100,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000d\u0000\u0000\u0000\n\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_10_Descrtption\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhotoM0206_b.T_StoryPhotoM0206_b\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhotoM0206_a.T_StoryPhotoM0206_a\u0000\u0000\u0000\u001a\u0000\u0000\u0000PhotographHandBook_10_Name\u0000\u0000"
     },
     {
-        "Id": 2,
-        "Type": 2,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000 \u0000\u0000\u0000PhotographHandBook_2_Descrtption\u0000\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_ArchivePhoto_06_UI.T_ArchivePhoto_06_UI\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_ArchivePhoto_06_UI.T_ArchivePhoto_06_UI\u0000\u0019\u0000\u0000\u0000PhotographHandBook_2_Name\u0000\u0000\u0000"
+        "Id": 13,
+        "Type": 100,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000d\u0000\u0000\u0000\r\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_11_Descrtption\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M209_b.T_StoryPhoto_M209_b\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M209_a.T_StoryPhoto_M209_a\u0000\u0000\u0000\u001a\u0000\u0000\u0000PhotographHandBook_11_Name\u0000\u0000"
     },
     {
-        "Id": 3,
-        "Type": 3,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0003\u0000\u0000\u0000 \u0000\u0000\u0000PhotographHandBook_3_Descrtption\u0000\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_ArchivePhoto_02_UI.T_ArchivePhoto_02_UI\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_ArchivePhoto_02_UI.T_ArchivePhoto_02_UI\u0000\u0019\u0000\u0000\u0000PhotographHandBook_3_Name\u0000\u0000\u0000"
+        "Id": 14,
+        "Type": 100,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000d\u0000\u0000\u0000\u000e\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_12_Descrtption\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M01008.T_StoryPhoto_M01008\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M01008.T_StoryPhoto_M01008\u0000\u0000\u0000\u001a\u0000\u0000\u0000PhotographHandBook_12_Name\u0000\u0000"
     },
     {
-        "Id": 4,
-        "Type": 4,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000 \u0000\u0000\u0000PhotographHandBook_4_Descrtption\u0000\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_ArchivePhoto_05b_UI.T_ArchivePhoto_05b_UI\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_ArchivePhoto_05a_UI.T_ArchivePhoto_05a_UI\u0000\u0000\u0000\u0019\u0000\u0000\u0000PhotographHandBook_4_Name\u0000\u0000\u0000"
+        "Id": 16,
+        "Type": 102,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_13_Descrtption\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0211.T_StoryPhoto_M0211\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0211.T_StoryPhoto_M0211\u0000\u001a\u0000\u0000\u0000PhotographHandBook_13_Name\u0000\u0000"
     },
     {
-        "Id": 5,
-        "Type": 5,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0005\u0000\u0000\u0000 \u0000\u0000\u0000PhotographHandBook_5_Descrtption\u0000\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_ArchivePhoto_07_UI.T_ArchivePhoto_07_UI\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_ArchivePhoto_07_UI.T_ArchivePhoto_07_UI\u0000\u0019\u0000\u0000\u0000PhotographHandBook_5_Name\u0000\u0000\u0000"
+        "Id": 17,
+        "Type": 103,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000g\u0000\u0000\u0000\u0011\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_14_Descrtption\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0212.T_StoryPhoto_M0212\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0212.T_StoryPhoto_M0212\u0000\u001a\u0000\u0000\u0000PhotographHandBook_14_Name\u0000\u0000"
     },
     {
-        "Id": 6,
-        "Type": 6,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0006\u0000\u0000\u0000 \u0000\u0000\u0000PhotographHandBook_6_Descrtption\u0000\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_ArchivePhoto_03_UI.T_ArchivePhoto_03_UI\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_ArchivePhoto_03_UI.T_ArchivePhoto_03_UI\u0000\u0019\u0000\u0000\u0000PhotographHandBook_6_Name\u0000\u0000\u0000"
+        "Id": 21,
+        "Type": 104,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000h\u0000\u0000\u0000\u0015\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_15_Descrtption\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0215.T_StoryPhoto_M0215\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0215.T_StoryPhoto_M0215\u0000\u001a\u0000\u0000\u0000PhotographHandBook_15_Name\u0000\u0000"
+    },
+    {
+        "Id": 27,
+        "Type": 105,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000i\u0000\u0000\u0000\u001b\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_16_Descrtption\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhotoM0218.T_StoryPhotoM0218\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhotoM0218.T_StoryPhotoM0218\u0000\u0000\u0000\u001a\u0000\u0000\u0000PhotographHandBook_16_Name\u0000\u0000"
+    },
+    {
+        "Id": 28,
+        "Type": 105,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000i\u0000\u0000\u0000\u001c\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_17_Descrtption\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0219_b.T_StoryPhoto_M0219_b\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0219_a.T_StoryPhoto_M0219_a\u0000\u001a\u0000\u0000\u0000PhotographHandBook_17_Name\u0000\u0000"
+    },
+    {
+        "Id": 29,
+        "Type": 105,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000i\u0000\u0000\u0000\u001d\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_18_Descrtption\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0220.T_StoryPhoto_M0220\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0220.T_StoryPhoto_M0220\u0000\u001a\u0000\u0000\u0000PhotographHandBook_18_Name\u0000\u0000"
+    },
+    {
+        "Id": 31,
+        "Type": 106,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000j\u0000\u0000\u0000\u001f\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_19_Descrtption\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0221.T_StoryPhoto_M0221\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0221.T_StoryPhoto_M0221\u0000\u001a\u0000\u0000\u0000PhotographHandBook_19_Name\u0000\u0000"
+    },
+    {
+        "Id": 36,
+        "Type": 106,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000j\u0000\u0000\u0000$\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_20_Descrtption\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0222_b.T_StoryPhoto_M0222_b\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0222_a.T_StoryPhoto_M0222_a\u0000\u001a\u0000\u0000\u0000PhotographHandBook_20_Name\u0000\u0000"
+    },
+    {
+        "Id": 37,
+        "Type": 106,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000j\u0000\u0000\u0000%\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_21_Descrtption\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0223.T_StoryPhoto_M0223\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0223.T_StoryPhoto_M0223\u0000\u001a\u0000\u0000\u0000PhotographHandBook_21_Name\u0000\u0000"
+    },
+    {
+        "Id": 40,
+        "Type": 106,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000j\u0000\u0000\u0000(\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_22_Descrtption\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0226_b.T_StoryPhoto_M0226_b\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0226_a.T_StoryPhoto_M0226_a\u0000\u001a\u0000\u0000\u0000PhotographHandBook_22_Name\u0000\u0000"
+    },
+    {
+        "Id": 1003,
+        "Type": 1001,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000#\u0000\u0000\u0000PhotographHandBook_1001_Descrtption\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0001.T_StoryPhoto_R0001\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0001.T_StoryPhoto_R0001\u0000\u001c\u0000\u0000\u0000PhotographHandBook_1001_Name\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1004,
+        "Type": 1002,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000#\u0000\u0000\u0000PhotographHandBook_1002_Descrtption\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0004.T_StoryPhoto_R0004\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0004.T_StoryPhoto_R0004\u0000\u001c\u0000\u0000\u0000PhotographHandBook_1002_Name\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 1005,
+        "Type": 1003,
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000#\u0000\u0000\u0000PhotographHandBook_1003_Descrtption\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0006_b.T_StoryPhoto_R0006_b\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0006_a.T_StoryPhoto_R0006_a\u0000\u001c\u0000\u0000\u0000PhotographHandBook_1003_Name\u0000\u0000\u0000\u0000"
     }
 ]

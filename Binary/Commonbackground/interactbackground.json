@@ -17,7 +17,7 @@
     {
         "Id": 1005,
         "ViewName": "ComposeRootView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconSynthesis.SP_BlackIconSynthesis\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconSynthesis.SP_IconSynthesis\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000ComposeRootView\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconSynthesis.SP_BlackIconSynthesis\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconSynthesis.SP_IconSynthesis\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000ComposeRootView\u0000"
     },
     {
         "Id": 1006,
@@ -32,7 +32,7 @@
     {
         "Id": 1008,
         "ViewName": "ForgingRootView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000h\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconForge.SP_BlackIconForge\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconForge.SP_IconForge\u0000\u001e\u0000\u0000\u0000NpcSystemBackground_1008_Title\u0000\u0000\u000f\u0000\u0000\u0000ForgingRootView\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconForge.SP_BlackIconForge\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconForge.SP_IconForge\u0000\u001e\u0000\u0000\u0000NpcSystemBackground_1008_Title\u0000\u0000\u000f\u0000\u0000\u0000ForgingRootView\u0000"
     },
     {
         "Id": 10101,

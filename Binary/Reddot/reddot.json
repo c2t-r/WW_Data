@@ -201,8 +201,8 @@
     },
     {
         "Name": "AchievementCategory",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000AchievementCategory\u0000"
+        "RelativeName": "Achievement",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u000b\u0000\u0000\u0000Achievement\u0000\u0013\u0000\u0000\u0000AchievementCategory\u0000"
     },
     {
         "Name": "AdventureFirstAward",
@@ -298,5 +298,15 @@
         "Name": "FunctionViewQuestBtn",
         "RelativeName": "",
         "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000FunctionViewQuestBtn\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Name": "RoleAttributeTabBreakUp",
+        "RelativeName": "",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000RoleAttributeTabBreakUp\u0000"
+    },
+    {
+        "Name": "Achievement",
+        "RelativeName": "",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000Achievement\u0000"
     }
 ]

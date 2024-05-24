@@ -30,5 +30,13 @@
     {
         "ViewName": "MonthCardRewardView",
         "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0013\u0000\u0000\u0000MonthCardRewardView\u0000"
+    },
+    {
+        "ViewName": "RoleNewJoinView",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000f\u0000\u0000\u0000RoleNewJoinView\u0000"
+    },
+    {
+        "ViewName": "RoleNewJoinTipView",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0012\u0000\u0000\u0000RoleNewJoinTipView\u0000\u0000"
     }
 ]

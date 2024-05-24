@@ -1,5 +1,17 @@
 [
     {
+        "CgId": 101,
+        "CgName": "Start",
+        "GirlOrBoy": 1,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000e\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/M0206/M0206_Mp4.M0206_Mp4\u0000\u0005\u0000\u0000\u0000Start\u0000\u0000\u0000"
+    },
+    {
+        "CgId": 102,
+        "CgName": "Start",
+        "GirlOrBoy": 0,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000X\u0000\u0000\u0000f\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/M0206/M0206_nvzhu_Mp4.M0206_nvzhu_Mp4\u0000\u0005\u0000\u0000\u0000Start\u0000\u0000\u0000"
+    },
+    {
         "CgId": 103,
         "CgName": "C3jinzhoutexie",
         "GirlOrBoy": 1,
@@ -38,19 +50,97 @@
     {
         "CgId": 109,
         "CgName": "C0002",
-        "GirlOrBoy": 2,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000D\u0000\u0000\u0000m\u0000\u0000\u00007\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/C0002/C0002.C0002\u0000\u0005\u0000\u0000\u0000C0002\u0000\u0000\u0000"
-    },
-    {
-        "CgId": 101,
-        "CgName": "Start",
-        "GirlOrBoy": 1,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000e\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/M0206/M0206_Mp4.M0206_Mp4\u0000\u0005\u0000\u0000\u0000Start\u0000\u0000\u0000"
-    },
-    {
-        "CgId": 102,
-        "CgName": "Start",
         "GirlOrBoy": 0,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000X\u0000\u0000\u0000f\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/M0206/M0206_nvzhu_Mp4.M0206_nvzhu_Mp4\u0000\u0005\u0000\u0000\u0000Start\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000D\u0000\u0000\u0000m\u0000\u0000\u00007\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/C0002/C0002.C0002\u0000\u0005\u0000\u0000\u0000C0002\u0000\u0000\u0000"
+    },
+    {
+        "CgId": 110,
+        "CgName": "C0001",
+        "GirlOrBoy": 0,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000D\u0000\u0000\u0000n\u0000\u0000\u00007\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/C0001/C0001.C0001\u0000\u0005\u0000\u0000\u0000C0001\u0000\u0000\u0000"
+    },
+    {
+        "CgId": 111,
+        "CgName": "M0221",
+        "GirlOrBoy": 0,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000D\u0000\u0000\u0000o\u0000\u0000\u00007\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/M0221/M0221.M0221\u0000\u0005\u0000\u0000\u0000M0221\u0000\u0000\u0000"
+    },
+    {
+        "CgId": 112,
+        "CgName": "M0221",
+        "GirlOrBoy": 1,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000D\u0000\u0000\u0000p\u0000\u0000\u00007\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/M0221/M0221.M0221\u0000\u0005\u0000\u0000\u0000M0221\u0000\u0000\u0000"
+    },
+    {
+        "CgId": 113,
+        "CgName": "C0002",
+        "GirlOrBoy": 1,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000D\u0000\u0000\u0000q\u0000\u0000\u00007\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/C0002/C0002.C0002\u0000\u0005\u0000\u0000\u0000C0002\u0000\u0000\u0000"
+    },
+    {
+        "CgId": 114,
+        "CgName": "C0001",
+        "GirlOrBoy": 1,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000D\u0000\u0000\u0000r\u0000\u0000\u00007\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/C0001/C0001.C0001\u0000\u0005\u0000\u0000\u0000C0001\u0000\u0000\u0000"
+    },
+    {
+        "CgId": 115,
+        "CgName": "BLY01",
+        "GirlOrBoy": 0,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000h\u0000\u0000\u0000s\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Function/01/DaPaoPoJieJie/DaPaoPoJieJIe_Mp4.DaPaoPoJieJIe_Mp4\u0000\u0005\u0000\u0000\u0000BLY01\u0000\u0000\u0000"
+    },
+    {
+        "CgId": 116,
+        "CgName": "BLY01",
+        "GirlOrBoy": 1,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000h\u0000\u0000\u0000t\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Function/01/DaPaoPoJieJie/DaPaoPoJieJIe_Mp4.DaPaoPoJieJIe_Mp4\u0000\u0005\u0000\u0000\u0000BLY01\u0000\u0000\u0000"
+    },
+    {
+        "CgId": 117,
+        "CgName": "BLY02",
+        "GirlOrBoy": 0,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000P\u0000\u0000\u0000u\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/M0222/M0222_Nvzhu.M0222_Nvzhu\u0000\u0005\u0000\u0000\u0000BLY02\u0000\u0000\u0000"
+    },
+    {
+        "CgId": 118,
+        "CgName": "BLY02",
+        "GirlOrBoy": 1,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000T\u0000\u0000\u0000v\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/M0222/M0222_Nanzhu.M0222_Nanzhu\u0000\u0000\u0000\u0005\u0000\u0000\u0000BLY02\u0000\u0000\u0000"
+    },
+    {
+        "CgId": 119,
+        "CgName": "ZhongZhiCC",
+        "GirlOrBoy": 0,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000d\u0000\u0000\u0000w\u0000\u0000\u0000V\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Function/01/ZhongZhiCC/ZhongZhiCC_Nvzhu.ZhongZhiCC_Nvzhu\u0000\u0000\n\u0000\u0000\u0000ZhongZhiCC\u0000\u0000"
+    },
+    {
+        "CgId": 120,
+        "CgName": "ZhongZhiCC",
+        "GirlOrBoy": 1,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000h\u0000\u0000\u0000x\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Function/01/ZhongZhiCC/ZhongZhiCC_Nanzhu.ZhongZhiCC_Nanzhu\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000ZhongZhiCC\u0000\u0000"
+    },
+    {
+        "CgId": 121,
+        "CgName": "BeiLuoYe01",
+        "GirlOrBoy": 0,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000`\u0000\u0000\u0000y\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/POI/01/BeiLuoYe01/BeiLuoYe01_Nvzhu.BeiLuoYe01_Nvzhu\u0000\u0000\u0000\n\u0000\u0000\u0000BeiLuoYe01\u0000\u0000"
+    },
+    {
+        "CgId": 122,
+        "CgName": "BeiLuoYe01",
+        "GirlOrBoy": 1,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000`\u0000\u0000\u0000z\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/POI/01/BeiLuoYe01/BeiLuoYe01_Nanzhu.BeiLuoYe01_Nanzhu\u0000\n\u0000\u0000\u0000BeiLuoYe01\u0000\u0000"
+    },
+    {
+        "CgId": 123,
+        "CgName": "M0234",
+        "GirlOrBoy": 0,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000P\u0000\u0000\u0000{\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/M0234/M0234_Nvzhu.M0234_Nvzhu\u0000\u0005\u0000\u0000\u0000M0234\u0000\u0000\u0000"
+    },
+    {
+        "CgId": 124,
+        "CgName": "M0234",
+        "GirlOrBoy": 1,
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000T\u0000\u0000\u0000|\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/Sequence/LevelA_Seq/Main/01/M0234/M0234_Nanzhu.M0234_Nanzhu\u0000\u0000\u0000\u0005\u0000\u0000\u0000M0234\u0000\u0000\u0000"
     }
 ]

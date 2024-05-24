@@ -1,5 +1,17 @@
 [
     {
+        "CaptionId": 1,
+        "CgName": "Start",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\u0001\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_m0206.play_sequence_music_m0206\u0000\u0005\u0000\u0000\u0000Start\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 2,
+        "CgName": "Start",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u0002\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lva_m0206.play_sfx_lva_m0206\u0000\u0000\u0000\u0005\u0000\u0000\u0000Start\u0000\u0000\u0000"
+    },
+    {
         "CaptionId": 3,
         "CgName": "LYSZW",
         "GirlOrBoy": 2,
@@ -13,44 +25,158 @@
     },
     {
         "CaptionId": 5,
-        "CgName": "C0002",
+        "CgName": "LYSZW",
         "GirlOrBoy": 2,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\u0005\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_c0002.play_sequence_music_c0002\u0000\u0005\u0000\u0000\u0000C0002\u0000\u0000\u0000"
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u0005\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_story_r0004.play_vo_story_r0004\u0000\u0005\u0000\u0000\u0000LYSZW\u0000\u0000\u0000"
     },
     {
         "CaptionId": 6,
         "CgName": "C0002",
         "GirlOrBoy": 2,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u0006\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lva_c0002.play_sfx_lva_c0002\u0000\u0000\u0000\u0005\u0000\u0000\u0000C0002\u0000\u0000\u0000"
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\u0006\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_c0002.play_sequence_music_c0002\u0000\u0005\u0000\u0000\u0000C0002\u0000\u0000\u0000"
     },
     {
         "CaptionId": 7,
-        "CgName": "C3jiyanfight",
+        "CgName": "C0002",
         "GirlOrBoy": 2,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u0007\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lva_m0211.play_sfx_lva_m0211\u0000\u0000\u0000\f\u0000\u0000\u0000C3jiyanfight\u0000\u0000\u0000\u0000"
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u0007\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lva_c0002.play_sfx_lva_c0002\u0000\u0000\u0000\u0005\u0000\u0000\u0000C0002\u0000\u0000\u0000"
     },
     {
         "CaptionId": 8,
-        "CgName": "C3jiyanfight",
+        "CgName": "C0002",
         "GirlOrBoy": 2,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\b\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_m0211.play_sequence_music_m0211\u0000\f\u0000\u0000\u0000C3jiyanfight\u0000\u0000\u0000\u0000"
-    },
-    {
-        "CaptionId": 1,
-        "CgName": "Start",
-        "GirlOrBoy": 2,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\u0001\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_m0206.play_sequence_music_m0206\u0000\u0005\u0000\u0000\u0000Start\u0000\u0000\u0000"
-    },
-    {
-        "CaptionId": 2,
-        "CgName": "Start",
-        "GirlOrBoy": 2,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u0002\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lva_m0206.play_sfx_lva_m0206\u0000\u0000\u0000\u0005\u0000\u0000\u0000Start\u0000\u0000\u0000"
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000X\u0000\u0000\u0000\b\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_story_dtm_c0002.play_vo_story_dtm_c0002\u0000\u0005\u0000\u0000\u0000C0002\u0000\u0000\u0000"
     },
     {
         "CaptionId": 9,
+        "CgName": "C3jiyanfight",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\t\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lva_m0211.play_sfx_lva_m0211\u0000\u0000\u0000\f\u0000\u0000\u0000C3jiyanfight\u0000\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 10,
+        "CgName": "C3jiyanfight",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\n\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_m0211.play_sequence_music_m0211\u0000\f\u0000\u0000\u0000C3jiyanfight\u0000\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 11,
+        "CgName": "C3jiyanfight",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u000b\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_story_m0211.play_vo_story_m0211\u0000\f\u0000\u0000\u0000C3jiyanfight\u0000\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 12,
         "CgName": "C3jinzhoutexie",
         "GirlOrBoy": 2,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\t\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lvb_jinzhoutexie.play_sfx_lvb_jinzhoutexie\u0000\u000e\u0000\u0000\u0000C3jinzhoutexie\u0000\u0000"
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\f\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lvb_jinzhoutexie.play_sfx_lvb_jinzhoutexie\u0000\u000e\u0000\u0000\u0000C3jinzhoutexie\u0000\u0000"
+    },
+    {
+        "CaptionId": 13,
+        "CgName": "M0221",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\r\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_m0221.play_sequence_music_m0221\u0000\u0005\u0000\u0000\u0000M0221\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 14,
+        "CgName": "M0221",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u000e\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lva_m0221.play_sfx_lva_m0221\u0000\u0000\u0000\u0005\u0000\u0000\u0000M0221\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 15,
+        "CgName": "C0001",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u000f\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lva_c0001.play_sfx_lva_c0001\u0000\u0000\u0000\u0005\u0000\u0000\u0000C0001\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 16,
+        "CgName": "C0001",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000X\u0000\u0000\u0000\u0010\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_story_dtm_c0001.play_vo_story_dtm_c0001\u0000\u0005\u0000\u0000\u0000C0001\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 17,
+        "CgName": "C0001",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\u0011\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_c0001.play_sequence_music_c0001\u0000\u0005\u0000\u0000\u0000C0001\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 18,
+        "CgName": "BLY01",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u0012\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_dapaopojiejie.play_dapaopojiejie\u0000\u0000\u0000\u0005\u0000\u0000\u0000BLY01\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 19,
+        "CgName": "BLY01",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u0000\u0013\u0000\u0000\u0000_\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_dapaopojiejie.play_sequence_music_dapaopojiejie\u0000\u0005\u0000\u0000\u0000BLY01\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 20,
+        "CgName": "BLY02",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u0014\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lva_m0222.play_sfx_lva_m0222\u0000\u0000\u0000\u0005\u0000\u0000\u0000BLY02\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 21,
+        "CgName": "BLY02",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\u0015\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_m0222.play_sequence_music_m0222\u0000\u0005\u0000\u0000\u0000BLY02\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 22,
+        "CgName": "BLY02",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u0016\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_story_m0222.play_vo_story_m0222\u0000\u0005\u0000\u0000\u0000BLY02\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 23,
+        "CgName": "BeiLuoYe01",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000t\u0000\u0000\u0000\u0017\u0000\u0000\u0000e\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_diaoxiangshengqi.play_sequence_music_diaoxiangshengqi\u0000\u0000\u0000\n\u0000\u0000\u0000BeiLuoYe01\u0000\u0000"
+    },
+    {
+        "CaptionId": 24,
+        "CgName": "BeiLuoYe01",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000H\u0000\u0000\u0000\u0018\u0000\u0000\u0000;\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_beiluoye01.play_beiluoye01\u0000\n\u0000\u0000\u0000BeiLuoYe01\u0000\u0000"
+    },
+    {
+        "CaptionId": 25,
+        "CgName": "ZhongZhiCC",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u0019\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lva_m0233.play_sfx_lva_m0233\u0000\u0000\u0000\n\u0000\u0000\u0000ZhongZhiCC\u0000\u0000"
+    },
+    {
+        "CaptionId": 26,
+        "CgName": "ZhongZhiCC",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\u001a\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_m0233.play_sequence_music_m0233\u0000\n\u0000\u0000\u0000ZhongZhiCC\u0000\u0000"
+    },
+    {
+        "CaptionId": 27,
+        "CgName": "ZhongZhiCC",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000P\u0000\u0000\u0000\u001b\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_story_m0233.play_vo_story_m0233\u0000\n\u0000\u0000\u0000ZhongZhiCC\u0000\u0000"
+    },
+    {
+        "CaptionId": 28,
+        "CgName": "M0234",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000p\u0000\u0000\u0000\u001c\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sequence_music_m0234_houritan.play_sequence_music_m0234_houritan\u0000\u0000\u0000\u0005\u0000\u0000\u0000M0234\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 29,
+        "CgName": "M0234",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000`\u0000\u0000\u0000\u001d\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_sfx_lva_m0234_houritan.play_sfx_lva_m0234_houritan\u0000\u0005\u0000\u0000\u0000M0234\u0000\u0000\u0000"
+    },
+    {
+        "CaptionId": 30,
+        "CgName": "M0234",
+        "GirlOrBoy": 2,
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000\u001e\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_story_m0234_houritan.play_vo_story_m0234_houritan\u0000\u0000\u0000\u0005\u0000\u0000\u0000M0234\u0000\u0000\u0000"
     }
 ]

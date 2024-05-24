@@ -1,11 +1,11 @@
 [
     {
         "ActionGuid": "2179e5da2de84ec1bb21b06b96770be7",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u00001�-\u0000\f\u0000\u0000\u0000@\u0000\u0000\u0000P\u0000\u0000\u00002\u0000\u0000\u0000{\"EntityIds\":[134000726],\"_EntityIdsFolded\":false}\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u00002179e5da2de84ec1bb21b06b96770be7\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u00001�-\u0000\f\u0000\u0000\u0000(\u0000\u0000\u00008\u0000\u0000\u0000\u0019\u0000\u0000\u0000{\"EntityIds\":[134000726]}\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u00002179e5da2de84ec1bb21b06b96770be7\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "eefec19f5e4a4324a38afff671173058",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000W�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[134000726,134000725],\"EnterRadius\":2000,\"LeaveRadius\":3000,\"Flow\":{\"FlowListName\":\"剧情_支线_SideTask_HKSM_001\",\"FlowId\":13,\"StateId\":9},\"_EntityIdsFolded\":false,\"WaitTime\":200,\"_folded\":false}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000eefec19f5e4a4324a38afff671173058\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000W�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[134000726,134000725],\"EnterRadius\":2000,\"LeaveRadius\":3000,\"Flow\":{\"FlowListName\":\"剧情_支线_SideTask_HKSM_001\",\"FlowId\":13,\"StateId\":9},\"WaitTime\":200}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000eefec19f5e4a4324a38afff671173058\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "ad51bab527754bbcb61d2f706e7bf537",
@@ -13,15 +13,11 @@
     },
     {
         "ActionGuid": "6f8e68882d33446dbd50cdc0090129b7",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[139000000,139000032,310000000],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_新主线_CE版_第一章_第二幕_安此亿兆生\",\"FlowId\":2,\"StateId\":7},\"WaitTime\":99999,\"_folded\":false}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00006f8e68882d33446dbd50cdc0090129b7\u0000\u0000\u0000\u0000"
-    },
-    {
-        "ActionGuid": "15f32f6c8cd84e20bd3639b1c690345a",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114000660,114000659,114000658,114001029],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_刘梦蝶\",\"FlowId\":4,\"StateId\":1}}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000015f32f6c8cd84e20bd3639b1c690345a\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[139000000,139000032,310000000],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_新主线_CE版_第一章_第二幕_安此亿兆生\",\"FlowId\":2,\"StateId\":7},\"WaitTime\":99999}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00006f8e68882d33446dbd50cdc0090129b7\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "6a2c845ec58645f98bdbed3e9eba42aa",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[311000073,311000071,311000072],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_刘梦蝶\",\"FlowId\":4,\"StateId\":3},\"_EntityIdsFolded\":false}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00006a2c845ec58645f98bdbed3e9eba42aa\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[311000073,311000071,311000072],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_刘梦蝶\",\"FlowId\":4,\"StateId\":3}}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00006a2c845ec58645f98bdbed3e9eba42aa\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "3d29a3bd43b1423bbe7564d43e86dfe6",
@@ -29,7 +25,7 @@
     },
     {
         "ActionGuid": "daa387504b964fd98f2601012b1b0b7a",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[310000514],\"EnterRadius\":2500,\"LeaveRadius\":3000,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_余果\",\"FlowId\":1,\"StateId\":1},\"_EntityIdsFolded\":false,\"RedDot\":true,\"_folded\":false}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000daa387504b964fd98f2601012b1b0b7a\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[310000514],\"EnterRadius\":2500,\"LeaveRadius\":3000,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_余果\",\"FlowId\":1,\"StateId\":1},\"RedDot\":true}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000daa387504b964fd98f2601012b1b0b7a\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "bbe89b766e224308bbead49444536349",
@@ -40,92 +36,84 @@
         "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[310000521],\"EnterRadius\":3500,\"LeaveRadius\":4500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_余果\",\"FlowId\":7}}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000e87451f207e8423e8be5b4d88256bf59\u0000\u0000\u0000\u0000"
     },
     {
-        "ActionGuid": "5e4efceafe8e437cb6141df4cdfa670c",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[140000144,140000580],\"EnterRadius\":1000,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_剧情_剧情_支线_烹饪支线\",\"FlowId\":1,\"StateId\":4},\"_EntityIdsFolded\":false}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00005e4efceafe8e437cb6141df4cdfa670c\u0000\u0000\u0000\u0000"
-    },
-    {
-        "ActionGuid": "0b8b2590223b46e0afe9730b5b641f4f",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000L\u0000\u0000\u0000\\\u0000\u0000\u0000<\u0000\u0000\u0000{\"EntityIds\":[140000144,140000580],\"_EntityIdsFolded\":false}\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u00000b8b2590223b46e0afe9730b5b641f4f\u0000\u0000\u0000\u0000"
-    },
-    {
         "ActionGuid": "2f4bd5ac2dbc407a8858ca0a7a426bbe",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000916,109002834],\"EnterRadius\":1000,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_支线_鸣钟之龟BOSS新\",\"FlowId\":2,\"StateId\":2},\"WaitTime\":10,\"_folded\":false,\"_EntityIdsFolded\":false}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00002f4bd5ac2dbc407a8858ca0a7a426bbe\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000916,109002834],\"EnterRadius\":1000,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_支线_鸣钟之龟BOSS新\",\"FlowId\":2,\"StateId\":2},\"WaitTime\":10}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00002f4bd5ac2dbc407a8858ca0a7a426bbe\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "f638cb6847c94277a21319ebc82cb9a3",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000L\u0000\u0000\u0000\\\u0000\u0000\u0000<\u0000\u0000\u0000{\"EntityIds\":[121000916,109002834],\"_EntityIdsFolded\":false}\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u0000f638cb6847c94277a21319ebc82cb9a3\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000@\u0000\u0000\u0000#\u0000\u0000\u0000{\"EntityIds\":[121000916,109002834]}\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u0000f638cb6847c94277a21319ebc82cb9a3\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "d070375ddbeb4ddfa1d264c5b6e27d06",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0001\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[11000447,121000917,121000919],\"EnterRadius\":800,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_支线_鸣钟之龟BOSS新\",\"FlowId\":2,\"StateId\":1},\"WaitTime\":8,\"_EntityIdsFolded\":false,\"_folded\":false,\"RedDot\":false}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000d070375ddbeb4ddfa1d264c5b6e27d06\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[11000447,121000917,121000919],\"EnterRadius\":800,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_支线_鸣钟之龟BOSS新\",\"FlowId\":2,\"StateId\":1},\"WaitTime\":8,\"RedDot\":false}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000d070375ddbeb4ddfa1d264c5b6e27d06\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "73013bae063d403db516978d6fa8ea98",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0001\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000921,121000922,121000920],\"EnterRadius\":800,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_支线_鸣钟之龟BOSS新\",\"FlowId\":2,\"StateId\":3},\"WaitTime\":8,\"_folded\":false,\"_EntityIdsFolded\":false,\"RedDot\":false}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000073013bae063d403db516978d6fa8ea98\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000921,121000922,121000920],\"EnterRadius\":800,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_支线_鸣钟之龟BOSS新\",\"FlowId\":2,\"StateId\":3},\"WaitTime\":8,\"RedDot\":false}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000073013bae063d403db516978d6fa8ea98\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "24105df2bdba4bf9a121681d0a20bd1d",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0001\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000923,121000924,121000925],\"EnterRadius\":800,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_支线_鸣钟之龟BOSS新\",\"FlowId\":2,\"StateId\":4},\"WaitTime\":8,\"_EntityIdsFolded\":false,\"_folded\":false,\"RedDot\":false}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000024105df2bdba4bf9a121681d0a20bd1d\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000923,121000924,121000925],\"EnterRadius\":800,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_支线_鸣钟之龟BOSS新\",\"FlowId\":2,\"StateId\":4},\"WaitTime\":8,\"RedDot\":false}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000024105df2bdba4bf9a121681d0a20bd1d\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "e2bcdf01ebea48b18c6d4a668f5155fd",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000T\u0000\u0000\u0000d\u0000\u0000\u0000F\u0000\u0000\u0000{\"EntityIds\":[121000923,121000924,121000925],\"_EntityIdsFolded\":false}\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u0000e2bcdf01ebea48b18c6d4a668f5155fd\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000L\u0000\u0000\u0000-\u0000\u0000\u0000{\"EntityIds\":[121000923,121000924,121000925]}\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u0000e2bcdf01ebea48b18c6d4a668f5155fd\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "87f3863c14dc4910a670a564d37bb17d",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000T\u0000\u0000\u0000d\u0000\u0000\u0000F\u0000\u0000\u0000{\"EntityIds\":[121000921,121000922,121000920],\"_EntityIdsFolded\":false}\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u000087f3863c14dc4910a670a564d37bb17d\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000L\u0000\u0000\u0000-\u0000\u0000\u0000{\"EntityIds\":[121000921,121000922,121000920]}\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u000087f3863c14dc4910a670a564d37bb17d\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "7cd1e93d176340348429cadd83b92c8f",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000931,121000932],\"EnterRadius\":1500,\"LeaveRadius\":2500,\"Flow\":{\"FlowListName\":\"剧情_支线_鸣钟之龟BOSS新\",\"FlowId\":2,\"StateId\":5},\"_EntityIdsFolded\":false}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00007cd1e93d176340348429cadd83b92c8f\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000931,121000932],\"EnterRadius\":1500,\"LeaveRadius\":2500,\"Flow\":{\"FlowListName\":\"剧情_支线_鸣钟之龟BOSS新\",\"FlowId\":2,\"StateId\":5}}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00007cd1e93d176340348429cadd83b92c8f\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "45e1a9f07afd4551981ec4d254d73ac7",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000\f\u0001\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[125001079,125001087,125001085,125001086],\"EnterRadius\":1000,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_三流画家\",\"FlowId\":2,\"StateId\":1},\"_EntityIdsFolded\":false,\"_folded\":false,\"RedDot\":false}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000045e1a9f07afd4551981ec4d254d73ac7\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[125001079,125001087,125001085,125001086],\"EnterRadius\":1000,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_三流画家\",\"FlowId\":2,\"StateId\":1},\"RedDot\":false}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000045e1a9f07afd4551981ec4d254d73ac7\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "52710117519f47bb99cd7c6c1579283e",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0001\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121001030,121000862],\"EnterRadius\":1500,\"LeaveRadius\":3000,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":2,\"StateId\":1},\"WaitTime\":6,\"_folded\":false,\"_EntityIdsFolded\":false,\"RedDot\":false}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000052710117519f47bb99cd7c6c1579283e\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121001030,121000862],\"EnterRadius\":1500,\"LeaveRadius\":3000,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":2,\"StateId\":1},\"WaitTime\":6,\"RedDot\":false}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000052710117519f47bb99cd7c6c1579283e\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "7a7bae9513194af3abefae9c63ebd24b",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000963],\"EnterRadius\":1000,\"LeaveRadius\":3000,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":10,\"StateId\":1},\"WaitTime\":8,\"_folded\":false,\"_EntityIdsFolded\":false,\"RedDot\":false}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00007a7bae9513194af3abefae9c63ebd24b\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000963],\"EnterRadius\":1000,\"LeaveRadius\":3000,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":10,\"StateId\":1},\"WaitTime\":8,\"RedDot\":false}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00007a7bae9513194af3abefae9c63ebd24b\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "99381a45f9394abb900df21389a60d5a",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000962],\"EnterRadius\":1000,\"LeaveRadius\":3000,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":11,\"StateId\":1},\"WaitTime\":8,\"_folded\":false,\"_EntityIdsFolded\":false,\"RedDot\":false}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000099381a45f9394abb900df21389a60d5a\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000962],\"EnterRadius\":1000,\"LeaveRadius\":3000,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":11,\"StateId\":1},\"WaitTime\":8,\"RedDot\":false}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000099381a45f9394abb900df21389a60d5a\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "77a9b57ad39946b892056af32089c762",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000L\u0000\u0000\u0000\\\u0000\u0000\u0000<\u0000\u0000\u0000{\"EntityIds\":[121000886,121000941],\"_EntityIdsFolded\":false}\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u000077a9b57ad39946b892056af32089c762\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000@\u0000\u0000\u0000#\u0000\u0000\u0000{\"EntityIds\":[121000886,121000941]}\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u000077a9b57ad39946b892056af32089c762\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "6bf9fbd376e143939bb4c1e5a33b68b1",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000886,121000941],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":6,\"StateId\":1},\"_EntityIdsFolded\":false,\"_folded\":false}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00006bf9fbd376e143939bb4c1e5a33b68b1\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000886,121000941],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":6,\"StateId\":1}}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00006bf9fbd376e143939bb4c1e5a33b68b1\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "cfc99d4e998141e99a512db263f9aa9f",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000L\u0000\u0000\u0000\\\u0000\u0000\u0000<\u0000\u0000\u0000{\"EntityIds\":[121000962,121000963],\"_EntityIdsFolded\":false}\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u0000cfc99d4e998141e99a512db263f9aa9f\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000@\u0000\u0000\u0000#\u0000\u0000\u0000{\"EntityIds\":[121000962,121000963]}\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u0000cfc99d4e998141e99a512db263f9aa9f\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "9b7783d8ecc2448984fdd0835c6c85cc",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0001\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000965,121000964],\"EnterRadius\":1000,\"LeaveRadius\":3000,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":5,\"StateId\":1},\"WaitTime\":8,\"_folded\":false,\"_EntityIdsFolded\":false,\"RedDot\":false}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00009b7783d8ecc2448984fdd0835c6c85cc\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000965,121000964],\"EnterRadius\":1000,\"LeaveRadius\":3000,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":5,\"StateId\":1},\"WaitTime\":8,\"RedDot\":false}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00009b7783d8ecc2448984fdd0835c6c85cc\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "3e886b8c650c416d9276e4f92e6f5109",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000L\u0000\u0000\u0000\\\u0000\u0000\u0000<\u0000\u0000\u0000{\"EntityIds\":[121000965,121000964],\"_EntityIdsFolded\":false}\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u00003e886b8c650c416d9276e4f92e6f5109\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000@\u0000\u0000\u0000#\u0000\u0000\u0000{\"EntityIds\":[121000965,121000964]}\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u00003e886b8c650c416d9276e4f92e6f5109\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "707e2a2395d942b884db1d12eb9231c7",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000816],\"EnterRadius\":1500,\"LeaveRadius\":2500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":1,\"StateId\":1},\"WaitTime\":8,\"_EntityIdsFolded\":false,\"_folded\":false,\"RedDot\":false}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000707e2a2395d942b884db1d12eb9231c7\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000816],\"EnterRadius\":1500,\"LeaveRadius\":2500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":1,\"StateId\":1},\"WaitTime\":8,\"RedDot\":false}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000707e2a2395d942b884db1d12eb9231c7\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "43b6722b05494df6927ef783b897ed5b",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000@\u0000\u0000\u0000P\u0000\u0000\u00002\u0000\u0000\u0000{\"EntityIds\":[121000816],\"_EntityIdsFolded\":false}\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u000043b6722b05494df6927ef783b897ed5b\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000(\u0000\u0000\u00008\u0000\u0000\u0000\u0019\u0000\u0000\u0000{\"EntityIds\":[121000816]}\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u000043b6722b05494df6927ef783b897ed5b\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "fa6783dae8364051be532fd384ea20af",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000F�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000857],\"EnterRadius\":800,\"LeaveRadius\":2000,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":3,\"StateId\":1},\"WaitTime\":8,\"RedDot\":false,\"_folded\":false}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000fa6783dae8364051be532fd384ea20af\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000F�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000857],\"EnterRadius\":800,\"LeaveRadius\":2000,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":3,\"StateId\":1},\"WaitTime\":8,\"RedDot\":false}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000fa6783dae8364051be532fd384ea20af\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "6a7a047976c248ffa6c8d62e0d5a1568",
@@ -133,11 +121,11 @@
     },
     {
         "ActionGuid": "089de0667c78443c80c91bbe627d4617",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000S�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000991],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":9,\"StateId\":1},\"_EntityIdsFolded\":false,\"RedDot\":false,\"_folded\":false}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000089de0667c78443c80c91bbe627d4617\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000S�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000991],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":9,\"StateId\":1},\"RedDot\":false}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000089de0667c78443c80c91bbe627d4617\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "f9f6c9f42a4f4b118b9cb1b200da90e6",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000]�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000968,121000969],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":7,\"StateId\":1},\"_folded\":false,\"RedDot\":false}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000f9f6c9f42a4f4b118b9cb1b200da90e6\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000]�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000968,121000969],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":7,\"StateId\":1},\"RedDot\":false}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000f9f6c9f42a4f4b118b9cb1b200da90e6\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "c00a5764fa26478ca29f7f06b8346f50",
@@ -145,11 +133,35 @@
     },
     {
         "ActionGuid": "38845d55686c4a8399d968808e1e747a",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000z�-\u0000\f\u0000\u0000\u0000\u0010\u0001\u0000\u0000 \u0001\u0000\u0000\u0002\u0001\u0000\u0000{\"EntityIds\":[121000994,121001100,121000993,121000996,121000997],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":12,\"StateId\":1},\"_EntityIdsFolded\":false,\"RedDot\":true,\"_folded\":false,\"WaitTime\":10}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000038845d55686c4a8399d968808e1e747a\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000z�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000994,121001100,121000993,121000996,121000997],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":12,\"StateId\":1},\"RedDot\":true,\"WaitTime\":10}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000038845d55686c4a8399d968808e1e747a\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "7a10709842bd43f0806f883a19928358",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000{�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000988],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":8,\"StateId\":1},\"_EntityIdsFolded\":false,\"RedDot\":false,\"_folded\":false,\"WaitTime\":10}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00007a10709842bd43f0806f883a19928358\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000{�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000988],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":8,\"StateId\":1},\"RedDot\":false,\"WaitTime\":10}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00007a10709842bd43f0806f883a19928358\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "1984685448d6467fac9fd2df45cb066d",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114000872,114000873],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_剧情_角色_吟霖线新\",\"FlowId\":107,\"StateId\":1}}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00001984685448d6467fac9fd2df45cb066d\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "bff2154485a04d39b48e81fa6382cb2d",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114000883,114000884],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_剧情_角色_吟霖线新\",\"FlowId\":107,\"StateId\":2}}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000bff2154485a04d39b48e81fa6382cb2d\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "6d00b28881744083acadf27609ff6ed0",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114000938],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_剧情_角色_吟霖线新\",\"FlowId\":107,\"StateId\":9}}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00006d00b28881744083acadf27609ff6ed0\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "d786eae2f7fa4e33bfdf73fc0c2ed5f7",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114800073,114000945],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_剧情_角色_吟霖线新\",\"FlowId\":107,\"StateId\":10}}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000d786eae2f7fa4e33bfdf73fc0c2ed5f7\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "29fe973731f74202ae33431b29fe6b34",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0006�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114001161,114001162],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_剧情_角色_吟霖线新\",\"FlowId\":107,\"StateId\":12}}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000029fe973731f74202ae33431b29fe6b34\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "dae3e0bf79e043a4bc80fa871edabb90",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0007�-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114800133,114000947],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_剧情_角色_吟霖线新\",\"FlowId\":107,\"StateId\":13}}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000dae3e0bf79e043a4bc80fa871edabb90\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "351ff884703044fdab061626f890aef3",
@@ -161,38 +173,74 @@
     },
     {
         "ActionGuid": "bf2b2c47b0124df783379bebad86089c",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_余果\",\"FlowId\":1,\"StateId\":1},\"_folded\":false}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000bf2b2c47b0124df783379bebad86089c\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_余果\",\"FlowId\":1,\"StateId\":1}}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000bf2b2c47b0124df783379bebad86089c\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "bf39de0b528944ab941174e24e9a0f19",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[29000239],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_便宜珍贵惹人爱\",\"FlowId\":3,\"StateId\":1},\"_EntityIdsFolded\":false,\"_folded\":true}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000bf39de0b528944ab941174e24e9a0f19\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000}\u0000\u0000\u0000{\"EntityIds\":[29000239],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_Default\",\"FlowId\":2,\"StateId\":1}}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000bf39de0b528944ab941174e24e9a0f19\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "b7b10eef8d204640ae026fe0f31268cd",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000@\u0000\u0000\u0000P\u0000\u0000\u00001\u0000\u0000\u0000{\"EntityIds\":[29000239],\"_EntityIdsFolded\":false}\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u0000b7b10eef8d204640ae026fe0f31268cd\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000(\u0000\u0000\u00008\u0000\u0000\u0000\u0018\u0000\u0000\u0000{\"EntityIds\":[29000239]}\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u0000b7b10eef8d204640ae026fe0f31268cd\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "fd7192cc57bb48c78fe524b6560212b8",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[29000240],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_便宜珍贵惹人爱\",\"FlowId\":3},\"_EntityIdsFolded\":false}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000fd7192cc57bb48c78fe524b6560212b8\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000}\u0000\u0000\u0000{\"EntityIds\":[29000240],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_Default\",\"FlowId\":2,\"StateId\":1}}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000fd7192cc57bb48c78fe524b6560212b8\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "54fab11193f44b78a9c4499762101a17",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[29000241],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_余果\",\"FlowId\":1,\"StateId\":1},\"_EntityIdsFolded\":false,\"RedDot\":true,\"_folded\":false}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000054fab11193f44b78a9c4499762101a17\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[29000241],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_余果\",\"FlowId\":1,\"StateId\":1},\"RedDot\":true}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000054fab11193f44b78a9c4499762101a17\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "67c508d0635946b3b0bd98e8c0a25c64",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000h\u0000\u0000\u0000x\u0000\u0000\u0000X\u0000\u0000\u0000{\"EntityIds\":[29000241],\"OnlyClearRedDot\":true,\"_folded\":false,\"_EntityIdsFolded\":false}\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u000067c508d0635946b3b0bd98e8c0a25c64\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000L\u0000\u0000\u0000/\u0000\u0000\u0000{\"EntityIds\":[29000241],\"OnlyClearRedDot\":true}\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u000067c508d0635946b3b0bd98e8c0a25c64\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "779371b53fca4f178abe1c1afb2179bc",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[29000252,29000253],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_寸草心\",\"FlowId\":3,\"StateId\":1},\"_EntityIdsFolded\":false}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000779371b53fca4f178abe1c1afb2179bc\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[29000252,29000253],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_寸草心\",\"FlowId\":3,\"StateId\":1}}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000779371b53fca4f178abe1c1afb2179bc\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "e8b79d968d3f49c280807ffcc5539b0e",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000H\u0000\u0000\u0000X\u0000\u0000\u0000:\u0000\u0000\u0000{\"EntityIds\":[29000252,29000253],\"_EntityIdsFolded\":false}\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u0000e8b79d968d3f49c280807ffcc5539b0e\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000@\u0000\u0000\u0000!\u0000\u0000\u0000{\"EntityIds\":[29000252,29000253]}\u0000\u0000\u0000\u000f\u0000\u0000\u0000ClearPlayBubble\u0000 \u0000\u0000\u0000e8b79d968d3f49c280807ffcc5539b0e\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "a30bdaa3d3da4e0e8828f6a0e02a2bad",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114001190,114001189],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_新主线_第四章\",\"FlowId\":81,\"StateId\":1}}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000a30bdaa3d3da4e0e8828f6a0e02a2bad\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "1b06dedc5fa4434191678aaffd62bab9",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114001056],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_新主线_第四章\",\"FlowId\":81,\"StateId\":2}}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00001b06dedc5fa4434191678aaffd62bab9\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "9ed80103c2de44e8b5ea37b8e169c0f6",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114000732,114000737],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_新主线_第四章\",\"FlowId\":81,\"StateId\":3}}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00009ed80103c2de44e8b5ea37b8e169c0f6\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "d94dcdf574534430a19286ae62d40e21",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114001105,114001106,114001107],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_新主线_第四章\",\"FlowId\":81,\"StateId\":12}}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000d94dcdf574534430a19286ae62d40e21\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "f4363cda0559483f9cdbd704a688fe11",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114001109,114001110,114001244],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_新主线_第四章\",\"FlowId\":81,\"StateId\":13}}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000f4363cda0559483f9cdbd704a688fe11\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "10a6143fb03647ed967b46e5a16d86e4",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114001226,114001133],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_新主线_第四章\",\"FlowId\":81,\"StateId\":14}}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000010a6143fb03647ed967b46e5a16d86e4\u0000\u0000\u0000\u0000"
     },
     {
         "ActionGuid": "12f4072fe8494e9092c6980a9f96f6cb",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000886,121000941],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":4,\"StateId\":1},\"_EntityIdsFolded\":false,\"_folded\":false}\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000012f4072fe8494e9092c6980a9f96f6cb\u0000\u0000\u0000\u0000"
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[121000886,121000941],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_凌阳线1\",\"FlowId\":4,\"StateId\":1}}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u000012f4072fe8494e9092c6980a9f96f6cb\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "9036e7dfb912458e9994ece3dbe81d5e",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114800078,114001176],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_剧情_角色_吟霖线新\",\"FlowId\":107,\"StateId\":11}}\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00009036e7dfb912458e9994ece3dbe81d5e\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "0fb48e43d4d84f9f8852af19a7efe786",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[114000660,114000659,114000658,114001029],\"EnterRadius\":500,\"LeaveRadius\":1500,\"Flow\":{\"FlowListName\":\"剧情_任务专用冒泡_刘梦蝶\",\"FlowId\":4,\"StateId\":1}}\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u00000fb48e43d4d84f9f8852af19a7efe786\u0000\u0000\u0000\u0000"
+    },
+    {
+        "ActionGuid": "a48ca0481f6d4f3094aeb4e5ced7742a",
+        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000��-\u0000\f\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000{\"EntityIds\":[140800703,140800704,140800701,140800700,140800699,140800702],\"EnterRadius\":1500,\"LeaveRadius\":1800,\"Flow\":{\"FlowListName\":\"剧情_天城生态_NPC\",\"FlowId\":57},\"WaitTime\":5}\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000AddPlayBubble\u0000\u0000\u0000 \u0000\u0000\u0000a48ca0481f6d4f3094aeb4e5ced7742a\u0000\u0000\u0000\u0000"
     }
 ]

@@ -1,34 +1,10 @@
 [
     {
-        "Id": 1,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconArchive/T_IconAcquireEntrance07_UI.T_IconAcquireEntrance07_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabicondangan.SP_RoleTabicondangan\u0000\u0017\u0000\u0000\u0000HandBookEntrance_1_Name\u0000"
-    },
-    {
         "Id": 2,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconArchive/T_IconAcquireEntrance04_UI.T_IconAcquireEntrance04_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabicondangan.SP_RoleTabicondangan\u0000\u0017\u0000\u0000\u0000HandBookEntrance_2_Name\u0000"
-    },
-    {
-        "Id": 3,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconArchive/T_IconAcquireEntrance01_UI.T_IconAcquireEntrance01_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabicondangan.SP_RoleTabicondangan\u0000\u0017\u0000\u0000\u0000HandBookEntrance_3_Name\u0000"
-    },
-    {
-        "Id": 4,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconArchive/T_IconAcquireEntrance03_UI.T_IconAcquireEntrance03_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabicondangan.SP_RoleTabicondangan\u0000\u0017\u0000\u0000\u0000HandBookEntrance_4_Name\u0000"
-    },
-    {
-        "Id": 5,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u0005\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconArchive/T_IconAcquireEntrance05_UI.T_IconAcquireEntrance05_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabicondangan.SP_RoleTabicondangan\u0000\u0017\u0000\u0000\u0000HandBookEntrance_5_Name\u0000"
-    },
-    {
-        "Id": 6,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u0006\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconArchive/T_IconAcquireEntrance08_UI.T_IconAcquireEntrance08_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabicondangan.SP_RoleTabicondangan\u0000\u0017\u0000\u0000\u0000HandBookEntrance_6_Name\u0000"
-    },
-    {
-        "Id": 0,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconArchive/T_IconAcquireEntrance02_UI.T_IconAcquireEntrance02_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabicondangan.SP_RoleTabicondangan\u0000\u0017\u0000\u0000\u0000HandBookEntrance_0_Name\u0000"
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconArchive/T_IconAcquireEntrance04_UI.T_IconAcquireEntrance04_UI\u0000_\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_FuncIconIllustrated02.SP_FuncIconIllustrated02\u0000\u0017\u0000\u0000\u0000HandBookEntrance_2_Name\u0000"
     },
     {
         "Id": 7,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u0007\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconArchive/T_IconAcquireEntrance06_UI.T_IconAcquireEntrance06_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabicondangan.SP_RoleTabicondangan\u0000\u0017\u0000\u0000\u0000HandBookEntrance_7_Name\u0000"
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u0007\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconArchive/T_IconAcquireEntrance06_UI.T_IconAcquireEntrance06_UI\u0000_\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_FuncIconIllustrated04.SP_FuncIconIllustrated04\u0000\u0017\u0000\u0000\u0000HandBookEntrance_7_Name\u0000"
     }
 ]

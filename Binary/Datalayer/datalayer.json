@@ -63,5 +63,40 @@
         "Id": 13,
         "DataLayer": "DataLayerRuntime_DLTask_YNZ04",
         "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000 \u0000\u0000\u0000\r\u0000\u0000\u0000\u0013\u0000\u0000\u0000怨鸟泽DataLayer4\u0000\u001d\u0000\u0000\u0000DataLayerRuntime_DLTask_YNZ04\u0000\u0000\u0000"
+    },
+    {
+        "Id": 800001,
+        "DataLayer": "DataLayerRuntime_DLTask_BLY01",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000\u00015\f\u0000\u001a\u0000\u0000\u0000北落野DL1(罩子特效)\u0000\u0000\u001d\u0000\u0000\u0000DataLayerRuntime_DLTask_BLY01\u0000\u0000\u0000"
+    },
+    {
+        "Id": 800002,
+        "DataLayer": "DataLayerRuntime_DLTask_BLY02",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000\u00025\f\u0000\u001a\u0000\u0000\u0000北落野DL2(主线大楼)\u0000\u0000\u001d\u0000\u0000\u0000DataLayerRuntime_DLTask_BLY02\u0000\u0000\u0000"
+    },
+    {
+        "Id": 800003,
+        "DataLayer": "DataLayerRuntime_DLTask_BLY03",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u0000\u00035\f\u0000\u0014\u0000\u0000\u0000北落野DL3(雕像)\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000DataLayerRuntime_DLTask_BLY03\u0000\u0000\u0000"
+    },
+    {
+        "Id": 800004,
+        "DataLayer": "DataLayerRuntime_DLTask_ZQ01",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\u00045\f\u0000'\u0000\u0000\u0000第一章第六幕北门营地场景DL1\u0000\u001c\u0000\u0000\u0000DataLayerRuntime_DLTask_ZQ01\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 800005,
+        "DataLayer": "DataLayerRuntime_DLTask_ZQ02",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\u00055\f\u0000'\u0000\u0000\u0000第一章第六幕北门营地场景DL2\u0000\u001c\u0000\u0000\u0000DataLayerRuntime_DLTask_ZQ02\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 800006,
+        "DataLayer": "DataLayerRuntime_DLTask_HS01",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\u00065\f\u0000'\u0000\u0000\u0000第一章第六幕远望营地场景DL1\u0000\u001c\u0000\u0000\u0000DataLayerRuntime_DLTask_HS01\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": 800007,
+        "DataLayer": "DataLayerRuntime_DLTask_BLY04",
+        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000\u00075\f\u0000 \u0000\u0000\u0000北落野DL4(雕像胸口特效)\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000DataLayerRuntime_DLTask_BLY04\u0000\u0000\u0000"
     }
 ]

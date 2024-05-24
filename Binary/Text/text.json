@@ -4896,15 +4896,159 @@
         "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000Condition_13000014_Description\u0000\u0000\u001e\u0000\u0000\u0000Condition_13000014_Description\u0000\u0000"
     },
     {
-        "Id": "Condition_13000015_Description",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000Condition_13000015_Description\u0000\u0000\u001e\u0000\u0000\u0000Condition_13000015_Description\u0000\u0000"
+        "Id": "ItemRecycle",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000 \u0000\u0000\u0000\u0015\u0000\u0000\u0000Text_ItemRecycle_text\u0000\u0000\u0000\u000b\u0000\u0000\u0000ItemRecycle\u0000"
+    },
+    {
+        "Id": "ItemRecycleCount",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_ItemRecycleCount_text\u0000\u0000\u0010\u0000\u0000\u0000ItemRecycleCount\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ItemRecycleLimited",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001c\u0000\u0000\u0000Text_ItemRecycleLimited_text\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000ItemRecycleLimited\u0000\u0000"
+    },
+    {
+        "Id": "ItemRecycleChooseTip",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000Text_ItemRecycleChooseTip_text\u0000\u0000\u0014\u0000\u0000\u0000ItemRecycleChooseTip\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ItemRecycleChosen",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u001b\u0000\u0000\u0000Text_ItemRecycleChosen_text\u0000\u0011\u0000\u0000\u0000ItemRecycleChosen\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ItemRecycleConfirmToggle",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000,\u0000\u0000\u0000\"\u0000\u0000\u0000Text_ItemRecycleConfirmToggle_text\u0000\u0000\u0018\u0000\u0000\u0000ItemRecycleConfirmToggle\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ItemExpired",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000 \u0000\u0000\u0000\u0015\u0000\u0000\u0000Text_ItemExpired_text\u0000\u0000\u0000\u000b\u0000\u0000\u0000ItemExpired\u0000"
+    },
+    {
+        "Id": "ItemRecycleChosenTotal",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000,\u0000\u0000\u0000 \u0000\u0000\u0000Text_ItemRecycleChosenTotal_text\u0000\u0000\u0000\u0000\u0016\u0000\u0000\u0000ItemRecycleChosenTotal\u0000\u0000"
+    },
+    {
+        "Id": "HaveReceiveRewrad",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0011\u0000\u0000\u0000HaveReceiveRewrad\u0000\u0000\u0000\u0011\u0000\u0000\u0000HaveReceiveRewrad\u0000\u0000\u0000"
+    },
+    {
+        "Id": "MiddleRequirementDefault",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000,\u0000\u0000\u0000#\u0000\u0000\u0000Text_MiddleRequirementDefault__Text\u0000\u0018\u0000\u0000\u0000MiddleRequirementDefault\u0000\u0000\u0000\u0000"
     },
     {
         "Id": "CannotFindTarget",
         "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0010\u0000\u0000\u0000CannotFindTarget\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000CannotFindTarget\u0000\u0000\u0000\u0000"
     },
     {
+        "Id": "SettingLoadFluid",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SettingLoadFluid_text\u0000\u0000\u0010\u0000\u0000\u0000SettingLoadFluid\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "SettingLoadLaggy",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SettingLoadLaggy_text\u0000\u0000\u0010\u0000\u0000\u0000SettingLoadLaggy\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "SettingLoadOver",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0019\u0000\u0000\u0000Text_SettingLoadOver_text\u0000\u0000\u0000\u000f\u0000\u0000\u0000SettingLoadOver\u0000"
+    },
+    {
+        "Id": "MiddleRequirementSP",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000Text_MiddleRequirementSP__Text\u0000\u0000\u0013\u0000\u0000\u0000MiddleRequirementSP\u0000"
+    },
+    {
         "Id": "OverSeaServerLv",
         "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0019\u0000\u0000\u0000Text_OverSeaServerLv_text\u0000\u0000\u0000\u000f\u0000\u0000\u0000OverSeaServerLv\u0000"
+    },
+    {
+        "Id": "Rogue_Unlock_Dungeon_Tips",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0019\u0000\u0000\u0000Rogue_Unlock_Dungeon_Tips\u0000\u0000\u0000\u0019\u0000\u0000\u0000Rogue_Unlock_Dungeon_Tips\u0000\u0000\u0000"
+    },
+    {
+        "Id": "PhantomSkinUse",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0018\u0000\u0000\u0000Text_PhantomSkinUse_Text\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000PhantomSkinUse\u0000\u0000"
+    },
+    {
+        "Id": "SignalSendSuccess",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000 \u0000\u0000\u0000\u0016\u0000\u0000\u0000Text_SignalSendSuccess\u0000\u0000\u0011\u0000\u0000\u0000SignalSendSuccess\u0000\u0000\u0000"
+    },
+    {
+        "Id": "SignalReceiveSuccess",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0019\u0000\u0000\u0000Text_SignalReceiveSuccess\u0000\u0000\u0000\u0014\u0000\u0000\u0000SignalReceiveSuccess\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Text_Shop_Role_Text",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0013\u0000\u0000\u0000Text_Shop_Role_Text\u0000\u0013\u0000\u0000\u0000Text_Shop_Role_Text\u0000"
+    },
+    {
+        "Id": "Cost1",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Cost1\u0000\u0000\u0000\u0005\u0000\u0000\u0000Cost1\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Cost3",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Cost3\u0000\u0000\u0000\u0005\u0000\u0000\u0000Cost3\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Cost4",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Cost4\u0000\u0000\u0000\u0005\u0000\u0000\u0000Cost4\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ConditionGroup_12005122_HintText",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000,\u0000\u0000\u0000 \u0000\u0000\u0000ConditionGroup_12005122_HintText\u0000\u0000\u0000\u0000 \u0000\u0000\u0000ConditionGroup_12005122_HintText\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ActivityTaskOngoing",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001d\u0000\u0000\u0000Text_ActivityTaskOngoing_Text\u0000\u0000\u0000\u0013\u0000\u0000\u0000ActivityTaskOngoing\u0000"
+    },
+    {
+        "Id": "ActivityTaskClaimed",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001d\u0000\u0000\u0000Text_ActivityTaskClaimed_Text\u0000\u0000\u0000\u0013\u0000\u0000\u0000ActivityTaskClaimed\u0000"
+    },
+    {
+        "Id": "ActivityTaskReceive",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001d\u0000\u0000\u0000Text_ActivityTaskReceive_Text\u0000\u0000\u0000\u0013\u0000\u0000\u0000ActivityTaskReceive\u0000"
+    },
+    {
+        "Id": "ActivityTaskProgress",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000Text_ActivityTaskProgress_Text\u0000\u0000\u0014\u0000\u0000\u0000ActivityTaskProgress\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "Text_EchoFull_Text",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0012\u0000\u0000\u0000Text_EchoFull_Text\u0000\u0000\u0012\u0000\u0000\u0000Text_EchoFull_Text\u0000\u0000"
+    },
+    {
+        "Id": "Text_EchoLack_Text",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0012\u0000\u0000\u0000Text_EchoLack_Text\u0000\u0000\u0012\u0000\u0000\u0000Text_EchoLack_Text\u0000\u0000"
+    },
+    {
+        "Id": "Text_EchoLimit_Text",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0013\u0000\u0000\u0000Text_EchoLimit_Text\u0000\u0013\u0000\u0000\u0000Text_EchoLimit_Text\u0000"
+    },
+    {
+        "Id": "Rogue_Multi_Tip",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000f\u0000\u0000\u0000Rogue_Multi_Tip\u0000\u000f\u0000\u0000\u0000Rogue_Multi_Tip\u0000"
+    },
+    {
+        "Id": "DropShowPlanQuestTitle",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000\u0019\u0000\u0000\u0000DropShowPlan_Quest__Title\u0000\u0000\u0000\u0016\u0000\u0000\u0000DropShowPlanQuestTitle\u0000\u0000"
+    },
+    {
+        "Id": "Rogue_Dont_Have_Role",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000 \u0000\u0000\u0000\u0014\u0000\u0000\u0000Rogue_Dont_Have_Role\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000Rogue_Dont_Have_Role\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "PlotSkipConfirmToggle",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001f\u0000\u0000\u0000Text_PlotSkipConfirmToggle_Text\u0000\u0015\u0000\u0000\u0000PlotSkipConfirmToggle\u0000\u0000\u0000"
+    },
+    {
+        "Id": "ConditionGroup_12980013_HintText",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000,\u0000\u0000\u0000 \u0000\u0000\u0000ConditionGroup_12980013_HintText\u0000\u0000\u0000\u0000 \u0000\u0000\u0000ConditionGroup_12980013_HintText\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "CannotShare",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u000b\u0000\u0000\u0000CannotShare\u0000\u000b\u0000\u0000\u0000CannotShare\u0000"
+    },
+    {
+        "Id": "NoMonster",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\t\u0000\u0000\u0000NoMonster\u0000\u0000\u0000\t\u0000\u0000\u0000NoMonster\u0000\u0000\u0000"
     }
 ]

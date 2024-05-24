@@ -214,5 +214,13 @@
     {
         "Id": "VisionStepupController",
         "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000X\u0000\u0000\u0000N\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_UI_Setup_SH.DA_Fx_UI_Setup_SH\u0000\u0000\u0016\u0000\u0000\u0000VisionStepupController\u0000\u0000"
+    },
+    {
+        "Id": "DA_Fx_Group_Sl3_Cishi_10idle",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000p\u0000\u0000\u0000e\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/BigWorld/Cishi/DA_Fx_Group_Sl3_Cishi_10idle.DA_Fx_Group_Sl3_Cishi_10idle\u0000\u0000\u0000\u001c\u0000\u0000\u0000DA_Fx_Group_Sl3_Cishi_10idle\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Id": "DA_Fx_Group_Sl3_Cishi_10idle_02",
+        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000t\u0000\u0000\u0000k\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/BigWorld/Cishi/DA_Fx_Group_Sl3_Cishi_10idle_02.DA_Fx_Group_Sl3_Cishi_10idle_02\u0000\u001f\u0000\u0000\u0000DA_Fx_Group_Sl3_Cishi_10idle_02\u0000"
     }
 ]

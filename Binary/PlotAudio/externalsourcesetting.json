@@ -1,10 +1,14 @@
 [
     {
-        "Id": "normal_2d",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000 \u0000\u0000\u0000t\u0000\u0000\u0000\u0013\u0000\u0000\u0000external_plot_voice\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_external_vo_normal_2d.play_external_vo_normal_2d\u0000\u0000\u0000\t\u0000\u0000\u0000normal_2d\u0000\u0000\u0000"
+        "Id": "subtitle_normal",
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000 \u0000\u0000\u0000�\u0000\u0000\u0000\u0013\u0000\u0000\u0000external_plot_voice\u0000]\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_external_vo_subtitle_normal.play_external_vo_subtitle_normal\u0000\u0000\u0000\u000f\u0000\u0000\u0000subtitle_normal\u0000"
     },
     {
-        "Id": "normal_3d",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000|\u0000\u0000\u0000\u001a\u0000\u0000\u0000external_plot_voice_bubble\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_external_vo_normal_3d.play_external_vo_normal_3d\u0000\u0000\u0000\t\u0000\u0000\u0000normal_3d\u0000\u0000\u0000"
+        "Id": "bubble_hard_ducking",
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000�\u0000\u0000\u0000'\u0000\u0000\u0000external_plot_voice_bubble_hard_ducking\u0000e\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_external_vo_bubble_hard_ducking.play_external_vo_bubble_hard_ducking\u0000\u0000\u0000\u0013\u0000\u0000\u0000bubble_hard_ducking\u0000"
+    },
+    {
+        "Id": "bubble_soft_ducking",
+        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000�\u0000\u0000\u0000'\u0000\u0000\u0000external_plot_voice_bubble_soft_ducking\u0000e\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_external_vo_bubble_soft_ducking.play_external_vo_bubble_soft_ducking\u0000\u0000\u0000\u0013\u0000\u0000\u0000bubble_soft_ducking\u0000"
     }
 ]

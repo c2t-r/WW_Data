@@ -1,4 +1,4 @@
 # WW_Data
 wip
 
-Current version: `0.9.0`
+Current version: `1.0.0`

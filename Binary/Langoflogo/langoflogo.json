@@ -10,12 +10,12 @@
     },
     {
         "Name": "PhotoLogo",
-        "ZhHansLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoCn.T_LogoCn",
-        "EnLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoEn.T_LogoEn",
-        "JpLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoTc.T_LogoTc",
+        "ZhHansLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineCN.T_LogoOutLineCN",
+        "EnLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineEN.T_LogoOutLineEN",
+        "JpLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineJP.T_LogoOutLineJP",
         "ZhHantLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoTc.T_LogoTc",
-        "KrLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoKo.T_LogoKo",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\\\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000(\u0001\u0000\u0000l\u0001\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoKo.T_LogoKo\u0000\u0000\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoTc.T_LogoTc\u0000\u0000\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoTc.T_LogoTc\u0000\u0000\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoEn.T_LogoEn\u0000\u0000\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoCn.T_LogoCn\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000PhotoLogo\u0000\u0000\u0000"
+        "KrLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineKR.T_LogoOutLineKR",
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000h\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000L\u0001\u0000\u0000�\u0001\u0000\u0000N\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineKR.T_LogoOutLineKR\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoTc.T_LogoTc\u0000\u0000\u0000\u0000N\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineJP.T_LogoOutLineJP\u0000\u0000N\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineEN.T_LogoOutLineEN\u0000\u0000N\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineCN.T_LogoOutLineCN\u0000\u0000\t\u0000\u0000\u0000PhotoLogo\u0000\u0000\u0000"
     },
     {
         "Name": "PlotLogo",
@@ -25,5 +25,14 @@
         "ZhHantLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoTc.T_LogoTc",
         "KrLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoKo.T_LogoKo",
         "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\\\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000(\u0001\u0000\u0000l\u0001\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoKo.T_LogoKo\u0000\u0000\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoTc.T_LogoTc\u0000\u0000\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoTc.T_LogoTc\u0000\u0000\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoEn.T_LogoEn\u0000\u0000\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoCn.T_LogoCn\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000PlotLogo\u0000\u0000\u0000\u0000"
+    },
+    {
+        "Name": "ShareLogo",
+        "ZhHansLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineCN.T_LogoOutLineCN",
+        "EnLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineEN.T_LogoOutLineEN",
+        "JpLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineJP.T_LogoOutLineJP",
+        "ZhHantLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoTc.T_LogoTc",
+        "KrLogo": "/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineKR.T_LogoOutLineKR",
+        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000h\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000L\u0001\u0000\u0000�\u0001\u0000\u0000N\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineKR.T_LogoOutLineKR\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoTc.T_LogoTc\u0000\u0000\u0000\u0000N\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineJP.T_LogoOutLineJP\u0000\u0000N\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineEN.T_LogoOutLineEN\u0000\u0000N\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconLogo/T_LogoOutLineCN.T_LogoOutLineCN\u0000\u0000\t\u0000\u0000\u0000ShareLogo\u0000\u0000\u0000"
     }
 ]

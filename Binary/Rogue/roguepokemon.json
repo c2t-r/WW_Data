@@ -38,5 +38,13 @@
     {
         "Id": 1011,
         "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0018\u0000\u0000\u00004\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000���\u0003�\u0003\u0000\u0000\u001a\u0000\u0000\u0000RoguePokemonDesc_wuguanzhe\u0000\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_8_UI.T_IconMonsterPile_8_UI\u0000\u0012\u0000\u0000\u0000RoleInfo_5007_Name\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI\u0000"
+    },
+    {
+        "Id": 1012,
+        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0018\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000B��\u0003�\u0003\u0000\u0000\u0016\u0000\u0000\u0000RoguePokemonDesc_motor\u0000\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_3_UI.T_IconMonsterPile_3_UI\u0000#\u0000\u0000\u0000RogueBuffPool_935008000001_BuffName\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI\u0000"
+    },
+    {
+        "Id": 1013,
+        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0018\u0000\u0000\u00004\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000���\u0003�\u0003\u0000\u0000\u001a\u0000\u0000\u0000RoguePokemonDesc_wuguanzhe\u0000\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_8_UI.T_IconMonsterPile_8_UI\u0000\u0012\u0000\u0000\u0000RoleInfo_5007_Name\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI\u0000"
     }
 ]
