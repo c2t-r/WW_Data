@@ -8,6 +8,9 @@
         "BanTimesCheck": 2,
         "BBanTime": 60,
         "CBanTime": 120,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u001e\u0000\u0000\u0000x\u0000\u0000\u0000<\u0000\u0000\u0000\u0002\u0000\u0000\u0000\n\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0011'\u0000\u0000\u0001\u0000\u0000\u0000"
+        "InviteCD": 30,
+        "NearbrPlayerCount": 20,
+        "NearbrPlayerCountRefreshCD": 30,
+        "ViolationOperationTimeLimit": 60
     }
 ]

@@ -1,26 +1,62 @@
 [
     {
         "MarkId": 1,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u000e\u0000\u0000\u0000333?\f\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u000f'\u0000\u0000^\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_01_UI.SP_IconMap_Mark_01_UI\u0000\u0000"
+        "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_01_UI.SP_IconMap_Mark_01_UI",
+        "ShowRange": [
+            15,
+            9999
+        ],
+        "ShowPriority": 0,
+        "Scale": 0.699999988079071
     },
     {
         "MarkId": 2,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u000e\u0000\u0000\u0000333?\f\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u000f'\u0000\u0000^\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_02_UI.SP_IconMap_Mark_02_UI\u0000\u0000"
+        "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_02_UI.SP_IconMap_Mark_02_UI",
+        "ShowRange": [
+            15,
+            9999
+        ],
+        "ShowPriority": 0,
+        "Scale": 0.699999988079071
     },
     {
         "MarkId": 3,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u000e\u0000\u0000\u0000333?\f\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u000f'\u0000\u0000^\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_03_UI.SP_IconMap_Mark_03_UI\u0000\u0000"
+        "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_03_UI.SP_IconMap_Mark_03_UI",
+        "ShowRange": [
+            15,
+            9999
+        ],
+        "ShowPriority": 0,
+        "Scale": 0.699999988079071
     },
     {
         "MarkId": 4,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u000e\u0000\u0000\u0000333?\f\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u000f'\u0000\u0000^\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_04_UI.SP_IconMap_Mark_04_UI\u0000\u0000"
+        "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_04_UI.SP_IconMap_Mark_04_UI",
+        "ShowRange": [
+            15,
+            9999
+        ],
+        "ShowPriority": 0,
+        "Scale": 0.699999988079071
     },
     {
         "MarkId": 5,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u000e\u0000\u0000\u0000333?\f\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u000f'\u0000\u0000^\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_05_UI.SP_IconMap_Mark_05_UI\u0000\u0000"
+        "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_05_UI.SP_IconMap_Mark_05_UI",
+        "ShowRange": [
+            15,
+            9999
+        ],
+        "ShowPriority": 0,
+        "Scale": 0.699999988079071
     },
     {
         "MarkId": 6,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u000e\u0000\u0000\u0000333?\f\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u000f'\u0000\u0000^\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_06_UI.SP_IconMap_Mark_06_UI\u0000\u0000"
+        "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_06_UI.SP_IconMap_Mark_06_UI",
+        "ShowRange": [
+            15,
+            9999
+        ],
+        "ShowPriority": 0,
+        "Scale": 0.699999988079071
     }
 ]

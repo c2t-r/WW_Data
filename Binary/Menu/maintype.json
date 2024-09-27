@@ -1,30 +1,79 @@
 [
     {
         "Id": 1,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000X\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000B\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETshengyin.SP_SETshengyin\u0000\u0000B\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETshengyin.SP_SETshengyin\u0000\u0000\u0013\u0000\u0000\u0000MainType_1_MainName\u0000"
+        "MainSort": 1,
+        "MainName": "MainType_1_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETshengyin.SP_SETshengyin",
+        "TabPanelType": 1,
+        "PcTabPanelType": 1,
+        "XboxTabPanelType": 1,
+        "PsTabPanelType": 1,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETshengyin.SP_SETshengyin"
     },
     {
         "Id": 2,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000X\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SEThuamian.SP_SEThuamian\u0000\u0000\u0000\u0000@\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SEThuamian.SP_SEThuamian\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000MainType_2_MainName\u0000"
+        "MainSort": 2,
+        "MainName": "MainType_2_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SEThuamian.SP_SEThuamian",
+        "TabPanelType": 1,
+        "PcTabPanelType": 1,
+        "XboxTabPanelType": 1,
+        "PsTabPanelType": 1,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SEThuamian.SP_SEThuamian"
     },
     {
         "Id": 3,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0016\u0000\u0000\u0000 \u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000T\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000>\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETanjian.SP_SETanjian\u0000\u0000>\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETanjian.SP_SETanjian\u0000\u0000\u0013\u0000\u0000\u0000MainType_3_MainName\u0000"
+        "MainSort": 4,
+        "MainName": "MainType_3_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETanjian.SP_SETanjian",
+        "TabPanelType": 1,
+        "PcTabPanelType": 2,
+        "XboxTabPanelType": 2,
+        "PsTabPanelType": 2,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETanjian.SP_SETanjian"
     },
     {
         "Id": 4,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000T\u0000\u0000\u0000�\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0004\u0000\u0000\u0000<\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETwenzi.SP_SETwenzi\u0000\u0000\u0000\u0000<\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETwenzi.SP_SETwenzi\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000MainType_4_MainName\u0000"
+        "MainSort": 5,
+        "MainName": "MainType_4_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETwenzi.SP_SETwenzi",
+        "TabPanelType": 1,
+        "PcTabPanelType": 1,
+        "XboxTabPanelType": 1,
+        "PsTabPanelType": 1,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETwenzi.SP_SETwenzi"
     },
     {
         "Id": 5,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000h\u0000\u0000\u0000�\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0005\u0000\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETshengyinzidingyi.SP_SETshengyinzidingyi\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETshengyinzidingyi.SP_SETshengyinzidingyi\u0000\u0000\u0013\u0000\u0000\u0000MainType_5_MainName\u0000"
+        "MainSort": 6,
+        "MainName": "MainType_5_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETshengyinzidingyi.SP_SETshengyinzidingyi",
+        "TabPanelType": 1,
+        "PcTabPanelType": 1,
+        "XboxTabPanelType": 1,
+        "PsTabPanelType": 1,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETshengyinzidingyi.SP_SETshengyinzidingyi"
     },
     {
         "Id": 6,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0006\u0000\u0000\u0000J\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETyuyanzonglan.SP_SETyuyanzonglan\u0000\u0000J\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETyuyanzonglan.SP_SETyuyanzonglan\u0000\u0000\u0013\u0000\u0000\u0000MainType_6_MainName\u0000"
+        "MainSort": 3,
+        "MainName": "MainType_6_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETyuyanzonglan.SP_SETyuyanzonglan",
+        "TabPanelType": 1,
+        "PcTabPanelType": 1,
+        "XboxTabPanelType": 1,
+        "PsTabPanelType": 1,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETyuyanzonglan.SP_SETyuyanzonglan"
     },
     {
         "Id": 7,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0007\u0000\u0000\u0000L\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETyuyanzonglan1.SP_SETyuyanzonglan1\u0000\u0000\u0000\u0000L\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETyuyanzonglan1.SP_SETyuyanzonglan1\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000MainType_7_MainName\u0000"
+        "MainSort": 7,
+        "MainName": "MainType_7_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETyuyanzonglan1.SP_SETyuyanzonglan1",
+        "TabPanelType": 1,
+        "PcTabPanelType": 1,
+        "XboxTabPanelType": 1,
+        "PsTabPanelType": 1,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETyuyanzonglan1.SP_SETyuyanzonglan1"
     }
 ]

@@ -1,34 +1,58 @@
 [
     {
         "Id": 1,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000\u0001\u0000\u0000\u0000"
+        "PlayerLevelMax": 10,
+        "ConditionGroupId": 0,
+        "AiTeamLevelId": 1,
+        "TrainingLevel": 8
     },
     {
         "Id": 2,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0011��\u0007\u0014\u0000\u0000\u0000\u0002\u0000\u0000\u0000"
+        "PlayerLevelMax": 20,
+        "ConditionGroupId": 131200017,
+        "AiTeamLevelId": 1,
+        "TrainingLevel": 18
     },
     {
         "Id": 3,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u0003\u0000\u0000\u0000"
+        "PlayerLevelMax": 30,
+        "ConditionGroupId": 0,
+        "AiTeamLevelId": 1,
+        "TrainingLevel": 25
     },
     {
         "Id": 4,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000#\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0012��\u0007(\u0000\u0000\u0000\u0004\u0000\u0000\u0000"
+        "PlayerLevelMax": 40,
+        "ConditionGroupId": 131200018,
+        "AiTeamLevelId": 1,
+        "TrainingLevel": 35
     },
     {
         "Id": 5,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000-\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000\u0005\u0000\u0000\u0000"
+        "PlayerLevelMax": 50,
+        "ConditionGroupId": 0,
+        "AiTeamLevelId": 1,
+        "TrainingLevel": 45
     },
     {
         "Id": 6,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u00007\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0013��\u0007<\u0000\u0000\u0000\u0006\u0000\u0000\u0000"
+        "PlayerLevelMax": 60,
+        "ConditionGroupId": 131200019,
+        "AiTeamLevelId": 1,
+        "TrainingLevel": 55
     },
     {
         "Id": 7,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000<\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000\u0007\u0000\u0000\u0000"
+        "PlayerLevelMax": 70,
+        "ConditionGroupId": 0,
+        "AiTeamLevelId": 1,
+        "TrainingLevel": 60
     },
     {
         "Id": 8,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000<\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000\b\u0000\u0000\u0000"
+        "PlayerLevelMax": 80,
+        "ConditionGroupId": 0,
+        "AiTeamLevelId": 1,
+        "TrainingLevel": 60
     }
 ]

@@ -1,118 +1,390 @@
 [
     {
         "Id": 1504,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\u0005\u0000\u0010\u0000\u0000\u0000\u0000\u0001\u0001\u0001\f\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0005\u0000\u0000\u0002\u0000\u0000\u0000�/�\u0000�;�\u0000\u0002\u0000\u0000\u0000�\b�\u0000�;�\u0000"
+        "MaleFormation": [
+            15010006,
+            14040006
+        ],
+        "FemaleFormation": [
+            15020006,
+            14040006
+        ],
+        "MaleDelayFormation": null,
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 91,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0007\u0000\u0006\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0001\u0001\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000[\u0000\u0000\u0000\u0001\u0000\u0000\u0000�;�\u0000\u0001\u0000\u0000\u0000�;�\u0000"
+        "MaleFormation": [
+            14040005
+        ],
+        "FemaleFormation": [
+            14040005
+        ],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 94,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\u0005\u0000\u0010\u0000\u0000\u0000\u0000\u0001\u0001\u0001\f\u0000\u0000\u0000\u0014\u0000\u0000\u0000^\u0000\u0000\u0000\u0002\u0000\u0000\u0000�|�\u0000�7�\u0000\u0002\u0000\u0000\u0000�|�\u0000�\u0010�\u0000"
+        "MaleFormation": [
+            11042000,
+            15012000
+        ],
+        "FemaleFormation": [
+            11042000,
+            15022000
+        ],
+        "MaleDelayFormation": null,
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 95,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0007\u0000\u0006\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0001\u0001\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000_\u0000\u0000\u0000\u0001\u0000\u0000\u0000a��\u0000\u0001\u0000\u0000\u0000a��\u0000"
+        "MaleFormation": [
+            13020001
+        ],
+        "FemaleFormation": [
+            13020001
+        ],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 77,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\u0005\u0000\u0010\u0000\u0000\u0000\u0000\u0001\u0001\u0001\f\u0000\u0000\u0000\u0014\u0000\u0000\u0000M\u0000\u0000\u0000\u0002\u0000\u0000\u0000�/�\u0000�;�\u0000\u0002\u0000\u0000\u0000�\b�\u0000�;�\u0000"
+        "MaleFormation": [
+            15010006,
+            14040006
+        ],
+        "FemaleFormation": [
+            15020006,
+            14040006
+        ],
+        "MaleDelayFormation": null,
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 1505,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\u0005\u0000\u0010\u0000\u0000\u0000\u0000\u0001\u0001\u0001\f\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u0005\u0000\u0000\u0003\u0000\u0000\u0000�a\u000f\u0000�a\u000f\u0000�a\u000f\u0000\u0003\u0000\u0000\u0000�a\u000f\u0000�a\u000f\u0000�a\u000f\u0000"
+        "MaleFormation": [
+            1008006,
+            1008005,
+            1008008
+        ],
+        "FemaleFormation": [
+            1008007,
+            1008005,
+            1008008
+        ],
+        "MaleDelayFormation": null,
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8101,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\u0005\u0000\u0010\u0000\u0000\u0000\u0000\u0001\u0001\u0001\f\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u001f\u0000\u0000\u0003\u0000\u0000\u0000\u001cW�\u0000�ҷ\u0000Li�\u0000\u0003\u0000\u0000\u0000\u001cW�\u0000�ҷ\u0000Li�\u0000"
+        "MaleFormation": [
+            14047004,
+            12047004,
+            11037004
+        ],
+        "FemaleFormation": [
+            14047004,
+            12047004,
+            11037004
+        ],
+        "MaleDelayFormation": null,
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8102,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\u0005\u0000\u0010\u0000\u0000\u0000\u0000\u0001\u0001\u0001\f\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u001f\u0000\u0000\u0003\u0000\u0000\u0000�ҷ\u0000�\b�\u0000lf�\u0000\u0003\u0000\u0000\u0000�ҷ\u0000�\b�\u0000lf�\u0000"
+        "MaleFormation": [
+            12047004,
+            14027004,
+            16017004
+        ],
+        "FemaleFormation": [
+            12047004,
+            14027004,
+            16017004
+        ],
+        "MaleDelayFormation": null,
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8103,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\u0005\u0000\u0010\u0000\u0000\u0000\u0000\u0001\u0001\u0001\f\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u001f\u0000\u0000\u0003\u0000\u0000\u0000|��\u0000<K�\u0000Li�\u0000\u0003\u0000\u0000\u0000|��\u0000,$�\u0000Li�\u0000"
+        "MaleFormation": [
+            16027004,
+            15017004,
+            11037004
+        ],
+        "FemaleFormation": [
+            16027004,
+            15027004,
+            11037004
+        ],
+        "MaleDelayFormation": null,
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8104,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\u0005\u0000\u0010\u0000\u0000\u0000\u0000\u0001\u0001\u0001\f\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u001f\u0000\u0000\u0003\u0000\u0000\u0000|��\u0000�\b�\u0000lf�\u0000\u0003\u0000\u0000\u0000|��\u0000�\b�\u0000lf�\u0000"
+        "MaleFormation": [
+            12027004,
+            14027004,
+            16017004
+        ],
+        "FemaleFormation": [
+            12027004,
+            14027004,
+            16017004
+        ],
+        "MaleDelayFormation": null,
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8105,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\u0005\u0000\u0010\u0000\u0000\u0000\u0000\u0001\u0001\u0001\f\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u001f\u0000\u0000\u0003\u0000\u0000\u0000���\u0000���\u0000Li�\u0000\u0003\u0000\u0000\u0000���\u0000���\u0000Li�\u0000"
+        "MaleFormation": [
+            13027004,
+            13037004,
+            11037004
+        ],
+        "FemaleFormation": [
+            13027004,
+            13037004,
+            11037004
+        ],
+        "MaleDelayFormation": null,
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8106,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\u0005\u0000\u0010\u0000\u0000\u0000\u0000\u0001\u0001\u0001\f\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u001f\u0000\u0000\u0003\u0000\u0000\u0000lf�\u0000<K�\u0000�\b�\u0000\u0003\u0000\u0000\u0000lf�\u0000,$�\u0000�\b�\u0000"
+        "MaleFormation": [
+            16017004,
+            15017004,
+            14027004
+        ],
+        "FemaleFormation": [
+            16017004,
+            15027004,
+            14027004
+        ],
+        "MaleDelayFormation": null,
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8107,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\u0005\u0000\u0010\u0000\u0000\u0000\u0000\u0001\u0001\u0001\f\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u001f\u0000\u0000\u0003\u0000\u0000\u0000\f0�\u0000|��\u0000�\b�\u0000\u0003\u0000\u0000\u0000\f0�\u0000|��\u0000�\b�\u0000"
+        "MaleFormation": [
+            14037004,
+            12027004,
+            14027004
+        ],
+        "FemaleFormation": [
+            14037004,
+            12027004,
+            14027004
+        ],
+        "MaleDelayFormation": null,
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8108,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\u0005\u0000\u0010\u0000\u0000\u0000\u0000\u0001\u0001\u0001\f\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u001f\u0000\u0000\u0003\u0000\u0000\u0000���\u0000�\b�\u0000Li�\u0000\u0003\u0000\u0000\u0000���\u0000�\b�\u0000Li�\u0000"
+        "MaleFormation": [
+            13037004,
+            14027004,
+            11037004
+        ],
+        "FemaleFormation": [
+            13037004,
+            14027004,
+            11037004
+        ],
+        "MaleDelayFormation": null,
+        "FemaleDelayFormation": null,
+        "OnlyTrial": true,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8002,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000B\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8003,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000C\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8004,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000D\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8005,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000E\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8006,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000F\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8151,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000�\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8152,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000�\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8153,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000�\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8154,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000�\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8155,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000�\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8156,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000�\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8157,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000�\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8158,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000�\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8159,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000�\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     },
     {
         "Id": 8160,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000�\u001f\u0000\u0000"
+        "MaleFormation": [],
+        "FemaleFormation": [],
+        "MaleDelayFormation": [],
+        "FemaleDelayFormation": [],
+        "OnlyTrial": false,
+        "AutoChange": false,
+        "ShowInEntrance": false
     }
 ]

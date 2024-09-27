@@ -2,326 +2,521 @@
     {
         "Id": 1,
         "KeyName": "Gamepad_FaceButton_Bottom",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0004\u0001\u0000\u0000\b\u0001\u0000\u0000\u0001\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCha_UI.T_IconPcBtn_PsCha_UI\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI.T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000A\u0000\u0000\u0000\u0019\u0000\u0000\u0000Gamepad_FaceButton_Bottom\u0000\u0000\u0000"
+        "KeyDescription": "A",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI.T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCha_UI.T_IconPcBtn_PsCha_UI"
     },
     {
         "Id": 2,
         "KeyName": "Gamepad_FaceButton_Left",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0004\u0001\u0000\u0000\b\u0001\u0000\u0000\u0002\u0000\u0000\u0000_\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsKuang_UI.T_IconPcBtn_PsKuang_UI\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Left_UI.T_IconPcBtn_XboxGamepad_FaceButton_Left_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000X\u0000\u0000\u0000\u0017\u0000\u0000\u0000Gamepad_FaceButton_Left\u0000"
+        "KeyDescription": "X",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Left_UI.T_IconPcBtn_XboxGamepad_FaceButton_Left_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsKuang_UI.T_IconPcBtn_PsKuang_UI"
     },
     {
         "Id": 3,
         "KeyName": "Gamepad_FaceButton_Top",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0004\u0001\u0000\u0000\b\u0001\u0000\u0000\u0003\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsJian_UI.T_IconPcBtn_PsJian_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Top_UI.T_IconPcBtn_XboxGamepad_FaceButton_Top_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000Y\u0000\u0000\u0000\u0016\u0000\u0000\u0000Gamepad_FaceButton_Top\u0000\u0000"
+        "KeyDescription": "Y",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Top_UI.T_IconPcBtn_XboxGamepad_FaceButton_Top_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsJian_UI.T_IconPcBtn_PsJian_UI"
     },
     {
         "Id": 4,
         "KeyName": "Gamepad_FaceButton_Right",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000\u0004\u0001\u0000\u0000\b\u0001\u0000\u0000\f\u0001\u0000\u0000\u0004\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsYuan_UI.T_IconPcBtn_PsYuan_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Right_UI.T_IconPcBtn_XboxGamepad_FaceButton_Right_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000B\u0000\u0000\u0000\u0018\u0000\u0000\u0000Gamepad_FaceButton_Right\u0000\u0000\u0000\u0000"
+        "KeyDescription": "B",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Right_UI.T_IconPcBtn_XboxGamepad_FaceButton_Right_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsYuan_UI.T_IconPcBtn_PsYuan_UI"
     },
     {
         "Id": 5,
         "KeyName": "Gamepad_LeftX",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0005\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000左摇杆X\u0000\u0000\r\u0000\u0000\u0000Gamepad_LeftX\u0000\u0000\u0000"
+        "KeyDescription": "左摇杆X",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI"
     },
     {
         "Id": 6,
         "KeyName": "Gamepad_LeftY",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0006\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000左摇杆Y\u0000\u0000\r\u0000\u0000\u0000Gamepad_LeftY\u0000\u0000\u0000"
+        "KeyDescription": "左摇杆Y",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI"
     },
     {
         "Id": 7,
         "KeyName": "Gamepad_RightX",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0007\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000右摇杆X\u0000\u0000\u000e\u0000\u0000\u0000Gamepad_RightX\u0000\u0000"
+        "KeyDescription": "右摇杆X",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI"
     },
     {
         "Id": 8,
         "KeyName": "Gamepad_RightY",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000右摇杆Y\u0000\u0000\u000e\u0000\u0000\u0000Gamepad_RightY\u0000\u0000"
+        "KeyDescription": "右摇杆Y",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI"
     },
     {
         "Id": 9,
         "KeyName": "Gamepad_DPad_Down",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\t\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000控制键下\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000Gamepad_DPad_Down\u0000\u0000\u0000"
+        "KeyDescription": "控制键下",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI"
     },
     {
         "Id": 10,
         "KeyName": "Gamepad_DPad_Left",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\n\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000控制键左\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000Gamepad_DPad_Left\u0000\u0000\u0000"
+        "KeyDescription": "控制键左",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI"
     },
     {
         "Id": 11,
         "KeyName": "Gamepad_DPad_Up",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000控制键上\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000Gamepad_DPad_Up\u0000"
+        "KeyDescription": "控制键上",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI"
     },
     {
         "Id": 12,
         "KeyName": "Gamepad_DPad_Right",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\f\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000控制键右\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000Gamepad_DPad_Right\u0000\u0000"
+        "KeyDescription": "控制键右",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI"
     },
     {
         "Id": 13,
         "KeyName": "Gamepad_Special_Left",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\r\u0000\u0000\u0000_\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsShare_UI.T_IconPcBtn_PsShare_UI\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox18_UI.T_IconPcBtn_Xbox18_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000左边特殊键\u0000\u0014\u0000\u0000\u0000Gamepad_Special_Left\u0000\u0000\u0000\u0000"
+        "KeyDescription": "左边特殊键",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox18_UI.T_IconPcBtn_Xbox18_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsShare_UI.T_IconPcBtn_PsShare_UI"
     },
     {
         "Id": 14,
         "KeyName": "Gamepad_Special_Right",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u000e\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCai_UI.T_IconPcBtn_PsCai_UI\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox17_UI.T_IconPcBtn_Xbox17_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000右边特殊键\u0000\u0015\u0000\u0000\u0000Gamepad_Special_Right\u0000\u0000\u0000"
+        "KeyDescription": "右边特殊键",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox17_UI.T_IconPcBtn_Xbox17_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCai_UI.T_IconPcBtn_PsCai_UI"
     },
     {
         "Id": 15,
         "KeyName": "Gamepad_LeftShoulder",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0001\u0000\u0000\u000f\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL1_UI.T_IconPcBtn_PsL1_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftShoulder_UI.T_IconPcBtn_XboxGamepad_LeftShoulder_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000左肩键\u0000\u0000\u0000\u0014\u0000\u0000\u0000Gamepad_LeftShoulder\u0000\u0000\u0000\u0000"
+        "KeyDescription": "左肩键",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftShoulder_UI.T_IconPcBtn_XboxGamepad_LeftShoulder_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL1_UI.T_IconPcBtn_PsL1_UI"
     },
     {
         "Id": 16,
         "KeyName": "Gamepad_RightShoulder",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0001\u0000\u0000\u0010\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR1_UI.T_IconPcBtn_PsR1_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightShoulder_UI.T_IconPcBtn_XboxGamepad_RightShoulder_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000右肩键\u0000\u0000\u0000\u0015\u0000\u0000\u0000Gamepad_RightShoulder\u0000\u0000\u0000"
+        "KeyDescription": "右肩键",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightShoulder_UI.T_IconPcBtn_XboxGamepad_RightShoulder_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR1_UI.T_IconPcBtn_PsR1_UI"
     },
     {
         "Id": 17,
         "KeyName": "Gamepad_LeftTriggerAxis",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\f\u0001\u0000\u0000\u0011\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI\u0000\u0000\u0000\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000左扳机（轴）\u0000\u0000\u0017\u0000\u0000\u0000Gamepad_LeftTriggerAxis\u0000"
+        "KeyDescription": "左扳机（轴）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI"
     },
     {
         "Id": 18,
         "KeyName": "Gamepad_RightTriggerAxis",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0001\u0000\u0000\u0012\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000右扳机（轴）\u0000\u0000\u0018\u0000\u0000\u0000Gamepad_RightTriggerAxis\u0000\u0000\u0000\u0000"
+        "KeyDescription": "右扳机（轴）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI"
     },
     {
         "Id": 19,
         "KeyName": "Gamepad_RightThumbstick",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u0000\u0000\u0000@\u0001\u0000\u0000D\u0001\u0000\u0000T\u0001\u0000\u0000\u0013\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000右摇杆按下\u0000\u0017\u0000\u0000\u0000Gamepad_RightThumbstick\u0000"
+        "KeyDescription": "右摇杆按下",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI"
     },
     {
         "Id": 20,
         "KeyName": "Gamepad_LeftTrigger",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0001\u0000\u0000\u0014\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI\u0000\u0000\u0000\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000左触发杆\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000Gamepad_LeftTrigger\u0000"
+        "KeyDescription": "左触发杆",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI"
     },
     {
         "Id": 21,
         "KeyName": "Gamepad_RightTrigger",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\f\u0001\u0000\u0000\u0015\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000右触发杆\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000Gamepad_RightTrigger\u0000\u0000\u0000\u0000"
+        "KeyDescription": "右触发杆",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI"
     },
     {
         "Id": 22,
         "KeyName": "Gamepad_LeftThumbstick",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u0000\u0000\u00008\u0001\u0000\u0000<\u0001\u0000\u0000L\u0001\u0000\u0000\u0016\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000左摇杆按下\u0000\u0016\u0000\u0000\u0000Gamepad_LeftThumbstick\u0000\u0000"
+        "KeyDescription": "左摇杆按下",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI"
     },
     {
         "Id": 23,
         "KeyName": "Gamepad_LeftStick_Up",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0017\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000左摇杆上（按钮）\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000Gamepad_LeftStick_Up\u0000\u0000\u0000\u0000"
+        "KeyDescription": "左摇杆上（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI"
     },
     {
         "Id": 24,
         "KeyName": "Gamepad_LeftStick_Down",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0018\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000左摇杆下（按钮）\u0000\u0000\u0000\u0000\u0016\u0000\u0000\u0000Gamepad_LeftStick_Down\u0000\u0000"
+        "KeyDescription": "左摇杆下（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI"
     },
     {
         "Id": 25,
         "KeyName": "Gamepad_LeftStick_Right",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0019\u0000\u0000\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000左摇杆右（按钮）\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000Gamepad_LeftStick_Right\u0000"
+        "KeyDescription": "左摇杆右（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI"
     },
     {
         "Id": 26,
         "KeyName": "Gamepad_LeftStick_Left",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u001a\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000左摇杆左（按钮）\u0000\u0000\u0000\u0000\u0016\u0000\u0000\u0000Gamepad_LeftStick_Left\u0000\u0000"
+        "KeyDescription": "左摇杆左（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI"
     },
     {
         "Id": 27,
         "KeyName": "Gamepad_RightStick_Up",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u001b\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000右摇杆上（按钮）\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000Gamepad_RightStick_Up\u0000\u0000\u0000"
+        "KeyDescription": "右摇杆上（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI"
     },
     {
         "Id": 28,
         "KeyName": "Gamepad_RightStick_Down",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u001c\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000右摇杆下（按钮）\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000Gamepad_RightStick_Down\u0000"
+        "KeyDescription": "右摇杆下（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI"
     },
     {
         "Id": 29,
         "KeyName": "Gamepad_RightStick_Right",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u001d\u0000\u0000\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000右摇杆右（按钮）\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000Gamepad_RightStick_Right\u0000\u0000\u0000\u0000"
+        "KeyDescription": "右摇杆右（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI"
     },
     {
         "Id": 30,
         "KeyName": "Gamepad_RightStick_Left",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u001e\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000右摇杆左（按钮）\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000Gamepad_RightStick_Left\u0000"
+        "KeyDescription": "右摇杆左（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI"
     },
     {
         "Id": 31,
         "KeyName": "Gamepad_Left2D",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u001f\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000左摇杆\u0000\u0000\u0000\u000e\u0000\u0000\u0000Gamepad_Left2D\u0000\u0000"
+        "KeyDescription": "左摇杆",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
     },
     {
         "Id": 32,
         "KeyName": "Gamepad_Right2D",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000 \u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000右摇杆\u0000\u0000\u0000\u000f\u0000\u0000\u0000Gamepad_Right2D\u0000"
+        "KeyDescription": "右摇杆",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
     },
     {
         "Id": 33,
         "KeyName": "GenericUSBController_Button2",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0004\u0001\u0000\u0000\b\u0001\u0000\u0000!\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCha_UI.T_IconPcBtn_PsCha_UI\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI.T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000A\u0000\u0000\u0000\u001c\u0000\u0000\u0000GenericUSBController_Button2\u0000\u0000\u0000\u0000"
+        "KeyDescription": "A",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI.T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCha_UI.T_IconPcBtn_PsCha_UI"
     },
     {
         "Id": 34,
         "KeyName": "GenericUSBController_Button1",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0004\u0001\u0000\u0000\b\u0001\u0000\u0000\"\u0000\u0000\u0000_\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsKuang_UI.T_IconPcBtn_PsKuang_UI\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Left_UI.T_IconPcBtn_XboxGamepad_FaceButton_Left_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000X\u0000\u0000\u0000\u001c\u0000\u0000\u0000GenericUSBController_Button1\u0000\u0000\u0000\u0000"
+        "KeyDescription": "X",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Left_UI.T_IconPcBtn_XboxGamepad_FaceButton_Left_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsKuang_UI.T_IconPcBtn_PsKuang_UI"
     },
     {
         "Id": 35,
         "KeyName": "GenericUSBController_Button4",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0004\u0001\u0000\u0000\b\u0001\u0000\u0000#\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsJian_UI.T_IconPcBtn_PsJian_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Top_UI.T_IconPcBtn_XboxGamepad_FaceButton_Top_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000Y\u0000\u0000\u0000\u001c\u0000\u0000\u0000GenericUSBController_Button4\u0000\u0000\u0000\u0000"
+        "KeyDescription": "Y",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Top_UI.T_IconPcBtn_XboxGamepad_FaceButton_Top_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsJian_UI.T_IconPcBtn_PsJian_UI"
     },
     {
         "Id": 36,
         "KeyName": "GenericUSBController_Button3",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000\u0004\u0001\u0000\u0000\b\u0001\u0000\u0000\f\u0001\u0000\u0000$\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsYuan_UI.T_IconPcBtn_PsYuan_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Right_UI.T_IconPcBtn_XboxGamepad_FaceButton_Right_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000B\u0000\u0000\u0000\u001c\u0000\u0000\u0000GenericUSBController_Button3\u0000\u0000\u0000\u0000"
+        "KeyDescription": "B",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Right_UI.T_IconPcBtn_XboxGamepad_FaceButton_Right_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsYuan_UI.T_IconPcBtn_PsYuan_UI"
     },
     {
         "Id": 37,
         "KeyName": "GenericUSBController_Axis6",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000%\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000左摇杆X\u0000\u0000\u001a\u0000\u0000\u0000GenericUSBController_Axis6\u0000\u0000"
+        "KeyDescription": "左摇杆X",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI"
     },
     {
         "Id": 38,
         "KeyName": "GenericUSBController_Axis5",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000&\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000左摇杆Y\u0000\u0000\u001a\u0000\u0000\u0000GenericUSBController_Axis5\u0000\u0000"
+        "KeyDescription": "左摇杆Y",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI"
     },
     {
         "Id": 39,
         "KeyName": "GenericUSBController_Axis4",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000'\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000右摇杆X\u0000\u0000\u001a\u0000\u0000\u0000GenericUSBController_Axis4\u0000\u0000"
+        "KeyDescription": "右摇杆X",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI"
     },
     {
         "Id": 40,
         "KeyName": "GenericUSBController_Axis3",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000(\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000右摇杆Y\u0000\u0000\u001a\u0000\u0000\u0000GenericUSBController_Axis3\u0000\u0000"
+        "KeyDescription": "右摇杆Y",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI"
     },
     {
         "Id": 45,
         "KeyName": "GenericUSBController_Button9",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000-\u0000\u0000\u0000_\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsShare_UI.T_IconPcBtn_PsShare_UI\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox18_UI.T_IconPcBtn_Xbox18_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000左边特殊键\u0000\u001c\u0000\u0000\u0000GenericUSBController_Button9\u0000\u0000\u0000\u0000"
+        "KeyDescription": "左边特殊键",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox18_UI.T_IconPcBtn_Xbox18_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsShare_UI.T_IconPcBtn_PsShare_UI"
     },
     {
         "Id": 46,
         "KeyName": "GenericUSBController_Button10",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000.\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCai_UI.T_IconPcBtn_PsCai_UI\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox17_UI.T_IconPcBtn_Xbox17_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000右边特殊键\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button10\u0000\u0000\u0000"
+        "KeyDescription": "右边特殊键",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox17_UI.T_IconPcBtn_Xbox17_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCai_UI.T_IconPcBtn_PsCai_UI"
     },
     {
         "Id": 47,
         "KeyName": "GenericUSBController_Button5",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0001\u0000\u0000/\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL1_UI.T_IconPcBtn_PsL1_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftShoulder_UI.T_IconPcBtn_XboxGamepad_LeftShoulder_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000左肩键\u0000\u0000\u0000\u001c\u0000\u0000\u0000GenericUSBController_Button5\u0000\u0000\u0000\u0000"
+        "KeyDescription": "左肩键",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftShoulder_UI.T_IconPcBtn_XboxGamepad_LeftShoulder_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL1_UI.T_IconPcBtn_PsL1_UI"
     },
     {
         "Id": 48,
         "KeyName": "GenericUSBController_Button6",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0001\u0000\u00000\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR1_UI.T_IconPcBtn_PsR1_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightShoulder_UI.T_IconPcBtn_XboxGamepad_RightShoulder_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000右肩键\u0000\u0000\u0000\u001c\u0000\u0000\u0000GenericUSBController_Button6\u0000\u0000\u0000\u0000"
+        "KeyDescription": "右肩键",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightShoulder_UI.T_IconPcBtn_XboxGamepad_RightShoulder_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR1_UI.T_IconPcBtn_PsR1_UI"
     },
     {
         "Id": 49,
         "KeyName": "GenericUSBController_Axis2",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\f\u0001\u0000\u00001\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI\u0000\u0000\u0000\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000左扳机（轴）\u0000\u0000\u001a\u0000\u0000\u0000GenericUSBController_Axis2\u0000\u0000"
+        "KeyDescription": "左扳机（轴）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI"
     },
     {
         "Id": 50,
         "KeyName": "GenericUSBController_Axis1",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0001\u0000\u00002\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000右扳机（轴）\u0000\u0000\u001a\u0000\u0000\u0000GenericUSBController_Axis1\u0000\u0000"
+        "KeyDescription": "右扳机（轴）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI"
     },
     {
         "Id": 51,
         "KeyName": "GenericUSBController_Button12",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u0000\u0000\u0000@\u0001\u0000\u0000D\u0001\u0000\u0000T\u0001\u0000\u00003\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000右摇杆按下\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button12\u0000\u0000\u0000"
+        "KeyDescription": "右摇杆按下",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI"
     },
     {
         "Id": 52,
         "KeyName": "GenericUSBController_Button7",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0001\u0000\u00004\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI\u0000\u0000\u0000\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000左触发杆\u0000\u0000\u0000\u0000\u001c\u0000\u0000\u0000GenericUSBController_Button7\u0000\u0000\u0000\u0000"
+        "KeyDescription": "左触发杆",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI"
     },
     {
         "Id": 53,
         "KeyName": "GenericUSBController_Button8",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\f\u0001\u0000\u00005\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000右触发杆\u0000\u0000\u0000\u0000\u001c\u0000\u0000\u0000GenericUSBController_Button8\u0000\u0000\u0000\u0000"
+        "KeyDescription": "右触发杆",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI"
     },
     {
         "Id": 54,
         "KeyName": "GenericUSBController_Button11",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u0000\u0000\u00008\u0001\u0000\u0000<\u0001\u0000\u0000L\u0001\u0000\u00006\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI\u0000�\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000左摇杆按下\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button11\u0000\u0000\u0000"
+        "KeyDescription": "左摇杆按下",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI"
     },
     {
         "Id": 55,
         "KeyName": "GenericUSBController_Button14",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u00007\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsChu_UI.T_IconPcBtn_PsChu_UI\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsChu_UI.T_IconPcBtn_PsChu_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000触摸板\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button14\u0000\u0000\u0000"
+        "KeyDescription": "触摸板",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsChu_UI.T_IconPcBtn_PsChu_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsChu_UI.T_IconPcBtn_PsChu_UI"
     },
     {
         "Id": 41,
         "KeyName": "GenericUSBController_Button18",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000)\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000控制键下\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button18\u0000\u0000\u0000"
+        "KeyDescription": "控制键下",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI"
     },
     {
         "Id": 42,
         "KeyName": "GenericUSBController_Button19",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000*\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000控制键左\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button19\u0000\u0000\u0000"
+        "KeyDescription": "控制键左",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI"
     },
     {
         "Id": 43,
         "KeyName": "GenericUSBController_Button16",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000+\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000控制键上\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button16\u0000\u0000\u0000"
+        "KeyDescription": "控制键上",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI"
     },
     {
         "Id": 44,
         "KeyName": "GenericUSBController_Button17",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000,\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000控制键右\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button17\u0000\u0000\u0000"
+        "KeyDescription": "控制键右",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI"
     },
     {
         "Id": 56,
         "KeyName": "GenericUSBController_Button20",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u00008\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000左摇杆上（按钮）\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button20\u0000\u0000\u0000"
+        "KeyDescription": "左摇杆上（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI"
     },
     {
         "Id": 57,
         "KeyName": "GenericUSBController_Button21",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u00009\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000左摇杆下（按钮）\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button21\u0000\u0000\u0000"
+        "KeyDescription": "左摇杆下（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI"
     },
     {
         "Id": 58,
         "KeyName": "GenericUSBController_Button23",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000:\u0000\u0000\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000左摇杆右（按钮）\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button23\u0000\u0000\u0000"
+        "KeyDescription": "左摇杆右（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI"
     },
     {
         "Id": 59,
         "KeyName": "GenericUSBController_Button22",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000;\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000左摇杆左（按钮）\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button22\u0000\u0000\u0000"
+        "KeyDescription": "左摇杆左（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI"
     },
     {
         "Id": 60,
         "KeyName": "GenericUSBController_Button24",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000<\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000右摇杆上（按钮）\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button24\u0000\u0000\u0000"
+        "KeyDescription": "右摇杆上（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI"
     },
     {
         "Id": 61,
         "KeyName": "GenericUSBController_Button25",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000=\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000右摇杆下（按钮）\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button25\u0000\u0000\u0000"
+        "KeyDescription": "右摇杆下（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI"
     },
     {
         "Id": 62,
         "KeyName": "GenericUSBController_Button27",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000>\u0000\u0000\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000右摇杆右（按钮）\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button27\u0000\u0000\u0000"
+        "KeyDescription": "右摇杆右（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI"
     },
     {
         "Id": 63,
         "KeyName": "GenericUSBController_Button26",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000?\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000右摇杆左（按钮）\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button26\u0000\u0000\u0000"
+        "KeyDescription": "右摇杆左（按钮）",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI"
     },
     {
         "Id": 64,
         "KeyName": "GenericUSBController_Button28",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000@\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000左摇杆\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button28\u0000\u0000\u0000"
+        "KeyDescription": "左摇杆",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
     },
     {
         "Id": 65,
         "KeyName": "GenericUSBController_Button29",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000A\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000右摇杆\u0000\u0000\u0000\u001d\u0000\u0000\u0000GenericUSBController_Button29\u0000\u0000\u0000"
+        "KeyDescription": "右摇杆",
+        "KeyDisplayName": "",
+        "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI",
+        "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
     }
 ]

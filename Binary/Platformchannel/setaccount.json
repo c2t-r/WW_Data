@@ -2,46 +2,104 @@
     {
         "Id": 1,
         "PackageType": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000(\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u00008\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000all\u0000"
+        "Language": [
+            "all"
+        ],
+        "Channel": [
+            18,
+            19,
+            56,
+            161,
+            167
+        ],
+        "Adress": ""
     },
     {
         "Id": 2,
         "PackageType": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u0000@\u0000\u0000\u0000D\u0000\u0000\u0000\u0002\u0000\u0000\u0000/\u0000\u0000\u0000https://mc.kurogame.com/p/agreement_public.html\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000all\u0000"
+        "Language": [
+            "all"
+        ],
+        "Channel": [
+            0
+        ],
+        "Adress": "https://mc.kurogame.com/p/agreement_public.html"
     },
     {
         "Id": 3,
         "PackageType": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u0000@\u0000\u0000\u0000D\u0000\u0000\u0000\u0003\u0000\u0000\u0000/\u0000\u0000\u0000https://mc.kurogame.com/p/personal_privacy.html\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000all\u0000"
+        "Language": [
+            "all"
+        ],
+        "Channel": [
+            0
+        ],
+        "Adress": "https://mc.kurogame.com/p/personal_privacy.html"
     },
     {
         "Id": 4,
         "PackageType": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u0000@\u0000\u0000\u0000D\u0000\u0000\u0000\u0004\u0000\u0000\u0000,\u0000\u0000\u0000https://mc.kurogame.com/p/child_privacy.html\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000all\u0000"
+        "Language": [
+            "all"
+        ],
+        "Channel": [
+            0
+        ],
+        "Adress": "https://mc.kurogame.com/p/child_privacy.html"
     },
     {
         "Id": 5,
         "PackageType": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000<\u0000\u0000\u0000\u0005\u0000\u0000\u0000'\u0000\u0000\u0000https://mc.kurogame.com/p/sdk_list.html\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000all\u0000"
+        "Language": [
+            "all"
+        ],
+        "Channel": [
+            0
+        ],
+        "Adress": "https://mc.kurogame.com/p/sdk_list.html"
     },
     {
         "Id": 6,
         "PackageType": 1,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000`\u0000\u0000\u0000d\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0006\u0000\u0000\u0000H\u0000\u0000\u0000https://wutheringwaves.kurogame.com/p/language_{0}/terms_of_service.html\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000all\u0000"
+        "Language": [
+            "all"
+        ],
+        "Channel": [
+            0
+        ],
+        "Adress": "https://wutheringwaves.kurogame.com/p/language_{0}/terms_of_service.html"
     },
     {
         "Id": 7,
         "PackageType": 1,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\\\u0000\u0000\u0000`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0007\u0000\u0000\u0000F\u0000\u0000\u0000https://wutheringwaves.kurogame.com/p/language_{0}/privacy_policy.html\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000all\u0000"
+        "Language": [
+            "all"
+        ],
+        "Channel": [
+            0
+        ],
+        "Adress": "https://wutheringwaves.kurogame.com/p/language_{0}/privacy_policy.html"
     },
     {
         "Id": 8,
         "PackageType": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000all\u0000"
+        "Language": [
+            "all"
+        ],
+        "Channel": [
+            0
+        ],
+        "Adress": ""
     },
     {
         "Id": 9,
         "PackageType": 1,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0001\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000all\u0000"
+        "Language": [
+            "all"
+        ],
+        "Channel": [
+            0
+        ],
+        "Adress": ""
     }
 ]

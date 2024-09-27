@@ -2,6 +2,16 @@
     {
         "Id": 1009,
         "ViewName": "RogueShopView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0016\u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0001\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000�:�\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000ed6a41\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconRogueShop.SP_BlackIconRogueShop\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconRogueShop1.SP_IconRogueShop1\u0000\u0000\u0000\u001e\u0000\u0000\u0000NpcSystemBackground_1009_Title\u0000\u0000\r\u0000\u0000\u0000RogueShopView\u0000\u0000\u0000"
+        "Title": "NpcSystemBackground_1009_Title",
+        "TitleTexturePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconRogueShop1.SP_IconRogueShop1",
+        "TitleBgTexturePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconRogueShop.SP_BlackIconRogueShop",
+        "TitleSymbolColor": "ed6a41",
+        "CaptionTitle": "",
+        "CaptionTitleSpritePath": "",
+        "CostItemList": [
+            80100000
+        ],
+        "IsHelpButtonVisible": false,
+        "HelpGroupId": 0
     }
 ]

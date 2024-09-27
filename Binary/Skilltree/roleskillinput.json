@@ -1,82 +1,256 @@
 [
     {
         "RoleId": 1501,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000�\u0005\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1501_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1501_DescList_2\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreePiaobozhe.T_RoleSkillTreePiaobozhe\u0000\u0004\u0000\u0000\u0000UJ\u0002\u0000VJ\u0002\u0000WJ\u0002\u0000XJ\u0002\u0000"
+        "SkillInputIdList": [
+            150101,
+            150102,
+            150103,
+            150104
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreePiaobozhe.T_RoleSkillTreePiaobozhe",
+        "DescList": [
+            "RoleSkillInput_1501_DescList_1",
+            "RoleSkillInput_1501_DescList_2"
+        ]
     },
     {
         "RoleId": 1502,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000�\u0005\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1501_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1501_DescList_2\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreePiaobozhe.T_RoleSkillTreePiaobozhe\u0000\u0004\u0000\u0000\u0000UJ\u0002\u0000VJ\u0002\u0000WJ\u0002\u0000XJ\u0002\u0000"
+        "SkillInputIdList": [
+            150101,
+            150102,
+            150103,
+            150104
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreePiaobozhe.T_RoleSkillTreePiaobozhe",
+        "DescList": [
+            "RoleSkillInput_1501_DescList_1",
+            "RoleSkillInput_1501_DescList_2"
+        ]
     },
     {
         "RoleId": 1202,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000�\u0004\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1202_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1202_DescList_2\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeZhixia.T_RoleSkillTreeZhixia\u0000\u0000\u0000\u0001\u0000\u0000\u0000��\u0001\u0000"
+        "SkillInputIdList": [
+            120201
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeZhixia.T_RoleSkillTreeZhixia",
+        "DescList": [
+            "RoleSkillInput_1202_DescList_1",
+            "RoleSkillInput_1202_DescList_2"
+        ]
     },
     {
         "RoleId": 1402,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000z\u0005\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1402_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1402_DescList_2\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeYangyang.T_RoleSkillTreeYangyang\u0000\u0000\u0000\u0003\u0000\u0000\u0000�#\u0002\u0000�#\u0002\u0000�#\u0002\u0000"
+        "SkillInputIdList": [
+            140201,
+            140202,
+            140203
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeYangyang.T_RoleSkillTreeYangyang",
+        "DescList": [
+            "RoleSkillInput_1402_DescList_1",
+            "RoleSkillInput_1402_DescList_2"
+        ]
     },
     {
         "RoleId": 1103,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000O\u0004\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1103_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1103_DescList_2\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeBaizhi.T_RoleSkillTreeBaizhi\u0000\u0000\u0000\u0002\u0000\u0000\u0000ݮ\u0001\u0000ޮ\u0001\u0000"
+        "SkillInputIdList": [
+            110301,
+            110302
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeBaizhi.T_RoleSkillTreeBaizhi",
+        "DescList": [
+            "RoleSkillInput_1103_DescList_1",
+            "RoleSkillInput_1103_DescList_2"
+        ]
     },
     {
         "RoleId": 1102,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000�\u0000\u0000\u0000N\u0004\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1102_DescList_1\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeSanhua.T_RoleSkillTreeSanhua\u0000\u0000\u0000\u0003\u0000\u0000\u0000y�\u0001\u0000z�\u0001\u0000{�\u0001\u0000"
+        "SkillInputIdList": [
+            110201,
+            110202,
+            110203
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeSanhua.T_RoleSkillTreeSanhua",
+        "DescList": [
+            "RoleSkillInput_1102_DescList_1"
+        ]
     },
     {
         "RoleId": 1503,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000�\u0005\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1503_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1503_DescList_2\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeWeilinai.T_RoleSkillTreeWeilinai\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001dK\u0002\u0000\u001eK\u0002\u0000"
+        "SkillInputIdList": [
+            150301,
+            150302
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeWeilinai.T_RoleSkillTreeWeilinai",
+        "DescList": [
+            "RoleSkillInput_1503_DescList_1",
+            "RoleSkillInput_1503_DescList_2"
+        ]
     },
     {
         "RoleId": 1302,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0016\u0005\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1302_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1302_DescList_2\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeYingling.T_RoleSkillTreeYingling\u0000\u0000\u0000\u0001\u0000\u0000\u0000��\u0001\u0000"
+        "SkillInputIdList": [
+            130201
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeYingling.T_RoleSkillTreeYingling",
+        "DescList": [
+            "RoleSkillInput_1302_DescList_1",
+            "RoleSkillInput_1302_DescList_2"
+        ]
     },
     {
         "RoleId": 1601,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000A\u0006\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1601_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1601_DescList_2\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeTaoqi.T_RoleSkillTreeTaoqi\u0000\u0002\u0000\u0000\u0000eq\u0002\u0000fq\u0002\u0000"
+        "SkillInputIdList": [
+            160101,
+            160102
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeTaoqi.T_RoleSkillTreeTaoqi",
+        "DescList": [
+            "RoleSkillInput_1601_DescList_1",
+            "RoleSkillInput_1601_DescList_2"
+        ]
     },
     {
         "RoleId": 1403,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000{\u0005\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1403_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1403_DescList_2\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeQiushui.T_RoleSkillTreeQiushui\u0000\u0001\u0000\u0000\u0000\r$\u0002\u0000"
+        "SkillInputIdList": [
+            140301
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeQiushui.T_RoleSkillTreeQiushui",
+        "DescList": [
+            "RoleSkillInput_1403_DescList_1",
+            "RoleSkillInput_1403_DescList_2"
+        ]
     },
     {
         "RoleId": 1204,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000�\u0004\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1204_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1204_DescList_2\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeMotefei.T_RoleSkillTreeMotefei\u0000\u0001\u0000\u0000\u0000Q�\u0001\u0000"
+        "SkillInputIdList": [
+            120401
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeMotefei.T_RoleSkillTreeMotefei",
+        "DescList": [
+            "RoleSkillInput_1204_DescList_1",
+            "RoleSkillInput_1204_DescList_2"
+        ]
     },
     {
         "RoleId": 1303,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0017\u0005\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1303_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1303_DescList_2\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeYuanwu.T_RoleSkillTreeYuanwu\u0000\u0000\u0000\u0001\u0000\u0000\u0000��\u0001\u0000"
+        "SkillInputIdList": [
+            130301
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeYuanwu.T_RoleSkillTreeYuanwu",
+        "DescList": [
+            "RoleSkillInput_1303_DescList_1",
+            "RoleSkillInput_1303_DescList_2"
+        ]
     },
     {
         "RoleId": 1203,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000�\u0004\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1203_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1203_DescList_2\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeAnke.T_RoleSkillTreeAnke\u0000\u0000\u0000\u0004\u0000\u0000\u0000��\u0001\u0000��\u0001\u0000��\u0001\u0000��\u0001\u0000"
+        "SkillInputIdList": [
+            120301,
+            120302,
+            120303,
+            120304
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeAnke.T_RoleSkillTreeAnke",
+        "DescList": [
+            "RoleSkillInput_1203_DescList_1",
+            "RoleSkillInput_1203_DescList_2"
+        ]
     },
     {
         "RoleId": 1404,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000|\u0005\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1404_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1404_DescList_2\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeJiyan.T_RoleSkillTreeJiyan\u0000\u0005\u0000\u0000\u0000q$\u0002\u0000r$\u0002\u0000s$\u0002\u0000t$\u0002\u0000u$\u0002\u0000"
+        "SkillInputIdList": [
+            140401,
+            140402,
+            140403,
+            140404,
+            140405
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeJiyan.T_RoleSkillTreeJiyan",
+        "DescList": [
+            "RoleSkillInput_1404_DescList_1",
+            "RoleSkillInput_1404_DescList_2"
+        ]
     },
     {
         "RoleId": 1602,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000B\u0006\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1602_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1602_DescList_2\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeDanjin.T_RoleSkillTreeDanjin\u0000\u0000\u0000\u0004\u0000\u0000\u0000�q\u0002\u0000�q\u0002\u0000�q\u0002\u0000�q\u0002\u0000"
+        "SkillInputIdList": [
+            160201,
+            160202,
+            160203,
+            160204
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeDanjin.T_RoleSkillTreeDanjin",
+        "DescList": [
+            "RoleSkillInput_1602_DescList_1",
+            "RoleSkillInput_1602_DescList_2"
+        ]
     },
     {
         "RoleId": 1301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0015\u0005\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1301_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1301_DescList_2\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeKakaluo.T_RoleSkillTreeKakaluo\u0000\u0002\u0000\u0000\u00005�\u0001\u00006�\u0001\u0000"
+        "SkillInputIdList": [
+            130101,
+            130102
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeKakaluo.T_RoleSkillTreeKakaluo",
+        "DescList": [
+            "RoleSkillInput_1301_DescList_1",
+            "RoleSkillInput_1301_DescList_2"
+        ]
     },
     {
         "RoleId": 1405,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000}\u0005\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1405_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1405_DescList_2\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeJianxin.T_RoleSkillTreeJianxin\u0000\u0006\u0000\u0000\u0000�$\u0002\u0000�$\u0002\u0000�$\u0002\u0000�$\u0002\u0000�$\u0002\u0000�$\u0002\u0000"
+        "SkillInputIdList": [
+            140501,
+            140502,
+            140503,
+            140504,
+            140505,
+            140506
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeJianxin.T_RoleSkillTreeJianxin",
+        "DescList": [
+            "RoleSkillInput_1405_DescList_1",
+            "RoleSkillInput_1405_DescList_2"
+        ]
     },
     {
         "RoleId": 1104,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000P\u0004\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1104_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1104_DescList_2\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeLingyang.T_RoleSkillTreeLingyang\u0000\u0000\u0000\u0003\u0000\u0000\u0000A�\u0001\u0000B�\u0001\u0000C�\u0001\u0000"
+        "SkillInputIdList": [
+            110401,
+            110402,
+            110403
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeLingyang.T_RoleSkillTreeLingyang",
+        "DescList": [
+            "RoleSkillInput_1104_DescList_1",
+            "RoleSkillInput_1104_DescList_2"
+        ]
     },
     {
         "RoleId": 1605,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000E\u0006\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1605_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1605_DescList_2\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreePiaobozhean.T_RoleSkillTreePiaobozhean\u0000\u0003\u0000\u0000\u0000�r\u0002\u0000�r\u0002\u0000�r\u0002\u0000"
+        "SkillInputIdList": [
+            160501,
+            160502,
+            160503
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreePiaobozhean.T_RoleSkillTreePiaobozhean",
+        "DescList": [
+            "RoleSkillInput_1605_DescList_1",
+            "RoleSkillInput_1605_DescList_2"
+        ]
     },
     {
         "RoleId": 1604,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000D\u0006\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1605_DescList_1\u0000\u0000\u001e\u0000\u0000\u0000RoleSkillInput_1605_DescList_2\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreePiaobozhean.T_RoleSkillTreePiaobozhean\u0000\u0003\u0000\u0000\u0000�r\u0002\u0000�r\u0002\u0000�r\u0002\u0000"
+        "SkillInputIdList": [
+            160501,
+            160502,
+            160503
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreePiaobozhean.T_RoleSkillTreePiaobozhean",
+        "DescList": [
+            "RoleSkillInput_1605_DescList_1",
+            "RoleSkillInput_1605_DescList_2"
+        ]
     }
 ]

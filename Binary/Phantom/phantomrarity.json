@@ -1,18 +1,22 @@
 [
     {
         "Rare": 0,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001d\u0000\u0000\u0000Text_CalabashCatchGain_0_Text\u0000\u0000\u0000"
+        "Cost": 1,
+        "Desc": "Text_CalabashCatchGain_0_Text"
     },
     {
         "Rare": 1,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001d\u0000\u0000\u0000Text_CalabashCatchGain_1_Text\u0000\u0000\u0000"
+        "Cost": 3,
+        "Desc": "Text_CalabashCatchGain_1_Text"
     },
     {
         "Rare": 2,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001d\u0000\u0000\u0000Text_CalabashCatchGain_2_Text\u0000\u0000\u0000"
+        "Cost": 4,
+        "Desc": "Text_CalabashCatchGain_2_Text"
     },
     {
         "Rare": 3,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u001d\u0000\u0000\u0000Text_CalabashCatchGain_3_Text\u0000\u0000\u0000"
+        "Cost": 4,
+        "Desc": "Text_CalabashCatchGain_3_Text"
     }
 ]

@@ -1,14 +1,14 @@
 [
     {
         "Id": "ElementIcon1",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000Icon\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000ElementIcon1\u0000\u0000\u0000\u0000"
+        "ConfigParam": "Icon"
     },
     {
         "Id": "ElementIcon2",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Icon2\u0000\u0000\u0000\f\u0000\u0000\u0000ElementIcon2\u0000\u0000\u0000\u0000"
+        "ConfigParam": "Icon2"
     },
     {
         "Id": "ElementIcon3",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Icon3\u0000\u0000\u0000\f\u0000\u0000\u0000ElementIcon3\u0000\u0000\u0000\u0000"
+        "ConfigParam": "Icon3"
     }
 ]

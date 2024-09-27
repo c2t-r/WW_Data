@@ -1,122 +1,122 @@
 [
     {
         "Id": 1,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0015\u0000\u0000\u0000AdviceSentence_1_Text\u0000\u0000\u0000"
+        "Text": "AdviceSentence_1_Text"
     },
     {
         "Id": 2,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0015\u0000\u0000\u0000AdviceSentence_2_Text\u0000\u0000\u0000"
+        "Text": "AdviceSentence_2_Text"
     },
     {
         "Id": 3,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0015\u0000\u0000\u0000AdviceSentence_3_Text\u0000\u0000\u0000"
+        "Text": "AdviceSentence_3_Text"
     },
     {
         "Id": 4,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0015\u0000\u0000\u0000AdviceSentence_4_Text\u0000\u0000\u0000"
+        "Text": "AdviceSentence_4_Text"
     },
     {
         "Id": 5,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0015\u0000\u0000\u0000AdviceSentence_5_Text\u0000\u0000\u0000"
+        "Text": "AdviceSentence_5_Text"
     },
     {
         "Id": 6,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0015\u0000\u0000\u0000AdviceSentence_6_Text\u0000\u0000\u0000"
+        "Text": "AdviceSentence_6_Text"
     },
     {
         "Id": 7,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0015\u0000\u0000\u0000AdviceSentence_7_Text\u0000\u0000\u0000"
+        "Text": "AdviceSentence_7_Text"
     },
     {
         "Id": 8,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0015\u0000\u0000\u0000AdviceSentence_8_Text\u0000\u0000\u0000"
+        "Text": "AdviceSentence_8_Text"
     },
     {
         "Id": 9,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\u0015\u0000\u0000\u0000AdviceSentence_9_Text\u0000\u0000\u0000"
+        "Text": "AdviceSentence_9_Text"
     },
     {
         "Id": 10,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_10_Text\u0000\u0000"
+        "Text": "AdviceSentence_10_Text"
     },
     {
         "Id": 11,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_11_Text\u0000\u0000"
+        "Text": "AdviceSentence_11_Text"
     },
     {
         "Id": 12,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_12_Text\u0000\u0000"
+        "Text": "AdviceSentence_12_Text"
     },
     {
         "Id": 13,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\r\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_13_Text\u0000\u0000"
+        "Text": "AdviceSentence_13_Text"
     },
     {
         "Id": 14,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_14_Text\u0000\u0000"
+        "Text": "AdviceSentence_14_Text"
     },
     {
         "Id": 15,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_15_Text\u0000\u0000"
+        "Text": "AdviceSentence_15_Text"
     },
     {
         "Id": 16,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_16_Text\u0000\u0000"
+        "Text": "AdviceSentence_16_Text"
     },
     {
         "Id": 17,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_17_Text\u0000\u0000"
+        "Text": "AdviceSentence_17_Text"
     },
     {
         "Id": 18,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_18_Text\u0000\u0000"
+        "Text": "AdviceSentence_18_Text"
     },
     {
         "Id": 19,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_19_Text\u0000\u0000"
+        "Text": "AdviceSentence_19_Text"
     },
     {
         "Id": 20,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_20_Text\u0000\u0000"
+        "Text": "AdviceSentence_20_Text"
     },
     {
         "Id": 21,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_21_Text\u0000\u0000"
+        "Text": "AdviceSentence_21_Text"
     },
     {
         "Id": 22,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_22_Text\u0000\u0000"
+        "Text": "AdviceSentence_22_Text"
     },
     {
         "Id": 23,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_23_Text\u0000\u0000"
+        "Text": "AdviceSentence_23_Text"
     },
     {
         "Id": 24,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_24_Text\u0000\u0000"
+        "Text": "AdviceSentence_24_Text"
     },
     {
         "Id": 25,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_25_Text\u0000\u0000"
+        "Text": "AdviceSentence_25_Text"
     },
     {
         "Id": 26,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_26_Text\u0000\u0000"
+        "Text": "AdviceSentence_26_Text"
     },
     {
         "Id": 27,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_27_Text\u0000\u0000"
+        "Text": "AdviceSentence_27_Text"
     },
     {
         "Id": 28,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_28_Text\u0000\u0000"
+        "Text": "AdviceSentence_28_Text"
     },
     {
         "Id": 29,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_29_Text\u0000\u0000"
+        "Text": "AdviceSentence_29_Text"
     },
     {
         "Id": 30,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u0016\u0000\u0000\u0000AdviceSentence_30_Text\u0000\u0000"
+        "Text": "AdviceSentence_30_Text"
     }
 ]

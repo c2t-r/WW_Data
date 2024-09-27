@@ -3,12 +3,14 @@
         "Id": 1,
         "RoleId": 1502,
         "ActionName": "Attack01",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000�\u0000\u0000\u0000�\u0005\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/Default_Work_Unit/SFX_Event/SFX_Play_Event/RoleAction/Yangyang/Play_Role_Yangyang_Bat_Atk_06.Play_Role_Yangyang_Bat_Atk_06\u0000\u0000\b\u0000\u0000\u0000Attack01\u0000\u0000\u0000\u0000"
+        "AudioPath": "/Game/Aki/WwiseAudio/Events/Default_Work_Unit/SFX_Event/SFX_Play_Event/RoleAction/Yangyang/Play_Role_Yangyang_Bat_Atk_06.Play_Role_Yangyang_Bat_Atk_06",
+        "CanInterrupt": false
     },
     {
         "Id": 2,
         "RoleId": 1502,
         "ActionName": "Attack02",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000�\u0000\u0000\u0000�\u0005\u0000\u0000\u0002\u0000\u0000\u0000�\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/Default_Work_Unit/SFX_Event/SFX_Play_Event/RoleAction/Yangyang/Play_Role_Yangyang_Bat_Atk_Dilie.Play_Role_Yangyang_Bat_Atk_Dilie\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000Attack02\u0000\u0000\u0000\u0000"
+        "AudioPath": "/Game/Aki/WwiseAudio/Events/Default_Work_Unit/SFX_Event/SFX_Play_Event/RoleAction/Yangyang/Play_Role_Yangyang_Bat_Atk_Dilie.Play_Role_Yangyang_Bat_Atk_Dilie",
+        "CanInterrupt": false
     }
 ]

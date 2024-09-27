@@ -1,26 +1,32 @@
 [
     {
         "Id": "FemaleS",
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0007\u0000\u0000\u0000FemaleS\u0000"
+        "SprintZOffsetRate": 0.2,
+        "SprintZOffsetSpeed": 100.0
     },
     {
         "Id": "FemaleM",
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0007\u0000\u0000\u0000FemaleM\u0000"
+        "SprintZOffsetRate": 0.2,
+        "SprintZOffsetSpeed": 100.0
     },
     {
         "Id": "FemaleXL",
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0004\u0000\u0000\u0000\b\u0000\u0000\u0000FemaleXL\u0000\u0000\u0000\u0000"
+        "SprintZOffsetRate": 0.2,
+        "SprintZOffsetSpeed": 100.0
     },
     {
         "Id": "MaleM",
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000MaleM\u0000\u0000\u0000"
+        "SprintZOffsetRate": 0.2,
+        "SprintZOffsetSpeed": 100.0
     },
     {
         "Id": "MaleXL",
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0006\u0000\u0000\u0000MaleXL\u0000\u0000"
+        "SprintZOffsetRate": 0.2,
+        "SprintZOffsetSpeed": 100.0
     },
     {
         "Id": "MaleS",
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000MaleS\u0000\u0000\u0000"
+        "SprintZOffsetRate": 0.2,
+        "SprintZOffsetSpeed": 100.0
     }
 ]

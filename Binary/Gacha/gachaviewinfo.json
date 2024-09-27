@@ -1,66 +1,362 @@
 [
     {
         "Id": 1,
-        "BinData": "$\u0000\u0000\u0000 \u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00004\u0000\u0000\u0000H\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0005\u0000\u0000\u0000�\u0004\u0000\u0000}\u0005\u0000\u0000P\u0004\u0000\u0000�\u0005\u0000\u0000\u0015\u0005\u0000\u0000\u0003\u0000\u0000\u0000�\u0004\u0000\u0000}\u0005\u0000\u0000P\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabNewSele.SP_TabNewSele\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabNewNor.SP_TabNewNor\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg04.T_LuckdrawBg04\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleBg00.T_LuckdraRoleBg00\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000FBFAFFFF\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SummaryDescribe1_Text\u0000\u0000\u0017\u0000\u0000\u0000Text_SummaryTitle1_Text\u0000"
+        "Type": 1,
+        "SummaryTitle": "Text_SummaryTitle1_Text",
+        "SummaryDescribe": "Text_SummaryDescribe1_Text",
+        "ThemeColor": "FBFAFFFF",
+        "ContentTexturePath": "",
+        "ContentTextureBgPath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleBg00.T_LuckdraRoleBg00",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg04.T_LuckdrawBg04",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabNewNor.SP_TabNewNor",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabNewSele.SP_TabNewSele",
+        "WeaponPrefabPath": "",
+        "UpList": [],
+        "ShowIdList": [
+            1203,
+            1405,
+            1104
+        ],
+        "PreviewIdList": [
+            1203,
+            1405,
+            1104,
+            1503,
+            1301
+        ]
     },
     {
         "Id": 2,
-        "BinData": "$\u0000\u0000\u0000 \u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00004\u0000\u0000\u0000H\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u00008\u0001\u0000\u0000<\u0001\u0000\u0000@\u0001\u0000\u0000L\u0001\u0000\u0000h\u0001\u0000\u0000\u0004\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0005\u0000\u0000\u0000�\u0004\u0000\u0000}\u0005\u0000\u0000P\u0004\u0000\u0000�\u0005\u0000\u0000\u0015\u0005\u0000\u0000\u0003\u0000\u0000\u0000�\u0004\u0000\u0000}\u0005\u0000\u0000P\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabFrontSele.SP_TabFrontSele\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabFrontNor.SP_TabFrontNor\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg02.T_LuckdrawBg02\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u000068A6BFFF\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SummaryDescribe2_Text\u0000\u0000\u0017\u0000\u0000\u0000Text_SummaryTitle2_Text\u0000"
+        "Type": 4,
+        "SummaryTitle": "Text_SummaryTitle2_Text",
+        "SummaryDescribe": "Text_SummaryDescribe2_Text",
+        "ThemeColor": "68A6BFFF",
+        "ContentTexturePath": "",
+        "ContentTextureBgPath": "",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg02.T_LuckdrawBg02",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabFrontNor.SP_TabFrontNor",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabFrontSele.SP_TabFrontSele",
+        "WeaponPrefabPath": "",
+        "UpList": [],
+        "ShowIdList": [
+            1203,
+            1405,
+            1104
+        ],
+        "PreviewIdList": [
+            1203,
+            1405,
+            1104,
+            1503,
+            1301
+        ]
     },
     {
         "Id": 31,
-        "BinData": "$\u0000\u0000\u0000 \u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\\\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000\f\u0002\u0000\u0000(\u0002\u0000\u0000\u0005\u0000\u0000\u0000\u001f\u0000\u0000\u0000\u0001\u0000\u0000\u0000_�@\u0001\u0001\u0000\u0000\u0000_�@\u0001Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon02.UiItem_LuckdraWeapon02\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele01.SP_TabPermanentWeaponSele01\u0000\u0000\u0000_\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor01.SP_TabPermanentWeaponNor01\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg50.T_LuckdrawBg50\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon02.T_LuckdraWeapon02\u0000\u0000\b\u0000\u0000\u00005DABFEFF\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SummaryDescribe3_Text\u0000\u0000\u0018\u0000\u0000\u0000Text_SummaryTitle31_Text\u0000\u0000\u0000\u0000"
+        "Type": 5,
+        "SummaryTitle": "Text_SummaryTitle31_Text",
+        "SummaryDescribe": "Text_SummaryDescribe3_Text",
+        "ThemeColor": "5DABFEFF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon02.T_LuckdraWeapon02",
+        "ContentTextureBgPath": "",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg50.T_LuckdrawBg50",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor01.SP_TabPermanentWeaponNor01",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele01.SP_TabPermanentWeaponSele01",
+        "WeaponPrefabPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon02.UiItem_LuckdraWeapon02",
+        "UpList": [],
+        "ShowIdList": [
+            21010015
+        ],
+        "PreviewIdList": [
+            21010015
+        ]
     },
     {
         "Id": 32,
-        "BinData": "$\u0000\u0000\u0000 \u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\\\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000\f\u0002\u0000\u0000(\u0002\u0000\u0000\u0005\u0000\u0000\u0000 \u0000\u0000\u0000\u0001\u0000\u0000\u0000o�@\u0001\u0001\u0000\u0000\u0000o�@\u0001Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon05.UiItem_LuckdraWeapon05\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele02.SP_TabPermanentWeaponSele02\u0000\u0000\u0000_\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor02.SP_TabPermanentWeaponNor02\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg50.T_LuckdrawBg50\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon05.T_LuckdraWeapon05\u0000\u0000\b\u0000\u0000\u00005DABFEFF\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SummaryDescribe3_Text\u0000\u0000\u0018\u0000\u0000\u0000Text_SummaryTitle32_Text\u0000\u0000\u0000\u0000"
+        "Type": 5,
+        "SummaryTitle": "Text_SummaryTitle32_Text",
+        "SummaryDescribe": "Text_SummaryDescribe3_Text",
+        "ThemeColor": "5DABFEFF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon05.T_LuckdraWeapon05",
+        "ContentTextureBgPath": "",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg50.T_LuckdrawBg50",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor02.SP_TabPermanentWeaponNor02",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele02.SP_TabPermanentWeaponSele02",
+        "WeaponPrefabPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon05.UiItem_LuckdraWeapon05",
+        "UpList": [],
+        "ShowIdList": [
+            21020015
+        ],
+        "PreviewIdList": [
+            21020015
+        ]
     },
     {
         "Id": 33,
-        "BinData": "$\u0000\u0000\u0000 \u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000T\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0004\u0002\u0000\u0000 \u0002\u0000\u0000\u0005\u0000\u0000\u0000!\u0000\u0000\u0000\u0001\u0000\u0000\u0000�@\u0001\u0001\u0000\u0000\u0000�@\u0001Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon04.UiItem_LuckdraWeapon04\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele.SP_TabPermanentWeaponSele\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor.SP_TabPermanentWeaponNor\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg50.T_LuckdrawBg50\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon04.T_LuckdraWeapon04\u0000\u0000\b\u0000\u0000\u00005DABFEFF\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SummaryDescribe3_Text\u0000\u0000\u0018\u0000\u0000\u0000Text_SummaryTitle33_Text\u0000\u0000\u0000\u0000"
+        "Type": 5,
+        "SummaryTitle": "Text_SummaryTitle33_Text",
+        "SummaryDescribe": "Text_SummaryDescribe3_Text",
+        "ThemeColor": "5DABFEFF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon04.T_LuckdraWeapon04",
+        "ContentTextureBgPath": "",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg50.T_LuckdrawBg50",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor.SP_TabPermanentWeaponNor",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele.SP_TabPermanentWeaponSele",
+        "WeaponPrefabPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon04.UiItem_LuckdraWeapon04",
+        "UpList": [],
+        "ShowIdList": [
+            21030015
+        ],
+        "PreviewIdList": [
+            21030015
+        ]
     },
     {
         "Id": 34,
-        "BinData": "$\u0000\u0000\u0000 \u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\\\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000\f\u0002\u0000\u0000(\u0002\u0000\u0000\u0005\u0000\u0000\u0000\"\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001\u0001\u0000\u0000\u0000�\u000bA\u0001Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon01.UiItem_LuckdraWeapon01\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele03.SP_TabPermanentWeaponSele03\u0000\u0000\u0000_\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor03.SP_TabPermanentWeaponNor03\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg50.T_LuckdrawBg50\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon01.T_LuckdraWeapon01\u0000\u0000\b\u0000\u0000\u00005DABFEFF\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SummaryDescribe3_Text\u0000\u0000\u0018\u0000\u0000\u0000Text_SummaryTitle34_Text\u0000\u0000\u0000\u0000"
+        "Type": 5,
+        "SummaryTitle": "Text_SummaryTitle34_Text",
+        "SummaryDescribe": "Text_SummaryDescribe3_Text",
+        "ThemeColor": "5DABFEFF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon01.T_LuckdraWeapon01",
+        "ContentTextureBgPath": "",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg50.T_LuckdrawBg50",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor03.SP_TabPermanentWeaponNor03",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele03.SP_TabPermanentWeaponSele03",
+        "WeaponPrefabPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon01.UiItem_LuckdraWeapon01",
+        "UpList": [],
+        "ShowIdList": [
+            21040015
+        ],
+        "PreviewIdList": [
+            21040015
+        ]
     },
     {
         "Id": 35,
-        "BinData": "$\u0000\u0000\u0000 \u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\\\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000\f\u0002\u0000\u0000(\u0002\u0000\u0000\u0005\u0000\u0000\u0000#\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001\u0001\u0000\u0000\u0000�2A\u0001Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon06.UiItem_LuckdraWeapon06\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele04.SP_TabPermanentWeaponSele04\u0000\u0000\u0000_\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor04.SP_TabPermanentWeaponNor04\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg50.T_LuckdrawBg50\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon06.T_LuckdraWeapon06\u0000\u0000\b\u0000\u0000\u00005DABFEFF\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SummaryDescribe3_Text\u0000\u0000\u0018\u0000\u0000\u0000Text_SummaryTitle35_Text\u0000\u0000\u0000\u0000"
+        "Type": 5,
+        "SummaryTitle": "Text_SummaryTitle35_Text",
+        "SummaryDescribe": "Text_SummaryDescribe3_Text",
+        "ThemeColor": "5DABFEFF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon06.T_LuckdraWeapon06",
+        "ContentTextureBgPath": "",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg50.T_LuckdrawBg50",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor04.SP_TabPermanentWeaponNor04",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele04.SP_TabPermanentWeaponSele04",
+        "WeaponPrefabPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon06.UiItem_LuckdraWeapon06",
+        "UpList": [],
+        "ShowIdList": [
+            21050015
+        ],
+        "PreviewIdList": [
+            21050015
+        ]
     },
     {
         "Id": 100001,
-        "BinData": "$\u0000\u0000\u0000 \u0000<\u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00008\u0000\u0000\u0000H\u0000\u0000\u0000L\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000<\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0014\u0002\u0000\u0000\u0002\u0000\u0000\u0000��\u0001\u0000\u0004\u0000\u0000\u0000|\u0005\u0000\u0000B\u0006\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000\u0001\u0000\u0000\u0000|\u0005\u0000\u0000\u0003\u0000\u0000\u0000B\u0006\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJiyanSele.SP_TabJiyanSele\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJiyanNor.SP_TabJiyanNor\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg03.T_LuckdrawBg03\u0000V\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraUpRole01Bg.T_LuckdraUpRole01Bg\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraUpRole01.T_LuckdraUpRole01\u0000\u0000\b\u0000\u0000\u000000847FFF\u0000\u0000\u0000\u0000\u001f\u0000\u0000\u0000Text_SummaryDescribe100001_Text\u0000\u001c\u0000\u0000\u0000Text_SummaryTitle100001_Text\u0000\u0000\u0000\u0000"
+        "Type": 2,
+        "SummaryTitle": "Text_SummaryTitle100001_Text",
+        "SummaryDescribe": "Text_SummaryDescribe100001_Text",
+        "ThemeColor": "00847FFF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraUpRole01.T_LuckdraUpRole01",
+        "ContentTextureBgPath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraUpRole01Bg.T_LuckdraUpRole01Bg",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg03.T_LuckdrawBg03",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJiyanNor.SP_TabJiyanNor",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJiyanSele.SP_TabJiyanSele",
+        "WeaponPrefabPath": "",
+        "UpList": [
+            1602,
+            1202,
+            1204
+        ],
+        "ShowIdList": [
+            1404
+        ],
+        "PreviewIdList": [
+            1404,
+            1602,
+            1202,
+            1204
+        ]
     },
     {
         "Id": 100002,
-        "BinData": "$\u0000\u0000\u0000 \u0000<\u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00008\u0000\u0000\u0000H\u0000\u0000\u0000L\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000@\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0018\u0002\u0000\u0000\u0002\u0000\u0000\u0000��\u0001\u0000\u0004\u0000\u0000\u0000\u0016\u0005\u0000\u0000A\u0006\u0000\u0000{\u0005\u0000\u0000\u0017\u0005\u0000\u0000\u0001\u0000\u0000\u0000\u0016\u0005\u0000\u0000\u0003\u0000\u0000\u0000A\u0006\u0000\u0000{\u0005\u0000\u0000\u0017\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabYinlinSele.SP_TabYinlinSele\u0000I\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabYinlinNor.SP_TabYinlinNor\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg01.T_LuckdrawBg01\u0000V\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraUpRole02Bg.T_LuckdraUpRole02Bg\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraUpRole02.T_LuckdraUpRole02\u0000\u0000\b\u0000\u0000\u0000F25B62FF\u0000\u0000\u0000\u0000\u001f\u0000\u0000\u0000Text_SummaryDescribe100002_Text\u0000\u001c\u0000\u0000\u0000Text_SummaryTitle100002_Text\u0000\u0000\u0000\u0000"
+        "Type": 2,
+        "SummaryTitle": "Text_SummaryTitle100002_Text",
+        "SummaryDescribe": "Text_SummaryDescribe100002_Text",
+        "ThemeColor": "F25B62FF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraUpRole02.T_LuckdraUpRole02",
+        "ContentTextureBgPath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraUpRole02Bg.T_LuckdraUpRole02Bg",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg01.T_LuckdrawBg01",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabYinlinNor.SP_TabYinlinNor",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabYinlinSele.SP_TabYinlinSele",
+        "WeaponPrefabPath": "",
+        "UpList": [
+            1601,
+            1403,
+            1303
+        ],
+        "ShowIdList": [
+            1302
+        ],
+        "PreviewIdList": [
+            1302,
+            1601,
+            1403,
+            1303
+        ]
     },
     {
         "Id": 200001,
-        "BinData": "$\u0000\u0000\u0000 \u0000<\u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00008\u0000\u0000\u0000H\u0000\u0000\u0000L\u0000\u0000\u0000X\u0000\u0000\u0000�\u0000\u0000\u0000\f\u0001\u0000\u0000`\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0004\u0002\u0000\u0000\u0010\u0002\u0000\u00000\u0002\u0000\u0000\u0003\u0000\u0000\u0000A\r\u0003\u0000\u0004\u0000\u0000\u0000`�@\u0001|�@\u0001�2A\u0001�\u000bA\u0001\u0001\u0000\u0000\u0000`�@\u0001\u0003\u0000\u0000\u0000|�@\u0001�2A\u0001�\u000bA\u0001Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon03.UiItem_LuckdraWeapon03\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJiyanWeaponSele.SP_TabJiyanWeaponSele\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJiyanWeaponNor.SP_TabJiyanWeaponNor\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg52.T_LuckdrawBg52\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon03.T_LuckdraWeapon03\u0000\u0000\b\u0000\u0000\u000000847FFF\u0000\u0000\u0000\u0000\u001f\u0000\u0000\u0000Text_SummaryDescribe200001_Text\u0000\u001c\u0000\u0000\u0000Text_SummaryTitle200001_Text\u0000\u0000\u0000\u0000"
+        "Type": 3,
+        "SummaryTitle": "Text_SummaryTitle200001_Text",
+        "SummaryDescribe": "Text_SummaryDescribe200001_Text",
+        "ThemeColor": "00847FFF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon03.T_LuckdraWeapon03",
+        "ContentTextureBgPath": "",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg52.T_LuckdrawBg52",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJiyanWeaponNor.SP_TabJiyanWeaponNor",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJiyanWeaponSele.SP_TabJiyanWeaponSele",
+        "WeaponPrefabPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon03.UiItem_LuckdraWeapon03",
+        "UpList": [
+            21010044,
+            21050024,
+            21040064
+        ],
+        "ShowIdList": [
+            21010016
+        ],
+        "PreviewIdList": [
+            21010016,
+            21010044,
+            21050024,
+            21040064
+        ]
     },
     {
         "Id": 200002,
-        "BinData": "$\u0000\u0000\u0000 \u0000<\u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00008\u0000\u0000\u0000H\u0000\u0000\u0000L\u0000\u0000\u0000X\u0000\u0000\u0000�\u0000\u0000\u0000\f\u0001\u0000\u0000d\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\b\u0002\u0000\u0000\u0014\u0002\u0000\u00004\u0002\u0000\u0000\u0003\u0000\u0000\u0000B\r\u0003\u0000\u0004\u0000\u0000\u0000�2A\u0001�2A\u0001��@\u0001��@\u0001\u0001\u0000\u0000\u0000�2A\u0001\u0003\u0000\u0000\u0000�2A\u0001��@\u0001��@\u0001Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon07.UiItem_LuckdraWeapon07\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabYinlinWeaponSele.SP_TabYinlinWeaponSele\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabYinlinWeaponNor.SP_TabYinlinWeaponNor\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg54.T_LuckdrawBg54\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon07.T_LuckdraWeapon07\u0000\u0000\b\u0000\u0000\u0000F25B62FF\u0000\u0000\u0000\u0000\u001f\u0000\u0000\u0000Text_SummaryDescribe200002_Text\u0000\u001c\u0000\u0000\u0000Text_SummaryTitle200002_Text\u0000\u0000\u0000\u0000"
+        "Type": 3,
+        "SummaryTitle": "Text_SummaryTitle200002_Text",
+        "SummaryDescribe": "Text_SummaryDescribe200002_Text",
+        "ThemeColor": "F25B62FF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraWeapon07.T_LuckdraWeapon07",
+        "ContentTextureBgPath": "",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg54.T_LuckdrawBg54",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabYinlinWeaponNor.SP_TabYinlinWeaponNor",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabYinlinWeaponSele.SP_TabYinlinWeaponSele",
+        "WeaponPrefabPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon07.UiItem_LuckdraWeapon07",
+        "UpList": [
+            21050044,
+            21030024,
+            21020064
+        ],
+        "ShowIdList": [
+            21050016
+        ],
+        "PreviewIdList": [
+            21050016,
+            21050044,
+            21030024,
+            21020064
+        ]
     },
     {
         "Id": 41,
-        "BinData": "$\u0000\u0000\u0000 \u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000<\u0000\u0000\u0000@\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000(\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\f\u0002\u0000\u0000\u0006\u0000\u0000\u0000)\u0000\u0000\u0000\u0001\u0000\u0000\u0000}\u0005\u0000\u0000\u0001\u0000\u0000\u0000}\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJianxinSele.SP_TabJianxinSele\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJianxinNor.SP_TabJianxinNor\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg04.T_LuckdrawBg04\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleJianxinBg.T_LuckdraRoleJianxinBg\u0000\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleJianxin.T_LuckdraRoleJianxin\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000FFFFFFFF\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SummaryDescribe4_Text\u0000\u0000\u0018\u0000\u0000\u0000Text_SummaryTitle41_Text\u0000\u0000\u0000\u0000"
+        "Type": 6,
+        "SummaryTitle": "Text_SummaryTitle41_Text",
+        "SummaryDescribe": "Text_SummaryDescribe4_Text",
+        "ThemeColor": "FFFFFFFF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleJianxin.T_LuckdraRoleJianxin",
+        "ContentTextureBgPath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleJianxinBg.T_LuckdraRoleJianxinBg",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg04.T_LuckdrawBg04",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJianxinNor.SP_TabJianxinNor",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJianxinSele.SP_TabJianxinSele",
+        "WeaponPrefabPath": "",
+        "UpList": [],
+        "ShowIdList": [
+            1405
+        ],
+        "PreviewIdList": [
+            1405
+        ]
     },
     {
         "Id": 42,
-        "BinData": "$\u0000\u0000\u0000 \u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000<\u0000\u0000\u0000@\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000(\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\f\u0002\u0000\u0000\u0006\u0000\u0000\u0000*\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0015\u0005\u0000\u0000\u0001\u0000\u0000\u0000\u0015\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabKakaluoSele.SP_TabKakaluoSele\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabKakaluoNor.SP_TabKakaluoNor\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg04.T_LuckdrawBg04\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleKakaluoBg.T_LuckdraRoleKakaluoBg\u0000\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleKakaluo.T_LuckdraRoleKakaluo\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000FFFFFFFF\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SummaryDescribe4_Text\u0000\u0000\u0018\u0000\u0000\u0000Text_SummaryTitle42_Text\u0000\u0000\u0000\u0000"
+        "Type": 6,
+        "SummaryTitle": "Text_SummaryTitle42_Text",
+        "SummaryDescribe": "Text_SummaryDescribe4_Text",
+        "ThemeColor": "FFFFFFFF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleKakaluo.T_LuckdraRoleKakaluo",
+        "ContentTextureBgPath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleKakaluoBg.T_LuckdraRoleKakaluoBg",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg04.T_LuckdrawBg04",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabKakaluoNor.SP_TabKakaluoNor",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabKakaluoSele.SP_TabKakaluoSele",
+        "WeaponPrefabPath": "",
+        "UpList": [],
+        "ShowIdList": [
+            1301
+        ],
+        "PreviewIdList": [
+            1301
+        ]
     },
     {
         "Id": 43,
-        "BinData": "$\u0000\u0000\u0000 \u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000<\u0000\u0000\u0000@\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000,\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0010\u0002\u0000\u0000\u0006\u0000\u0000\u0000+\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0005\u0000\u0000\u0001\u0000\u0000\u0000�\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabWeilinaiSele.SP_TabWeilinaiSele\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabWeilinaiNor.SP_TabWeilinaiNor\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg04.T_LuckdrawBg04\u0000^\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleWeilinaiBg.T_LuckdraRoleWeilinaiBg\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleWeilinai.T_LuckdraRoleWeilinai\u0000\u0000\b\u0000\u0000\u0000FFFFFFFF\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SummaryDescribe4_Text\u0000\u0000\u0018\u0000\u0000\u0000Text_SummaryTitle43_Text\u0000\u0000\u0000\u0000"
+        "Type": 6,
+        "SummaryTitle": "Text_SummaryTitle43_Text",
+        "SummaryDescribe": "Text_SummaryDescribe4_Text",
+        "ThemeColor": "FFFFFFFF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleWeilinai.T_LuckdraRoleWeilinai",
+        "ContentTextureBgPath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleWeilinaiBg.T_LuckdraRoleWeilinaiBg",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg04.T_LuckdrawBg04",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabWeilinaiNor.SP_TabWeilinaiNor",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabWeilinaiSele.SP_TabWeilinaiSele",
+        "WeaponPrefabPath": "",
+        "UpList": [],
+        "ShowIdList": [
+            1503
+        ],
+        "PreviewIdList": [
+            1503
+        ]
     },
     {
         "Id": 44,
-        "BinData": "$\u0000\u0000\u0000 \u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000<\u0000\u0000\u0000@\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000,\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0010\u0002\u0000\u0000\u0006\u0000\u0000\u0000,\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0004\u0000\u0000\u0001\u0000\u0000\u0000P\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabLingyangSele.SP_TabLingyangSele\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabLingyangNor.SP_TabLingyangNor\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg04.T_LuckdrawBg04\u0000^\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleLingyangBg.T_LuckdraRoleLingyangBg\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleLingyang.T_LuckdraRoleLingyang\u0000\u0000\b\u0000\u0000\u0000FFFFFFFF\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SummaryDescribe4_Text\u0000\u0000\u0018\u0000\u0000\u0000Text_SummaryTitle44_Text\u0000\u0000\u0000\u0000"
+        "Type": 6,
+        "SummaryTitle": "Text_SummaryTitle44_Text",
+        "SummaryDescribe": "Text_SummaryDescribe4_Text",
+        "ThemeColor": "FFFFFFFF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleLingyang.T_LuckdraRoleLingyang",
+        "ContentTextureBgPath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleLingyangBg.T_LuckdraRoleLingyangBg",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg04.T_LuckdrawBg04",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabLingyangNor.SP_TabLingyangNor",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabLingyangSele.SP_TabLingyangSele",
+        "WeaponPrefabPath": "",
+        "UpList": [],
+        "ShowIdList": [
+            1104
+        ],
+        "PreviewIdList": [
+            1104
+        ]
     },
     {
         "Id": 45,
-        "BinData": "$\u0000\u0000\u0000 \u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000 \u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000<\u0000\u0000\u0000@\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000t\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0006\u0000\u0000\u0000-\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0004\u0000\u0000\u0001\u0000\u0000\u0000�\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabAnkeSele.SP_TabAnkeSele\u0000E\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabAnkeNor.SP_TabAnkeNor\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg04.T_LuckdrawBg04\u0000V\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleAnkeBg.T_LuckdraRoleAnkeBg\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleAnke.T_LuckdraRoleAnke\u0000\u0000\b\u0000\u0000\u0000FFFFFFFF\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_SummaryDescribe4_Text\u0000\u0000\u0018\u0000\u0000\u0000Text_SummaryTitle45_Text\u0000\u0000\u0000\u0000"
+        "Type": 6,
+        "SummaryTitle": "Text_SummaryTitle45_Text",
+        "SummaryDescribe": "Text_SummaryDescribe4_Text",
+        "ThemeColor": "FFFFFFFF",
+        "ContentTexturePath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleAnke.T_LuckdraRoleAnke",
+        "ContentTextureBgPath": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_LuckdraRoleAnkeBg.T_LuckdraRoleAnkeBg",
+        "UnderBgTexturePath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_LuckdrawBg04.T_LuckdrawBg04",
+        "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabAnkeNor.SP_TabAnkeNor",
+        "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabAnkeSele.SP_TabAnkeSele",
+        "WeaponPrefabPath": "",
+        "UpList": [],
+        "ShowIdList": [
+            1203
+        ],
+        "PreviewIdList": [
+            1203
+        ]
     }
 ]

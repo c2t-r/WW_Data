@@ -1,34 +1,98 @@
 [
     {
         "Id": 1,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0013\u0000\f\u0000\b\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Daoju_UI.T_IconTips_Daoju_UI\u0000\u0000\u0000\u0000V\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag02.SP_InventoryIconPag02\u0000\u0000\u0013\u0000\u0000\u0000ItemMainType_1_Name\u0000"
+        "Name": "ItemMainType_1_Name",
+        "Icon": "/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag02.SP_InventoryIconPag02",
+        "IconFirstAchieve": "/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Daoju_UI.T_IconTips_Daoju_UI",
+        "PackageId": 1,
+        "bShowDescompose": true,
+        "SequenceId": 3,
+        "UseWayId": 25,
+        "DestroyUseWayId": 25,
+        "bFilterSortVisible": false
     },
     {
         "Id": 2,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0017\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0018\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u001f\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0000\u0000\u0000\u0010\u0000\u0000\u0000h\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000V\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Wuqi_UI.T_IconTips_Wuqi_UI\u0000\u0000V\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag01.SP_InventoryIconPag01\u0000\u0000\u0013\u0000\u0000\u0000ItemMainType_2_Name\u0000"
+        "Name": "ItemMainType_2_Name",
+        "Icon": "/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag01.SP_InventoryIconPag01",
+        "IconFirstAchieve": "/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Wuqi_UI.T_IconTips_Wuqi_UI",
+        "PackageId": 2,
+        "bShowDescompose": true,
+        "SequenceId": 1,
+        "UseWayId": 6,
+        "DestroyUseWayId": 31,
+        "bFilterSortVisible": true
     },
     {
         "Id": 3,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0017\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\u0018\u0000\u0000\u0000\u0000\u0000\u0000\u0001 \u0000\u0000\u0000\r\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0003\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Guaiwu_UI.T_IconTips_Guaiwu_UI\u0000\u0000V\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag06.SP_InventoryIconPag06\u0000\u0000\u0013\u0000\u0000\u0000ItemMainType_3_Name\u0000"
+        "Name": "ItemMainType_3_Name",
+        "Icon": "/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag06.SP_InventoryIconPag06",
+        "IconFirstAchieve": "/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Guaiwu_UI.T_IconTips_Guaiwu_UI",
+        "PackageId": 3,
+        "bShowDescompose": true,
+        "SequenceId": 2,
+        "UseWayId": 13,
+        "DestroyUseWayId": 32,
+        "bFilterSortVisible": true
     },
     {
         "Id": 4,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0013\u0000\f\u0000\b\u0000\u0004\u0000\u0016\u0000\u0000\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0000\u0000\u0000b\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Jchumokuai_UI.T_IconTips_Jchumokuai_UI\u0000\u0000V\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag04.SP_InventoryIconPag04\u0000\u0000\u0013\u0000\u0000\u0000ItemMainType_4_Name\u0000"
+        "Name": "ItemMainType_4_Name",
+        "Icon": "/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag04.SP_InventoryIconPag04",
+        "IconFirstAchieve": "/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Jchumokuai_UI.T_IconTips_Jchumokuai_UI",
+        "PackageId": 4,
+        "bShowDescompose": true,
+        "SequenceId": 4,
+        "UseWayId": 8,
+        "DestroyUseWayId": 8,
+        "bFilterSortVisible": false
     },
     {
         "Id": 7,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0013\u0000\f\u0000\b\u0000\u0004\u0000\u0016\u0000\u0000\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0007\u0000\u0000\u0000\u0010\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0007\u0000\u0000\u0000^\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Tongyong_UI.T_IconTips_Tongyong_UI\u0000\u0000V\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag07.SP_InventoryIconPag07\u0000\u0000\u0013\u0000\u0000\u0000ItemMainType_7_Name\u0000"
+        "Name": "ItemMainType_7_Name",
+        "Icon": "/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag07.SP_InventoryIconPag07",
+        "IconFirstAchieve": "/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Tongyong_UI.T_IconTips_Tongyong_UI",
+        "PackageId": 7,
+        "bShowDescompose": true,
+        "SequenceId": 7,
+        "UseWayId": 8,
+        "DestroyUseWayId": 8,
+        "bFilterSortVisible": false
     },
     {
         "Id": 5,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0013\u0000\f\u0000\b\u0000\u0004\u0000\u0016\u0000\u0000\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0005\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Jiguan_UI.T_IconTips_Jiguan_UI\u0000\u0000V\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag08.SP_InventoryIconPag08\u0000\u0000\u0013\u0000\u0000\u0000ItemMainType_5_Name\u0000"
+        "Name": "ItemMainType_5_Name",
+        "Icon": "/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag08.SP_InventoryIconPag08",
+        "IconFirstAchieve": "/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Jiguan_UI.T_IconTips_Jiguan_UI",
+        "PackageId": 5,
+        "bShowDescompose": true,
+        "SequenceId": 5,
+        "UseWayId": 8,
+        "DestroyUseWayId": 8,
+        "bFilterSortVisible": false
     },
     {
         "Id": 6,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0013\u0000\f\u0000\b\u0000\u0004\u0000\u0016\u0000\u0000\u0000\t\u0000\u0000\u0000\t\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0006\u0000\u0000\u0000\u0010\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000\u0006\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Renwu_UI.T_IconTips_Renwu_UI\u0000\u0000\u0000\u0000V\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag03.SP_InventoryIconPag03\u0000\u0000\u0013\u0000\u0000\u0000ItemMainType_6_Name\u0000"
+        "Name": "ItemMainType_6_Name",
+        "Icon": "/Game/Aki/UI/UIResources/UiInventory/Atlas/SP_InventoryIconPag03.SP_InventoryIconPag03",
+        "IconFirstAchieve": "/Game/Aki/UI/UIResources/Common/Image/UiIconTips/T_IconTips_Renwu_UI.T_IconTips_Renwu_UI",
+        "PackageId": 6,
+        "bShowDescompose": true,
+        "SequenceId": 6,
+        "UseWayId": 9,
+        "DestroyUseWayId": 9,
+        "bFilterSortVisible": false
     },
     {
         "Id": 0,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u001c\u0000\u0000\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0016\u0000\u0000\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "Name": "",
+        "Icon": "",
+        "IconFirstAchieve": "",
+        "PackageId": 0,
+        "bShowDescompose": false,
+        "SequenceId": 8,
+        "UseWayId": 8,
+        "DestroyUseWayId": 8,
+        "bFilterSortVisible": false
     }
 ]

@@ -1,14 +1,26 @@
 [
     {
         "Id": 1402,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000z\u0005\u0000\u0000\u0013\u0000\u0000\u0000泱泱测试配置1\u0000"
+        "Name": "泱泱测试配置1",
+        "Model1Config": [],
+        "Model2Config": [],
+        "Model2AccMaxCount": 10,
+        "Model2VelMaxCount": 5
     },
     {
         "Id": 1502,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0005\u0000\u0000\u0013\u0000\u0000\u0000女主测试配置1\u0000"
+        "Name": "女主测试配置1",
+        "Model1Config": [],
+        "Model2Config": [],
+        "Model2AccMaxCount": 10,
+        "Model2VelMaxCount": 5
     },
     {
         "Id": 0,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\f\u0000\u0000\u0000临时配置\u0000\u0000\u0000\u0000"
+        "Name": "临时配置",
+        "Model1Config": [],
+        "Model2Config": [],
+        "Model2AccMaxCount": 10,
+        "Model2VelMaxCount": 5
     }
 ]

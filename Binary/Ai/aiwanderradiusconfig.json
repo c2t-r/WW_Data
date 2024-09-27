@@ -1,26 +1,32 @@
 [
     {
         "Id": 300,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000,\u0001\u0000\u0000"
+        "RandomRadius": 600.0,
+        "MinWanderDistance": 400.0
     },
     {
         "Id": 600,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000X\u0002\u0000\u0000"
+        "RandomRadius": 600.0,
+        "MinWanderDistance": 400.0
     },
     {
         "Id": 1000,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000�\u0003\u0000\u0000"
+        "RandomRadius": 600.0,
+        "MinWanderDistance": 400.0
     },
     {
         "Id": 301,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000-\u0001\u0000\u0000"
+        "RandomRadius": 600.0,
+        "MinWanderDistance": 400.0
     },
     {
         "Id": 601,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000Y\u0002\u0000\u0000"
+        "RandomRadius": 600.0,
+        "MinWanderDistance": 400.0
     },
     {
         "Id": 1001,
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000�\u0003\u0000\u0000"
+        "RandomRadius": 600.0,
+        "MinWanderDistance": 400.0
     }
 ]

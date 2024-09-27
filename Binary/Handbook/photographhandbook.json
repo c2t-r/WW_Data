@@ -2,81 +2,193 @@
     {
         "Id": 10,
         "Type": 100,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000d\u0000\u0000\u0000\n\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_10_Descrtption\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhotoM0206_b.T_StoryPhotoM0206_b\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhotoM0206_a.T_StoryPhotoM0206_a\u0000\u0000\u0000\u001a\u0000\u0000\u0000PhotographHandBook_10_Name\u0000\u0000"
+        "Name": "PhotographHandBook_10_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhotoM0206_a.T_StoryPhotoM0206_a",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhotoM0206_b.T_StoryPhotoM0206_b",
+        "Descrtption": "PhotographHandBook_10_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 13,
         "Type": 100,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000d\u0000\u0000\u0000\r\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_11_Descrtption\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M209_b.T_StoryPhoto_M209_b\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M209_a.T_StoryPhoto_M209_a\u0000\u0000\u0000\u001a\u0000\u0000\u0000PhotographHandBook_11_Name\u0000\u0000"
+        "Name": "PhotographHandBook_11_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M209_a.T_StoryPhoto_M209_a",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M209_b.T_StoryPhoto_M209_b",
+        "Descrtption": "PhotographHandBook_11_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 14,
         "Type": 100,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000d\u0000\u0000\u0000\u000e\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_12_Descrtption\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M01008.T_StoryPhoto_M01008\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M01008.T_StoryPhoto_M01008\u0000\u0000\u0000\u001a\u0000\u0000\u0000PhotographHandBook_12_Name\u0000\u0000"
+        "Name": "PhotographHandBook_12_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M01008.T_StoryPhoto_M01008",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M01008.T_StoryPhoto_M01008",
+        "Descrtption": "PhotographHandBook_12_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 16,
         "Type": 102,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_13_Descrtption\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0211.T_StoryPhoto_M0211\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0211.T_StoryPhoto_M0211\u0000\u001a\u0000\u0000\u0000PhotographHandBook_13_Name\u0000\u0000"
+        "Name": "PhotographHandBook_13_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0211.T_StoryPhoto_M0211",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0211.T_StoryPhoto_M0211",
+        "Descrtption": "PhotographHandBook_13_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 17,
         "Type": 103,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000g\u0000\u0000\u0000\u0011\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_14_Descrtption\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0212.T_StoryPhoto_M0212\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0212.T_StoryPhoto_M0212\u0000\u001a\u0000\u0000\u0000PhotographHandBook_14_Name\u0000\u0000"
+        "Name": "PhotographHandBook_14_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0212.T_StoryPhoto_M0212",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0212.T_StoryPhoto_M0212",
+        "Descrtption": "PhotographHandBook_14_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 21,
         "Type": 104,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000h\u0000\u0000\u0000\u0015\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_15_Descrtption\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0215.T_StoryPhoto_M0215\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0215.T_StoryPhoto_M0215\u0000\u001a\u0000\u0000\u0000PhotographHandBook_15_Name\u0000\u0000"
+        "Name": "PhotographHandBook_15_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0215.T_StoryPhoto_M0215",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0215.T_StoryPhoto_M0215",
+        "Descrtption": "PhotographHandBook_15_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 27,
         "Type": 105,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000i\u0000\u0000\u0000\u001b\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_16_Descrtption\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhotoM0218.T_StoryPhotoM0218\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhotoM0218.T_StoryPhotoM0218\u0000\u0000\u0000\u001a\u0000\u0000\u0000PhotographHandBook_16_Name\u0000\u0000"
+        "Name": "PhotographHandBook_16_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhotoM0218.T_StoryPhotoM0218",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhotoM0218.T_StoryPhotoM0218",
+        "Descrtption": "PhotographHandBook_16_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 28,
         "Type": 105,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000i\u0000\u0000\u0000\u001c\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_17_Descrtption\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0219_b.T_StoryPhoto_M0219_b\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0219_a.T_StoryPhoto_M0219_a\u0000\u001a\u0000\u0000\u0000PhotographHandBook_17_Name\u0000\u0000"
+        "Name": "PhotographHandBook_17_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0219_a.T_StoryPhoto_M0219_a",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0219_b.T_StoryPhoto_M0219_b",
+        "Descrtption": "PhotographHandBook_17_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 29,
         "Type": 105,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000i\u0000\u0000\u0000\u001d\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_18_Descrtption\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0220.T_StoryPhoto_M0220\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0220.T_StoryPhoto_M0220\u0000\u001a\u0000\u0000\u0000PhotographHandBook_18_Name\u0000\u0000"
+        "Name": "PhotographHandBook_18_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0220.T_StoryPhoto_M0220",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0220.T_StoryPhoto_M0220",
+        "Descrtption": "PhotographHandBook_18_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 31,
         "Type": 106,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000j\u0000\u0000\u0000\u001f\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_19_Descrtption\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0221.T_StoryPhoto_M0221\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0221.T_StoryPhoto_M0221\u0000\u001a\u0000\u0000\u0000PhotographHandBook_19_Name\u0000\u0000"
+        "Name": "PhotographHandBook_19_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0221.T_StoryPhoto_M0221",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0221.T_StoryPhoto_M0221",
+        "Descrtption": "PhotographHandBook_19_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 36,
         "Type": 106,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000j\u0000\u0000\u0000$\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_20_Descrtption\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0222_b.T_StoryPhoto_M0222_b\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0222_a.T_StoryPhoto_M0222_a\u0000\u001a\u0000\u0000\u0000PhotographHandBook_20_Name\u0000\u0000"
+        "Name": "PhotographHandBook_20_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0222_a.T_StoryPhoto_M0222_a",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0222_b.T_StoryPhoto_M0222_b",
+        "Descrtption": "PhotographHandBook_20_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 37,
         "Type": 106,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000j\u0000\u0000\u0000%\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_21_Descrtption\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0223.T_StoryPhoto_M0223\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0223.T_StoryPhoto_M0223\u0000\u001a\u0000\u0000\u0000PhotographHandBook_21_Name\u0000\u0000"
+        "Name": "PhotographHandBook_21_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0223.T_StoryPhoto_M0223",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0223.T_StoryPhoto_M0223",
+        "Descrtption": "PhotographHandBook_21_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 40,
         "Type": 106,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000j\u0000\u0000\u0000(\u0000\u0000\u0000!\u0000\u0000\u0000PhotographHandBook_22_Descrtption\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0226_b.T_StoryPhoto_M0226_b\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0226_a.T_StoryPhoto_M0226_a\u0000\u001a\u0000\u0000\u0000PhotographHandBook_22_Name\u0000\u0000"
+        "Name": "PhotographHandBook_22_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0226_a.T_StoryPhoto_M0226_a",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0226_b.T_StoryPhoto_M0226_b",
+        "Descrtption": "PhotographHandBook_22_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 1003,
         "Type": 1001,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000#\u0000\u0000\u0000PhotographHandBook_1001_Descrtption\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0001.T_StoryPhoto_R0001\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0001.T_StoryPhoto_R0001\u0000\u001c\u0000\u0000\u0000PhotographHandBook_1001_Name\u0000\u0000\u0000\u0000"
+        "Name": "PhotographHandBook_1001_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0001.T_StoryPhoto_R0001",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0001.T_StoryPhoto_R0001",
+        "Descrtption": "PhotographHandBook_1001_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 1004,
         "Type": 1002,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000#\u0000\u0000\u0000PhotographHandBook_1002_Descrtption\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0004.T_StoryPhoto_R0004\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0004.T_StoryPhoto_R0004\u0000\u001c\u0000\u0000\u0000PhotographHandBook_1002_Name\u0000\u0000\u0000\u0000"
+        "Name": "PhotographHandBook_1002_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0004.T_StoryPhoto_R0004",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0004.T_StoryPhoto_R0004",
+        "Descrtption": "PhotographHandBook_1002_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     },
     {
         "Id": 1005,
         "Type": 1003,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000#\u0000\u0000\u0000PhotographHandBook_1003_Descrtption\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0006_b.T_StoryPhoto_R0006_b\u0000W\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0006_a.T_StoryPhoto_R0006_a\u0000\u001c\u0000\u0000\u0000PhotographHandBook_1003_Name\u0000\u0000\u0000\u0000"
+        "Name": "PhotographHandBook_1003_Name",
+        "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0006_a.T_StoryPhoto_R0006_a",
+        "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0006_b.T_StoryPhoto_R0006_b",
+        "Descrtption": "PhotographHandBook_1003_Descrtption",
+        "AreaIcon": null,
+        "AreaNumber": null,
+        "RoleName": null,
+        "QuestId": 0
     }
 ]

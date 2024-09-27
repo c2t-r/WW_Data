@@ -1,50 +1,226 @@
 [
     {
         "PhantomSkillId": 1004,
-        "BinData": " \u0000\u0000\u0000\u001c\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0000\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\u001c\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0003\u0000\u0000\u0000\u001c\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0018\u0001\u0000\u0000\u0001\u0000\u0000\u00008\u0001\u0000\u0000�\u0003\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT3.SP_IconT3\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT3.SP_IconT3\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT3.SP_IconT3\u0000\u0000\u0000\u0000\"\u0000\u0000\u0000ExploreTools_1004_CurrentSkillInfo\u0000\u0000\u0016\u0000\u0000\u0000ExploreTools_1004_Name\u0000\u0000"
+        "Name": "ExploreTools_1004_Name",
+        "SkillType": 1,
+        "CurrentSkillInfo": "ExploreTools_1004_CurrentSkillInfo",
+        "HelpId": 0,
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT3.SP_IconT3",
+        "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT3.SP_IconT3",
+        "BattleViewIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT3.SP_IconT3",
+        "SortId": 3,
+        "AutoFill": true,
+        "ShowUnlock": false,
+        "SkillGroupId": 1,
+        "IsUseInPhantomTeam": false,
+        "Cost": [],
+        "Authorization": []
     },
     {
         "PhantomSkillId": 1001,
-        "BinData": " \u0000\u0000\u0000\u001c\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0000\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\u001c\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u001c\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0018\u0001\u0000\u0000\u0001\u0000\u0000\u00008\u0001\u0000\u0000�\u0003\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT6.SP_IconT6\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT6.SP_IconT6\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT6.SP_IconT6\u0000\u0000\u0000\u0000\"\u0000\u0000\u0000ExploreTools_1001_CurrentSkillInfo\u0000\u0000\u0016\u0000\u0000\u0000ExploreTools_1001_Name\u0000\u0000"
+        "Name": "ExploreTools_1001_Name",
+        "SkillType": 1,
+        "CurrentSkillInfo": "ExploreTools_1001_CurrentSkillInfo",
+        "HelpId": 0,
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT6.SP_IconT6",
+        "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT6.SP_IconT6",
+        "BattleViewIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT6.SP_IconT6",
+        "SortId": 1,
+        "AutoFill": true,
+        "ShowUnlock": false,
+        "SkillGroupId": 1,
+        "IsUseInPhantomTeam": false,
+        "Cost": [],
+        "Authorization": []
     },
     {
         "PhantomSkillId": 1003,
-        "BinData": " \u0000\u0000\u0000\u001c\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0000\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\u001c\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u001c\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0018\u0001\u0000\u0000\u0001\u0000\u0000\u00008\u0001\u0000\u0000�\u0003\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT1.SP_IconT1\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT1.SP_IconT1\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT1.SP_IconT1\u0000\u0000\u0000\u0000\"\u0000\u0000\u0000ExploreTools_1003_CurrentSkillInfo\u0000\u0000\u0016\u0000\u0000\u0000ExploreTools_1003_Name\u0000\u0000"
+        "Name": "ExploreTools_1003_Name",
+        "SkillType": 1,
+        "CurrentSkillInfo": "ExploreTools_1003_CurrentSkillInfo",
+        "HelpId": 0,
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT1.SP_IconT1",
+        "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT1.SP_IconT1",
+        "BattleViewIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT1.SP_IconT1",
+        "SortId": 4,
+        "AutoFill": true,
+        "ShowUnlock": false,
+        "SkillGroupId": 1,
+        "IsUseInPhantomTeam": false,
+        "Cost": [],
+        "Authorization": []
     },
     {
         "PhantomSkillId": 1005,
-        "BinData": " \u0000\u0000\u0000\u001c\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001c\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u001c\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0018\u0001\u0000\u0000\u0002\u0000\u0000\u00008\u0001\u0000\u0000�\u0003\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT2.SP_IconT2\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT2.SP_IconT2\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT2.SP_IconT2\u0000\u0000\u0000\u0000\"\u0000\u0000\u0000ExploreTools_1005_CurrentSkillInfo\u0000\u0000\u0016\u0000\u0000\u0000ExploreTools_1005_Name\u0000\u0000"
+        "Name": "ExploreTools_1005_Name",
+        "SkillType": 2,
+        "CurrentSkillInfo": "ExploreTools_1005_CurrentSkillInfo",
+        "HelpId": 0,
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT2.SP_IconT2",
+        "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT2.SP_IconT2",
+        "BattleViewIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT2.SP_IconT2",
+        "SortId": 5,
+        "AutoFill": false,
+        "ShowUnlock": false,
+        "SkillGroupId": 1,
+        "IsUseInPhantomTeam": false,
+        "Cost": [],
+        "Authorization": []
     },
     {
         "PhantomSkillId": 1006,
-        "BinData": " \u0000\u0000\u0000\u001c\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001c\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u001c\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0018\u0001\u0000\u0000\u0002\u0000\u0000\u00008\u0001\u0000\u0000�\u0003\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT5.SP_IconT5\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT5.SP_IconT5\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT5.SP_IconT5\u0000\u0000\u0000\u0000\"\u0000\u0000\u0000ExploreTools_1006_CurrentSkillInfo\u0000\u0000\u0016\u0000\u0000\u0000ExploreTools_1006_Name\u0000\u0000"
+        "Name": "ExploreTools_1006_Name",
+        "SkillType": 2,
+        "CurrentSkillInfo": "ExploreTools_1006_CurrentSkillInfo",
+        "HelpId": 0,
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT5.SP_IconT5",
+        "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT5.SP_IconT5",
+        "BattleViewIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT5.SP_IconT5",
+        "SortId": 6,
+        "AutoFill": false,
+        "ShowUnlock": false,
+        "SkillGroupId": 1,
+        "IsUseInPhantomTeam": false,
+        "Cost": [],
+        "Authorization": []
     },
     {
         "PhantomSkillId": 1007,
-        "BinData": " \u0000\u0000\u0000\u001c\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001c\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0018\u0001\u0000\u0000\u0001\u0000\u0000\u00008\u0001\u0000\u0000�\u0003\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT29.SP_IconT29\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT29.SP_IconT29\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT29.SP_IconT29\u0000\u0000\"\u0000\u0000\u0000ExploreTools_1007_CurrentSkillInfo\u0000\u0000\u0016\u0000\u0000\u0000ExploreTools_1007_Name\u0000\u0000"
+        "Name": "ExploreTools_1007_Name",
+        "SkillType": 1,
+        "CurrentSkillInfo": "ExploreTools_1007_CurrentSkillInfo",
+        "HelpId": 0,
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT29.SP_IconT29",
+        "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT29.SP_IconT29",
+        "BattleViewIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT29.SP_IconT29",
+        "SortId": 7,
+        "AutoFill": false,
+        "ShowUnlock": false,
+        "SkillGroupId": 1,
+        "IsUseInPhantomTeam": false,
+        "Cost": [],
+        "Authorization": []
     },
     {
         "PhantomSkillId": 1009,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0000\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0007\u0000\u001e\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\t\u0000\u0000\u0000\u001c\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0018\u0001\u0000\u0000\u0001\u0000\u0000\u00008\u0001\u0000\u0000�\u0003\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9\u0000\u0000\u0000\u0000\"\u0000\u0000\u0000ExploreTools_1009_CurrentSkillInfo\u0000\u0000\u0016\u0000\u0000\u0000ExploreTools_1009_Name\u0000\u0000"
+        "Name": "ExploreTools_1009_Name",
+        "SkillType": 1,
+        "CurrentSkillInfo": "ExploreTools_1009_CurrentSkillInfo",
+        "HelpId": 0,
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9",
+        "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9",
+        "BattleViewIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9",
+        "SortId": 9,
+        "AutoFill": false,
+        "ShowUnlock": false,
+        "SkillGroupId": 1,
+        "IsUseInPhantomTeam": true,
+        "Cost": [],
+        "Authorization": []
     },
     {
         "PhantomSkillId": 3001,
-        "BinData": " \u0000\u0000\u0000\u001c\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001c\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000\u001c\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0018\u0001\u0000\u0000\u0003\u0000\u0000\u00008\u0001\u0000\u0000�\u000b\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9\u0000\u0000\u0000\u0000\"\u0000\u0000\u0000ExploreTools_1009_CurrentSkillInfo\u0000\u0000\u0016\u0000\u0000\u0000ExploreTools_1009_Name\u0000\u0000"
+        "Name": "ExploreTools_1009_Name",
+        "SkillType": 3,
+        "CurrentSkillInfo": "ExploreTools_1009_CurrentSkillInfo",
+        "HelpId": 0,
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9",
+        "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9",
+        "BattleViewIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9",
+        "SortId": 10,
+        "AutoFill": false,
+        "ShowUnlock": false,
+        "SkillGroupId": 1,
+        "IsUseInPhantomTeam": false,
+        "Cost": [],
+        "Authorization": []
     },
     {
         "PhantomSkillId": 3002,
-        "BinData": " \u0000\u0000\u0000\u001c\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001c\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000\u001c\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000(\u0001\u0000\u0000\u0003\u0000\u0000\u0000H\u0001\u0000\u0000�\u000b\u0000\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiSkillswitching/Atlas/SP_SkillswitchingItemNone.SP_SkillswitchingItemNone\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9\u0000\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9\u0000\u0000\u0000\u0000\"\u0000\u0000\u0000ExploreTools_1009_CurrentSkillInfo\u0000\u0000\u0016\u0000\u0000\u0000ExploreTools_1009_Name\u0000\u0000"
+        "Name": "ExploreTools_1009_Name",
+        "SkillType": 3,
+        "CurrentSkillInfo": "ExploreTools_1009_CurrentSkillInfo",
+        "HelpId": 0,
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9",
+        "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT9.SP_IconT9",
+        "BattleViewIcon": "/Game/Aki/UI/UIResources/UiSkillswitching/Atlas/SP_SkillswitchingItemNone.SP_SkillswitchingItemNone",
+        "SortId": 10,
+        "AutoFill": false,
+        "ShowUnlock": false,
+        "SkillGroupId": 1,
+        "IsUseInPhantomTeam": false,
+        "Cost": [],
+        "Authorization": []
     },
     {
         "PhantomSkillId": 1010,
-        "BinData": "$\u0000\u0000\u0000 \u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000 \u0000\u0000\u00000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u000b\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u001e\u0000\u0000\u00004\u0001\u0000\u0000\u0001\u0000\u0000\u0000T\u0001\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u00008*\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT30.SP_IconT30\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT30.SP_IconT30\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT30.SP_IconT30\u0000\u0000\"\u0000\u0000\u0000ExploreTools_1010_CurrentSkillInfo\u0000\u0000\u0016\u0000\u0000\u0000ExploreTools_1010_Name\u0000\u0000"
+        "Name": "ExploreTools_1010_Name",
+        "SkillType": 1,
+        "CurrentSkillInfo": "ExploreTools_1010_CurrentSkillInfo",
+        "HelpId": 30,
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT30.SP_IconT30",
+        "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT30.SP_IconT30",
+        "BattleViewIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT30.SP_IconT30",
+        "SortId": 11,
+        "AutoFill": true,
+        "ShowUnlock": false,
+        "SkillGroupId": 1,
+        "IsUseInPhantomTeam": false,
+        "Cost": [
+            {
+                "key": 10808,
+                "value": 1
+            }
+        ],
+        "Authorization": []
     },
     {
         "PhantomSkillId": 1011,
-        "BinData": "(\u0000\u0000\u0000\u0000\u0000\"\u00008\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\"\u0000\u0000\u00004\u0000\u0000\u0000D\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0001\f\u0000\u0000\u0000P\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0000\u0000\u0000H\u0001\u0000\u0000\u0001\u0000\u0000\u0000h\u0001\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����5*\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u00007*\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT32.SP_IconT32\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT32.SP_IconT32\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT32.SP_IconT32\u0000\u0000\"\u0000\u0000\u0000ExploreTools_1011_CurrentSkillInfo\u0000\u0000\u0016\u0000\u0000\u0000ExploreTools_1011_Name\u0000\u0000"
+        "Name": "ExploreTools_1011_Name",
+        "SkillType": 1,
+        "CurrentSkillInfo": "ExploreTools_1011_CurrentSkillInfo",
+        "HelpId": 28,
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT32.SP_IconT32",
+        "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT32.SP_IconT32",
+        "BattleViewIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT32.SP_IconT32",
+        "SortId": 12,
+        "AutoFill": true,
+        "ShowUnlock": false,
+        "SkillGroupId": 1,
+        "IsUseInPhantomTeam": false,
+        "Cost": [
+            {
+                "key": 10807,
+                "value": 1
+            }
+        ],
+        "Authorization": [
+            {
+                "key": 1,
+                "value": 10805
+            }
+        ]
     },
     {
         "PhantomSkillId": 1012,
-        "BinData": "(\u0000\u0000\u0000\u0000\u0000\"\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\"\u0000\u0000\u00000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0001\r\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u001d\u0000\u0000\u00004\u0001\u0000\u0000\u0001\u0000\u0000\u0000T\u0001\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00006*\u0000\u0000\u0001\u0000\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT31.SP_IconT31\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT31.SP_IconT31\u0000\u0000R\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT31.SP_IconT31\u0000\u0000\"\u0000\u0000\u0000ExploreTools_1012_CurrentSkillInfo\u0000\u0000\u0016\u0000\u0000\u0000ExploreTools_1012_Name\u0000\u0000"
+        "Name": "ExploreTools_1012_Name",
+        "SkillType": 1,
+        "CurrentSkillInfo": "ExploreTools_1012_CurrentSkillInfo",
+        "HelpId": 29,
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT31.SP_IconT31",
+        "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT31.SP_IconT31",
+        "BattleViewIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT31.SP_IconT31",
+        "SortId": 13,
+        "AutoFill": true,
+        "ShowUnlock": false,
+        "SkillGroupId": 1,
+        "IsUseInPhantomTeam": false,
+        "Cost": [],
+        "Authorization": [
+            {
+                "key": 1,
+                "value": 10806
+            }
+        ]
     }
 ]

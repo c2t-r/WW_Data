@@ -1,98 +1,266 @@
 [
     {
         "TaskId": 101,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000$\u0000\u0000\u0000e\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_101_TaskName\u0000"
+        "TaskName": "BattlePassTask_101_TaskName",
+        "UpdateType": 1,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 200
+            }
+        ]
     },
     {
         "TaskId": 102,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000$\u0000\u0000\u0000f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_102_TaskName\u0000"
+        "TaskName": "BattlePassTask_102_TaskName",
+        "UpdateType": 1,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 200
+            }
+        ]
     },
     {
         "TaskId": 103,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000$\u0000\u0000\u0000g\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_103_TaskName\u0000"
+        "TaskName": "BattlePassTask_103_TaskName",
+        "UpdateType": 1,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 200
+            }
+        ]
     },
     {
         "TaskId": 104,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000$\u0000\u0000\u0000h\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_104_TaskName\u0000"
+        "TaskName": "BattlePassTask_104_TaskName",
+        "UpdateType": 1,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 200
+            }
+        ]
     },
     {
         "TaskId": 201,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0000$\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0002\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_201_TaskName\u0000"
+        "TaskName": "BattlePassTask_201_TaskName",
+        "UpdateType": 2,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 700
+            }
+        ]
     },
     {
         "TaskId": 205,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0000$\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000X\u0002\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_205_TaskName\u0000"
+        "TaskName": "BattlePassTask_205_TaskName",
+        "UpdateType": 2,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 600
+            }
+        ]
     },
     {
         "TaskId": 207,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0000$\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0002\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_207_TaskName\u0000"
+        "TaskName": "BattlePassTask_207_TaskName",
+        "UpdateType": 2,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 700
+            }
+        ]
     },
     {
         "TaskId": 303,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u0000/\u0001\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0007\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_303_TaskName\u0000"
+        "TaskName": "BattlePassTask_303_TaskName",
+        "UpdateType": 0,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 2000
+            }
+        ]
     },
     {
         "TaskId": 208,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0000$\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000X\u0002\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_208_TaskName\u0000"
+        "TaskName": "BattlePassTask_208_TaskName",
+        "UpdateType": 2,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 600
+            }
+        ]
     },
     {
         "TaskId": 210,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0000$\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0001\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_210_TaskName\u0000"
+        "TaskName": "BattlePassTask_210_TaskName",
+        "UpdateType": 2,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 500
+            }
+        ]
     },
     {
         "TaskId": 202,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0000$\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000X\u0002\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_202_TaskName\u0000"
+        "TaskName": "BattlePassTask_202_TaskName",
+        "UpdateType": 2,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 600
+            }
+        ]
     },
     {
         "TaskId": 203,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0000$\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000X\u0002\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_203_TaskName\u0000"
+        "TaskName": "BattlePassTask_203_TaskName",
+        "UpdateType": 2,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 600
+            }
+        ]
     },
     {
         "TaskId": 204,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0000$\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000X\u0002\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_204_TaskName\u0000"
+        "TaskName": "BattlePassTask_204_TaskName",
+        "UpdateType": 2,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 600
+            }
+        ]
     },
     {
         "TaskId": 206,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0000$\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0001\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_206_TaskName\u0000"
+        "TaskName": "BattlePassTask_206_TaskName",
+        "UpdateType": 2,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 500
+            }
+        ]
     },
     {
         "TaskId": 209,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0000$\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000X\u0002\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_209_TaskName\u0000"
+        "TaskName": "BattlePassTask_209_TaskName",
+        "UpdateType": 2,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 600
+            }
+        ]
     },
     {
         "TaskId": 301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u0000-\u0001\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u000b\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_301_TaskName\u0000"
+        "TaskName": "BattlePassTask_301_TaskName",
+        "UpdateType": 0,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 3000
+            }
+        ]
     },
     {
         "TaskId": 302,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u0000.\u0001\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0007\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_302_TaskName\u0000"
+        "TaskName": "BattlePassTask_302_TaskName",
+        "UpdateType": 0,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 2000
+            }
+        ]
     },
     {
         "TaskId": 305,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u00001\u0001\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0007\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_305_TaskName\u0000"
+        "TaskName": "BattlePassTask_305_TaskName",
+        "UpdateType": 0,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 2000
+            }
+        ]
     },
     {
         "TaskId": 306,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u00002\u0001\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0007\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_306_TaskName\u0000"
+        "TaskName": "BattlePassTask_306_TaskName",
+        "UpdateType": 0,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 2000
+            }
+        ]
     },
     {
         "TaskId": 307,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u00003\u0001\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0007\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_307_TaskName\u0000"
+        "TaskName": "BattlePassTask_307_TaskName",
+        "UpdateType": 0,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 2000
+            }
+        ]
     },
     {
         "TaskId": 308,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u00004\u0001\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0005\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_308_TaskName\u0000"
+        "TaskName": "BattlePassTask_308_TaskName",
+        "UpdateType": 0,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 1500
+            }
+        ]
     },
     {
         "TaskId": 309,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u00005\u0001\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0007\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_309_TaskName\u0000"
+        "TaskName": "BattlePassTask_309_TaskName",
+        "UpdateType": 0,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 2000
+            }
+        ]
     },
     {
         "TaskId": 310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u00006\u0001\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0007\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_310_TaskName\u0000"
+        "TaskName": "BattlePassTask_310_TaskName",
+        "UpdateType": 0,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 2000
+            }
+        ]
     },
     {
         "TaskId": 304,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000$\u0000\u0000\u00000\u0001\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0005\u0000\u0000\b\u0000\u0000\u0000\u001b\u0000\u0000\u0000BattlePassTask_304_TaskName\u0000"
+        "TaskName": "BattlePassTask_304_TaskName",
+        "UpdateType": 0,
+        "TaskReward": [
+            {
+                "key": 8,
+                "value": 1500
+            }
+        ]
     }
 ]

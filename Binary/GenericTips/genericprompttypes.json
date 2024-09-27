@@ -1,74 +1,254 @@
 [
     {
         "TypeId": 0,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000\u001c\u0000\u0000\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0005\u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000CenterArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_0_GeneralText\u0000\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_0_GeneralText",
+        "GeneralExtraText": "",
+        "TextColor": "",
+        "Duration": 5,
+        "Priority": 0,
+        "ShowArea": "CenterArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 1,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\u0005\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000BottomArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_1_GeneralText\u0000\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_1_GeneralText",
+        "GeneralExtraText": "",
+        "TextColor": "",
+        "Duration": 5,
+        "Priority": 0,
+        "ShowArea": "BottomArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 2,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000BottomArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_2_GeneralText\u0000\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_2_GeneralText",
+        "GeneralExtraText": "",
+        "TextColor": "",
+        "Duration": 0,
+        "Priority": 0,
+        "ShowArea": "BottomArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 3,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0005\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000CenterArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_3_GeneralText\u0000\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_3_GeneralText",
+        "GeneralExtraText": "",
+        "TextColor": "",
+        "Duration": 5,
+        "Priority": 2,
+        "ShowArea": "CenterArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 4,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\u0005\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000CenterArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_4_GeneralText\u0000\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_4_GeneralText",
+        "GeneralExtraText": "",
+        "TextColor": "",
+        "Duration": 5,
+        "Priority": 0,
+        "ShowArea": "CenterArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 5,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\u0005\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000CenterArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_5_GeneralText\u0000\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_5_GeneralText",
+        "GeneralExtraText": "",
+        "TextColor": "",
+        "Duration": 5,
+        "Priority": 0,
+        "ShowArea": "CenterArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 6,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0005\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000T\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000CenterArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000%\u0000\u0000\u0000GenericPromptTypes_6_GeneralExtraText\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_6_GeneralText\u0000\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_6_GeneralText",
+        "GeneralExtraText": "GenericPromptTypes_6_GeneralExtraText",
+        "TextColor": "",
+        "Duration": 5,
+        "Priority": 1,
+        "ShowArea": "CenterArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 7,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\u0005\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000CenterArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_7_GeneralText\u0000\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_7_GeneralText",
+        "GeneralExtraText": "",
+        "TextColor": "",
+        "Duration": 5,
+        "Priority": 0,
+        "ShowArea": "CenterArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 8,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u000b\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u001c\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u0000X\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000CountDownArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000%\u0000\u0000\u0000GenericPromptTypes_8_GeneralExtraText\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "GeneralText": "",
+        "GeneralExtraText": "GenericPromptTypes_8_GeneralExtraText",
+        "TextColor": "",
+        "Duration": 0,
+        "Priority": 0,
+        "ShowArea": "CountDownArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": true,
+        "UiPath": "",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 9,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000 \u0000\u0000\u0000\u0003\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000FloatArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_9_GeneralText\u0000\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_9_GeneralText",
+        "GeneralExtraText": "",
+        "TextColor": "",
+        "Duration": 3,
+        "Priority": 0,
+        "ShowArea": "FloatArea",
+        "MaxCount": 3,
+        "OnlyBattle": false,
+        "Tickable": false,
+        "UiPath": "",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 10,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000\u0003\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\n\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiHint/Prefabs/UiItem_zhanjie1_Prefab.UiItem_zhanjie1_Prefab\u0000\u0000\u0000\n\u0000\u0000\u0000CenterArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000&\u0000\u0000\u0000GenericPromptTypes_10_GeneralExtraText\u0000\u0000!\u0000\u0000\u0000GenericPromptTypes_10_GeneralText\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_10_GeneralText",
+        "GeneralExtraText": "GenericPromptTypes_10_GeneralExtraText",
+        "TextColor": "",
+        "Duration": 3,
+        "Priority": 0,
+        "ShowArea": "CenterArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiItem_zhanjie1_Prefab.UiItem_zhanjie1_Prefab",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 11,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000d\u0000\u0000\u0000\u0003\u0000\u0000\u0000l\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_HintEnd.UiView_HintEnd\u0000\u0000\u0000\n\u0000\u0000\u0000CenterArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000&\u0000\u0000\u0000GenericPromptTypes_11_GeneralExtraText\u0000\u0000!\u0000\u0000\u0000GenericPromptTypes_11_GeneralText\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_11_GeneralText",
+        "GeneralExtraText": "GenericPromptTypes_11_GeneralExtraText",
+        "TextColor": "",
+        "Duration": 3,
+        "Priority": 0,
+        "ShowArea": "CenterArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_HintEnd.UiView_HintEnd",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 13,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\r\u0000\u0000\u0000w\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_PrepareCountdownFloatTips_Prefab.UiView_PrepareCountdownFloatTips_Prefab\u0000\n\u0000\u0000\u0000CenterArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "GeneralText": "",
+        "GeneralExtraText": "",
+        "TextColor": "",
+        "Duration": 3,
+        "Priority": 0,
+        "ShowArea": "CenterArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_PrepareCountdownFloatTips_Prefab.UiView_PrepareCountdownFloatTips_Prefab",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 12,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000\u0004\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\f\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_Dailytasks_Prefab.UiView_Dailytasks_Prefab\u0000\u0000\u0000\n\u0000\u0000\u0000CenterArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000!\u0000\u0000\u0000GenericPromptTypes_12_GeneralText\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_12_GeneralText",
+        "GeneralExtraText": "",
+        "TextColor": "",
+        "Duration": 4,
+        "Priority": 0,
+        "ShowArea": "CenterArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_Dailytasks_Prefab.UiView_Dailytasks_Prefab",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 14,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000h\u0000\u0000\u0000\u0001\u0000\u0000\u0000p\u0000\u0000\u0000t\u0000\u0000\u0000x\u0000\u0000\u0000\u000e\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_ComTxtTipA.UiView_ComTxtTipA\u0000\t\u0000\u0000\u0000FloatArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_9_GeneralText\u0000\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_9_GeneralText",
+        "GeneralExtraText": "",
+        "TextColor": "",
+        "Duration": 1,
+        "Priority": 0,
+        "ShowArea": "FloatArea",
+        "MaxCount": 1,
+        "OnlyBattle": false,
+        "Tickable": false,
+        "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_ComTxtTipA.UiView_ComTxtTipA",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 15,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000d\u0000\u0000\u0000\u0003\u0000\u0000\u0000l\u0000\u0000\u0000p\u0000\u0000\u0000t\u0000\u0000\u0000\u000f\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Prefabs/UiView_RogueTip.UiView_RogueTip\u0000\t\u0000\u0000\u0000FloatArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "GeneralText": "",
+        "GeneralExtraText": "",
+        "TextColor": "",
+        "Duration": 3,
+        "Priority": 0,
+        "ShowArea": "FloatArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "/Game/Aki/UI/UIResources/UiTips/Prefabs/UiView_RogueTip.UiView_RogueTip",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 16,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000\u0003\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiHint/Prefabs/UiItem_zhanjie1_Prefab.UiItem_zhanjie1_Prefab\u0000\u0000\u0000\n\u0000\u0000\u0000CenterArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000&\u0000\u0000\u0000GenericPromptTypes_10_GeneralExtraText\u0000\u0000!\u0000\u0000\u0000GenericPromptTypes_10_GeneralText\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_10_GeneralText",
+        "GeneralExtraText": "GenericPromptTypes_10_GeneralExtraText",
+        "TextColor": "",
+        "Duration": 3,
+        "Priority": 0,
+        "ShowArea": "CenterArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiItem_zhanjie1_Prefab.UiItem_zhanjie1_Prefab",
+        "OffsetY": 0.0
     },
     {
         "TypeId": 17,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000\u001c\u0000\u0000\u0000d\u0000\u0000\u0000\u0003\u0000\u0000\u0000l\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0011\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_HintEnd.UiView_HintEnd\u0000\u0000\u0000\n\u0000\u0000\u0000CenterArea\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000&\u0000\u0000\u0000GenericPromptTypes_11_GeneralExtraText\u0000\u0000!\u0000\u0000\u0000GenericPromptTypes_11_GeneralText\u0000\u0000\u0000"
+        "GeneralText": "GenericPromptTypes_11_GeneralText",
+        "GeneralExtraText": "GenericPromptTypes_11_GeneralExtraText",
+        "TextColor": "",
+        "Duration": 3,
+        "Priority": 0,
+        "ShowArea": "CenterArea",
+        "MaxCount": 1,
+        "OnlyBattle": true,
+        "Tickable": false,
+        "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_HintEnd.UiView_HintEnd",
+        "OffsetY": 0.0
     }
 ]

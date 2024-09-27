@@ -1,2306 +1,3458 @@
 [
     {
         "Id": 1,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000[�@\u0001\u0001\u0000\u0000\u0000"
+        "WeaponId": 21010011,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 2,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000k�@\u0001\u0002\u0000\u0000\u0000"
+        "WeaponId": 21020011,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 3,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000{�@\u0001\u0003\u0000\u0000\u0000"
+        "WeaponId": 21030011,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 4,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001\u0004\u0000\u0000\u0000"
+        "WeaponId": 21040011,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 5,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001\u0005\u0000\u0000\u0000"
+        "WeaponId": 21050011,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 6,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000k�@\u0001\u0006\u0000\u0000\u0000"
+        "WeaponId": 21020011,
+        "WeaponLevel": 4,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 7,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000[�@\u0001\u0007\u0000\u0000\u0000"
+        "WeaponId": 21010011,
+        "WeaponLevel": 4,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 8,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000k�@\u0001\b\u0000\u0000\u0000"
+        "WeaponId": 21020011,
+        "WeaponLevel": 4,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 9,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000k�@\u0001\t\u0000\u0000\u0000"
+        "WeaponId": 21020011,
+        "WeaponLevel": 4,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 10,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000�2A\u0001\n\u0000\u0000\u0000"
+        "WeaponId": 21050011,
+        "WeaponLevel": 4,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 11,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000�2A\u0001\u000b\u0000\u0000\u0000"
+        "WeaponId": 21050011,
+        "WeaponLevel": 4,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 12,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000k�@\u0001\f\u0000\u0000\u0000"
+        "WeaponId": 21020011,
+        "WeaponLevel": 4,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 13,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000k�@\u0001\r\u0000\u0000\u0000"
+        "WeaponId": 21020011,
+        "WeaponLevel": 4,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 14,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000(\u0000\u0000\u0000�2A\u0001\u000e\u0000\u0000\u0000"
+        "WeaponId": 21050015,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 15,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000(\u0000\u0000\u0000k�@\u0001\u000f\u0000\u0000\u0000"
+        "WeaponId": 21020011,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 16,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000(\u0000\u0000\u0000o�@\u0001\u0010\u0000\u0000\u0000"
+        "WeaponId": 21020015,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 17,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000(\u0000\u0000\u0000�@\u0001\u0011\u0000\u0000\u0000"
+        "WeaponId": 21030015,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 18,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000(\u0000\u0000\u0000k�@\u0001\u0012\u0000\u0000\u0000"
+        "WeaponId": 21020011,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 19,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000(\u0000\u0000\u0000k�@\u0001\u0013\u0000\u0000\u0000"
+        "WeaponId": 21020011,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 4
     },
     {
         "Id": 20,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000o�@\u0001\u0014\u0000\u0000\u0000"
+        "WeaponId": 21020015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 21,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000�@\u0001\u0015\u0000\u0000\u0000"
+        "WeaponId": 21030015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 22,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000o�@\u0001\u0016\u0000\u0000\u0000"
+        "WeaponId": 21020015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 23,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000o�@\u0001\u0017\u0000\u0000\u0000"
+        "WeaponId": 21020015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 24,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000o�@\u0001\u0018\u0000\u0000\u0000"
+        "WeaponId": 21020015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 25,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000_�@\u0001\u0019\u0000\u0000\u0000"
+        "WeaponId": 21010015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 26,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001\u001a\u0000\u0000\u0000"
+        "WeaponId": 21050015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 27,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000o�@\u0001\u001b\u0000\u0000\u0000"
+        "WeaponId": 21020015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 28,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001\u001c\u0000\u0000\u0000"
+        "WeaponId": 21050015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 29,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001\u001d\u0000\u0000\u0000"
+        "WeaponId": 21050015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 30,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000o�@\u0001\u001e\u0000\u0000\u0000"
+        "WeaponId": 21020015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 31,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000�@\u0001\u001f\u0000\u0000\u0000"
+        "WeaponId": 21030015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 32,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000_�@\u0001 \u0000\u0000\u0000"
+        "WeaponId": 21010015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 33,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000�@\u0001!\u0000\u0000\u0000"
+        "WeaponId": 21030015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 34,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000_�@\u0001\"\u0000\u0000\u0000"
+        "WeaponId": 21010015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 35,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001#\u0000\u0000\u0000"
+        "WeaponId": 21050015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 36,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000�\u000bA\u0001$\u0000\u0000\u0000"
+        "WeaponId": 21040015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 5
     },
     {
         "Id": 101,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000m�@\u0001e\u0000\u0000\u0000"
+        "WeaponId": 21020013,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 102,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000}�@\u0001f\u0000\u0000\u0000"
+        "WeaponId": 21030013,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 103,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�2A\u0001g\u0000\u0000\u0000"
+        "WeaponId": 21050011,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 104,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u000f\u0000\u0000\u0000{�@\u0001h\u0000\u0000\u0000"
+        "WeaponId": 21030011,
+        "WeaponLevel": 15,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010501,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001E�@\u0001"
+        "WeaponId": 21010074,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010510,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001N�@\u0001"
+        "WeaponId": 21010074,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010520,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001X�@\u0001"
+        "WeaponId": 21010074,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010530,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001b�@\u0001"
+        "WeaponId": 21010074,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010540,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001l�@\u0001"
+        "WeaponId": 21010074,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010550,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001v�@\u0001"
+        "WeaponId": 21010074,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010560,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21010074,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010570,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21010074,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010580,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21010074,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010590,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21010074,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020501,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001U�@\u0001"
+        "WeaponId": 21020074,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020510,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001^�@\u0001"
+        "WeaponId": 21020074,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020520,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001h�@\u0001"
+        "WeaponId": 21020074,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020530,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001r�@\u0001"
+        "WeaponId": 21020074,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020540,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001|�@\u0001"
+        "WeaponId": 21020074,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020550,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21020074,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020560,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21020074,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020570,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21020074,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020580,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21020074,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020590,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21020074,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030501,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001e�@\u0001"
+        "WeaponId": 21030074,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030510,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001n�@\u0001"
+        "WeaponId": 21030074,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030520,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001x�@\u0001"
+        "WeaponId": 21030074,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030530,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21030074,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030540,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21030074,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030550,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21030074,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030560,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21030074,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030570,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21030074,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030580,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21030074,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030590,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001��@\u0001"
+        "WeaponId": 21030074,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040501,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001u\rA\u0001"
+        "WeaponId": 21040074,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040510,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�\u000bA\u0001~\rA\u0001"
+        "WeaponId": 21040074,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040520,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u000bA\u0001�\rA\u0001"
+        "WeaponId": 21040074,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040530,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�\u000bA\u0001�\rA\u0001"
+        "WeaponId": 21040074,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040540,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�\u000bA\u0001�\rA\u0001"
+        "WeaponId": 21040074,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040550,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�\u000bA\u0001�\rA\u0001"
+        "WeaponId": 21040074,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040560,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�\u000bA\u0001�\rA\u0001"
+        "WeaponId": 21040074,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040570,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�\u000bA\u0001�\rA\u0001"
+        "WeaponId": 21040074,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040580,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�\u000bA\u0001�\rA\u0001"
+        "WeaponId": 21040074,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040590,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�\u000bA\u0001�\rA\u0001"
+        "WeaponId": 21040074,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050501,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001�4A\u0001"
+        "WeaponId": 21050074,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050510,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�2A\u0001�4A\u0001"
+        "WeaponId": 21050074,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050520,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�2A\u0001�4A\u0001"
+        "WeaponId": 21050074,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050530,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�2A\u0001�4A\u0001"
+        "WeaponId": 21050074,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050540,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�2A\u0001�4A\u0001"
+        "WeaponId": 21050074,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050550,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�2A\u0001�4A\u0001"
+        "WeaponId": 21050074,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050560,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�2A\u0001�4A\u0001"
+        "WeaponId": 21050074,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050570,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�2A\u0001�4A\u0001"
+        "WeaponId": 21050074,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050580,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�2A\u0001�4A\u0001"
+        "WeaponId": 21050074,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050590,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001�4A\u0001"
+        "WeaponId": 21050074,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000h�@\u0001�@\u0001"
+        "WeaponId": 21010024,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000h�@\u0001�@\u0001"
+        "WeaponId": 21010024,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000h�@\u0001��@\u0001"
+        "WeaponId": 21010024,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000h�@\u0001��@\u0001"
+        "WeaponId": 21010024,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000h�@\u0001\b�@\u0001"
+        "WeaponId": 21010024,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000h�@\u0001\u0012�@\u0001"
+        "WeaponId": 21010024,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000h�@\u0001\u001c�@\u0001"
+        "WeaponId": 21010024,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000h�@\u0001&�@\u0001"
+        "WeaponId": 21010024,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000h�@\u00010�@\u0001"
+        "WeaponId": 21010024,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000h�@\u0001:�@\u0001"
+        "WeaponId": 21010024,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000x�@\u0001�@\u0001"
+        "WeaponId": 21020024,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000x�@\u0001��@\u0001"
+        "WeaponId": 21020024,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000x�@\u0001\u0004�@\u0001"
+        "WeaponId": 21020024,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000x�@\u0001\u000e�@\u0001"
+        "WeaponId": 21020024,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000x�@\u0001\u0018�@\u0001"
+        "WeaponId": 21020024,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000x�@\u0001\"�@\u0001"
+        "WeaponId": 21020024,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000x�@\u0001,�@\u0001"
+        "WeaponId": 21020024,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000x�@\u00016�@\u0001"
+        "WeaponId": 21020024,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000x�@\u0001@�@\u0001"
+        "WeaponId": 21020024,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000x�@\u0001J�@\u0001"
+        "WeaponId": 21020024,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001\u0001�@\u0001"
+        "WeaponId": 21030024,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001\n�@\u0001"
+        "WeaponId": 21030024,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001\u0014�@\u0001"
+        "WeaponId": 21030024,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001\u001e�@\u0001"
+        "WeaponId": 21030024,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001(�@\u0001"
+        "WeaponId": 21030024,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u00012�@\u0001"
+        "WeaponId": 21030024,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001<�@\u0001"
+        "WeaponId": 21030024,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001F�@\u0001"
+        "WeaponId": 21030024,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001P�@\u0001"
+        "WeaponId": 21030024,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001Z�@\u0001"
+        "WeaponId": 21030024,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001\u0011\rA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�\u000bA\u0001\u001a\rA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u000bA\u0001$\rA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�\u000bA\u0001.\rA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�\u000bA\u00018\rA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�\u000bA\u0001B\rA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�\u000bA\u0001L\rA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�\u000bA\u0001V\rA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�\u000bA\u0001`\rA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�\u000bA\u0001j\rA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001!4A\u0001"
+        "WeaponId": 21050024,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�2A\u0001*4A\u0001"
+        "WeaponId": 21050024,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�2A\u000144A\u0001"
+        "WeaponId": 21050024,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�2A\u0001>4A\u0001"
+        "WeaponId": 21050024,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�2A\u0001H4A\u0001"
+        "WeaponId": 21050024,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�2A\u0001R4A\u0001"
+        "WeaponId": 21050024,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�2A\u0001\\4A\u0001"
+        "WeaponId": 21050024,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�2A\u0001f4A\u0001"
+        "WeaponId": 21050024,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�2A\u0001p4A\u0001"
+        "WeaponId": 21050024,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001z4A\u0001"
+        "WeaponId": 21050024,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000]�@\u0001}�@\u0001"
+        "WeaponId": 21010013,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000]�@\u0001��@\u0001"
+        "WeaponId": 21010013,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000]�@\u0001��@\u0001"
+        "WeaponId": 21010013,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000]�@\u0001��@\u0001"
+        "WeaponId": 21010013,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000]�@\u0001��@\u0001"
+        "WeaponId": 21010013,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000]�@\u0001��@\u0001"
+        "WeaponId": 21010013,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000]�@\u0001��@\u0001"
+        "WeaponId": 21010013,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000]�@\u0001@\u0001"
+        "WeaponId": 21010013,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000]�@\u0001̗@\u0001"
+        "WeaponId": 21010013,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000]�@\u0001֗@\u0001"
+        "WeaponId": 21010013,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000m�@\u0001��@\u0001"
+        "WeaponId": 21020013,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000m�@\u0001��@\u0001"
+        "WeaponId": 21020013,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000m�@\u0001��@\u0001"
+        "WeaponId": 21020013,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000m�@\u0001��@\u0001"
+        "WeaponId": 21020013,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000m�@\u0001��@\u0001"
+        "WeaponId": 21020013,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000m�@\u0001��@\u0001"
+        "WeaponId": 21020013,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000m�@\u0001Ⱦ@\u0001"
+        "WeaponId": 21020013,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000m�@\u0001Ҿ@\u0001"
+        "WeaponId": 21020013,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000m�@\u0001ܾ@\u0001"
+        "WeaponId": 21020013,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000m�@\u0001�@\u0001"
+        "WeaponId": 21020013,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000}�@\u0001��@\u0001"
+        "WeaponId": 21030013,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000}�@\u0001��@\u0001"
+        "WeaponId": 21030013,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000}�@\u0001��@\u0001"
+        "WeaponId": 21030013,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000}�@\u0001��@\u0001"
+        "WeaponId": 21030013,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000}�@\u0001��@\u0001"
+        "WeaponId": 21030013,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000}�@\u0001��@\u0001"
+        "WeaponId": 21030013,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000}�@\u0001��@\u0001"
+        "WeaponId": 21030013,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000}�@\u0001��@\u0001"
+        "WeaponId": 21030013,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000}�@\u0001��@\u0001"
+        "WeaponId": 21030013,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000}�@\u0001��@\u0001"
+        "WeaponId": 21030013,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001�\fA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�\u000bA\u0001�\fA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u000bA\u0001�\fA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�\u000bA\u0001�\fA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�\u000bA\u0001�\fA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�\u000bA\u0001�\fA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�\u000bA\u0001�\fA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�\u000bA\u0001�\fA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�\u000bA\u0001�\fA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�\u000bA\u0001\u0006\rA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001�3A\u0001"
+        "WeaponId": 21050013,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�2A\u0001�3A\u0001"
+        "WeaponId": 21050013,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�2A\u0001�3A\u0001"
+        "WeaponId": 21050013,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�2A\u0001�3A\u0001"
+        "WeaponId": 21050013,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�2A\u0001�3A\u0001"
+        "WeaponId": 21050013,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�2A\u0001�3A\u0001"
+        "WeaponId": 21050013,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�2A\u0001�3A\u0001"
+        "WeaponId": 21050013,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�2A\u0001\u00024A\u0001"
+        "WeaponId": 21050013,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�2A\u0001\f4A\u0001"
+        "WeaponId": 21050013,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001\u00164A\u0001"
+        "WeaponId": 21050013,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 37,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000_�@\u0001%\u0000\u0000\u0000"
+        "WeaponId": 21010015,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21102301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000g�@\u0001��A\u0001"
+        "WeaponId": 21010023,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21102310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000g�@\u0001��A\u0001"
+        "WeaponId": 21010023,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21102320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000g�@\u0001��A\u0001"
+        "WeaponId": 21010023,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21102330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000g�@\u0001��A\u0001"
+        "WeaponId": 21010023,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21102340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000g�@\u0001\u0004�A\u0001"
+        "WeaponId": 21010023,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21102350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000g�@\u0001\u000e�A\u0001"
+        "WeaponId": 21010023,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21102360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000g�@\u0001\u0018�A\u0001"
+        "WeaponId": 21010023,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21102370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000g�@\u0001\"�A\u0001"
+        "WeaponId": 21010023,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21102380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000g�@\u0001,�A\u0001"
+        "WeaponId": 21010023,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21102390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000g�@\u00016�A\u0001"
+        "WeaponId": 21010023,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21202301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000w�@\u0001}�C\u0001"
+        "WeaponId": 21020023,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21202310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000w�@\u0001��C\u0001"
+        "WeaponId": 21020023,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21202320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000w�@\u0001��C\u0001"
+        "WeaponId": 21020023,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21202330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000w�@\u0001��C\u0001"
+        "WeaponId": 21020023,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21202340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000w�@\u0001��C\u0001"
+        "WeaponId": 21020023,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21202350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000w�@\u0001��C\u0001"
+        "WeaponId": 21020023,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21202360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000w�@\u0001��C\u0001"
+        "WeaponId": 21020023,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21202370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000w�@\u0001C\u0001"
+        "WeaponId": 21020023,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21202380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000w�@\u0001̅C\u0001"
+        "WeaponId": 21020023,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21202390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000w�@\u0001օC\u0001"
+        "WeaponId": 21020023,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21502301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001]\u0019H\u0001"
+        "WeaponId": 21050023,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21502310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�2A\u0001f\u0019H\u0001"
+        "WeaponId": 21050023,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21502320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�2A\u0001p\u0019H\u0001"
+        "WeaponId": 21050023,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21502330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�2A\u0001z\u0019H\u0001"
+        "WeaponId": 21050023,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21502340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�2A\u0001�\u0019H\u0001"
+        "WeaponId": 21050023,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21502350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�2A\u0001�\u0019H\u0001"
+        "WeaponId": 21050023,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21502360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�2A\u0001�\u0019H\u0001"
+        "WeaponId": 21050023,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21502370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�2A\u0001�\u0019H\u0001"
+        "WeaponId": 21050023,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21502380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�2A\u0001�\u0019H\u0001"
+        "WeaponId": 21050023,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21502390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001�\u0019H\u0001"
+        "WeaponId": 21050023,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21110501,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000_�@\u0001�\u001eB\u0001"
+        "WeaponId": 21010015,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21110510,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000_�@\u0001�\u001eB\u0001"
+        "WeaponId": 21010015,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21110520,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000_�@\u0001�\u001eB\u0001"
+        "WeaponId": 21010015,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21110530,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000_�@\u0001\u0002\u001fB\u0001"
+        "WeaponId": 21010015,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21110540,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000_�@\u0001\f\u001fB\u0001"
+        "WeaponId": 21010015,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21110550,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000_�@\u0001\u0016\u001fB\u0001"
+        "WeaponId": 21010015,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21110560,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000_�@\u0001 \u001fB\u0001"
+        "WeaponId": 21010015,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21110570,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000_�@\u0001*\u001fB\u0001"
+        "WeaponId": 21010015,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21110580,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000_�@\u00014\u001fB\u0001"
+        "WeaponId": 21010015,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21110590,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000_�@\u0001>\u001fB\u0001"
+        "WeaponId": 21010015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21210501,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000o�@\u0001��C\u0001"
+        "WeaponId": 21020015,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21210510,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000o�@\u0001��C\u0001"
+        "WeaponId": 21020015,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21210520,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000o�@\u0001��C\u0001"
+        "WeaponId": 21020015,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21210530,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000o�@\u0001��C\u0001"
+        "WeaponId": 21020015,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21210540,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000o�@\u0001��C\u0001"
+        "WeaponId": 21020015,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21210550,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000o�@\u0001��C\u0001"
+        "WeaponId": 21020015,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21210560,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000o�@\u0001��C\u0001"
+        "WeaponId": 21020015,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21210570,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000o�@\u0001ʥC\u0001"
+        "WeaponId": 21020015,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21210580,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000o�@\u0001ԥC\u0001"
+        "WeaponId": 21020015,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21210590,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000o�@\u0001ޥC\u0001"
+        "WeaponId": 21020015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21310501,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�@\u0001%,E\u0001"
+        "WeaponId": 21030015,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21310510,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�@\u0001.,E\u0001"
+        "WeaponId": 21030015,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21310520,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�@\u00018,E\u0001"
+        "WeaponId": 21030015,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21310530,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�@\u0001B,E\u0001"
+        "WeaponId": 21030015,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21310540,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�@\u0001L,E\u0001"
+        "WeaponId": 21030015,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21310550,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�@\u0001V,E\u0001"
+        "WeaponId": 21030015,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21310560,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�@\u0001`,E\u0001"
+        "WeaponId": 21030015,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21310570,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�@\u0001j,E\u0001"
+        "WeaponId": 21030015,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21310580,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�@\u0001t,E\u0001"
+        "WeaponId": 21030015,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21310590,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�@\u0001~,E\u0001"
+        "WeaponId": 21030015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21410501,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001ŲF\u0001"
+        "WeaponId": 21040015,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21410510,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�\u000bA\u0001βF\u0001"
+        "WeaponId": 21040015,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21410520,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u000bA\u0001زF\u0001"
+        "WeaponId": 21040015,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21410530,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�\u000bA\u0001�F\u0001"
+        "WeaponId": 21040015,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21410540,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�\u000bA\u0001�F\u0001"
+        "WeaponId": 21040015,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21410550,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040015,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21410560,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�\u000bA\u0001\u0000�F\u0001"
+        "WeaponId": 21040015,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21410570,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�\u000bA\u0001\n�F\u0001"
+        "WeaponId": 21040015,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21410580,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�\u000bA\u0001\u0014�F\u0001"
+        "WeaponId": 21040015,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21410590,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�\u000bA\u0001\u001e�F\u0001"
+        "WeaponId": 21040015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21510501,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001e9H\u0001"
+        "WeaponId": 21050015,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21510510,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�2A\u0001n9H\u0001"
+        "WeaponId": 21050015,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21510520,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�2A\u0001x9H\u0001"
+        "WeaponId": 21050015,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21510530,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�2A\u0001�9H\u0001"
+        "WeaponId": 21050015,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21510540,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�2A\u0001�9H\u0001"
+        "WeaponId": 21050015,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21510550,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�2A\u0001�9H\u0001"
+        "WeaponId": 21050015,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21510560,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�2A\u0001�9H\u0001"
+        "WeaponId": 21050015,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21510570,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�2A\u0001�9H\u0001"
+        "WeaponId": 21050015,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21510580,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�2A\u0001�9H\u0001"
+        "WeaponId": 21050015,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21510590,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001�9H\u0001"
+        "WeaponId": 21050015,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21111501,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000`�@\u0001�\"B\u0001"
+        "WeaponId": 21010016,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21111510,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000`�@\u0001�\"B\u0001"
+        "WeaponId": 21010016,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21111520,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000`�@\u0001�\"B\u0001"
+        "WeaponId": 21010016,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21111530,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000`�@\u0001�\"B\u0001"
+        "WeaponId": 21010016,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21111540,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000`�@\u0001�\"B\u0001"
+        "WeaponId": 21010016,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21111550,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000`�@\u0001�\"B\u0001"
+        "WeaponId": 21010016,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21111560,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000`�@\u0001\b#B\u0001"
+        "WeaponId": 21010016,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21111570,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000`�@\u0001\u0012#B\u0001"
+        "WeaponId": 21010016,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21111580,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000`�@\u0001\u001c#B\u0001"
+        "WeaponId": 21010016,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21111590,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000`�@\u0001&#B\u0001"
+        "WeaponId": 21010016,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000{�@\u0001�\u0006B\u0001"
+        "WeaponId": 21010043,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000{�@\u0001�\u0006B\u0001"
+        "WeaponId": 21010043,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000{�@\u0001�\u0006B\u0001"
+        "WeaponId": 21010043,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000{�@\u0001�\u0006B\u0001"
+        "WeaponId": 21010043,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000{�@\u0001�\u0006B\u0001"
+        "WeaponId": 21010043,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000{�@\u0001�\u0006B\u0001"
+        "WeaponId": 21010043,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000{�@\u0001�\u0006B\u0001"
+        "WeaponId": 21010043,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000{�@\u0001�\u0006B\u0001"
+        "WeaponId": 21010043,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000{�@\u0001�\u0006B\u0001"
+        "WeaponId": 21010043,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000{�@\u0001\u0006\u0007B\u0001"
+        "WeaponId": 21010043,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001M�C\u0001"
+        "WeaponId": 21020043,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001V�C\u0001"
+        "WeaponId": 21020043,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001`�C\u0001"
+        "WeaponId": 21020043,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001j�C\u0001"
+        "WeaponId": 21020043,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001t�C\u0001"
+        "WeaponId": 21020043,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001~�C\u0001"
+        "WeaponId": 21020043,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020043,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020043,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020043,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020043,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001-!H\u0001"
+        "WeaponId": 21050043,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�2A\u00016!H\u0001"
+        "WeaponId": 21050043,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�2A\u0001@!H\u0001"
+        "WeaponId": 21050043,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�2A\u0001J!H\u0001"
+        "WeaponId": 21050043,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�2A\u0001T!H\u0001"
+        "WeaponId": 21050043,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�2A\u0001^!H\u0001"
+        "WeaponId": 21050043,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�2A\u0001h!H\u0001"
+        "WeaponId": 21050043,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�2A\u0001r!H\u0001"
+        "WeaponId": 21050043,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�2A\u0001|!H\u0001"
+        "WeaponId": 21050043,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001�!H\u0001"
+        "WeaponId": 21050043,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21105301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001�\nB\u0001"
+        "WeaponId": 21010053,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21105310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001�\nB\u0001"
+        "WeaponId": 21010053,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21105320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001�\nB\u0001"
+        "WeaponId": 21010053,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21105330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001�\nB\u0001"
+        "WeaponId": 21010053,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21105340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001�\nB\u0001"
+        "WeaponId": 21010053,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21105350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001�\nB\u0001"
+        "WeaponId": 21010053,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21105360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001�\nB\u0001"
+        "WeaponId": 21010053,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21105370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001�\nB\u0001"
+        "WeaponId": 21010053,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21105380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001�\nB\u0001"
+        "WeaponId": 21010053,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21105390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001�\nB\u0001"
+        "WeaponId": 21010053,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21205301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u00015�C\u0001"
+        "WeaponId": 21020053,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21205310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001>�C\u0001"
+        "WeaponId": 21020053,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21205320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001H�C\u0001"
+        "WeaponId": 21020053,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21205330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001R�C\u0001"
+        "WeaponId": 21020053,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21205340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001\\�C\u0001"
+        "WeaponId": 21020053,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21205350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001f�C\u0001"
+        "WeaponId": 21020053,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21205360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001p�C\u0001"
+        "WeaponId": 21020053,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21205370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001z�C\u0001"
+        "WeaponId": 21020053,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21205380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020053,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21205390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020053,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21305301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001�\u0017E\u0001"
+        "WeaponId": 21030053,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21305310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001�\u0017E\u0001"
+        "WeaponId": 21030053,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21305320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001�\u0017E\u0001"
+        "WeaponId": 21030053,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21305330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001�\u0017E\u0001"
+        "WeaponId": 21030053,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21305340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001�\u0017E\u0001"
+        "WeaponId": 21030053,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21305350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001\u0006\u0018E\u0001"
+        "WeaponId": 21030053,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21305360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001\u0010\u0018E\u0001"
+        "WeaponId": 21030053,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21305370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001\u001a\u0018E\u0001"
+        "WeaponId": 21030053,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21305380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001$\u0018E\u0001"
+        "WeaponId": 21030053,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21305390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001.\u0018E\u0001"
+        "WeaponId": 21030053,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21405301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001u�F\u0001"
+        "WeaponId": 21040053,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21405310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�\u000bA\u0001~�F\u0001"
+        "WeaponId": 21040053,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21405320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040053,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21405330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040053,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21405340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040053,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21405350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040053,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21405360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040053,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21405370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040053,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21405380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�\u000bA\u0001ĞF\u0001"
+        "WeaponId": 21040053,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21405390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�\u000bA\u0001ΞF\u0001"
+        "WeaponId": 21040053,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21505301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001\u0015%H\u0001"
+        "WeaponId": 21050053,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21505310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�2A\u0001\u001e%H\u0001"
+        "WeaponId": 21050053,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21505320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�2A\u0001(%H\u0001"
+        "WeaponId": 21050053,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21505330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�2A\u00012%H\u0001"
+        "WeaponId": 21050053,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21505340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�2A\u0001<%H\u0001"
+        "WeaponId": 21050053,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21505350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�2A\u0001F%H\u0001"
+        "WeaponId": 21050053,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21505360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�2A\u0001P%H\u0001"
+        "WeaponId": 21050053,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21505370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�2A\u0001Z%H\u0001"
+        "WeaponId": 21050053,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21505380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�2A\u0001d%H\u0001"
+        "WeaponId": 21050053,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21505390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001n%H\u0001"
+        "WeaponId": 21050053,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21106401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001�\u000eB\u0001"
+        "WeaponId": 21010064,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21106410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001�\u000eB\u0001"
+        "WeaponId": 21010064,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21106420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001�\u000eB\u0001"
+        "WeaponId": 21010064,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21106430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001�\u000eB\u0001"
+        "WeaponId": 21010064,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21106440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001\b\u000fB\u0001"
+        "WeaponId": 21010064,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21106450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001\u0012\u000fB\u0001"
+        "WeaponId": 21010064,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21106460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001\u001c\u000fB\u0001"
+        "WeaponId": 21010064,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21106470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001&\u000fB\u0001"
+        "WeaponId": 21010064,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21106480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u00010\u000fB\u0001"
+        "WeaponId": 21010064,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21106490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001:\u000fB\u0001"
+        "WeaponId": 21010064,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21206401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020064,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21206410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020064,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21206420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020064,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21206430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020064,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21206440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020064,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21206450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020064,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21206460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020064,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21206470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001ƕC\u0001"
+        "WeaponId": 21020064,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21206480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001ЕC\u0001"
+        "WeaponId": 21020064,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21206490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001ڕC\u0001"
+        "WeaponId": 21020064,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21306401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001!\u001cE\u0001"
+        "WeaponId": 21030064,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21306410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001*\u001cE\u0001"
+        "WeaponId": 21030064,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21306420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u00014\u001cE\u0001"
+        "WeaponId": 21030064,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21306430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001>\u001cE\u0001"
+        "WeaponId": 21030064,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21306440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001H\u001cE\u0001"
+        "WeaponId": 21030064,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21306450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001R\u001cE\u0001"
+        "WeaponId": 21030064,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21306460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001\\\u001cE\u0001"
+        "WeaponId": 21030064,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21306470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001f\u001cE\u0001"
+        "WeaponId": 21030064,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21306480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001p\u001cE\u0001"
+        "WeaponId": 21030064,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21306490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001z\u001cE\u0001"
+        "WeaponId": 21030064,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21506401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001a)H\u0001"
+        "WeaponId": 21050064,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21506410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�2A\u0001j)H\u0001"
+        "WeaponId": 21050064,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21506420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�2A\u0001t)H\u0001"
+        "WeaponId": 21050064,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21506430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�2A\u0001~)H\u0001"
+        "WeaponId": 21050064,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21506440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�2A\u0001�)H\u0001"
+        "WeaponId": 21050064,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21506450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�2A\u0001�)H\u0001"
+        "WeaponId": 21050064,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21506460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�2A\u0001�)H\u0001"
+        "WeaponId": 21050064,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21506470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�2A\u0001�)H\u0001"
+        "WeaponId": 21050064,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21506480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�2A\u0001�)H\u0001"
+        "WeaponId": 21050064,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21506490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001�)H\u0001"
+        "WeaponId": 21050064,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21401301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001ՎF\u0001"
+        "WeaponId": 21040013,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21401310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�\u000bA\u0001ގF\u0001"
+        "WeaponId": 21040013,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21401320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u000bA\u0001�F\u0001"
+        "WeaponId": 21040013,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21401330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�\u000bA\u0001�F\u0001"
+        "WeaponId": 21040013,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21401340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040013,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21401350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�\u000bA\u0001\u0006�F\u0001"
+        "WeaponId": 21040013,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21401360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�\u000bA\u0001\u0010�F\u0001"
+        "WeaponId": 21040013,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21401370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�\u000bA\u0001\u001a�F\u0001"
+        "WeaponId": 21040013,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21401380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�\u000bA\u0001$�F\u0001"
+        "WeaponId": 21040013,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21401390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�\u000bA\u0001.�F\u0001"
+        "WeaponId": 21040013,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21302301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001\u001d\fE\u0001"
+        "WeaponId": 21030023,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21302310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001&\fE\u0001"
+        "WeaponId": 21030023,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21302320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u00010\fE\u0001"
+        "WeaponId": 21030023,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21302330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001:\fE\u0001"
+        "WeaponId": 21030023,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21302340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001D\fE\u0001"
+        "WeaponId": 21030023,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21302350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001N\fE\u0001"
+        "WeaponId": 21030023,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21302360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001X\fE\u0001"
+        "WeaponId": 21030023,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21302370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001b\fE\u0001"
+        "WeaponId": 21030023,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21302380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001l\fE\u0001"
+        "WeaponId": 21030023,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21302390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001v\fE\u0001"
+        "WeaponId": 21030023,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21402301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040023,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21402310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�\u000bA\u0001ƒF\u0001"
+        "WeaponId": 21040023,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21402320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u000bA\u0001ВF\u0001"
+        "WeaponId": 21040023,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21402330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�\u000bA\u0001ڒF\u0001"
+        "WeaponId": 21040023,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21402340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�\u000bA\u0001�F\u0001"
+        "WeaponId": 21040023,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21402350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�\u000bA\u0001�F\u0001"
+        "WeaponId": 21040023,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21402360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040023,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21402370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�\u000bA\u0001\u0002�F\u0001"
+        "WeaponId": 21040023,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21402380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�\u000bA\u0001\f�F\u0001"
+        "WeaponId": 21040023,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21402390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�\u000bA\u0001\u0016�F\u0001"
+        "WeaponId": 21040023,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21103401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�@\u0001)\u0003B\u0001"
+        "WeaponId": 21010034,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21103410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000r�@\u00012\u0003B\u0001"
+        "WeaponId": 21010034,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21103420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000r�@\u0001<\u0003B\u0001"
+        "WeaponId": 21010034,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21103430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000r�@\u0001F\u0003B\u0001"
+        "WeaponId": 21010034,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21103440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000r�@\u0001P\u0003B\u0001"
+        "WeaponId": 21010034,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21103450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000r�@\u0001Z\u0003B\u0001"
+        "WeaponId": 21010034,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21103460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000r�@\u0001d\u0003B\u0001"
+        "WeaponId": 21010034,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21103470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000r�@\u0001n\u0003B\u0001"
+        "WeaponId": 21010034,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21103480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000r�@\u0001x\u0003B\u0001"
+        "WeaponId": 21010034,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21103490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000r�@\u0001�\u0003B\u0001"
+        "WeaponId": 21010034,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21203401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001ɉC\u0001"
+        "WeaponId": 21020034,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21203410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001҉C\u0001"
+        "WeaponId": 21020034,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21203420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001܉C\u0001"
+        "WeaponId": 21020034,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21203430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001�C\u0001"
+        "WeaponId": 21020034,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21203440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020034,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21203450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020034,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21203460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001\u0004�C\u0001"
+        "WeaponId": 21020034,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21203470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001\u000e�C\u0001"
+        "WeaponId": 21020034,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21203480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001\u0018�C\u0001"
+        "WeaponId": 21020034,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21203490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001\"�C\u0001"
+        "WeaponId": 21020034,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21303401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001i\u0010E\u0001"
+        "WeaponId": 21030034,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21303410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001r\u0010E\u0001"
+        "WeaponId": 21030034,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21303420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001|\u0010E\u0001"
+        "WeaponId": 21030034,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21303430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001�\u0010E\u0001"
+        "WeaponId": 21030034,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21303440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001�\u0010E\u0001"
+        "WeaponId": 21030034,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21303450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001�\u0010E\u0001"
+        "WeaponId": 21030034,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21303460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001�\u0010E\u0001"
+        "WeaponId": 21030034,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21303470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001�\u0010E\u0001"
+        "WeaponId": 21030034,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21303480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001�\u0010E\u0001"
+        "WeaponId": 21030034,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21303490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001�\u0010E\u0001"
+        "WeaponId": 21030034,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21403401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001\t�F\u0001"
+        "WeaponId": 21040034,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21403410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�\u000bA\u0001\u0012�F\u0001"
+        "WeaponId": 21040034,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21403420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u000bA\u0001\u001c�F\u0001"
+        "WeaponId": 21040034,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21403430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�\u000bA\u0001&�F\u0001"
+        "WeaponId": 21040034,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21403440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�\u000bA\u00010�F\u0001"
+        "WeaponId": 21040034,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21403450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�\u000bA\u0001:�F\u0001"
+        "WeaponId": 21040034,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21403460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�\u000bA\u0001D�F\u0001"
+        "WeaponId": 21040034,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21403470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�\u000bA\u0001N�F\u0001"
+        "WeaponId": 21040034,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21403480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�\u000bA\u0001X�F\u0001"
+        "WeaponId": 21040034,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21403490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�\u000bA\u0001b�F\u0001"
+        "WeaponId": 21040034,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21503401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001�\u001dH\u0001"
+        "WeaponId": 21050034,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21503410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�2A\u0001�\u001dH\u0001"
+        "WeaponId": 21050034,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21503420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�2A\u0001�\u001dH\u0001"
+        "WeaponId": 21050034,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21503430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�2A\u0001�\u001dH\u0001"
+        "WeaponId": 21050034,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21503440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�2A\u0001�\u001dH\u0001"
+        "WeaponId": 21050034,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21503450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�2A\u0001�\u001dH\u0001"
+        "WeaponId": 21050034,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21503460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�2A\u0001�\u001dH\u0001"
+        "WeaponId": 21050034,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21503470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�2A\u0001�\u001dH\u0001"
+        "WeaponId": 21050034,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21503480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�2A\u0001�\u001dH\u0001"
+        "WeaponId": 21050034,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21503490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001\u0002\u001eH\u0001"
+        "WeaponId": 21050034,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000|�@\u0001\u0011\u0007B\u0001"
+        "WeaponId": 21010044,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000|�@\u0001\u001a\u0007B\u0001"
+        "WeaponId": 21010044,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000|�@\u0001$\u0007B\u0001"
+        "WeaponId": 21010044,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000|�@\u0001.\u0007B\u0001"
+        "WeaponId": 21010044,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000|�@\u00018\u0007B\u0001"
+        "WeaponId": 21010044,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000|�@\u0001B\u0007B\u0001"
+        "WeaponId": 21010044,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000|�@\u0001L\u0007B\u0001"
+        "WeaponId": 21010044,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000|�@\u0001V\u0007B\u0001"
+        "WeaponId": 21010044,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000|�@\u0001`\u0007B\u0001"
+        "WeaponId": 21010044,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21104490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000|�@\u0001j\u0007B\u0001"
+        "WeaponId": 21010044,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020044,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020044,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001čC\u0001"
+        "WeaponId": 21020044,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001΍C\u0001"
+        "WeaponId": 21020044,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001؍C\u0001"
+        "WeaponId": 21020044,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001�C\u0001"
+        "WeaponId": 21020044,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001�C\u0001"
+        "WeaponId": 21020044,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001��C\u0001"
+        "WeaponId": 21020044,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001\u0000�C\u0001"
+        "WeaponId": 21020044,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21204490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001\n�C\u0001"
+        "WeaponId": 21020044,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001Q\u0014E\u0001"
+        "WeaponId": 21030044,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001Z\u0014E\u0001"
+        "WeaponId": 21030044,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001d\u0014E\u0001"
+        "WeaponId": 21030044,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001n\u0014E\u0001"
+        "WeaponId": 21030044,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001x\u0014E\u0001"
+        "WeaponId": 21030044,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001�\u0014E\u0001"
+        "WeaponId": 21030044,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001�\u0014E\u0001"
+        "WeaponId": 21030044,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u0001�\u0014E\u0001"
+        "WeaponId": 21030044,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001�\u0014E\u0001"
+        "WeaponId": 21030044,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001�\u0014E\u0001"
+        "WeaponId": 21030044,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001�F\u0001"
+        "WeaponId": 21040044,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040044,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u000bA\u0001\u0004�F\u0001"
+        "WeaponId": 21040044,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�\u000bA\u0001\u000e�F\u0001"
+        "WeaponId": 21040044,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�\u000bA\u0001\u0018�F\u0001"
+        "WeaponId": 21040044,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�\u000bA\u0001\"�F\u0001"
+        "WeaponId": 21040044,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�\u000bA\u0001,�F\u0001"
+        "WeaponId": 21040044,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�\u000bA\u00016�F\u0001"
+        "WeaponId": 21040044,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�\u000bA\u0001@�F\u0001"
+        "WeaponId": 21040044,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�\u000bA\u0001J�F\u0001"
+        "WeaponId": 21040044,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001�!H\u0001"
+        "WeaponId": 21050044,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�2A\u0001�!H\u0001"
+        "WeaponId": 21050044,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�2A\u0001�!H\u0001"
+        "WeaponId": 21050044,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�2A\u0001�!H\u0001"
+        "WeaponId": 21050044,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�2A\u0001�!H\u0001"
+        "WeaponId": 21050044,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�2A\u0001�!H\u0001"
+        "WeaponId": 21050044,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�2A\u0001�!H\u0001"
+        "WeaponId": 21050044,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�2A\u0001�!H\u0001"
+        "WeaponId": 21050044,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�2A\u0001�!H\u0001"
+        "WeaponId": 21050044,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21504490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001�!H\u0001"
+        "WeaponId": 21050044,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000��@\u0001�\u0013E\u0001"
+        "WeaponId": 21030043,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000��@\u0001�\u0013E\u0001"
+        "WeaponId": 21030043,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000��@\u0001\u0000\u0014E\u0001"
+        "WeaponId": 21030043,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000��@\u0001\n\u0014E\u0001"
+        "WeaponId": 21030043,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000��@\u0001\u0014\u0014E\u0001"
+        "WeaponId": 21030043,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000��@\u0001\u001e\u0014E\u0001"
+        "WeaponId": 21030043,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000��@\u0001(\u0014E\u0001"
+        "WeaponId": 21030043,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000��@\u00012\u0014E\u0001"
+        "WeaponId": 21030043,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000��@\u0001<\u0014E\u0001"
+        "WeaponId": 21030043,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21304390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000��@\u0001F\u0014E\u0001"
+        "WeaponId": 21030043,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404301,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040043,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040043,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404320,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040043,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404330,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040043,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404340,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040043,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404350,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040043,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404360,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�\u000bA\u0001ȚF\u0001"
+        "WeaponId": 21040043,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404370,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�\u000bA\u0001ҚF\u0001"
+        "WeaponId": 21040043,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404380,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�\u000bA\u0001ܚF\u0001"
+        "WeaponId": 21040043,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21404390,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�\u000bA\u0001�F\u0001"
+        "WeaponId": 21040043,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21501601,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�2A\u0001�\u0016H\u0001"
+        "WeaponId": 21050016,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21501610,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�2A\u0001�\u0016H\u0001"
+        "WeaponId": 21050016,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21501620,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�2A\u0001�\u0016H\u0001"
+        "WeaponId": 21050016,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21501630,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�2A\u0001�\u0016H\u0001"
+        "WeaponId": 21050016,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21501640,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�2A\u0001�\u0016H\u0001"
+        "WeaponId": 21050016,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21501650,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�2A\u0001�\u0016H\u0001"
+        "WeaponId": 21050016,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21501660,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�2A\u0001�\u0016H\u0001"
+        "WeaponId": 21050016,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21501670,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�2A\u0001�\u0016H\u0001"
+        "WeaponId": 21050016,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21501680,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�2A\u0001�\u0016H\u0001"
+        "WeaponId": 21050016,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21501690,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�2A\u0001�\u0016H\u0001"
+        "WeaponId": 21050016,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21406401,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040064,
+        "WeaponLevel": 1,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21406410,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\n\u0000\u0000\u0000�\u000bA\u0001ʢF\u0001"
+        "WeaponId": 21040064,
+        "WeaponLevel": 10,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21406420,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u000bA\u0001ԢF\u0001"
+        "WeaponId": 21040064,
+        "WeaponLevel": 20,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21406430,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000\u0000\u0000�\u000bA\u0001ޢF\u0001"
+        "WeaponId": 21040064,
+        "WeaponLevel": 30,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21406440,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000(\u0000\u0000\u0000�\u000bA\u0001�F\u0001"
+        "WeaponId": 21040064,
+        "WeaponLevel": 40,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21406450,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000�\u000bA\u0001�F\u0001"
+        "WeaponId": 21040064,
+        "WeaponLevel": 50,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21406460,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000<\u0000\u0000\u0000�\u000bA\u0001��F\u0001"
+        "WeaponId": 21040064,
+        "WeaponLevel": 60,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21406470,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000F\u0000\u0000\u0000�\u000bA\u0001\u0006�F\u0001"
+        "WeaponId": 21040064,
+        "WeaponLevel": 70,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21406480,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000\u0000\u0000�\u000bA\u0001\u0010�F\u0001"
+        "WeaponId": 21040064,
+        "WeaponLevel": 80,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21406490,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000�\u000bA\u0001\u001a�F\u0001"
+        "WeaponId": 21040064,
+        "WeaponLevel": 90,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21010345,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000-\u0000\u0000\u0000]�@\u0001��@\u0001"
+        "WeaponId": 21010013,
+        "WeaponLevel": 45,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21020345,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000-\u0000\u0000\u0000m�@\u0001��@\u0001"
+        "WeaponId": 21020013,
+        "WeaponLevel": 45,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21030345,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000-\u0000\u0000\u0000}�@\u0001��@\u0001"
+        "WeaponId": 21030013,
+        "WeaponLevel": 45,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21040345,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000-\u0000\u0000\u0000�\u000bA\u0001�\fA\u0001"
+        "WeaponId": 21040024,
+        "WeaponLevel": 45,
+        "WeaponResonanceLevel": 1
     },
     {
         "Id": 21050345,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000-\u0000\u0000\u0000�2A\u0001�3A\u0001"
+        "WeaponId": 21050013,
+        "WeaponLevel": 45,
+        "WeaponResonanceLevel": 1
     }
 ]

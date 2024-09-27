@@ -1,14 +1,17 @@
 [
     {
         "Id": "subtitle_normal",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000 \u0000\u0000\u0000�\u0000\u0000\u0000\u0013\u0000\u0000\u0000external_plot_voice\u0000]\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_external_vo_subtitle_normal.play_external_vo_subtitle_normal\u0000\u0000\u0000\u000f\u0000\u0000\u0000subtitle_normal\u0000"
+        "AudioEventPath": "/Game/Aki/WwiseAudio/Events/play_external_vo_subtitle_normal.play_external_vo_subtitle_normal",
+        "ExternalSrcName": "external_plot_voice"
     },
     {
         "Id": "bubble_hard_ducking",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000�\u0000\u0000\u0000'\u0000\u0000\u0000external_plot_voice_bubble_hard_ducking\u0000e\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_external_vo_bubble_hard_ducking.play_external_vo_bubble_hard_ducking\u0000\u0000\u0000\u0013\u0000\u0000\u0000bubble_hard_ducking\u0000"
+        "AudioEventPath": "/Game/Aki/WwiseAudio/Events/play_external_vo_bubble_hard_ducking.play_external_vo_bubble_hard_ducking",
+        "ExternalSrcName": "external_plot_voice_bubble_hard_ducking"
     },
     {
         "Id": "bubble_soft_ducking",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000�\u0000\u0000\u0000'\u0000\u0000\u0000external_plot_voice_bubble_soft_ducking\u0000e\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_external_vo_bubble_soft_ducking.play_external_vo_bubble_soft_ducking\u0000\u0000\u0000\u0013\u0000\u0000\u0000bubble_soft_ducking\u0000"
+        "AudioEventPath": "/Game/Aki/WwiseAudio/Events/play_external_vo_bubble_soft_ducking.play_external_vo_bubble_soft_ducking",
+        "ExternalSrcName": "external_plot_voice_bubble_soft_ducking"
     }
 ]

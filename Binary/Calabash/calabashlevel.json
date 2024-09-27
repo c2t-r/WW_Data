@@ -1,86 +1,1010 @@
 [
     {
         "Level": 1,
-        "BinData": " \u0000\u0000\u0000\u001c\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0000\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u0000\b\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0007\u0000\u001e\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����\u0004\u0000\u0000\u0000����\u0003\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u00004\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000����\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_2_QualityDescription\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_1_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 30,
+        "LevelUpCondition": 502001,
+        "TempCatchGain": 200,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_1_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_2_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 100
+            },
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 8,
+        "RewardId": 4301,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 100
+            }
+        ]
     },
     {
         "Level": 2,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\n\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0007\u0000\u001e\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����\u0004\u0000\u0000\u0000����\u0003\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u00004\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000����\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_2_QualityDescription\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_2_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 30,
+        "LevelUpCondition": 502001,
+        "TempCatchGain": 200,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_2_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_2_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 200
+            },
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 10,
+        "RewardId": 4302,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 100
+            }
+        ]
     },
     {
         "Level": 3,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\n\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0001\u0000\u0000�\u0007\u0000<\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����\u0004\u0000\u0000\u0000����\u0003\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u00004\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000,\u0001\u0000\u0000����\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_2_QualityDescription\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_3_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 60,
+        "LevelUpCondition": 502001,
+        "TempCatchGain": 400,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_3_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_2_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 300
+            },
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 10,
+        "RewardId": 4303,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 100
+            }
+        ]
     },
     {
         "Level": 4,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\n\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0001\u0000\u0000�\u0007\u0000d\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����\u0004\u0000\u0000\u0000����\u0003\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u00004\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0001\u0000\u0000����\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_2_QualityDescription\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_4_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 100,
+        "LevelUpCondition": 502001,
+        "TempCatchGain": 400,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_4_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_2_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 400
+            },
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 10,
+        "RewardId": 4304,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 100
+            }
+        ]
     },
     {
         "Level": 5,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\n\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0001\u0000\u0000�\u0007\u0000x\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000(\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����\u0004\u0000\u0000\u0000����\u001e\u0000\u0000\u0000\u0003\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000F\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u00004\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0001\u0000\u0000����\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_3_QualityDescription\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_5_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 120,
+        "LevelUpCondition": 502001,
+        "TempCatchGain": 400,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_5_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_3_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 500
+            },
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 10,
+        "RewardId": 4305,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 30
+            },
+            {
+                "key": 2,
+                "value": 70
+            }
+        ]
     },
     {
         "Level": 6,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\n\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0001\u0000\u0000�\u0007\u0000�\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000(\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����\u0004\u0000\u0000\u0000����2\u0000\u0000\u0000\u0003\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u00004\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000X\u0002\u0000\u0000����\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_3_QualityDescription\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_6_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 140,
+        "LevelUpCondition": 502001,
+        "TempCatchGain": 400,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_6_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_3_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 600
+            },
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 10,
+        "RewardId": 4306,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 50
+            },
+            {
+                "key": 2,
+                "value": 50
+            }
+        ]
     },
     {
         "Level": 7,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\n\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0001\u0000\u0000�\u0007\u0000�\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000(\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����\u0004\u0000\u0000\u0000����P\u0000\u0000\u0000\u0003\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u00004\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0002\u0000\u0000����\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_3_QualityDescription\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_7_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 160,
+        "LevelUpCondition": 502003,
+        "TempCatchGain": 400,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_7_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_3_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 700
+            },
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 10,
+        "RewardId": 4307,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 80
+            },
+            {
+                "key": 2,
+                "value": 20
+            }
+        ]
     },
     {
         "Level": 8,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\n\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0001\u0000\u0000�\u0007\u0000�\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000$\u0000\u0000\u0000,\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����\u001e\u0000\u0000\u0000\u0004\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000F\u0000\u0000\u0000\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u00004\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000 \u0003\u0000\u0000����\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_4_QualityDescription\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_8_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 160,
+        "LevelUpCondition": 502003,
+        "TempCatchGain": 400,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_8_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_4_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 800
+            },
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 10,
+        "RewardId": 4308,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 30
+            },
+            {
+                "key": 3,
+                "value": 70
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 9,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0001\u0000\u0000�\u0007\u0000�\u0000\u0000\u0000\t\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000$\u0000\u0000\u0000,\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����\u001e\u0000\u0000\u0000\u0004\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000F\u0000\u0000\u0000\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u00004\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000����\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_4_QualityDescription\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_9_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 180,
+        "LevelUpCondition": 502003,
+        "TempCatchGain": 400,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_9_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_4_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 900
+            },
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 12,
+        "RewardId": 4309,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 30
+            },
+            {
+                "key": 3,
+                "value": 70
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 10,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0001\u0000\u0000�\u0007\u0000�\u0000\u0000\u0000\n\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000$\u0000\u0000\u0000,\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����\u001e\u0000\u0000\u0000\u0004\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000F\u0000\u0000\u0000\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u00004\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000����\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_4_QualityDescription\u0000\u0000#\u0000\u0000\u0000CalabashLevel_10_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 180,
+        "LevelUpCondition": 502003,
+        "TempCatchGain": 400,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_10_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_4_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 1000
+            },
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 12,
+        "RewardId": 4310,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 30
+            },
+            {
+                "key": 3,
+                "value": 70
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 11,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000�\u0001\u0000\u0000�\u0007\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000$\u0000\u0000\u0000,\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����2\u0000\u0000\u0000\u0004\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00002\u0000\u0000\u0000\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u00004\u0000\u0000\u0000@\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\b\u0000\u000e\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_4_QualityDescription\u0000\u0000#\u0000\u0000\u0000CalabashLevel_11_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 180,
+        "LevelUpCondition": 502003,
+        "TempCatchGain": 400,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_11_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_4_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 1000
+            },
+            {
+                "key": 1,
+                "value": 50
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 12,
+        "RewardId": 4311,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 50
+            },
+            {
+                "key": 3,
+                "value": 50
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 12,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000�\u0001\u0000\u0000�\u0007\u0000�\u0000\u0000\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000$\u0000\u0000\u0000,\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����2\u0000\u0000\u0000\u0004\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00002\u0000\u0000\u0000\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u00004\u0000\u0000\u0000@\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\b\u0000\u000e\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_4_QualityDescription\u0000\u0000#\u0000\u0000\u0000CalabashLevel_12_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 180,
+        "LevelUpCondition": 502003,
+        "TempCatchGain": 500,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_12_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_4_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 1000
+            },
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 12,
+        "RewardId": 4312,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 50
+            },
+            {
+                "key": 3,
+                "value": 50
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 13,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000�\u0001\u0000\u0000�\u0007\u0000�\u0000\u0000\u0000\r\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000$\u0000\u0000\u0000,\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����K\u0000\u0000\u0000\u0004\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u00004\u0000\u0000\u0000@\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\b\u0000\u000e\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_4_QualityDescription\u0000\u0000#\u0000\u0000\u0000CalabashLevel_13_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 180,
+        "LevelUpCondition": 502003,
+        "TempCatchGain": 500,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_13_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_4_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 1000
+            },
+            {
+                "key": 1,
+                "value": 150
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 12,
+        "RewardId": 4313,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 75
+            },
+            {
+                "key": 3,
+                "value": 25
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 14,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000X\u0002\u0000\u0000��\u0007\u0000�\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000$\u0000\u0000\u0000,\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����K\u0000\u0000\u0000\u0004\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u00004\u0000\u0000\u0000@\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\b\u0000\u000e\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_4_QualityDescription\u0000\u0000#\u0000\u0000\u0000CalabashLevel_14_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 200,
+        "LevelUpCondition": 502004,
+        "TempCatchGain": 600,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_14_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_4_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 1000
+            },
+            {
+                "key": 1,
+                "value": 200
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 12,
+        "RewardId": 4314,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 75
+            },
+            {
+                "key": 3,
+                "value": 25
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 15,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000X\u0002\u0000\u0000��\u0007\u0000�\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000����\u001e\u0000\u0000\u0000\u0005\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000F\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u00004\u0000\u0000\u0000@\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\b\u0000\u000e\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_5_QualityDescription\u0000\u0000#\u0000\u0000\u0000CalabashLevel_15_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 200,
+        "LevelUpCondition": 502004,
+        "TempCatchGain": 600,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_15_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_5_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 1000
+            },
+            {
+                "key": 1,
+                "value": 250
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 12,
+        "RewardId": 4315,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 30
+            },
+            {
+                "key": 4,
+                "value": 70
+            },
+            {
+                "key": 3,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 16,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000 \u0003\u0000\u0000��\u0007\u0000�\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000����\u001e\u0000\u0000\u0000\u0005\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000F\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u00004\u0000\u0000\u0000@\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\b\u0000\u000e\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000,\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_5_QualityDescription\u0000\u0000#\u0000\u0000\u0000CalabashLevel_16_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 200,
+        "LevelUpCondition": 502004,
+        "TempCatchGain": 800,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_16_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_5_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 1000
+            },
+            {
+                "key": 1,
+                "value": 300
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 12,
+        "RewardId": 4316,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 30
+            },
+            {
+                "key": 4,
+                "value": 70
+            },
+            {
+                "key": 3,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 17,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000 \u0003\u0000\u0000��\u0007\u0000�\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000����2\u0000\u0000\u0000\u0005\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00002\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u00004\u0000\u0000\u0000@\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\b\u0000\u000e\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000^\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_5_QualityDescription\u0000\u0000#\u0000\u0000\u0000CalabashLevel_17_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 200,
+        "LevelUpCondition": 502004,
+        "TempCatchGain": 800,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_17_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_5_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 1000
+            },
+            {
+                "key": 1,
+                "value": 350
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 12,
+        "RewardId": 4317,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 50
+            },
+            {
+                "key": 4,
+                "value": 50
+            },
+            {
+                "key": 3,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 18,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000�\u0003\u0000\u0000��\u0007\u0000�\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000����2\u0000\u0000\u0000\u0005\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u00002\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u00004\u0000\u0000\u0000@\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\b\u0000\u000e\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_5_QualityDescription\u0000\u0000#\u0000\u0000\u0000CalabashLevel_18_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 220,
+        "LevelUpCondition": 502005,
+        "TempCatchGain": 900,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_18_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_5_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 1000
+            },
+            {
+                "key": 1,
+                "value": 400
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 12,
+        "RewardId": 4318,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 50
+            },
+            {
+                "key": 4,
+                "value": 50
+            },
+            {
+                "key": 3,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 19,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000�\u0003\u0000\u0000��\u0007\u0000�\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000����P\u0000\u0000\u0000\u0005\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u00004\u0000\u0000\u0000@\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\b\u0000\u000e\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_5_QualityDescription\u0000\u0000#\u0000\u0000\u0000CalabashLevel_19_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 250,
+        "LevelUpCondition": 502005,
+        "TempCatchGain": 900,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_19_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_5_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 1000
+            },
+            {
+                "key": 1,
+                "value": 450
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 12,
+        "RewardId": 4319,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 80
+            },
+            {
+                "key": 4,
+                "value": 20
+            },
+            {
+                "key": 3,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 20,
-        "BinData": " \u0000\u0000\u0000\u001c\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000,\u0000\u0000\u0000�\u0010\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000�\u0003\u0000\u0000��\u0007\u0000��\u0000\u0014\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000����P\u0000\u0000\u0000\u0005\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\u0003\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u00004\u0000\u0000\u0000@\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\b\u0000\u000e\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_5_QualityDescription\u0000\u0000#\u0000\u0000\u0000CalabashLevel_20_LevelUpDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 9999999,
+        "LevelUpCondition": 502005,
+        "TempCatchGain": 1000,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "CalabashLevel_20_LevelUpDescription",
+        "QualityDescription": "CalabashLevel_5_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 1000
+            },
+            {
+                "key": 1,
+                "value": 500
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 12,
+        "RewardId": 4320,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 80
+            },
+            {
+                "key": 4,
+                "value": 20
+            },
+            {
+                "key": 3,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
     },
     {
         "Level": 0,
-        "BinData": " \u0000\u0000\u0000\u001c\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0007\u0000\u001e\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u0000����\u0005\u0000\u0000\u0000����\u0004\u0000\u0000\u0000����\u0003\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u00004\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000����\u0001\u0000\u0000\u0000\u0000\u0000\u0006\u0000\n\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000\"\u0000\u0000\u0000CalabashLevel_2_QualityDescription\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "LevelUpExp": 30,
+        "LevelUpCondition": 502001,
+        "TempCatchGain": 200,
+        "BuffIds": [],
+        "BuffDescription": "",
+        "LevelUpDescription": "",
+        "QualityDescription": "CalabashLevel_2_QualityDescription",
+        "BuffDescriptionMap": [
+            {
+                "key": 0,
+                "value": 100
+            },
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            }
+        ],
+        "Cost": 8,
+        "RewardId": 0,
+        "QualityDropWeight": [
+            {
+                "key": 5,
+                "value": 0
+            },
+            {
+                "key": 4,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 100
+            }
+        ]
     }
 ]

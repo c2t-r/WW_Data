@@ -1,50 +1,86 @@
 [
     {
         "Id": 1,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0003\u0000\u00002\u0000\u0000\u0000`\u0000\u0000\u0000\u0001\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve\u0000\u0000\u0000\u0006\u0000\u0000\u0000800012\u0000\u0000"
+        "HandBookCameraId": "800012",
+        "MoveForwardDistance": 50,
+        "MoveForwardDuration": 1000,
+        "MoveForwardCurvePath": "/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve"
     },
     {
         "Id": 2,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0003\u0000\u0000F\u0000\u0000\u0000`\u0000\u0000\u0000\u0002\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve\u0000\u0000\u0000\u0006\u0000\u0000\u0000800022\u0000\u0000"
+        "HandBookCameraId": "800022",
+        "MoveForwardDistance": 70,
+        "MoveForwardDuration": 1000,
+        "MoveForwardCurvePath": "/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve"
     },
     {
         "Id": 3,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0003\u0000\u00002\u0000\u0000\u0000`\u0000\u0000\u0000\u0003\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve\u0000\u0000\u0000\u0006\u0000\u0000\u0000800023\u0000\u0000"
+        "HandBookCameraId": "800023",
+        "MoveForwardDistance": 50,
+        "MoveForwardDuration": 1000,
+        "MoveForwardCurvePath": "/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve"
     },
     {
         "Id": 4,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0003\u0000\u0000F\u0000\u0000\u0000`\u0000\u0000\u0000\u0004\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve\u0000\u0000\u0000\u0006\u0000\u0000\u0000800024\u0000\u0000"
+        "HandBookCameraId": "800024",
+        "MoveForwardDistance": 70,
+        "MoveForwardDuration": 1000,
+        "MoveForwardCurvePath": "/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve"
     },
     {
         "Id": 5,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0003\u0000\u0000d\u0000\u0000\u0000`\u0000\u0000\u0000\u0005\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve\u0000\u0000\u0000\u0006\u0000\u0000\u0000800032\u0000\u0000"
+        "HandBookCameraId": "800032",
+        "MoveForwardDistance": 100,
+        "MoveForwardDuration": 1000,
+        "MoveForwardCurvePath": "/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve"
     },
     {
         "Id": 6,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0003\u0000\u0000Z\u0000\u0000\u0000`\u0000\u0000\u0000\u0006\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve\u0000\u0000\u0000\u0006\u0000\u0000\u0000800021\u0000\u0000"
+        "HandBookCameraId": "800021",
+        "MoveForwardDistance": 90,
+        "MoveForwardDuration": 1000,
+        "MoveForwardCurvePath": "/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve"
     },
     {
         "Id": 7,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0003\u0000\u0000,\u0001\u0000\u0000`\u0000\u0000\u0000\u0007\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve\u0000\u0000\u0000\u0006\u0000\u0000\u0000800041\u0000\u0000"
+        "HandBookCameraId": "800041",
+        "MoveForwardDistance": 300,
+        "MoveForwardDuration": 1000,
+        "MoveForwardCurvePath": "/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve"
     },
     {
         "Id": 8,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0003\u0000\u0000�\u0000\u0000\u0000`\u0000\u0000\u0000\b\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve\u0000\u0000\u0000\u0006\u0000\u0000\u0000800042\u0000\u0000"
+        "HandBookCameraId": "800042",
+        "MoveForwardDistance": 180,
+        "MoveForwardDuration": 1000,
+        "MoveForwardCurvePath": "/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve"
     },
     {
         "Id": 9,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0003\u0000\u0000�\u0000\u0000\u0000`\u0000\u0000\u0000\t\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve\u0000\u0000\u0000\u0006\u0000\u0000\u0000800043\u0000\u0000"
+        "HandBookCameraId": "800043",
+        "MoveForwardDistance": 160,
+        "MoveForwardDuration": 1000,
+        "MoveForwardCurvePath": "/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve"
     },
     {
         "Id": 10,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0003\u0000\u0000F\u0000\u0000\u0000`\u0000\u0000\u0000\n\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve\u0000\u0000\u0000\u0006\u0000\u0000\u0000800033\u0000\u0000"
+        "HandBookCameraId": "800033",
+        "MoveForwardDistance": 70,
+        "MoveForwardDuration": 1000,
+        "MoveForwardCurvePath": "/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve"
     },
     {
         "Id": 11,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0003\u0000\u0000�\u0001\u0000\u0000`\u0000\u0000\u0000\u000b\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve\u0000\u0000\u0000\u0006\u0000\u0000\u0000800044\u0000\u0000"
+        "HandBookCameraId": "800044",
+        "MoveForwardDistance": 430,
+        "MoveForwardDuration": 1000,
+        "MoveForwardCurvePath": "/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve"
     },
     {
         "Id": 12,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000�\u0003\u0000\u0000,\u0001\u0000\u0000`\u0000\u0000\u0000\f\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve\u0000\u0000\u0000\u0006\u0000\u0000\u0000800045\u0000\u0000"
+        "HandBookCameraId": "800045",
+        "MoveForwardDistance": 300,
+        "MoveForwardDuration": 1000,
+        "MoveForwardCurvePath": "/Game/Aki/Data/UiRoleCamera/Curve/MonsterMoveForwardCurve.MonsterMoveForwardCurve"
     }
 ]

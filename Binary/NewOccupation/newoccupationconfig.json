@@ -1,246 +1,368 @@
 [
     {
         "Id": "anke",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001a\u0000\u0000\u0000OccupationConfig_anke_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0004\u0000\u0000\u0000anke\u0000\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_anke_Name"
     },
     {
         "Id": "yangyang",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001e\u0000\u0000\u0000OccupationConfig_yangyang_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\b\u0000\u0000\u0000yangyang\u0000\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_yangyang_Name"
     },
     {
         "Id": "chenpi",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_chenpi_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000chenpi\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_chenpi_Name"
     },
     {
         "Id": "ganxue",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_ganxue_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000ganxue\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_ganxue_Name"
     },
     {
         "Id": "mahe",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001a\u0000\u0000\u0000OccupationConfig_mahe_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0004\u0000\u0000\u0000mahe\u0000\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_mahe_Name"
     },
     {
         "Id": "yuzan",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001b\u0000\u0000\u0000OccupationConfig_yuzan_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0005\u0000\u0000\u0000yuzan\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_yuzan_Name"
     },
     {
         "Id": "zhuyi",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001b\u0000\u0000\u0000OccupationConfig_zhuyi_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0005\u0000\u0000\u0000zhuyi\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_zhuyi_Name"
     },
     {
         "Id": "yixin",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001b\u0000\u0000\u0000OccupationConfig_yixin_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0005\u0000\u0000\u0000yixin\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_yixin_Name"
     },
     {
         "Id": "xuxu",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001a\u0000\u0000\u0000OccupationConfig_xuxu_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0004\u0000\u0000\u0000xuxu\u0000\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_xuxu_Name"
     },
     {
         "Id": "qingru",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_qingru_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000qingru\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_qingru_Name"
     },
     {
         "Id": "pinwen",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_pinwen_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000pinwen\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_pinwen_Name"
     },
     {
         "Id": "langsheng",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001f\u0000\u0000\u0000OccupationConfig_langsheng_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\t\u0000\u0000\u0000langsheng\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_langsheng_Name"
     },
     {
         "Id": "ashui",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001b\u0000\u0000\u0000OccupationConfig_ashui_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0005\u0000\u0000\u0000ashui\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_ashui_Name"
     },
     {
         "Id": "lizhu",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001b\u0000\u0000\u0000OccupationConfig_lizhu_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0005\u0000\u0000\u0000lizhu\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_lizhu_Name"
     },
     {
         "Id": "feifei",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_feifei_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000feifei\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_feifei_Name"
     },
     {
         "Id": "jiyan",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001b\u0000\u0000\u0000OccupationConfig_jiyan_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0005\u0000\u0000\u0000jiyan\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_jiyan_Name"
     },
     {
         "Id": "chixia",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_chixia_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000chixia\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_chixia_Name"
     },
     {
         "Id": "bailian",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001d\u0000\u0000\u0000OccupationConfig_bailian_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0007\u0000\u0000\u0000bailian\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_bailian_Name"
     },
     {
         "Id": "taoqi",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001b\u0000\u0000\u0000OccupationConfig_taoqi_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0005\u0000\u0000\u0000taoqi\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_taoqi_Name"
     },
     {
         "Id": "lingyang",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001e\u0000\u0000\u0000OccupationConfig_lingyang_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\b\u0000\u0000\u0000lingyang\u0000\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_lingyang_Name"
     },
     {
         "Id": "danjin",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_danjin_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000danjin\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_danjin_Name"
     },
     {
         "Id": "yinlin",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_yinlin_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000yinlin\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_yinlin_Name"
     },
     {
         "Id": "kakaluo",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001d\u0000\u0000\u0000OccupationConfig_kakaluo_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0007\u0000\u0000\u0000kakaluo\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_kakaluo_Name"
     },
     {
         "Id": "sanhua",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_sanhua_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000sanhua\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_sanhua_Name"
     },
     {
         "Id": "jinxi",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001b\u0000\u0000\u0000OccupationConfig_jinxi_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0005\u0000\u0000\u0000jinxi\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_jinxi_Name"
     },
     {
         "Id": "qiushui",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001d\u0000\u0000\u0000OccupationConfig_qiushui_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0007\u0000\u0000\u0000qiushui\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_qiushui_Name"
     },
     {
         "Id": "motefei",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001d\u0000\u0000\u0000OccupationConfig_motefei_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0007\u0000\u0000\u0000motefei\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_motefei_Name"
     },
     {
         "Id": "yuanwu",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_yuanwu_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000yuanwu\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_yuanwu_Name"
     },
     {
         "Id": "jueyuan",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001d\u0000\u0000\u0000OccupationConfig_jueyuan_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0007\u0000\u0000\u0000jueyuan\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_jueyuan_Name"
     },
     {
         "Id": "shuncai",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001d\u0000\u0000\u0000OccupationConfig_shuncai_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0007\u0000\u0000\u0000shuncai\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_shuncai_Name"
     },
     {
         "Id": "guhong",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_guhong_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000guhong\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_guhong_Name"
     },
     {
         "Id": "juepopo",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001d\u0000\u0000\u0000OccupationConfig_juepopo_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0007\u0000\u0000\u0000juepopo\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_juepopo_Name"
     },
     {
         "Id": "sixi",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001a\u0000\u0000\u0000OccupationConfig_sixi_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0004\u0000\u0000\u0000sixi\u0000\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_sixi_Name"
     },
     {
         "Id": "xiaojiu",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001d\u0000\u0000\u0000OccupationConfig_xiaojiu_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0007\u0000\u0000\u0000xiaojiu\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_xiaojiu_Name"
     },
     {
         "Id": "guanghui",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001e\u0000\u0000\u0000OccupationConfig_guanghui_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\b\u0000\u0000\u0000guanghui\u0000\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_guanghui_Name"
     },
     {
         "Id": "yunbo",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001b\u0000\u0000\u0000OccupationConfig_yunbo_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0005\u0000\u0000\u0000yunbo\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_yunbo_Name"
     },
     {
         "Id": "yanyan",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_yanyan_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000yanyan\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_yanyan_Name"
     },
     {
         "Id": "npc_test",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001e\u0000\u0000\u0000OccupationConfig_npc_test_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\b\u0000\u0000\u0000npc_test\u0000\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_npc_test_Name"
     },
     {
         "Id": "npc_test2",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001f\u0000\u0000\u0000OccupationConfig_npc_test2_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\t\u0000\u0000\u0000npc_test2\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_npc_test2_Name"
     },
     {
         "Id": "yihu",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001a\u0000\u0000\u0000OccupationConfig_yihu_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0004\u0000\u0000\u0000yihu\u0000\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_yihu_Name"
     },
     {
         "Id": "panhua",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_panhua_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000panhua\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_panhua_Name"
     },
     {
         "Id": "xieyang",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001d\u0000\u0000\u0000OccupationConfig_xieyang_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0007\u0000\u0000\u0000xieyang\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_xieyang_Name"
     },
     {
         "Id": "mingming",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001e\u0000\u0000\u0000OccupationConfig_mingming_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\b\u0000\u0000\u0000mingming\u0000\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_mingming_Name"
     },
     {
         "Id": "doudou",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001c\u0000\u0000\u0000OccupationConfig_doudou_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0006\u0000\u0000\u0000doudou\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_doudou_Name"
     },
     {
         "Id": "fuyan",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001b\u0000\u0000\u0000OccupationConfig_fuyan_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0005\u0000\u0000\u0000fuyan\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_fuyan_Name"
     },
     {
         "Id": "linsu",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u0000\u001b\u0000\u0000\u0000OccupationConfig_linsu_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0005\u0000\u0000\u0000linsu\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_linsu_Name"
     },
     {
         "Id": "wyq_test",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000\u001e\u0000\u0000\u0000OccupationConfig_wyq_test_Name\u0000\u0000D\u0000\u0000\u0000{\"LevelPlayIds\":[30000015],\"AssociatedEntities\":[30000219,30000217]}\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000SilentArea\u0000\u0000\b\u0000\u0000\u0000wyq_test\u0000\u0000\u0000\u0000"
+        "OccupationType": "SilentArea",
+        "OccupationData": "{\"LevelPlayIds\":[30000015],\"AssociatedEntities\":[30000219,30000217]}",
+        "OccupationNameStringKey": "OccupationConfig_wyq_test_Name"
     },
     {
         "Id": "wyq_npc_test",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000!\u0000\u0000\u0000OccupationConfig_wyq_npc_test_Nam\u0000\u0000\u0000M\u0000\u0000\u0000{\"LevelPlayIds\":[30000015],\"AssociatedEntities\":[30000219,30000217,30000223]}\u0000\u0000\u0000\n\u0000\u0000\u0000SilentArea\u0000\u0000\f\u0000\u0000\u0000wyq_npc_test\u0000\u0000\u0000\u0000"
+        "OccupationType": "SilentArea",
+        "OccupationData": "{\"LevelPlayIds\":[30000015],\"AssociatedEntities\":[30000219,30000217,30000223]}",
+        "OccupationNameStringKey": "OccupationConfig_wyq_npc_test_Nam"
     },
     {
         "Id": "主线无冠者无音区占用",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000D\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u00003\u0000\u0000\u0000OccupationConfig_主线无冠者无音区占用_Nam\u0000G\u0000\u0000\u0000{\"LevelPlayIds\":[110000000],\"AssociatedEntities\":[110000595,110001071]}\u0000\n\u0000\u0000\u0000SilentArea\u0000\u0000\u001e\u0000\u0000\u0000主线无冠者无音区占用\u0000\u0000"
+        "OccupationType": "SilentArea",
+        "OccupationData": "{\"LevelPlayIds\":[110000000],\"AssociatedEntities\":[110000595,110001071]}",
+        "OccupationNameStringKey": "OccupationConfig_主线无冠者无音区占用_Nam"
     },
     {
         "Id": "乌龟无音区占用",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000<\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000*\u0000\u0000\u0000OccupationConfig_乌龟无音区占用_Nam\u0000\u00004\u0000\u0000\u0000{\"LevelPlayIds\":[110000001],\"AssociatedEntities\":[]}\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000SilentArea\u0000\u0000\u0015\u0000\u0000\u0000乌龟无音区占用\u0000\u0000\u0000"
+        "OccupationType": "SilentArea",
+        "OccupationData": "{\"LevelPlayIds\":[110000001],\"AssociatedEntities\":[]}",
+        "OccupationNameStringKey": "OccupationConfig_乌龟无音区占用_Nam"
     },
     {
         "Id": "燎照之骑无音区占用",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000D\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u00000\u0000\u0000\u0000OccupationConfig_燎照之骑无音区占用_Nam\u0000\u0000\u0000\u00004\u0000\u0000\u0000{\"LevelPlayIds\":[110000050],\"AssociatedEntities\":[]}\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000SilentArea\u0000\u0000\u001b\u0000\u0000\u0000燎照之骑无音区占用\u0000"
+        "OccupationType": "SilentArea",
+        "OccupationData": "{\"LevelPlayIds\":[110000050],\"AssociatedEntities\":[]}",
+        "OccupationNameStringKey": "OccupationConfig_燎照之骑无音区占用_Nam"
     },
     {
         "Id": "沃艾珥领主占用",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000<\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000*\u0000\u0000\u0000OccupationConfig_沃艾珥领主占用_Nam\u0000\u00004\u0000\u0000\u0000{\"LevelPlayIds\":[118000128],\"AssociatedEntities\":[]}\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000SilentArea\u0000\u0000\u0015\u0000\u0000\u0000沃艾珥领主占用\u0000\u0000\u0000"
+        "OccupationType": "SilentArea",
+        "OccupationData": "{\"LevelPlayIds\":[118000128],\"AssociatedEntities\":[]}",
+        "OccupationNameStringKey": "OccupationConfig_沃艾珥领主占用_Nam"
     },
     {
         "Id": "辉莹军势占用",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000'\u0000\u0000\u0000OccupationConfig_辉莹军势占用_Nam\u0000G\u0000\u0000\u0000{\"LevelPlayIds\":[110000046],\"AssociatedEntities\":[146000109,129000008]}\u0000\n\u0000\u0000\u0000SilentArea\u0000\u0000\u0012\u0000\u0000\u0000辉莹军势占用\u0000\u0000"
+        "OccupationType": "SilentArea",
+        "OccupationData": "{\"LevelPlayIds\":[110000046],\"AssociatedEntities\":[146000109,129000008]}",
+        "OccupationNameStringKey": "OccupationConfig_辉莹军势占用_Nam"
     },
     {
         "Id": "鳞人无音区占用",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000*\u0000\u0000\u0000OccupationConfig_鳞人无音区占用_Nam\u0000\u0000Q\u0000\u0000\u0000{\"LevelPlayIds\":[110000002],\"AssociatedEntities\":[110001073,129000002,110000092]}\u0000\u0000\u0000\n\u0000\u0000\u0000SilentArea\u0000\u0000\u0015\u0000\u0000\u0000鳞人无音区占用\u0000\u0000\u0000"
+        "OccupationType": "SilentArea",
+        "OccupationData": "{\"LevelPlayIds\":[110000002],\"AssociatedEntities\":[110001073,129000002,110000092]}",
+        "OccupationNameStringKey": "OccupationConfig_鳞人无音区占用_Nam"
     },
     {
         "Id": "wyq_test2",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u001f\u0000\u0000\u0000OccupationConfig_wyq_test2_Name\u0000M\u0000\u0000\u0000{\"LevelPlayIds\":[34000038],\"AssociatedEntities\":[34000885,34000883,34000886]}\u0000\u0000\u0000\n\u0000\u0000\u0000SilentArea\u0000\u0000\t\u0000\u0000\u0000wyq_test2\u0000\u0000\u0000"
+        "OccupationType": "SilentArea",
+        "OccupationData": "{\"LevelPlayIds\":[34000038],\"AssociatedEntities\":[34000885,34000883,34000886]}",
+        "OccupationNameStringKey": "OccupationConfig_wyq_test2_Name"
     },
     {
         "Id": "祈池村无音区",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000'\u0000\u0000\u0000OccupationConfig_祈池村无音区_Nam\u0000G\u0000\u0000\u0000{\"LevelPlayIds\":[200000023],\"AssociatedEntities\":[200000001,200000187]}\u0000\n\u0000\u0000\u0000SilentArea\u0000\u0000\u0012\u0000\u0000\u0000祈池村无音区\u0000\u0000"
+        "OccupationType": "SilentArea",
+        "OccupationData": "{\"LevelPlayIds\":[200000023],\"AssociatedEntities\":[200000001,200000187]}",
+        "OccupationNameStringKey": "OccupationConfig_祈池村无音区_Nam"
     },
     {
         "Id": "地下鳞人刷新",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000'\u0000\u0000\u0000OccupationConfig_地下鳞人刷新_Nam\u0000Q\u0000\u0000\u0000{\"LevelPlayIds\":[133000002],\"AssociatedEntities\":[133000087,133000089,133000090]}\u0000\u0000\u0000\n\u0000\u0000\u0000SilentArea\u0000\u0000\u0012\u0000\u0000\u0000地下鳞人刷新\u0000\u0000"
+        "OccupationType": "SilentArea",
+        "OccupationData": "{\"LevelPlayIds\":[133000002],\"AssociatedEntities\":[133000087,133000089,133000090]}",
+        "OccupationNameStringKey": "OccupationConfig_地下鳞人刷新_Nam"
     },
     {
         "Id": "shilang",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001d\u0000\u0000\u0000OccupationConfig_shilang_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\u0007\u0000\u0000\u0000shilang\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_shilang_Name"
     },
     {
         "Id": "screenResource",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000(\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000ScreenResource\u0000\u0000\u000e\u0000\u0000\u0000screenResource\u0000\u0000"
+        "OccupationType": "ScreenResource",
+        "OccupationData": "",
+        "OccupationNameStringKey": ""
     },
     {
         "Id": "timeOccupation",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000Time\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000timeOccupation\u0000\u0000"
+        "OccupationType": "Time",
+        "OccupationData": "",
+        "OccupationNameStringKey": ""
     },
     {
         "Id": "漂泊者",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00000\u0000\u0000\u00004\u0000\u0000\u00008\u0000\u0000\u0000\u001f\u0000\u0000\u0000OccupationConfig_漂泊者_Name\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000Npc\u0000\t\u0000\u0000\u0000漂泊者\u0000\u0000\u0000"
+        "OccupationType": "Npc",
+        "OccupationData": "",
+        "OccupationNameStringKey": "OccupationConfig_漂泊者_Name"
     }
 ]

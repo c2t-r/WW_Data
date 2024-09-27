@@ -1,30 +1,58 @@
 [
     {
         "Id": "0",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000@\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001LThigh\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001RThigh\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u00000\u0000\u0000\u0000"
+        "PhysicsAssetPath": "",
+        "BoneNames": [
+            "Bip001LThigh",
+            "Bip001RThigh"
+        ]
     },
     {
         "Id": "FemaleS",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001LThigh\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001RThigh\u0000\u0000\u0000\u0000n\u0000\u0000\u0000/Game/Aki/Character/Role/FemaleS/BasePhysics/R2T1AnkeMd10011_Caughted_Physics.R2T1AnkeMd10011_Caughted_Physics\u0000\u0000\u0007\u0000\u0000\u0000FemaleS\u0000"
+        "PhysicsAssetPath": "/Game/Aki/Character/Role/FemaleS/BasePhysics/R2T1AnkeMd10011_Caughted_Physics.R2T1AnkeMd10011_Caughted_Physics",
+        "BoneNames": [
+            "Bip001LThigh",
+            "Bip001RThigh"
+        ]
     },
     {
         "Id": "FemaleM",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001LThigh\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001RThigh\u0000\u0000\u0000\u0000~\u0000\u0000\u0000/Game/Aki/Character/Role/FemaleM/BasePhysics/R2T1PlayerFemaleMd10011_Caughted_Physics.R2T1PlayerFemaleMd10011_Caughted_Physics\u0000\u0000\u0007\u0000\u0000\u0000FemaleM\u0000"
+        "PhysicsAssetPath": "/Game/Aki/Character/Role/FemaleM/BasePhysics/R2T1PlayerFemaleMd10011_Caughted_Physics.R2T1PlayerFemaleMd10011_Caughted_Physics",
+        "BoneNames": [
+            "Bip001LThigh",
+            "Bip001RThigh"
+        ]
     },
     {
         "Id": "FemaleXL",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001LThigh\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001RThigh\u0000\u0000\u0000\u0000u\u0000\u0000\u0000/Game/Aki/Character/Role/FemaleXL/BasePhysics/R2T1BaiLianMd10011_Caughted_Physics.R2T1BaiLianMd10011_Caughted_Physics\u0000\u0000\u0000\b\u0000\u0000\u0000FemaleXL\u0000\u0000\u0000\u0000"
+        "PhysicsAssetPath": "/Game/Aki/Character/Role/FemaleXL/BasePhysics/R2T1BaiLianMd10011_Caughted_Physics.R2T1BaiLianMd10011_Caughted_Physics",
+        "BoneNames": [
+            "Bip001LThigh",
+            "Bip001RThigh"
+        ]
     },
     {
         "Id": "MaleS",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001LThigh\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001RThigh\u0000\u0000\u0000\u0000t\u0000\u0000\u0000/Game/Aki/Character/Role/MaleS/BasePhysics/R2T1LingyangMd10011_Caughted_Physics.R2T1LingyangMd10011_Caughted_Physics\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000MaleS\u0000\u0000\u0000"
+        "PhysicsAssetPath": "/Game/Aki/Character/Role/MaleS/BasePhysics/R2T1LingyangMd10011_Caughted_Physics.R2T1LingyangMd10011_Caughted_Physics",
+        "BoneNames": [
+            "Bip001LThigh",
+            "Bip001RThigh"
+        ]
     },
     {
         "Id": "Male",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001LThigh\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001RThigh\u0000\u0000\u0000\u0000x\u0000\u0000\u0000/Game/Aki/Character/Role/MaleM/BasePhysics/R2T1PlayerMaleMd10011_Caughted_Physics.R2T1PlayerMaleMd10011_Caughted_Physics\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000Male\u0000\u0000\u0000\u0000"
+        "PhysicsAssetPath": "/Game/Aki/Character/Role/MaleM/BasePhysics/R2T1PlayerMaleMd10011_Caughted_Physics.R2T1PlayerMaleMd10011_Caughted_Physics",
+        "BoneNames": [
+            "Bip001LThigh",
+            "Bip001RThigh"
+        ]
     },
     {
         "Id": "MaleXL",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000�\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001LThigh\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000Bip001RThigh\u0000\u0000\u0000\u0000s\u0000\u0000\u0000/Game/Aki/Character/Role/MaleXL/BasePhysics/R2T1QiushuiMd10011_Caughted_Physics.R2T1QiushuiMd10011_Caughted_Physics\u0000\u0006\u0000\u0000\u0000MaleXL\u0000\u0000"
+        "PhysicsAssetPath": "/Game/Aki/Character/Role/MaleXL/BasePhysics/R2T1QiushuiMd10011_Caughted_Physics.R2T1QiushuiMd10011_Caughted_Physics",
+        "BoneNames": [
+            "Bip001LThigh",
+            "Bip001RThigh"
+        ]
     }
 ]

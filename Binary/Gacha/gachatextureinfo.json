@@ -1,286 +1,641 @@
 [
     {
         "Id": 1203,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000c�\u0001\u0000\u0014\u0000\u0000\u0000�\u0004\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0004\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000T\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_anke_UI.T_Luckdraw_anke_UI\u0000\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_anke_UI.T_Luckdraw_anke_UI",
+        "ShowSequence": 1203,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100707
     },
     {
         "Id": 1503,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000_�\u0001\u0000\u0014\u0000\u0000\u0000�\u0005\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000�\u0005\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_jueyuan_UI.T_Luckdraw_jueyuan_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_jueyuan_UI.T_Luckdraw_jueyuan_UI",
+        "ShowSequence": 1503,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100703
     },
     {
         "Id": 1103,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000b�\u0001\u0000\u0014\u0000\u0000\u0000O\u0004\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000O\u0004\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_bailian_UI.T_Luckdraw_bailian_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_bailian_UI.T_Luckdraw_bailian_UI",
+        "ShowSequence": 1103,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100706
     },
     {
         "Id": 1602,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000d�\u0001\u0000\u0014\u0000\u0000\u0000B\u0006\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000B\u0006\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_danjin_UI.T_Luckdraw_danjin_UI\u0000\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_danjin_UI.T_Luckdraw_danjin_UI",
+        "ShowSequence": 1602,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100708
     },
     {
         "Id": 1202,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000^�\u0001\u0000\u0014\u0000\u0000\u0000�\u0004\u0000\u0000\u001c\u0000\u0000\u0000�\u0000\u0000\u0000�\u0004\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000`\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_maxiaofang_UI.T_Luckdraw_maxiaofang_UI\u0000\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_maxiaofang_UI.T_Luckdraw_maxiaofang_UI",
+        "ShowSequence": 1202,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100702
     },
     {
         "Id": 1102,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000`�\u0001\u0000\u0014\u0000\u0000\u0000N\u0004\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000N\u0004\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_sanhua_UI.T_Luckdraw_sanhua_UI\u0000\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_sanhua_UI.T_Luckdraw_sanhua_UI",
+        "ShowSequence": 1102,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100704
     },
     {
         "Id": 1601,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000a�\u0001\u0000\u0014\u0000\u0000\u0000A\u0006\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000A\u0006\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_taohua_UI.T_Luckdraw_taohua_UI\u0000\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_taohua_UI.T_Luckdraw_taohua_UI",
+        "ShowSequence": 1601,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100705
     },
     {
         "Id": 1402,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000]�\u0001\u0000\u0014\u0000\u0000\u0000z\u0005\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000z\u0005\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_yanyan_UI.T_Luckdraw_yanyan_UI\u0000\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_yanyan_UI.T_Luckdraw_yanyan_UI",
+        "ShowSequence": 1402,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100701
     },
     {
         "Id": 21010015,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000�\u001eB\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000_�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010015_UI.T_Luckdraw21010015_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010015_UI.T_Luckdraw21010015_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21110501
     },
     {
         "Id": 21020015,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000��C\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000o�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020015_UI.T_Luckdraw21020015_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020015_UI.T_Luckdraw21020015_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21210501
     },
     {
         "Id": 21030015,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000%,E\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030015_UI.T_Luckdraw21030015_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030015_UI.T_Luckdraw21030015_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21310501
     },
     {
         "Id": 21050015,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000e9H\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�2A\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050015_UI.T_Luckdraw21050015_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050015_UI.T_Luckdraw21050015_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21510501
     },
     {
         "Id": 21010013,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000}�@\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000]�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010013_UI.T_Luckdraw21010013_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010013_UI.T_Luckdraw21010013_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21010301
     },
     {
         "Id": 21020013,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000��@\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000m�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020013_UI.T_Luckdraw21020013_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020013_UI.T_Luckdraw21020013_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21020301
     },
     {
         "Id": 21030013,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000��@\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000}�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030013_UI.T_Luckdraw21030013_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030013_UI.T_Luckdraw21030013_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21030301
     },
     {
         "Id": 21050013,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000�3A\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�2A\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050013_UI.T_Luckdraw21050013_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050013_UI.T_Luckdraw21050013_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21050301
     },
     {
         "Id": 21010024,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000�@\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000h�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010024_UI.T_Luckdraw21010024_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010024_UI.T_Luckdraw21010024_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21010401
     },
     {
         "Id": 21020024,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000�@\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000x�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020024_UI.T_Luckdraw21020024_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020024_UI.T_Luckdraw21020024_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21020401
     },
     {
         "Id": 21030024,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0001�@\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000��@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030024_UI.T_Luckdraw21030024_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030024_UI.T_Luckdraw21030024_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21030401
     },
     {
         "Id": 21050024,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000!4A\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�2A\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050024_UI.T_Luckdraw21050024_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050024_UI.T_Luckdraw21050024_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21050401
     },
     {
         "Id": 1403,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000e�\u0001\u0000\u0014\u0000\u0000\u0000{\u0005\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000{\u0005\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_qiushui_UI.T_Luckdraw_qiushui_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_qiushui_UI.T_Luckdraw_qiushui_UI",
+        "ShowSequence": 1403,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100709
     },
     {
         "Id": 1404,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000f�\u0001\u0000\u0014\u0000\u0000\u0000|\u0005\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000|\u0005\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000V\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_jiyan_UI.T_Luckdraw_jiyan_UI\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Image/T_RoleImgjiyan_UI.T_RoleImgjiyan_UI\u0000\u0000\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/UiLuckdraw/Image/T_RoleImgjiyan_UI.T_RoleImgjiyan_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_jiyan_UI.T_Luckdraw_jiyan_UI",
+        "ShowSequence": 1404,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100710
     },
     {
         "Id": 1204,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000g�\u0001\u0000\u0014\u0000\u0000\u0000�\u0004\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0004\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000T\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_baer_UI.T_Luckdraw_baer_UI\u0000\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_baer_UI.T_Luckdraw_baer_UI",
+        "ShowSequence": 1204,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100711
     },
     {
         "Id": 10001404,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1404_UI.T_IconRup_Part_1404_UI\u0000e\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_11_UI.T_IconRoleHead256_11_UI\u0000\u0000\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_11_UI.T_IconRoleHead256_11_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1404_UI.T_IconRup_Part_1404_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001603,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000Ü�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1603_UI.T_IconRup_Part_1603_UI\u0000e\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_16_UI.T_IconRoleHead256_16_UI\u0000\u0000\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_16_UI.T_IconRoleHead256_16_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1603_UI.T_IconRup_Part_1603_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001402,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1402_UI.T_IconRup_Part_1402_UI\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_1_UI.T_IconRoleHead256_1_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_1_UI.T_IconRoleHead256_1_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1402_UI.T_IconRup_Part_1402_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001202,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u00002��\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1202_UI.T_IconRup_Part_1202_UI\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_2_UI.T_IconRoleHead256_2_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_2_UI.T_IconRoleHead256_2_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1202_UI.T_IconRup_Part_1202_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001102,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000Κ�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1102_UI.T_IconRup_Part_1102_UI\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_7_UI.T_IconRoleHead256_7_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_7_UI.T_IconRoleHead256_7_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1102_UI.T_IconRup_Part_1102_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001601,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1601_UI.T_IconRup_Part_1601_UI\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_9_UI.T_IconRoleHead256_9_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_9_UI.T_IconRoleHead256_9_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1601_UI.T_IconRup_Part_1601_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001103,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000Ϛ�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1103_UI.T_IconRup_Part_1103_UI\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_6_UI.T_IconRoleHead256_6_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_6_UI.T_IconRoleHead256_6_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1103_UI.T_IconRup_Part_1103_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001403,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1403_UI.T_IconRup_Part_1403_UI\u0000e\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_12_UI.T_IconRoleHead256_12_UI\u0000\u0000\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_12_UI.T_IconRoleHead256_12_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1403_UI.T_IconRup_Part_1403_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001204,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u00004��\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1204_UI.T_IconRup_Part_1204_UI\u0000e\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_13_UI.T_IconRoleHead256_13_UI\u0000\u0000\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_13_UI.T_IconRoleHead256_13_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1204_UI.T_IconRup_Part_1204_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 1301,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000i�\u0001\u0000\u0014\u0000\u0000\u0000\u0015\u0005\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000\u0015\u0005\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_kakaluo_UI.T_Luckdraw_kakaluo_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_kakaluo_UI.T_Luckdraw_kakaluo_UI",
+        "ShowSequence": 1301,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100713
     },
     {
         "Id": 1302,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000j�\u0001\u0000\u0014\u0000\u0000\u0000\u0016\u0005\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000\u0016\u0005\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_yinlin_UI.T_Luckdraw_yinlin_UI\u0000\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Image/T_RoleImgyinlin_UI.T_RoleImgyinlin_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/UiLuckdraw/Image/T_RoleImgyinlin_UI.T_RoleImgyinlin_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_yinlin_UI.T_Luckdraw_yinlin_UI",
+        "ShowSequence": 1302,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100714
     },
     {
         "Id": 1303,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000l�\u0001\u0000\u0014\u0000\u0000\u0000\u0017\u0005\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000\u0017\u0005\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000X\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_yuanwu_UI.T_Luckdraw_yuanwu_UI\u0000\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_yuanwu_UI.T_Luckdraw_yuanwu_UI",
+        "ShowSequence": 1303,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100716
     },
     {
         "Id": 21040015,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000ŲF\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�\u000bA\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040015_UI.T_Luckdraw21040015_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040015_UI.T_Luckdraw21040015_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21410501
     },
     {
         "Id": 21040024,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0011\rA\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�\u000bA\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040024_UI.T_Luckdraw21040024_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040024_UI.T_Luckdraw21040024_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21040401
     },
     {
         "Id": 21040013,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000ՎF\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�\u000bA\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040013_UI.T_Luckdraw21040013_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040013_UI.T_Luckdraw21040013_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21401301
     },
     {
         "Id": 21010023,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000��A\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000g�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010023_UI.T_Luckdraw21010023_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010023_UI.T_Luckdraw21010023_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21102301
     },
     {
         "Id": 21020023,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000}�C\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000w�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020023_UI.T_Luckdraw21020023_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020023_UI.T_Luckdraw21020023_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21202301
     },
     {
         "Id": 21050023,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000]\u0019H\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�2A\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050023_UI.T_Luckdraw21050023_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050023_UI.T_Luckdraw21050023_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21502301
     },
     {
         "Id": 10001503,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000_��\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1503_UI.T_IconRup_Part_1503_UI\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_3_UI.T_IconRoleHead256_3_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_3_UI.T_IconRoleHead256_3_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1503_UI.T_IconRup_Part_1503_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001203,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u00003��\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1203_UI.T_IconRup_Part_1203_UI\u0000c\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_8_UI.T_IconRoleHead256_8_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_8_UI.T_IconRoleHead256_8_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1203_UI.T_IconRup_Part_1203_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001602,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1602_UI.T_IconRup_Part_1602_UI\u0000e\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_10_UI.T_IconRoleHead256_10_UI\u0000\u0000\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_10_UI.T_IconRoleHead256_10_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1602_UI.T_IconRup_Part_1602_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001301,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1301_UI.T_IconRup_Part_1301_UI\u0000e\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_18_UI.T_IconRoleHead256_18_UI\u0000\u0000\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_18_UI.T_IconRoleHead256_18_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1301_UI.T_IconRup_Part_1301_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001302,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1302_UI.T_IconRup_Part_1302_UI\u0000e\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_17_UI.T_IconRoleHead256_17_UI\u0000\u0000\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_17_UI.T_IconRoleHead256_17_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1302_UI.T_IconRup_Part_1302_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001104,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000К�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1104_UI.T_IconRup_Part_1104_UI\u0000e\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_14_UI.T_IconRoleHead256_14_UI\u0000\u0000\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_14_UI.T_IconRoleHead256_14_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1104_UI.T_IconRup_Part_1104_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10001303,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1303_UI.T_IconRup_Part_1303_UI\u0000e\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_15_UI.T_IconRoleHead256_15_UI\u0000\u0000\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_15_UI.T_IconRoleHead256_15_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1303_UI.T_IconRup_Part_1303_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 10000001,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000`\u0000\u0000\u0000���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Image/T_RoleImgsixing2_UI.T_RoleImgsixing2_UI\u0000\u0000\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/UiLuckdraw/Image/T_RoleImgsixing2_UI.T_RoleImgsixing2_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 314159,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000`\u0000\u0000\u0000/�\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Image/T_RoleImgsixing1_UI.T_RoleImgsixing1_UI\u0000\u0000\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/UiLuckdraw/Image/T_RoleImgsixing1_UI.T_RoleImgsixing1_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 0
     },
     {
         "Id": 1104,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000k�\u0001\u0000\u0014\u0000\u0000\u0000P\u0004\u0000\u0000\u001c\u0000\u0000\u0000|\u0000\u0000\u0000P\u0004\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000\\\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_lingyang_UI.T_Luckdraw_lingyang_UI\u0000\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_lingyang_UI.T_Luckdraw_lingyang_UI",
+        "ShowSequence": 1104,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100715
     },
     {
         "Id": 1405,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000m�\u0001\u0000\u0014\u0000\u0000\u0000}\u0005\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000}\u0005\u0000\u0000\b\u0000\u0000\u0000RoleCase\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_jianxin_UI.T_Luckdraw_jianxin_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_jianxin_UI.T_Luckdraw_jianxin_UI",
+        "ShowSequence": 1405,
+        "BindPoint": "RoleCase",
+        "IdArray": [],
+        "TrialId": 100717
     },
     {
         "Id": 21030023,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u001d\fE\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000��@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030023_UI.T_Luckdraw21030023_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030023_UI.T_Luckdraw21030023_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21302301
     },
     {
         "Id": 21040023,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000��F\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�\u000bA\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040023_UI.T_Luckdraw21040023_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040023_UI.T_Luckdraw21040023_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21402301
     },
     {
         "Id": 21010043,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000�\u0006B\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000{�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010043_UI.T_Luckdraw21010043_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010043_UI.T_Luckdraw21010043_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21104301
     },
     {
         "Id": 21020043,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000M�C\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000��@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020043_UI.T_Luckdraw21020043_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020043_UI.T_Luckdraw21020043_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21204301
     },
     {
         "Id": 21050043,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000-!H\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�2A\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050043_UI.T_Luckdraw21050043_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050043_UI.T_Luckdraw21050043_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21504301
     },
     {
         "Id": 21010016,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000�\"B\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000`�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010016_UI.T_Luckdraw21010016_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010016_UI.T_Luckdraw21010016_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21111501
     },
     {
         "Id": 21010044,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0011\u0007B\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000|�@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010044_UI.T_Luckdraw21010044_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010044_UI.T_Luckdraw21010044_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21104401
     },
     {
         "Id": 21020044,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000��C\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000��@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020044_UI.T_Luckdraw21020044_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020044_UI.T_Luckdraw21020044_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21204401
     },
     {
         "Id": 21030044,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000Q\u0014E\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000��@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030044_UI.T_Luckdraw21030044_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030044_UI.T_Luckdraw21030044_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21304401
     },
     {
         "Id": 21040044,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000�F\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�\u000bA\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040044_UI.T_Luckdraw21040044_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040044_UI.T_Luckdraw21040044_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21404401
     },
     {
         "Id": 21050044,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000�!H\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�2A\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050044_UI.T_Luckdraw21050044_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050044_UI.T_Luckdraw21050044_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21504401
     },
     {
         "Id": 21010064,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000�\u000eB\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000��@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010064_UI.T_Luckdraw21010064_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010064_UI.T_Luckdraw21010064_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21106401
     },
     {
         "Id": 21020064,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000��C\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000��@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020064_UI.T_Luckdraw21020064_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020064_UI.T_Luckdraw21020064_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21206401
     },
     {
         "Id": 21030064,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000!\u001cE\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000��@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030064_UI.T_Luckdraw21030064_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030064_UI.T_Luckdraw21030064_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21306401
     },
     {
         "Id": 21040064,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000��F\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�\u000bA\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040064_UI.T_Luckdraw21040064_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040064_UI.T_Luckdraw21040064_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21406401
     },
     {
         "Id": 21050064,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000a)H\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�2A\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050064_UI.T_Luckdraw21050064_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050064_UI.T_Luckdraw21050064_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21506401
     },
     {
         "Id": 21030043,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000�\u0013E\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000��@\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030043_UI.T_Luckdraw21030043_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030043_UI.T_Luckdraw21030043_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21304301
     },
     {
         "Id": 21040043,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000��F\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�\u000bA\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040043_UI.T_Luckdraw21040043_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040043_UI.T_Luckdraw21040043_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21404301
     },
     {
         "Id": 21050016,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000�\u0016H\u0001\u0014\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000\u0000\u0000p\u0000\u0000\u0000�2A\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050016_UI.T_Luckdraw21050016_UI\u0000\u0000K\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI\u0000"
+        "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+        "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050016_UI.T_Luckdraw21050016_UI",
+        "ShowSequence": 3,
+        "BindPoint": "",
+        "IdArray": [],
+        "TrialId": 21501601
     }
 ]

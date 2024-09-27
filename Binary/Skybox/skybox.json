@@ -2,11 +2,13 @@
     {
         "Id": 1,
         "Name": "测试数据(不可用)",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000测试数据(不可用)\u0000"
+        "StaticSkybox": "",
+        "DynamicSkybox": ""
     },
     {
         "Id": 2,
         "Name": "中午",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000`\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/Render/DefaultGI/TOD/Common/DA_TOD_12_zhongwu.DA_TOD_12_zhongwu\u0000\u0000\u0000\u0006\u0000\u0000\u0000中午\u0000\u0000"
+        "StaticSkybox": "/Game/Aki/Render/DefaultGI/TOD/Common/DA_TOD_12_zhongwu.DA_TOD_12_zhongwu",
+        "DynamicSkybox": ""
     }
 ]

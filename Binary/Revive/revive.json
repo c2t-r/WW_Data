@@ -1,158 +1,431 @@
 [
     {
         "Id": 1,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u00004\u0000\u0000\u0000L\u0000\u0000\u0000P\u0000\u0000\u0000@P�\u0004����\u0001\u0000\u0000\u0000\u0016\u0000\u0000\u0000Revive_1_ReviveContent\u0000\u0000\u0014\u0000\u0000\u0000Revive_1_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_1_ReviveTitle",
+        "ReviveContent": "Revive_1_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 2,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00000\u0000\u0000\u0000H\u0000\u0000\u0000L\u0000\u0000\u0000����\u0002\u0000\u0000\u0000\u0016\u0000\u0000\u0000Revive_2_ReviveContent\u0000\u0000\u0014\u0000\u0000\u0000Revive_2_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_2_ReviveTitle",
+        "ReviveContent": "Revive_2_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 4,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00000\u0000\u0000\u0000H\u0000\u0000\u0000L\u0000\u0000\u0000����\u0004\u0000\u0000\u0000\u0016\u0000\u0000\u0000Revive_4_ReviveContent\u0000\u0000\u0014\u0000\u0000\u0000Revive_4_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_4_ReviveTitle",
+        "ReviveContent": "Revive_4_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 7,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00000\u0000\u0000\u0000H\u0000\u0000\u0000L\u0000\u0000\u0000����\u0007\u0000\u0000\u0000\u0016\u0000\u0000\u0000Revive_7_ReviveContent\u0000\u0000\u0014\u0000\u0000\u0000Revive_7_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_7_ReviveTitle",
+        "ReviveContent": "Revive_7_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 8,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0014\u0000\u0000\u0000,\u0000\u0000\u0000D\u0000\u0000\u0000H\u0000\u0000\u0000\b\u0000\u0000\u0000\u0016\u0000\u0000\u0000Revive_8_ReviveContent\u0000\u0000\u0014\u0000\u0000\u0000Revive_8_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": 0,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_8_ReviveTitle",
+        "ReviveContent": "Revive_8_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3100001,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004����aM/\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 4000001,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004����\u0001\t=\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 4000002,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004����\u0002\t=\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 4000003,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004����\u0003\t=\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 4000004,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004����\u0004\t=\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 9,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00000\u0000\u0000\u0000H\u0000\u0000\u0000L\u0000\u0000\u0000����\t\u0000\u0000\u0000\u0016\u0000\u0000\u0000Revive_1_ReviveContent\u0000\u0000\u0014\u0000\u0000\u0000Revive_1_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_1_ReviveTitle",
+        "ReviveContent": "Revive_1_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200001,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\u0001�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200002,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\u0002�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200003,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\u0003�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200004,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\u0004�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200005,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\u0005�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200006,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\u0006�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200007,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\u0007�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200008,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\b�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200009,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\t�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200010,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\n�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200011,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\u000b�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200012,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\f�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200013,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\r�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200014,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\u000e�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 14000001,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004�������\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 14000002,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004�������\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 14000003,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004�������\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 14000004,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004�������\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 14000005,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004�������\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 14000006,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004�������\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 14000007,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004�������\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 14000008,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004�������\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 14000009,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004�������\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 14000010,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004�������\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 14000011,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004�������\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 14000012,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000<\u0000\u0000\u0000X\u0000\u0000\u0000\\\u0000\u0000\u0000@P�\u0004�������\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 80040000,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200015,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\u000f�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     },
     {
         "Id": 3200016,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000����\u0010�0\u0000\u001c\u0000\u0000\u0000Revive_3100001_ReviveContent\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Revive_3100001_ReviveTitle\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "ReviveTimes": -1,
+        "UseItemId": 0,
+        "ReviveDelay": [],
+        "DeathBp": "",
+        "WindowBp": "",
+        "ReviveTitle": "Revive_3100001_ReviveTitle",
+        "ReviveContent": "Revive_3100001_ReviveContent",
+        "ReviveSequencePath": null
     }
 ]

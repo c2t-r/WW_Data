@@ -1,58 +1,212 @@
 [
     {
         "Id": 3001,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0017\u0000\u0000\u0000\u0016\u0000\u0010\u0000\u000f\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000\u0000\u0000\u0000\u0001D\u0000\u0000\u0000\u0000\u0000\u0001\u0001X\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000ExploreRewardDisplay_test\u0000\u0000\u0000\u0017\u0000\u0000\u0000Achievement_100410_Desc\u0000\b\u0000\u0000\u0000B50DA3FF\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\b\u0000\u0000\u0000ABF000FF\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000ExploreRewardDisplay_test\u0000\u0000\u0000"
+        "Title": "ExploreRewardDisplay_test",
+        "TitleHexColor": "ABF000FF",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "B50DA3FF",
+        "IsRecordVisible": true,
+        "IsItemVisible": true,
+        "IsExploreProgressVisible": true,
+        "ExploreBarTipsTextId": "Achievement_100410_Desc",
+        "IsDescription": true,
+        "Description": "ExploreRewardDisplay_test",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3002,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u00008\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000B50DA3FF\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\b\u0000\u0000\u0000ABF000FF\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000ExploreRewardDisplay_test\u0000\u0000\u0000"
+        "Title": "ExploreRewardDisplay_test",
+        "TitleHexColor": "ABF000FF",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "B50DA3FF",
+        "IsRecordVisible": true,
+        "IsItemVisible": true,
+        "IsExploreProgressVisible": false,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": false,
+        "Description": "",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3003,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\u0012\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000\u0000\u0000\u0001\u0001,\u0000\u0000\u00008\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000B50DA3FF\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\b\u0000\u0000\u0000ABF000FF\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000ExploreRewardDisplay_test\u0000\u0000\u0000"
+        "Title": "ExploreRewardDisplay_test",
+        "TitleHexColor": "ABF000FF",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "B50DA3FF",
+        "IsRecordVisible": true,
+        "IsItemVisible": true,
+        "IsExploreProgressVisible": true,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": false,
+        "Description": "",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3004,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u000f\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000\u0000\u0000\u0000\u0001D\u0000\u0000\u0000H\u0000\u0000\u0000L\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001c\u0000\u0000\u0000Text_ChallengeGetReward_Text\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_3_GeneralText\u0000\u0000\u0000\u0000"
+        "Title": "GenericPromptTypes_3_GeneralText",
+        "TitleHexColor": "",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "",
+        "IsRecordVisible": false,
+        "IsItemVisible": true,
+        "IsExploreProgressVisible": false,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": true,
+        "Description": "Text_ChallengeGetReward_Text",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3005,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0013\u0000\u0012\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000\u0000\u0000\u0001\u0000,\u0000\u0000\u00000\u0000\u0000\u0000t\u0000\u0000\u0000x\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_4_GeneralText\u0000\u0000\u0000\u0000"
+        "Title": "GenericPromptTypes_4_GeneralText",
+        "TitleHexColor": "",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "",
+        "IsRecordVisible": false,
+        "IsItemVisible": false,
+        "IsExploreProgressVisible": true,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": false,
+        "Description": "",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3006,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u0000t\u0000\u0000\u0000x\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_ChallengeSuccess_Text\u0000\u0000"
+        "Title": "Text_ChallengeSuccess_Text",
+        "TitleHexColor": "",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "",
+        "IsRecordVisible": false,
+        "IsItemVisible": true,
+        "IsExploreProgressVisible": false,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": false,
+        "Description": "",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3007,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0013\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000H\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000L\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001c\u0000\u0000\u0000Text_ChallengeGetReward_Text\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000GenericPromptTypes_3_GeneralText\u0000\u0000\u0000\u0000"
+        "Title": "GenericPromptTypes_3_GeneralText",
+        "TitleHexColor": "",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "",
+        "IsRecordVisible": false,
+        "IsItemVisible": false,
+        "IsExploreProgressVisible": false,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": false,
+        "Description": "Text_ChallengeGetReward_Text",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3008,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0013\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000\u0000\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u0000t\u0000\u0000\u0000x\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0000\u0000Text_TowerSuccess_Text\u0000\u0000"
+        "Title": "Text_TowerSuccess_Text",
+        "TitleHexColor": "",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "",
+        "IsRecordVisible": false,
+        "IsItemVisible": false,
+        "IsExploreProgressVisible": false,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": false,
+        "Description": "",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3009,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0013\u0000\u0012\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000@\u0000\u0000\u0000\u0000\u0000\u0001\u0000@\u0000\u0000\u0000D\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000Text_TowerFailDesc_Text\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000Text_TowerFail_Text\u0000"
+        "Title": "Text_TowerFail_Text",
+        "TitleHexColor": "",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "",
+        "IsRecordVisible": false,
+        "IsItemVisible": false,
+        "IsExploreProgressVisible": true,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": false,
+        "Description": "Text_TowerFailDesc_Text",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3010,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u0000t\u0000\u0000\u0000x\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000Text_Rogue_ChallengeSuccess_Text\u0000\u0000\u0000\u0000"
+        "Title": "Text_Rogue_ChallengeSuccess_Text",
+        "TitleHexColor": "",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "",
+        "IsRecordVisible": false,
+        "IsItemVisible": true,
+        "IsExploreProgressVisible": false,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": false,
+        "Description": "",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3011,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u00000\u0000\u0000\u0000t\u0000\u0000\u0000x\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_ChallengeSuccess_Text\u0000\u0000"
+        "Title": "Text_ChallengeSuccess_Text",
+        "TitleHexColor": "",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "",
+        "IsRecordVisible": true,
+        "IsItemVisible": true,
+        "IsExploreProgressVisible": false,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": false,
+        "Description": "",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3012,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0010\u0000\u000f\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000\u0000\u0000\u0000\u0001D\u0000\u0000\u0000\u0000\u0000\u0000\u0000D\u0000\u0000\u0000H\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000Text_ChallengeFailDesc_Text\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000Text_ChallengeFail_Text\u0000"
+        "Title": "Text_ChallengeFail_Text",
+        "TitleHexColor": "",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "",
+        "IsRecordVisible": false,
+        "IsItemVisible": false,
+        "IsExploreProgressVisible": false,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": true,
+        "Description": "Text_ChallengeFailDesc_Text",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3013,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0012\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u00000\u0000\u0000\u0000t\u0000\u0000\u0000x\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000Text_ChallengeSuccess_Text\u0000\u0000"
+        "Title": "Text_ChallengeSuccess_Text",
+        "TitleHexColor": "",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "",
+        "IsRecordVisible": true,
+        "IsItemVisible": false,
+        "IsExploreProgressVisible": false,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": false,
+        "Description": "",
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 3014,
-        "BinData": "$\u0000\u0000\u0000\u0000\u0000\u001e\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0010\u0000\u000f\u0000\b\u0000\u0000\u0000\u0004\u0000\u001e\u0000\u0000\u0000(\u0000\u0000\u0000,\u0000\u0000\u0000\u0000\u0000\u0000\u0001H\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000L\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001f\u0000\u0000\u0000Text_RoleChallengeFailDesc_Text\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000Text_RoleChallengeFail_Text\u0000"
+        "Title": "Text_RoleChallengeFail_Text",
+        "TitleHexColor": "",
+        "TitleIconPath": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+        "TitleIconHexColor": "",
+        "IsRecordVisible": false,
+        "IsItemVisible": false,
+        "IsExploreProgressVisible": false,
+        "ExploreBarTipsTextId": "",
+        "IsDescription": true,
+        "Description": "Text_RoleChallengeFailDesc_Text",
+        "IsSuccess": true,
+        "AudioId": ""
     }
 ]

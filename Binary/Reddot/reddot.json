@@ -1,312 +1,250 @@
 [
     {
         "Name": "Test",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000Test\u0000\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "BattleViewMenu",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattleViewMenu\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "BattleViewGachaButton",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000BattleViewGachaButton\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "BattleViewShopButton",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000BattleViewShopButton\u0000\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "MailFilterAll",
-        "RelativeName": "FunctionBelowMail",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0011\u0000\u0000\u0000FunctionBelowMail\u0000\u0000\u0000\r\u0000\u0000\u0000MailFilterAll\u0000\u0000\u0000"
+        "RelativeName": "FunctionBelowMail"
     },
     {
         "Name": "RoleSystemRoleList",
-        "RelativeName": "FunctionRole",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionRole\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000RoleSystemRoleList\u0000\u0000"
+        "RelativeName": "FunctionRole"
     },
     {
         "Name": "RoleAttributeTab",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000RoleAttributeTab\u0000\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "RoleAttributeTabLevelUp",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000RoleAttributeTabLevelUp\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "RoleSkillTab",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleSkillTab\u0000\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "RoleSkillTabPhantomSkill",
-        "RelativeName": "RoleSkillTab",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u0000RoleSkillTab\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000RoleSkillTabPhantomSkill\u0000\u0000\u0000\u0000"
+        "RelativeName": "RoleSkillTab"
     },
     {
         "Name": "RoleChipTab",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000RoleChipTab\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "RoleChipTabHole",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000RoleChipTabHole\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "RoleResonanceTab",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000RoleResonanceTab\u0000\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "RoleResonanceTabHole",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000RoleResonanceTabHole\u0000\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "FunctionRole",
-        "RelativeName": "BattleViewMenu",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattleViewMenu\u0000\u0000\f\u0000\u0000\u0000FunctionRole\u0000\u0000\u0000\u0000"
+        "RelativeName": "BattleViewMenu"
     },
     {
         "Name": "FunctionBelowMail",
-        "RelativeName": "BattleViewMenu",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattleViewMenu\u0000\u0000\u0011\u0000\u0000\u0000FunctionBelowMail\u0000\u0000\u0000"
+        "RelativeName": "BattleViewMenu"
     },
     {
         "Name": "FunctionFriend",
-        "RelativeName": "BattleViewMenu",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattleViewMenu\u0000\u0000\u000e\u0000\u0000\u0000FunctionFriend\u0000\u0000"
+        "RelativeName": "BattleViewMenu"
     },
     {
         "Name": "FunctionTutorial",
-        "RelativeName": "BattleViewMenu",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattleViewMenu\u0000\u0000\u0010\u0000\u0000\u0000FunctionTutorial\u0000\u0000\u0000\u0000"
+        "RelativeName": "BattleViewMenu"
     },
     {
         "Name": "FunctionGacha",
-        "RelativeName": "BattleViewMenu",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattleViewMenu\u0000\u0000\r\u0000\u0000\u0000FunctionGacha\u0000\u0000\u0000"
+        "RelativeName": "BattleViewMenu"
     },
     {
         "Name": "FunctionAdventure",
-        "RelativeName": "BattleViewMenu",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattleViewMenu\u0000\u0000\u0011\u0000\u0000\u0000FunctionAdventure\u0000\u0000\u0000"
+        "RelativeName": "BattleViewMenu"
     },
     {
         "Name": "FunctionPhantom",
-        "RelativeName": "BattleViewMenu",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattleViewMenu\u0000\u0000\u000f\u0000\u0000\u0000FunctionPhantom\u0000"
+        "RelativeName": "BattleViewMenu"
     },
     {
         "Name": "FunctionCalabash",
-        "RelativeName": "BattleViewMenu",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattleViewMenu\u0000\u0000\u0010\u0000\u0000\u0000FunctionCalabash\u0000\u0000\u0000\u0000"
+        "RelativeName": "BattleViewMenu"
     },
     {
         "Name": "CalabashTab",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000CalabashTab\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "FriendNewApplication",
-        "RelativeName": "FunctionFriend",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000FunctionFriend\u0000\u0000\u0014\u0000\u0000\u0000FriendNewApplication\u0000\u0000\u0000\u0000"
+        "RelativeName": "FunctionFriend"
     },
     {
         "Name": "ChatView",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000ChatView\u0000\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "ChatRoom",
-        "RelativeName": "ChatView",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\b\u0000\u0000\u0000ChatView\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000ChatRoom\u0000\u0000\u0000\u0000"
+        "RelativeName": "ChatView"
     },
     {
         "Name": "TutorialItemNew",
-        "RelativeName": "TutorialTypeNew",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000f\u0000\u0000\u0000TutorialTypeNew\u0000\u000f\u0000\u0000\u0000TutorialItemNew\u0000"
+        "RelativeName": "TutorialTypeNew"
     },
     {
         "Name": "TutorialTypeNew",
-        "RelativeName": "FunctionTutorial",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0010\u0000\u0000\u0000FunctionTutorial\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000TutorialTypeNew\u0000"
+        "RelativeName": "FunctionTutorial"
     },
     {
         "Name": "AdventureManual",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000AdventureManual\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "AdventureBattleButton",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000AdventureBattleButton\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "RoleQuestPoint",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000RoleQuestPoint\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "CookerLevel",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000CookerLevel\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "CookerLevelMain",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000CookerLevelMain\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "BattlePass",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000BattlePass\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "BattlePassTask",
-        "RelativeName": "BattlePass",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\n\u0000\u0000\u0000BattlePass\u0000\u0000\u000e\u0000\u0000\u0000BattlePassTask\u0000\u0000"
+        "RelativeName": "BattlePass"
     },
     {
         "Name": "BattlePassReward",
-        "RelativeName": "BattlePass",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\n\u0000\u0000\u0000BattlePass\u0000\u0000\u0010\u0000\u0000\u0000BattlePassReward\u0000\u0000\u0000\u0000"
+        "RelativeName": "BattlePass"
     },
     {
         "Name": "BattlePassAlwaysTaskTab",
-        "RelativeName": "BattlePassTask",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattlePassTask\u0000\u0000\u0017\u0000\u0000\u0000BattlePassAlwaysTaskTab\u0000"
+        "RelativeName": "BattlePassTask"
     },
     {
         "Name": "BattlePassWeekTaskTab",
-        "RelativeName": "BattlePassTask",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattlePassTask\u0000\u0000\u0015\u0000\u0000\u0000BattlePassWeekTaskTab\u0000\u0000\u0000"
+        "RelativeName": "BattlePassTask"
     },
     {
         "Name": "BattlePassDayTaskTab",
-        "RelativeName": "BattlePassTask",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattlePassTask\u0000\u0000\u0014\u0000\u0000\u0000BattlePassDayTaskTab\u0000\u0000\u0000\u0000"
+        "RelativeName": "BattlePassTask"
     },
     {
         "Name": "ComposeReagentProduction",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000ComposeReagentProduction\u0000\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "AchievementCategory",
-        "RelativeName": "Achievement",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u000b\u0000\u0000\u0000Achievement\u0000\u0013\u0000\u0000\u0000AchievementCategory\u0000"
+        "RelativeName": "Achievement"
     },
     {
         "Name": "AdventureFirstAward",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000AdventureFirstAward\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "AdventureFirstAwardCategory",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000AdventureFirstAwardCategory\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "AdventureFirstAwardResult",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000AdventureFirstAwardResult\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "BattleViewQuestButton",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000BattleViewQuestButton\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "QuestViewItem",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000QuestViewItem\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "AdventureDailyActivityTab",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000AdventureDailyActivityTab\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "FunctionInventory",
-        "RelativeName": "BattleViewMenu",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000BattleViewMenu\u0000\u0000\u0011\u0000\u0000\u0000FunctionInventory\u0000\u0000\u0000"
+        "RelativeName": "BattleViewMenu"
     },
     {
         "Name": "InventoryCommon",
-        "RelativeName": "FunctionInventory",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0011\u0000\u0000\u0000FunctionInventory\u0000\u0000\u0000\u000f\u0000\u0000\u0000InventoryCommon\u0000"
+        "RelativeName": "FunctionInventory"
     },
     {
         "Name": "InventoryWeapon",
-        "RelativeName": "FunctionInventory",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0011\u0000\u0000\u0000FunctionInventory\u0000\u0000\u0000\u000f\u0000\u0000\u0000InventoryWeapon\u0000"
+        "RelativeName": "FunctionInventory"
     },
     {
         "Name": "InventoryPhantom",
-        "RelativeName": "FunctionInventory",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0011\u0000\u0000\u0000FunctionInventory\u0000\u0000\u0000\u0010\u0000\u0000\u0000InventoryPhantom\u0000\u0000\u0000\u0000"
+        "RelativeName": "FunctionInventory"
     },
     {
         "Name": "InventoryCollection",
-        "RelativeName": "FunctionInventory",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0011\u0000\u0000\u0000FunctionInventory\u0000\u0000\u0000\u0013\u0000\u0000\u0000InventoryCollection\u0000"
+        "RelativeName": "FunctionInventory"
     },
     {
         "Name": "InventoryMaterial",
-        "RelativeName": "FunctionInventory",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0011\u0000\u0000\u0000FunctionInventory\u0000\u0000\u0000\u0011\u0000\u0000\u0000InventoryMaterial\u0000\u0000\u0000"
+        "RelativeName": "FunctionInventory"
     },
     {
         "Name": "InventoryMission",
-        "RelativeName": "FunctionInventory",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0011\u0000\u0000\u0000FunctionInventory\u0000\u0000\u0000\u0010\u0000\u0000\u0000InventoryMission\u0000\u0000\u0000\u0000"
+        "RelativeName": "FunctionInventory"
     },
     {
         "Name": "InventorySpecial",
-        "RelativeName": "FunctionInventory",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0011\u0000\u0000\u0000FunctionInventory\u0000\u0000\u0000\u0010\u0000\u0000\u0000InventorySpecial\u0000\u0000\u0000\u0000"
+        "RelativeName": "FunctionInventory"
     },
     {
         "Name": "InventoryCard",
-        "RelativeName": "FunctionInventory",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0011\u0000\u0000\u0000FunctionInventory\u0000\u0000\u0000\r\u0000\u0000\u0000InventoryCard\u0000\u0000\u0000"
+        "RelativeName": "FunctionInventory"
     },
     {
         "Name": "RoleSelectionList",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000RoleSelectionList\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "TowerReward",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000TowerReward\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "QuestTab",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000QuestTab\u0000\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "FunctionViewQuestBtn",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000FunctionViewQuestBtn\u0000\u0000\u0000\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "RoleAttributeTabBreakUp",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000RoleAttributeTabBreakUp\u0000"
+        "RelativeName": ""
     },
     {
         "Name": "Achievement",
-        "RelativeName": "",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000Achievement\u0000"
+        "RelativeName": ""
     }
 ]

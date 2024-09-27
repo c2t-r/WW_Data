@@ -1,22 +1,22 @@
 [
     {
         "Id": 1,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0019\u0000\u0000\u0000ReportPlayerInfo_1_Reason\u0000\u0000\u0000"
+        "Reason": "ReportPlayerInfo_1_Reason"
     },
     {
         "Id": 2,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0019\u0000\u0000\u0000ReportPlayerInfo_2_Reason\u0000\u0000\u0000"
+        "Reason": "ReportPlayerInfo_2_Reason"
     },
     {
         "Id": 3,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0019\u0000\u0000\u0000ReportPlayerInfo_3_Reason\u0000\u0000\u0000"
+        "Reason": "ReportPlayerInfo_3_Reason"
     },
     {
         "Id": 4,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0019\u0000\u0000\u0000ReportPlayerInfo_4_Reason\u0000\u0000\u0000"
+        "Reason": "ReportPlayerInfo_4_Reason"
     },
     {
         "Id": 5,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0019\u0000\u0000\u0000ReportPlayerInfo_5_Reason\u0000\u0000\u0000"
+        "Reason": "ReportPlayerInfo_5_Reason"
     }
 ]

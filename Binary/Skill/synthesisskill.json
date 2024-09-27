@@ -2,31 +2,43 @@
     {
         "Id": 1,
         "ExtraItemId": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\n\u0000\u0000\u0000\u0001\u0000\u0000\u0000"
+        "EffectiveProbability": 10,
+        "Typeld": 2,
+        "SkillDescription": 1
     },
     {
         "Id": 2,
         "ExtraItemId": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0003\u0000\u0000\u0000\n\u0000\u0000\u0000\u0002\u0000\u0000\u0000"
+        "EffectiveProbability": 10,
+        "Typeld": 3,
+        "SkillDescription": 1
     },
     {
         "Id": 3,
         "ExtraItemId": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\n\u0000\u0000\u0000\u0003\u0000\u0000\u0000"
+        "EffectiveProbability": 10,
+        "Typeld": 4,
+        "SkillDescription": 1
     },
     {
         "Id": 4,
         "ExtraItemId": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\n\u0000\u0000\u0000\u0004\u0000\u0000\u0000"
+        "EffectiveProbability": 10,
+        "Typeld": 2,
+        "SkillDescription": 2
     },
     {
         "Id": 5,
         "ExtraItemId": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\n\u0000\u0000\u0000\u0005\u0000\u0000\u0000"
+        "EffectiveProbability": 10,
+        "Typeld": 3,
+        "SkillDescription": 2
     },
     {
         "Id": 6,
         "ExtraItemId": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\n\u0000\u0000\u0000\u0006\u0000\u0000\u0000"
+        "EffectiveProbability": 10,
+        "Typeld": 4,
+        "SkillDescription": 2
     }
 ]

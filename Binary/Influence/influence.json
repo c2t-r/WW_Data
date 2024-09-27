@@ -1,42 +1,152 @@
 [
     {
         "Id": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "Title": "",
+        "Introduction": "",
+        "ExtraDesc": "",
+        "ShowIcon": 1,
+        "Logo": "",
+        "DailyTaskShow": 1,
+        "RawRelation": 0,
+        "RelationCondition": 0,
+        "LastRelation": 0,
+        "ReputationMax": 10000,
+        "ReputationItem": [],
+        "ReputationReward": []
     },
     {
         "Id": 1,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000d\u0000\u0000\u0000h\u0000\u0000\u0000l\u0000\u0000\u0000\u0001\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_03_UI.T_Logo_03_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "Title": "",
+        "Introduction": "",
+        "ExtraDesc": "",
+        "ShowIcon": 1,
+        "Logo": "/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_03_UI.T_Logo_03_UI",
+        "DailyTaskShow": 1,
+        "RawRelation": 0,
+        "RelationCondition": 0,
+        "LastRelation": 0,
+        "ReputationMax": 10000,
+        "ReputationItem": [],
+        "ReputationReward": []
     },
     {
         "Id": 2,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "Title": "",
+        "Introduction": "",
+        "ExtraDesc": "",
+        "ShowIcon": 1,
+        "Logo": "",
+        "DailyTaskShow": 1,
+        "RawRelation": 0,
+        "RelationCondition": 0,
+        "LastRelation": 0,
+        "ReputationMax": 10000,
+        "ReputationItem": [],
+        "ReputationReward": []
     },
     {
         "Id": 3,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000d\u0000\u0000\u0000h\u0000\u0000\u0000l\u0000\u0000\u0000\u0003\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_02_UI.T_Logo_02_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "Title": "",
+        "Introduction": "",
+        "ExtraDesc": "",
+        "ShowIcon": 1,
+        "Logo": "/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_02_UI.T_Logo_02_UI",
+        "DailyTaskShow": 1,
+        "RawRelation": 0,
+        "RelationCondition": 0,
+        "LastRelation": 0,
+        "ReputationMax": 10000,
+        "ReputationItem": [],
+        "ReputationReward": []
     },
     {
         "Id": 4,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "Title": "",
+        "Introduction": "",
+        "ExtraDesc": "",
+        "ShowIcon": 1,
+        "Logo": "",
+        "DailyTaskShow": 1,
+        "RawRelation": 0,
+        "RelationCondition": 0,
+        "LastRelation": 0,
+        "ReputationMax": 10000,
+        "ReputationItem": [],
+        "ReputationReward": []
     },
     {
         "Id": 5,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "Title": "",
+        "Introduction": "",
+        "ExtraDesc": "",
+        "ShowIcon": 1,
+        "Logo": "",
+        "DailyTaskShow": 1,
+        "RawRelation": 0,
+        "RelationCondition": 0,
+        "LastRelation": 0,
+        "ReputationMax": 10000,
+        "ReputationItem": [],
+        "ReputationReward": []
     },
     {
         "Id": 6,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "Title": "",
+        "Introduction": "",
+        "ExtraDesc": "",
+        "ShowIcon": 1,
+        "Logo": "",
+        "DailyTaskShow": 1,
+        "RawRelation": 0,
+        "RelationCondition": 0,
+        "LastRelation": 0,
+        "ReputationMax": 10000,
+        "ReputationItem": [],
+        "ReputationReward": []
     },
     {
         "Id": 7,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "Title": "",
+        "Introduction": "",
+        "ExtraDesc": "",
+        "ShowIcon": 1,
+        "Logo": "",
+        "DailyTaskShow": 1,
+        "RawRelation": 0,
+        "RelationCondition": 0,
+        "LastRelation": 0,
+        "ReputationMax": 10000,
+        "ReputationItem": [],
+        "ReputationReward": []
     },
     {
         "Id": 8,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "Title": "",
+        "Introduction": "",
+        "ExtraDesc": "",
+        "ShowIcon": 1,
+        "Logo": "",
+        "DailyTaskShow": 1,
+        "RawRelation": 0,
+        "RelationCondition": 0,
+        "LastRelation": 0,
+        "ReputationMax": 10000,
+        "ReputationItem": [],
+        "ReputationReward": []
     },
     {
         "Id": 9,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000d\u0000\u0000\u0000h\u0000\u0000\u0000l\u0000\u0000\u0000\t\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_09_UI.T_Logo_09_UI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "Title": "",
+        "Introduction": "",
+        "ExtraDesc": "",
+        "ShowIcon": 1,
+        "Logo": "/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_09_UI.T_Logo_09_UI",
+        "DailyTaskShow": 1,
+        "RawRelation": 0,
+        "RelationCondition": 0,
+        "LastRelation": 0,
+        "ReputationMax": 10000,
+        "ReputationItem": [],
+        "ReputationReward": []
     }
 ]

@@ -1,18 +1,22 @@
 [
     {
         "Id": 1,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000X\u0000\u0000\u0000\u0001\u0000\u0000\u0000J\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiArchive/Atlas/SP_ArchiveWuchan.SP_ArchiveWuchan\u0000\u0000\u001e\u0000\u0000\u0000ItemHandBookType_1_Descrtption\u0000\u0000"
+        "Descrtption": "ItemHandBookType_1_Descrtption",
+        "Icon": "/Game/Aki/UI/UIResources/UiArchive/Atlas/SP_ArchiveWuchan.SP_ArchiveWuchan"
     },
     {
         "Id": 2,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\u0002\u0000\u0000\u0000L\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiArchive/Atlas/SP_ArchivePengren.SP_ArchivePengren\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000ItemHandBookType_2_Descrtption\u0000\u0000"
+        "Descrtption": "ItemHandBookType_2_Descrtption",
+        "Icon": "/Game/Aki/UI/UIResources/UiArchive/Atlas/SP_ArchivePengren.SP_ArchivePengren"
     },
     {
         "Id": 3,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000X\u0000\u0000\u0000\u0003\u0000\u0000\u0000H\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiArchive/Atlas/SP_ArchiveYaoji.SP_ArchiveYaoji\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000ItemHandBookType_3_Descrtption\u0000\u0000"
+        "Descrtption": "ItemHandBookType_3_Descrtption",
+        "Icon": "/Game/Aki/UI/UIResources/UiArchive/Atlas/SP_ArchiveYaoji.SP_ArchiveYaoji"
     },
     {
         "Id": 4,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\\\u0000\u0000\u0000\u0004\u0000\u0000\u0000L\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiArchive/Atlas/SP_ArchiveCailiao.SP_ArchiveCailiao\u0000\u0000\u0000\u0000\u001e\u0000\u0000\u0000ItemHandBookType_4_Descrtption\u0000\u0000"
+        "Descrtption": "ItemHandBookType_4_Descrtption",
+        "Icon": "/Game/Aki/UI/UIResources/UiArchive/Atlas/SP_ArchiveCailiao.SP_ArchiveCailiao"
     }
 ]

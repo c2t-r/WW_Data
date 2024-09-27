@@ -1,30 +1,79 @@
 [
     {
         "Id": 1,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000l\u0000\u0000\u0000p\u0000\u0000\u0000t\u0000\u0000\u0000\u0001\u0000\u0000\u0000\"\u0000\u0000\u0000\u0001\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiShop/Atlas/SP_ShopTexuanminglu.SP_ShopTexuanminglu\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000e\u0000\u0000\u0000PayShop_1_Name\u0000\u0000"
+        "ShopTabViewType": 34,
+        "DynamicTabId": 1,
+        "Sort": 116,
+        "Name": "\u0004",
+        "Money": [],
+        "Notice": null,
+        "Enable": true,
+        "Icon": null
     },
     {
         "Id": 2,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u0014\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000p\u0000\u0000\u0000t\u0000\u0000\u0000x\u0000\u0000\u0000\u0002\u0000\u0000\u0000#\u0000\u0000\u0000\u0002\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabiconshuxing.SP_RoleTabiconshuxing\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000e\u0000\u0000\u0000PayShop_2_Name\u0000\u0000"
+        "ShopTabViewType": 35,
+        "DynamicTabId": 2,
+        "Sort": 120,
+        "Name": "\u0004",
+        "Money": [],
+        "Notice": null,
+        "Enable": true,
+        "Icon": null
     },
     {
         "Id": 3,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000l\u0000\u0000\u0000p\u0000\u0000\u0000t\u0000\u0000\u0000\u0003\u0000\u0000\u0000#\u0000\u0000\u0000\u0003\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiShop/Atlas/SP_ShopTehuizhuanqu.SP_ShopTehuizhuanqu\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000e\u0000\u0000\u0000PayShop_3_Name\u0000\u0000"
+        "ShopTabViewType": 35,
+        "DynamicTabId": 3,
+        "Sort": 116,
+        "Name": "\u0004",
+        "Money": [],
+        "Notice": null,
+        "Enable": true,
+        "Icon": null
     },
     {
         "Id": 4,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000l\u0000\u0000\u0000p\u0000\u0000\u0000|\u0000\u0000\u0000\u0004\u0000\u0000\u0000$\u0000\u0000\u0000\u0004\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiShop/Atlas/SP_ShopGongkaipinyu.SP_ShopGongkaipinyu\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000T�\u0000\u0000S�\u0000\u0000\u0003\u0000\u0000\u0000\u000e\u0000\u0000\u0000PayShop_4_Name\u0000\u0000"
+        "ShopTabViewType": 36,
+        "DynamicTabId": 4,
+        "Sort": 124,
+        "Name": null,
+        "Money": [],
+        "Notice": null,
+        "Enable": true,
+        "Icon": null
     },
     {
         "Id": 100,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000l\u0000\u0000\u0000p\u0000\u0000\u0000t\u0000\u0000\u0000d\u0000\u0000\u0000%\u0000\u0000\u0000d\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiShop/Atlas/SP_ShopMaodinggouru.SP_ShopMaodinggouru\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000PayShop_100_Name\u0000\u0000\u0000\u0000"
+        "ShopTabViewType": 37,
+        "DynamicTabId": 100,
+        "Sort": 116,
+        "Name": "\u0004",
+        "Money": [],
+        "Notice": null,
+        "Enable": true,
+        "Icon": null
     },
     {
         "Id": 201,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000l\u0000\u0000\u0000p\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000:\u0000\u0000\u0000�\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiShop/Atlas/SP_ShopMaodinggouru.SP_ShopMaodinggouru\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000�:�\u0004\u0010\u0000\u0000\u0000PayShop_100_Name\u0000\u0000\u0000\u0000"
+        "ShopTabViewType": 58,
+        "DynamicTabId": 201,
+        "Sort": 116,
+        "Name": null,
+        "Money": [],
+        "Notice": null,
+        "Enable": true,
+        "Icon": null
     },
     {
         "Id": 5,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000l\u0000\u0000\u0000p\u0000\u0000\u0000x\u0000\u0000\u0000e\u0000\u0000\u00005\u0000\u0000\u0000\u0005\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiShop/Atlas/SP_ShopGongkaipinyu.SP_ShopGongkaipinyu\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\f\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u000e\u0000\u0000\u0000PayShop_5_Name\u0000\u0000"
+        "ShopTabViewType": 53,
+        "DynamicTabId": 101,
+        "Sort": 120,
+        "Name": "\f\u0000",
+        "Money": [],
+        "Notice": null,
+        "Enable": true,
+        "Icon": null
     }
 ]

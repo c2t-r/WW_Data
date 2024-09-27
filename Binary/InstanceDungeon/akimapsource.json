@@ -1,402 +1,402 @@
 [
     {
         "MapId": 2,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001d\u0000\u0000\u0000/Game/Aki/Map/Startup/NetTest\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Startup/NetTest"
     },
     {
         "MapId": 3,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u001c\u0000\u0000\u0000/Game/Aki/Map/MonsterTestMap\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/MonsterTestMap"
     },
     {
         "MapId": 4,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000!\u0000\u0000\u0000/Game/Aki/Map/FightTest/AudioTest\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/AudioTest"
     },
     {
         "MapId": 6,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u001d\u0000\u0000\u0000/Game/Aki/Map/MonsterTestMap1\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/MonsterTestMap1"
     },
     {
         "MapId": 7,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001d\u0000\u0000\u0000/Game/Aki/Map/WuYinQu/WuYinQu\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/WuYinQu/WuYinQu"
     },
     {
         "MapId": 8,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0019\u0000\u0000\u0000/Game/Aki/Map/AkiWorld_WP\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/AkiWorld_WP"
     },
     {
         "MapId": 14,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u000e\u0000\u0000\u0000#\u0000\u0000\u0000/Game/Aki/Map/LevelWB/FightPlayTest\u0000"
+        "MapPath": "/Game/Aki/Map/LevelWB/FightPlayTest"
     },
     {
         "MapId": 15,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0018\u0000\u0000\u0000/Game/Aki/Map/NPCTestMap\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/NPCTestMap"
     },
     {
         "MapId": 16,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0019\u0000\u0000\u0000/Game/Aki/Map/Towers/Main\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Towers/Main"
     },
     {
         "MapId": 20,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000$\u0000\u0000\u0000/Game/Aki/Map/BossArena/PL_BossArena\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/BossArena/PL_BossArena"
     },
     {
         "MapId": 23,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u001b\u0000\u0000\u0000/Game/Aki/Map/AnimalTestMap\u0000"
+        "MapPath": "/Game/Aki/Map/AnimalTestMap"
     },
     {
         "MapId": 30,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u00000\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/UniverseEditorTest\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/UniverseEditorTest"
     },
     {
         "MapId": 31,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001f\u0000\u0000\u0000*\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/InteractTest\u0000\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/InteractTest"
     },
     {
         "MapId": 32,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000 \u0000\u0000\u0000'\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/QuestTest\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/QuestTest"
     },
     {
         "MapId": 33,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000!\u0000\u0000\u0000$\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/QATest\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/QATest"
     },
     {
         "MapId": 34,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\"\u0000\u0000\u0000'\u0000\u0000\u0000/Game/Aki/Map/FightTest/ControlItemTest\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/ControlItemTest"
     },
     {
         "MapId": 35,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000#\u0000\u0000\u0000*\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/MonsterStock\u0000\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/MonsterStock"
     },
     {
         "MapId": 36,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000$\u0000\u0000\u0000$\u0000\u0000\u0000/Game/Aki/Map/Action/BlendPoseReview\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Action/BlendPoseReview"
     },
     {
         "MapId": 37,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000%\u0000\u0000\u0000+\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/LevelPlayTest\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/LevelPlayTest"
     },
     {
         "MapId": 39,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000'\u0000\u0000\u00003\u0000\u0000\u0000/Game/Aki/Map/CopyPrototypeTest/TestMap/SoundArea_1\u0000"
+        "MapPath": "/Game/Aki/Map/CopyPrototypeTest/TestMap/SoundArea_1"
     },
     {
         "MapId": 40,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000B\u0000\u0000\u0000/Game/Aki/Map/Level/Main/Longzhujusuo/InstanceTree_longzhujusuo-02\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Main/Longzhujusuo/InstanceTree_longzhujusuo-02"
     },
     {
         "MapId": 41,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000)\u0000\u0000\u0000\u001e\u0000\u0000\u0000/Game/Aki/Map/PostProcessLevel\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/PostProcessLevel"
     },
     {
         "MapId": 42,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000*\u0000\u0000\u0000(\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/ActionTest\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/ActionTest"
     },
     {
         "MapId": 43,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000+\u0000\u0000\u0000&\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/FlowTest\u0000\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/FlowTest"
     },
     {
         "MapId": 44,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000,\u0000\u0000\u0000+\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/ComponentTest\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/ComponentTest"
     },
     {
         "MapId": 45,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000-\u0000\u0000\u0000&\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/GearTest\u0000\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/GearTest"
     },
     {
         "MapId": 46,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000.\u0000\u0000\u00001\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/Dungeon/DungeonTest\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/Dungeon/DungeonTest"
     },
     {
         "MapId": 49,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u00001\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/Map/Level/Main/Longzhujusuo/InstanceTree_longzhujusuo\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Main/Longzhujusuo/InstanceTree_longzhujusuo"
     },
     {
         "MapId": 50,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u00002\u0000\u0000\u0000F\u0000\u0000\u0000/Game/Aki/Map/CopyPrototypeTest/CopyTemplate/Laboratory/Laboratory_001\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/CopyPrototypeTest/CopyTemplate/Laboratory/Laboratory_001"
     },
     {
         "MapId": 53,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u00005\u0000\u0000\u0000-\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/TeleControlTest\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/TeleControlTest"
     },
     {
         "MapId": 60,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000<\u0000\u0000\u0000\u0014\u0000\u0000\u0000/Game/Aki/Map/TaTest\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/TaTest"
     },
     {
         "MapId": 61,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000=\u0000\u0000\u00000\u0000\u0000\u0000/Game/Aki/Map/CopyPrototypeTest/InstanceTree_000\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/CopyPrototypeTest/InstanceTree_000"
     },
     {
         "MapId": 68,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000D\u0000\u0000\u0000L\u0000\u0000\u0000/Game/Aki/Map/Level/WorldInstance/Longzhujusuo-W/InstanceTree_longzhujusuo-W\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/WorldInstance/Longzhujusuo-W/InstanceTree_longzhujusuo-W"
     },
     {
         "MapId": 71,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000G\u0000\u0000\u00007\u0000\u0000\u0000/Game/Aki/Map/Level/Test/LevelTest/StreamingLevelTest01\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Test/LevelTest/StreamingLevelTest01"
     },
     {
         "MapId": 72,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000H\u0000\u0000\u00007\u0000\u0000\u0000/Game/Aki/Map/Level/Test/LevelTest/StreamingLevelTest04\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Test/LevelTest/StreamingLevelTest04"
     },
     {
         "MapId": 73,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000I\u0000\u0000\u00007\u0000\u0000\u0000/Game/Aki/Map/Level/Test/LevelTest/StreamingLevelTest05\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Test/LevelTest/StreamingLevelTest05"
     },
     {
         "MapId": 77,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000M\u0000\u0000\u0000;\u0000\u0000\u0000/Game/Aki/Map/Level/Test/LevelTest/InstanceTree_LevelTest02\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Test/LevelTest/InstanceTree_LevelTest02"
     },
     {
         "MapId": 80,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000P\u0000\u0000\u0000;\u0000\u0000\u0000/Game/Aki/Map/Level/Test/LevelTest/InstanceTree_LevelTest01\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Test/LevelTest/InstanceTree_LevelTest01"
     },
     {
         "MapId": 88,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000X\u0000\u0000\u00003\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/Dungeon/DungeonTest_2\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/Dungeon/DungeonTest_2"
     },
     {
         "MapId": 90,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000Z\u0000\u0000\u00009\u0000\u0000\u0000/Game/Aki/Map/Level/System/NewTower/InstanceTree_NewTower\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/System/NewTower/InstanceTree_NewTower"
     },
     {
         "MapId": 91,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000[\u0000\u0000\u00004\u0000\u0000\u0000/Game/Aki/Map/Level/Roles/Jiyan/InstanceTree_Jiyan_1\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Roles/Jiyan/InstanceTree_Jiyan_1"
     },
     {
         "MapId": 92,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000;\u0000\u0000\u0000/Game/Aki/Map/Level/Test/LevelTest/InstanceTree_LevelTest03\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Test/LevelTest/InstanceTree_LevelTest03"
     },
     {
         "MapId": 93,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000]\u0000\u0000\u00009\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/Test_SubLevel/Test_SubLevel\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/Test_SubLevel/Test_SubLevel"
     },
     {
         "MapId": 94,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000^\u0000\u0000\u00008\u0000\u0000\u0000/Game/Aki/Map/Level/Roles/Lingyang/InstanceTree_Lingyang\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Roles/Lingyang/InstanceTree_Lingyang"
     },
     {
         "MapId": 95,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000_\u0000\u0000\u0000+\u0000\u0000\u0000/Game/Aki/Map/Level/Roles/Yinlin/yinlinMain\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Roles/Yinlin/yinlinMain"
     },
     {
         "MapId": 100,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000d\u0000\u0000\u0000'\u0000\u0000\u0000/Game/Aki/Map/WPMapTest/AkiWorld_WPTest\u0000"
+        "MapPath": "/Game/Aki/Map/WPMapTest/AkiWorld_WPTest"
     },
     {
         "MapId": 101,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000e\u0000\u0000\u0000'\u0000\u0000\u0000/Game/Aki/Map/FightTest/CommonFightTest\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/CommonFightTest"
     },
     {
         "MapId": 102,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000f\u0000\u0000\u0000\u001a\u0000\u0000\u0000/Game/Aki/Map/QuestTestMap\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/QuestTestMap"
     },
     {
         "MapId": 110,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000n\u0000\u0000\u0000,\u0000\u0000\u0000/Game/Aki/Map/WPMapTest/AkiWorld_UseCaseTest\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/WPMapTest/AkiWorld_UseCaseTest"
     },
     {
         "MapId": 111,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000o\u0000\u0000\u0000*\u0000\u0000\u0000/Game/Aki/UniverseEditor/Test/ZhanyongTest\u0000\u0000"
+        "MapPath": "/Game/Aki/UniverseEditor/Test/ZhanyongTest"
     },
     {
         "MapId": 121,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000y\u0000\u0000\u0000(\u0000\u0000\u0000/Game/Aki/Map/Compare_Test/EntityNPCTest\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Compare_Test/EntityNPCTest"
     },
     {
         "MapId": 122,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000z\u0000\u0000\u0000(\u0000\u0000\u0000/Game/Aki/Map/Compare_Test/SimpleNPCTest\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Compare_Test/SimpleNPCTest"
     },
     {
         "MapId": 123,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000{\u0000\u0000\u0000#\u0000\u0000\u0000/Game/Aki/Map/FightTest/WuyinquTest\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/WuyinquTest"
     },
     {
         "MapId": 201,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000&\u0000\u0000\u0000/Game/Aki/Map/PerfTest/PerfTest_Fight6\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/PerfTest/PerfTest_Fight6"
     },
     {
         "MapId": 1501,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0005\u0000\u00008\u0000\u0000\u0000/Game/Aki/Map/Level/Main/ShangHen/InstanceTree_ShangHen1\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Main/ShangHen/InstanceTree_ShangHen1"
     },
     {
         "MapId": 1504,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0005\u0000\u00007\u0000\u0000\u0000/Game/Aki/Map/Level/Main/BeiLuoYe/InstanceTree_BeiLuoYe\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Main/BeiLuoYe/InstanceTree_BeiLuoYe"
     },
     {
         "MapId": 1505,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0005\u0000\u0000?\u0000\u0000\u0000/Game/Aki/Map/Level/Main/Yanjiusuo/InstanceTree_YanjiusuoBattle\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Main/Yanjiusuo/InstanceTree_YanjiusuoBattle"
     },
     {
         "MapId": 2002,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0007\u0000\u0000<\u0000\u0000\u0000/Game/Aki/Map/Level/Onetime/2DParkour/InstanceTree_2DParkour\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Onetime/2DParkour/InstanceTree_2DParkour"
     },
     {
         "MapId": 2021,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0007\u0000\u00008\u0000\u0000\u0000/Game/Aki/Map/Level/Main/ShangHen/InstanceTree_ShangHen2\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Main/ShangHen/InstanceTree_ShangHen2"
     },
     {
         "MapId": 2501,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\t\u0000\u00004\u0000\u0000\u0000/Game/Aki/Map/Level/Test/LevelTest/WorldInstanceTest\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Test/LevelTest/WorldInstanceTest"
     },
     {
         "MapId": 2502,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\t\u0000\u0000B\u0000\u0000\u0000/Game/Aki/Map/Level/WorldInstance/Yanjiusuo/InstanceTree_yanjiusuo\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/WorldInstance/Yanjiusuo/InstanceTree_yanjiusuo"
     },
     {
         "MapId": 3000,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u000b\u0000\u0000&\u0000\u0000\u0000/Game/Aki/Map/InstanceMap/TestInstance\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/InstanceMap/TestInstance"
     },
     {
         "MapId": 3001,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u000b\u0000\u0000,\u0000\u0000\u0000/Game/Aki/Map/InstanceMap/TestInstance_2_hql\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/InstanceMap/TestInstance_2_hql"
     },
     {
         "MapId": 3002,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u000b\u0000\u00002\u0000\u0000\u0000/Game/Aki/Map/InstanceMap/TestInstance_3002_shouhu\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/InstanceMap/TestInstance_3002_shouhu"
     },
     {
         "MapId": 3003,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u000b\u0000\u0000+\u0000\u0000\u0000/Game/Aki/Map/InstanceMap/TestInstance_3003\u0000"
+        "MapPath": "/Game/Aki/Map/InstanceMap/TestInstance_3003"
     },
     {
         "MapId": 3900,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000<\u000f\u0000\u0000#\u0000\u0000\u0000/Game/Aki/Map/FightTest/GaoYuanTest\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/GaoYuanTest"
     },
     {
         "MapId": 3901,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000=\u000f\u0000\u0000'\u0000\u0000\u0000/Game/Aki/Map/FightTest/GuanYaoPengTest\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/GuanYaoPengTest"
     },
     {
         "MapId": 3902,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000>\u000f\u0000\u0000%\u0000\u0000\u0000/Game/Aki/Map/FightTest/HuQingLinTest\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/HuQingLinTest"
     },
     {
         "MapId": 3903,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000?\u000f\u0000\u0000&\u0000\u0000\u0000/Game/Aki/Map/FightTest/JinZhaoWenTest\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/JinZhaoWenTest"
     },
     {
         "MapId": 3904,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000@\u000f\u0000\u0000'\u0000\u0000\u0000/Game/Aki/Map/FightTest/LiShangYuanTest\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/LiShangYuanTest"
     },
     {
         "MapId": 3905,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000A\u000f\u0000\u0000&\u0000\u0000\u0000/Game/Aki/Map/FightTest/LiZhengHuiTest\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/LiZhengHuiTest"
     },
     {
         "MapId": 3906,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000B\u000f\u0000\u0000&\u0000\u0000\u0000/Game/Aki/Map/FightTest/MiaoJiaWeiTest\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/MiaoJiaWeiTest"
     },
     {
         "MapId": 3907,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000C\u000f\u0000\u0000\"\u0000\u0000\u0000/Game/Aki/Map/FightTest/NingBoTest\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/NingBoTest"
     },
     {
         "MapId": 3908,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000D\u000f\u0000\u0000'\u0000\u0000\u0000/Game/Aki/Map/FightTest/NingZhiTongTest\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/NingZhiTongTest"
     },
     {
         "MapId": 3909,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000E\u000f\u0000\u0000'\u0000\u0000\u0000/Game/Aki/Map/FightTest/ShuaiYuYangTest\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/ShuaiYuYangTest"
     },
     {
         "MapId": 3910,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000F\u000f\u0000\u0000%\u0000\u0000\u0000/Game/Aki/Map/FightTest/GuoZiKangTest\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/GuoZiKangTest"
     },
     {
         "MapId": 3911,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000G\u000f\u0000\u0000%\u0000\u0000\u0000/Game/Aki/Map/FightTest/WuRunDongTest\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/WuRunDongTest"
     },
     {
         "MapId": 3912,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000H\u000f\u0000\u0000#\u0000\u0000\u0000/Game/Aki/Map/FightTest/WuYiJunTest\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/WuYiJunTest"
     },
     {
         "MapId": 3913,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000I\u000f\u0000\u0000\"\u0000\u0000\u0000/Game/Aki/Map/FightTest/ZiYuanTest\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/ZiYuanTest"
     },
     {
         "MapId": 3914,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000J\u000f\u0000\u00003\u0000\u0000\u0000/Game/Aki/Map/FightTest/HuQingLin_MonsterGroup_Test\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/HuQingLin_MonsterGroup_Test"
     },
     {
         "MapId": 3915,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000K\u000f\u0000\u0000$\u0000\u0000\u0000/Game/Aki/Map/FightTest/TangQiaoTest\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/TangQiaoTest"
     },
     {
         "MapId": 3916,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000L\u000f\u0000\u0000'\u0000\u0000\u0000/Game/Aki/Map/FightTest/MaChengMingTest\u0000"
+        "MapPath": "/Game/Aki/Map/FightTest/MaChengMingTest"
     },
     {
         "MapId": 3917,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000M\u000f\u0000\u00002\u0000\u0000\u0000/Game/Aki/Map/NotInFinalPackage/PL_LookDev_Preview\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/NotInFinalPackage/PL_LookDev_Preview"
     },
     {
         "MapId": 3919,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000O\u000f\u0000\u0000-\u0000\u0000\u0000/Game/Aki/Map/NotInFinalPackage/Fight_AllBoss\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/NotInFinalPackage/Fight_AllBoss"
     },
     {
         "MapId": 3920,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000P\u000f\u0000\u0000.\u0000\u0000\u0000/Game/Aki/Map/NotInFinalPackage/Fight_AllBoss2\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/NotInFinalPackage/Fight_AllBoss2"
     },
     {
         "MapId": 4001,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u000f\u0000\u00005\u0000\u0000\u0000/Game/Aki/Map/Level/System/Xiezou/InstanceTree_Xiezou\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/System/Xiezou/InstanceTree_Xiezou"
     },
     {
         "MapId": 4002,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u000f\u0000\u0000C\u0000\u0000\u0000/Game/Aki/Map/Level/System/Rookie_trials/InstanceTree_Rookie_trials\u0000"
+        "MapPath": "/Game/Aki/Map/Level/System/Rookie_trials/InstanceTree_Rookie_trials"
     },
     {
         "MapId": 4021,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u000f\u0000\u00008\u0000\u0000\u0000/Game/Aki/Map/Level/System/LevelBreak/InstanceTree_Break\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/System/LevelBreak/InstanceTree_Break"
     },
     {
         "MapId": 4041,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u000f\u0000\u0000<\u0000\u0000\u0000/Game/Aki/Map/Level/System/Material/InstanceTree_JZ_Material\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/System/Material/InstanceTree_JZ_Material"
     },
     {
         "MapId": 4901,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000%\u0013\u0000\u00009\u0000\u0000\u0000/Game/Aki/Map/Level/Test/CE_Common/InstanceTree_CE_Common\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Test/CE_Common/InstanceTree_CE_Common"
     },
     {
         "MapId": 5001,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0013\u0000\u0000>\u0000\u0000\u0000/Game/Aki/Map/Level/System/Role_trials/InstanceTree_RoleTrials\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/System/Role_trials/InstanceTree_RoleTrials"
     },
     {
         "MapId": 6001,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000q\u0017\u0000\u0000>\u0000\u0000\u0000/Game/Aki/Map/Level/Onetime/RotateRoom/InstanceTree_RotateRoom\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Onetime/RotateRoom/InstanceTree_RotateRoom"
     },
     {
         "MapId": 8000,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000@\u001f\u0000\u0000>\u0000\u0000\u0000/Game/Aki/Map/Level/Huodong/Huodong001/InstanceTree_Huodong001\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Huodong/Huodong001/InstanceTree_Huodong001"
     },
     {
         "MapId": 8001,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000A\u001f\u0000\u00003\u0000\u0000\u0000/Game/Aki/Map/Level/System/Rogue/InstanceTree_Rogue\u0000"
+        "MapPath": "/Game/Aki/Map/Level/System/Rogue/InstanceTree_Rogue"
     },
     {
         "MapId": 8002,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000B\u001f\u0000\u00005\u0000\u0000\u0000/Game/Aki/Map/Level/System/Rogue/InstanceTree_Rogue_A\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/System/Rogue/InstanceTree_Rogue_A"
     },
     {
         "MapId": 8150,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u001f\u0000\u0000D\u0000\u0000\u0000/Game/Aki/Map/Level/Huodong/huodong002_gecao/InstanceTree_Huodong002\u0000\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Huodong/huodong002_gecao/InstanceTree_Huodong002"
     },
     {
         "MapId": 201000,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0011\u0003\u00006\u0000\u0000\u0000/Game/Aki/Map/Level/System/Material/InstanceTree_Skill\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/System/Material/InstanceTree_Skill"
     },
     {
         "MapId": 301000,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000ȗ\u0004\u00007\u0000\u0000\u0000/Game/Aki/Map/Level/System/Material/InstanceTree_Weapon\u0000"
+        "MapPath": "/Game/Aki/Map/Level/System/Material/InstanceTree_Weapon"
     },
     {
         "MapId": 8101,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u001f\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/Map/Level/System/Activity_Role_trials/InstanceTree_Activity_Role_trials\u0000\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/System/Activity_Role_trials/InstanceTree_Activity_Role_trials"
     },
     {
         "MapId": 2031,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0007\u0000\u0000>\u0000\u0000\u0000/Game/Aki/Map/Level/Main/BeiLuoYe/InstanceTree_BeiLuoYe_fushua\u0000\u0000"
+        "MapPath": "/Game/Aki/Map/Level/Main/BeiLuoYe/InstanceTree_BeiLuoYe_fushua"
     }
 ]

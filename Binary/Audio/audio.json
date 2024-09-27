@@ -1,86 +1,86 @@
 [
     {
         "Id": "play_ui_fb_concerto_energy",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_fb_concerto_energy.play_ui_fb_concerto_energy\u0000\u0000\u0000\u001a\u0000\u0000\u0000play_ui_fb_concerto_energy\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fb_concerto_energy.play_ui_fb_concerto_energy"
     },
     {
         "Id": "SignalDecodeGame_count_down",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_fx_com_count_number.play_ui_fx_com_count_number\u0000\u001b\u0000\u0000\u0000SignalDecodeGame_count_down\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_com_count_number.play_ui_fx_com_count_number"
     },
     {
         "Id": "SignalDecodeGame_count_down_End",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\\\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_fx_com_count_start.play_ui_fx_com_count_start\u0000\u0000\u0000\u001f\u0000\u0000\u0000SignalDecodeGame_count_down_End\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_com_count_start.play_ui_fx_com_count_start"
     },
     {
         "Id": "SignalDecodeGame_play_base_noise",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000t\u0000\u0000\u0000i\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_noise.play_amb_interact_capture_signal_noise\u0000\u0000\u0000 \u0000\u0000\u0000SignalDecodeGame_play_base_noise\u0000\u0000\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_noise.play_amb_interact_capture_signal_noise"
     },
     {
         "Id": "SignalDecodeGame_stop_base_noise",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000t\u0000\u0000\u0000i\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/stop_amb_interact_capture_signal_noise.stop_amb_interact_capture_signal_noise\u0000\u0000\u0000 \u0000\u0000\u0000SignalDecodeGame_stop_base_noise\u0000\u0000\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/stop_amb_interact_capture_signal_noise.stop_amb_interact_capture_signal_noise"
     },
     {
         "Id": "SignalDecodeGame_play_press_loop",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000|\u0000\u0000\u0000s\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_press_loop.play_amb_interact_capture_signal_press_loop\u0000 \u0000\u0000\u0000SignalDecodeGame_play_press_loop\u0000\u0000\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_press_loop.play_amb_interact_capture_signal_press_loop"
     },
     {
         "Id": "SignalDecodeGame_stop_press_loop",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000|\u0000\u0000\u0000s\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/stop_amb_interact_capture_signal_press_loop.stop_amb_interact_capture_signal_press_loop\u0000 \u0000\u0000\u0000SignalDecodeGame_stop_press_loop\u0000\u0000\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/stop_amb_interact_capture_signal_press_loop.stop_amb_interact_capture_signal_press_loop"
     },
     {
         "Id": "SignalDecodeGame_release_correct",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000}\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_release_correct.play_amb_interact_capture_signal_release_correct\u0000\u0000\u0000 \u0000\u0000\u0000SignalDecodeGame_release_correct\u0000\u0000\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_release_correct.play_amb_interact_capture_signal_release_correct"
     },
     {
         "Id": "SignalDecodeGame_release_error",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000y\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_release_error.play_amb_interact_capture_signal_release_error\u0000\u0000\u0000\u001e\u0000\u0000\u0000SignalDecodeGame_release_error\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_release_error.play_amb_interact_capture_signal_release_error"
     },
     {
         "Id": "SceneItemDrop_play_item_pickup",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000H\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_fb_pickup.play_ui_fb_pickup\u0000\u001e\u0000\u0000\u0000SceneItemDrop_play_item_pickup\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fb_pickup.play_ui_fb_pickup"
     },
     {
         "Id": "play_amb_interact_sundial_inner_circle_loop",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000|\u0000\u0000\u0000s\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_inner_circle_loop.play_amb_interact_sundial_inner_circle_loop\u0000+\u0000\u0000\u0000play_amb_interact_sundial_inner_circle_loop\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_inner_circle_loop.play_amb_interact_sundial_inner_circle_loop"
     },
     {
         "Id": "play_amb_interact_sundial_inner_circle_stuck",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000u\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_inner_circle_stuck.play_amb_interact_sundial_inner_circle_stuck\u0000\u0000\u0000,\u0000\u0000\u0000play_amb_interact_sundial_inner_circle_stuck\u0000\u0000\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_inner_circle_stuck.play_amb_interact_sundial_inner_circle_stuck"
     },
     {
         "Id": "play_amb_interact_sundial_outer_circle_loop",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000|\u0000\u0000\u0000s\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_outer_circle_loop.play_amb_interact_sundial_outer_circle_loop\u0000+\u0000\u0000\u0000play_amb_interact_sundial_outer_circle_loop\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_outer_circle_loop.play_amb_interact_sundial_outer_circle_loop"
     },
     {
         "Id": "play_amb_interact_sundial_outer_circle_stuck",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0000u\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_outer_circle_stuck.play_amb_interact_sundial_outer_circle_stuck\u0000\u0000\u0000,\u0000\u0000\u0000play_amb_interact_sundial_outer_circle_stuck\u0000\u0000\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_outer_circle_stuck.play_amb_interact_sundial_outer_circle_stuck"
     },
     {
         "Id": "play_amb_interact_sundial_activate",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000a\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_activate.play_amb_interact_sundial_activate\u0000\u0000\u0000\"\u0000\u0000\u0000play_amb_interact_sundial_activate\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_activate.play_amb_interact_sundial_activate"
     },
     {
         "Id": "play_amb_interact_sundial_deactivate",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000p\u0000\u0000\u0000e\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_deactivate.play_amb_interact_sundial_deactivate\u0000\u0000\u0000$\u0000\u0000\u0000play_amb_interact_sundial_deactivate\u0000\u0000\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_deactivate.play_amb_interact_sundial_deactivate"
     },
     {
         "Id": "play_amb_interact_sundial_finish",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000]\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_finish.play_amb_interact_sundial_finish\u0000\u0000\u0000 \u0000\u0000\u0000play_amb_interact_sundial_finish\u0000\u0000\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_finish.play_amb_interact_sundial_finish"
     },
     {
         "Id": "play_ui_fx_spl_gen_page_open",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000`\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_fx_spl_gen_page_open.play_ui_fx_spl_gen_page_open\u0000\u0000\u0000\u001c\u0000\u0000\u0000play_ui_fx_spl_gen_page_open\u0000\u0000\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_spl_gen_page_open.play_ui_fx_spl_gen_page_open"
     },
     {
         "Id": "play_ui_fx_spl_gen_page_close",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000`\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_fx_spl_gen_page_close.play_ui_fx_spl_gen_page_close\u0000\u001d\u0000\u0000\u0000play_ui_fx_spl_gen_page_close\u0000\u0000\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_spl_gen_page_close.play_ui_fx_spl_gen_page_close"
     },
     {
         "Id": "play_ui_fx_spl_gen_robot_success_vo",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000l\u0000\u0000\u0000c\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_fx_spl_gen_robot_success_vo.play_ui_fx_spl_gen_robot_success_vo\u0000#\u0000\u0000\u0000play_ui_fx_spl_gen_robot_success_vo\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_spl_gen_robot_success_vo.play_ui_fx_spl_gen_robot_success_vo"
     },
     {
         "Id": "play_ui_fb_warn",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000D\u0000\u0000\u0000;\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_ui_fb_warn.play_ui_fb_warn\u0000\u000f\u0000\u0000\u0000play_ui_fb_warn\u0000"
+        "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fb_warn.play_ui_fb_warn"
     }
 ]

@@ -2,176 +2,566 @@
     {
         "TypeId": 2,
         "Type": "GetPhantomQualityLevelUp",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000`\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0005\u0000\u0000\u0000level\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0007\u0000\u0000\u0000quality\u0000\u0018\u0000\u0000\u0000GetPhantomQualityLevelUp\u0000\u0000\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "quality",
+                "value": "int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "level",
+                "value": "int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 3,
         "Type": "RoleWereAndActivateFetters",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u00008\u0000\u0000\u0000\\\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0004\u0000\u0000\u0000suit\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0007\u0000\u0000\u0000quality\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0003\u0000\u0000\u0000num\u0000\u001a\u0000\u0000\u0000RoleWereAndActivateFetters\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "num",
+                "value": "int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "quality",
+                "value": "int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "suit",
+                "value": "int"
+            }
+        ],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 4,
         "Type": "TerminalLevelUp",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000f\u0000\u0000\u0000TerminalLevelUp\u0000"
+        "Nullenable": [],
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 5,
         "Type": "GetWeaponQualityLevelUp",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00008\u0000\u0000\u0000d\u0000\u0000\u0000l\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0005\u0000\u0000\u0000level\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0007\u0000\u0000\u0000quality\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0017\u0000\u0000\u0000GetWeaponQualityLevelUp\u0000"
+        "Nullenable": [
+            1,
+            2
+        ],
+        "Param1": [
+            {
+                "key": "quality",
+                "value": "int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "level",
+                "value": "int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 6,
         "Type": "PropertiesRoleLevelUp",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00008\u0000\u0000\u0000d\u0000\u0000\u0000l\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0005\u0000\u0000\u0000level\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0004\u0000\u0000\u0000type\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0015\u0000\u0000\u0000PropertiesRoleLevelUp\u0000\u0000\u0000"
+        "Nullenable": [
+            1,
+            2
+        ],
+        "Param1": [
+            {
+                "key": "type",
+                "value": "int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "level",
+                "value": "int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 7,
         "Type": "RoleSkillLevelUp",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00008\u0000\u0000\u0000`\u0000\u0000\u0000d\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0005\u0000\u0000\u0000level\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0003\u0000\u0000\u0000num\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0010\u0000\u0000\u0000RoleSkillLevelUp\u0000\u0000\u0000\u0000"
+        "Nullenable": [
+            1
+        ],
+        "Param1": [
+            {
+                "key": "num",
+                "value": "int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "level",
+                "value": "int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 8,
         "Type": "ActiveDeliveryPoint",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\u0013\u0000\u0000\u0000ActiveDeliveryPoint\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 9,
         "Type": "ActiveDeliveryPointInRegion",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000<\u0000\u0000\u0000\t\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001b\u0000\u0000\u0000ActiveDeliveryPointInRegion\u0000"
+        "Nullenable": [
+            1
+        ],
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 10,
         "Type": "GetWorldCollection",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\u0012\u0000\u0000\u0000GetWorldCollection\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 11,
         "Type": "GetLightCatReward",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0011\u0000\u0000\u0000GetLightCatReward\u0000\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 12,
         "Type": "GetBoxReward",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000GetBoxReward\u0000\u0000\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 13,
         "Type": "QuestFinish",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\r\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\u000b\u0000\u0000\u0000QuestFinish\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 14,
         "Type": "ConsumeItem",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\u000b\u0000\u0000\u0000ConsumeItem\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 15,
         "Type": "GetDungeonReward",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\u0010\u0000\u0000\u0000GetDungeonReward\u0000\u0000\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 16,
         "Type": "GetLevePlayReward",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\u0011\u0000\u0000\u0000GetLevePlayReward\u0000\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 17,
         "Type": "测试",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0006\u0000\u0000\u0000测试\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 18,
         "Type": "CapturePhantom",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00008\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000Quality\u0000\u000e\u0000\u0000\u0000CapturePhantom\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Quality",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 19,
         "Type": "FinishDungeon",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\r\u0000\u0000\u0000FinishDungeon\u0000\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 20,
         "Type": "FinishCook",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\n\u0000\u0000\u0000FinishCook\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 21,
         "Type": "FinishSynthesis",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\u000f\u0000\u0000\u0000FinishSynthesis\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 22,
         "Type": "FinishForge",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\u000b\u0000\u0000\u0000FinishForge\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 23,
         "Type": "XRoleEquipXQualityWeapon",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00008\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0007\u0000\u0000\u0000quality\u0000\u0018\u0000\u0000\u0000XRoleEquipXQualityWeapon\u0000\u0000\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "quality",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 24,
         "Type": "ActiveXTeleport",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00008\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0007\u0000\u0000\u0000i_array\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\u000f\u0000\u0000\u0000ActiveXTeleport\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "i_array"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 25,
         "Type": "InstanceTypeFinishCount",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u000b\u0000\u0000\u0000CustomTypes\u0000\u0017\u0000\u0000\u0000InstanceTypeFinishCount\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "CustomTypes",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 26,
         "Type": "LevelPlayCompleteCount",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\t\u0000\u0000\u0000LevelType\u0000\u0000\u0000\u0016\u0000\u0000\u0000LevelPlayCompleteCount\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "LevelType",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 27,
         "Type": "SoundBoxReachXLevel",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000h\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0005\u0000\u0000\u0000level\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\f\u0000\u0000\u0000DragonPoolId\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000SoundBoxReachXLevel\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "DragonPoolId",
+                "value": "int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "level",
+                "value": "int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 28,
         "Type": "PhantomProgress",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0003\u0000\u0000\u0000num\u0000\u000f\u0000\u0000\u0000PhantomProgress\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "num",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 29,
         "Type": "PassTowerFloor",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u00008\u0000\u0000\u0000\\\u0000\u0000\u0000�\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0005\u0000\u0000\u0000Floor\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0007\u0000\u0000\u0000AreaNum\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\n\u0000\u0000\u0000Difficulty\u0000\u0000\u000e\u0000\u0000\u0000PassTowerFloor\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Difficulty",
+                "value": "int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "AreaNum",
+                "value": "int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "Floor",
+                "value": "int"
+            }
+        ],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 30,
         "Type": "PassTowerStarCount",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u00008\u0000\u0000\u0000\\\u0000\u0000\u0000�\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0004\u0000\u0000\u0000Star\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0007\u0000\u0000\u0000AreaNum\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\n\u0000\u0000\u0000Difficulty\u0000\u0000\u0012\u0000\u0000\u0000PassTowerStarCount\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Difficulty",
+                "value": "int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "AreaNum",
+                "value": "int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "Star",
+                "value": "int"
+            }
+        ],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 31,
         "Type": "PassLordLayer",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000\u001f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\r\u0000\u0000\u0000PassLordLayer\u0000\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 33,
         "Type": "CommemorativeCoinsStoreConsumeXTimes",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000!\u0000\u0000\u0000$\u0000\u0000\u0000CommemorativeCoinsStoreConsumeXTimes\u0000\u0000\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 34,
         "Type": "PhantomIdentifyYQualityXNum",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00008\u0000\u0000\u0000\"\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000Quality\u0000\u001b\u0000\u0000\u0000PhantomIdentifyYQualityXNum\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Quality",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 35,
         "Type": "GetXPlayLevelTypeFirstPassReward",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000#\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\t\u0000\u0000\u0000LevelType\u0000\u0000\u0000 \u0000\u0000\u0000GetXPlayLevelTypeFirstPassReward\u0000\u0000\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "LevelType",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 36,
         "Type": "PassXDifficultyRogue",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u00008\u0000\u0000\u0000$\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000InstId\u0000\u0000\u0014\u0000\u0000\u0000PassXDifficultyRogue\u0000\u0000\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "InstId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     },
     {
         "TypeId": 37,
         "Type": "PassExploreLevel",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000`\u0000\u0000\u0000%\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0005\u0000\u0000\u0000Level\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0007\u0000\u0000\u0000Country\u0000\u0010\u0000\u0000\u0000PassExploreLevel\u0000\u0000\u0000\u0000"
+        "Nullenable": [],
+        "Param1": [
+            {
+                "key": "Country",
+                "value": "int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Level",
+                "value": "int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": []
     }
 ]

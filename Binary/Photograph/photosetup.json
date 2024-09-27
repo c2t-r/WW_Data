@@ -2,26 +2,106 @@
     {
         "Id": 1,
         "ValueType": 0,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u001c\u0000\u0000\u0000\\\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000�B\u0000\u0000HB\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000 \u0000\u0000\u0000\u0016\u0000\u0000\u0000PhotoSetup_1_Options_0\u0000\u0000\u0016\u0000\u0000\u0000PhotoSetup_1_Options_1\u0000\u0000\u0011\u0000\u0000\u0000PhotoSetup_1_Name\u0000\u0000\u0000"
+        "Name": "PhotoSetup_1_Name",
+        "Type": 0,
+        "Options": [
+            "PhotoSetup_1_Options_0",
+            "PhotoSetup_1_Options_1"
+        ],
+        "DefaultOptionIndex": 1,
+        "SubOptions": [],
+        "ValueRange": [
+            0.0,
+            100.0,
+            50.0
+        ],
+        "IsReverseSet": false,
+        "ChangeValue": 0.1
     },
     {
         "Id": 3,
         "ValueType": 2,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u0014\u0000\u0000\u0000 \u0000\u0000\u0000`\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000�B\u0000\u0000HB\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000 \u0000\u0000\u0000\u0016\u0000\u0000\u0000PhotoSetup_3_Options_0\u0000\u0000\u0016\u0000\u0000\u0000PhotoSetup_3_Options_1\u0000\u0000\u0011\u0000\u0000\u0000PhotoSetup_3_Name\u0000\u0000\u0000"
+        "Name": "PhotoSetup_3_Name",
+        "Type": 0,
+        "Options": [
+            "PhotoSetup_3_Options_0",
+            "PhotoSetup_3_Options_1"
+        ],
+        "DefaultOptionIndex": 1,
+        "SubOptions": [],
+        "ValueRange": [
+            0.0,
+            100.0,
+            50.0
+        ],
+        "IsReverseSet": false,
+        "ChangeValue": 0.1
     },
     {
         "Id": 4,
         "ValueType": 3,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000(\u0000\u0000\u0000\u0000\u0000\u0000\u0000T\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000�B\u0000\u0000HB\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\n\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000 \u0000\u0000\u0000\u0016\u0000\u0000\u0000PhotoSetup_4_Options_0\u0000\u0000\u0016\u0000\u0000\u0000PhotoSetup_4_Options_1\u0000\u0000\u0011\u0000\u0000\u0000PhotoSetup_4_Name\u0000\u0000\u0000"
+        "Name": "PhotoSetup_4_Name",
+        "Type": 0,
+        "Options": [
+            "PhotoSetup_4_Options_0",
+            "PhotoSetup_4_Options_1"
+        ],
+        "DefaultOptionIndex": 0,
+        "SubOptions": [
+            {
+                "key": 0,
+                "value": {
+                    "ArrayInt": [
+                        4,
+                        5
+                    ]
+                }
+            }
+        ],
+        "ValueRange": [
+            0.0,
+            100.0,
+            50.0
+        ],
+        "IsReverseSet": false,
+        "ChangeValue": 0.1
     },
     {
         "Id": 5,
         "ValueType": 4,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0000\u0000�@\u0018\u0000\u0000\u0000$\u0000\u0000\u0000\u0001\u0000\u0000\u0000@\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000�C\u0000\u0000�C\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000关闭\u0000\u0000\u0006\u0000\u0000\u0000开启\u0000\u0000\u0011\u0000\u0000\u0000PhotoSetup_5_Name\u0000\u0000\u0000"
+        "Name": "PhotoSetup_5_Name",
+        "Type": 1,
+        "Options": [
+            "关闭",
+            "开启"
+        ],
+        "DefaultOptionIndex": 1,
+        "SubOptions": [],
+        "ValueRange": [
+            0.0,
+            500.0,
+            400.0
+        ],
+        "IsReverseSet": false,
+        "ChangeValue": 5.0
     },
     {
         "Id": 6,
         "ValueType": 5,
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0007\u0000\u0016\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0018\u0000\u0000\u0000$\u0000\u0000\u0000\u0001\u0000\u0000\u0000@\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0003\u0000\u0000\u0000���=\u0000\u0000�@���=\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000关闭\u0000\u0000\u0006\u0000\u0000\u0000开启\u0000\u0000\u0011\u0000\u0000\u0000PhotoSetup_6_Name\u0000\u0000\u0000"
+        "Name": "PhotoSetup_6_Name",
+        "Type": 1,
+        "Options": [
+            "关闭",
+            "开启"
+        ],
+        "DefaultOptionIndex": 1,
+        "SubOptions": [],
+        "ValueRange": [
+            0.10000000149011612,
+            5.0,
+            0.10000000149011612
+        ],
+        "IsReverseSet": true,
+        "ChangeValue": 0.1
     }
 ]

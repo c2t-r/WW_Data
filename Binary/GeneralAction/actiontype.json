@@ -1,494 +1,2626 @@
 [
     {
         "Type": "DestroySelf",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u000b\u0000\u0000\u0000DestroySelf\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "DestroyTargetWithTag",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0001`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u0014\u0000\u0000\u0000DestroyTargetWithTag\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "CreateEntity",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000\u0000\u0000\u0000\u0001d\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreateRange\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\b\u0000\u0000\u0000EntityID\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000CreateEntity\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "EntityID",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "CreateRange",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RemoveTag",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0001`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0006\u0000\u0000\u0000Target\u0000\u0000\t\u0000\u0000\u0000RemoveTag\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "Target",
+                "value": "String"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "AddTag",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0001`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0006\u0000\u0000\u0000Target\u0000\u0000\u0006\u0000\u0000\u0000AddTag\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "Target",
+                "value": "String"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "GetItem",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000\\\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0005\u0000\u0000\u0000Count\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000ItemID\u0000\u0000\u0007\u0000\u0000\u0000GetItem\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "ItemID",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Count",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RemoveItem",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000\\\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0005\u0000\u0000\u0000Count\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000ItemID\u0000\u0000\n\u0000\u0000\u0000RemoveItem\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "ItemID",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Count",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ManageQuestStep",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000@\u0000\u0000\u0000d\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\t\u0000\u0000\u0000ManageWay\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000StepID\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0007\u0000\u0000\u0000QuestID\u0000\u000f\u0000\u0000\u0000ManageQuestStep\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "QuestID",
+                "value": "String"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "StepID",
+                "value": "Int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "ManageWay",
+                "value": "String"
+            }
+        ],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ResetQuestStep",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000StepID\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0007\u0000\u0000\u0000QuestID\u0000\u000e\u0000\u0000\u0000ResetQuestStep\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "QuestID",
+                "value": "String"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "StepID",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ActivateCreatureGen",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00008\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u0013\u0000\u0000\u0000ActivateCreatureGen\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ActivateDynamicCreatureGen",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0014\u0000\u0000\u00008\u0000\u0000\u0000d\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0004\u0000\u0000\u0000PosX\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u000b\u0000\u0000\u0000PosStrategy\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\r\u0000\u0000\u0000CreatureGenID\u0000\u0000\u0000\u001a\u0000\u0000\u0000ActivateDynamicCreatureGen\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGenID",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "PosStrategy",
+                "value": "String"
+            }
+        ],
+        "Param3": [],
+        "Param4": [
+            {
+                "key": "PosX",
+                "value": "Int"
+            }
+        ],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RemoveDynamicCreatureGen",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001<\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\r\u0000\u0000\u0000CreatureGenID\u0000\u0000\u0000\u0018\u0000\u0000\u0000RemoveDynamicCreatureGen\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGenID",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "AddCreatureTag",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0001`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u000e\u0000\u0000\u0000AddCreatureTag\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RemoveCreatureTag",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0001`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u0011\u0000\u0000\u0000RemoveCreatureTag\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "MonitorTargetDeathCount",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0017\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0018\u0000\u0000\u0000@\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000|���\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\t\u0000\u0000\u0000CallEvent\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\r\u0000\u0000\u0000CallCondition\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u0017\u0000\u0000\u0000MonitorTargetDeathCount\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "CallCondition",
+                "value": "Int"
+            }
+        ],
+        "Param4": [
+            {
+                "key": "CallEvent",
+                "value": "Int"
+            }
+        ],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ActivateInteraction",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0013\u0000\u0000\u0000ActivateInteraction\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "UpdateInterState",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0001`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000StepID\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0007\u0000\u0000\u0000QuestID\u0000\u0010\u0000\u0000\u0000UpdateInterState\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "QuestID",
+                "value": "String"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "StepID",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "CloseWidget",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u000b\u0000\u0000\u0000CloseWidget\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "UpdateQuestIcon",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u000f\u0000\u0000\u0000UpdateQuestIcon\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "SetPos",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0017\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0018\u0000\u0000\u0000@\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0006\u0000\u0000\u0000Target\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0004\u0000\u0000\u0000zPos\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0004\u0000\u0000\u0000yPos\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0004\u0000\u0000\u0000xPos\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000SetPos\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "xPos",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "yPos",
+                "value": "Int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "zPos",
+                "value": "Int"
+            }
+        ],
+        "Param4": [
+            {
+                "key": "Target",
+                "value": "String"
+            }
+        ],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "SetOffset",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u00008\u0000\u0000\u0000\\\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000zOffset\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\t\u0000\u0000\u0000SetOffset\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "zOffset",
+                "value": "Int"
+            }
+        ],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "SetRotation",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000<\u0000\u0000\u0000`\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\t\u0000\u0000\u0000xRotation\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u000b\u0000\u0000\u0000SetRotation\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "xRotation",
+                "value": "Int"
+            }
+        ],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ChangeFightIntensity",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000@\u0000\u0000\u0000d\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000e\u0000\u0000\u0000FightIntensity\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u0014\u0000\u0000\u0000ChangeFightIntensity\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "FightIntensity",
+                "value": "Int"
+            }
+        ],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "UpdatePlayerInfoTag",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0001\\\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0004\u0000\u0000\u0000Flag\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0013\u0000\u0000\u0000UpdatePlayerInfoTag\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Flag",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "OpenShop",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000ShopId\u0000\u0000\b\u0000\u0000\u0000OpenShop\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "ShopId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ChangeAI",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000@\u0000\u0000\u0000d\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\b\u0000\u0000\u0000AIConfig\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\b\u0000\u0000\u0000ChangeAI\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "AIConfig",
+                "value": "String"
+            }
+        ],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "GuideTrigger",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001<\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\f\u0000\u0000\u0000GuideGroupId\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000GuideTrigger\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "GuideGroupId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "BeginStatueAdoreGP",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0012\u0000\u0000\u0000BeginStatueAdoreGP\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "BeginCipher",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001<\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000e\u0000\u0000\u0000CipherConfigID\u0000\u0000\u000b\u0000\u0000\u0000BeginCipher\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CipherConfigID",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "FocusOnInformationBoard",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0017\u0000\u0000\u0000FocusOnInformationBoard\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "InstSettle",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000Result\u0000\u0000\n\u0000\u0000\u0000InstSettle\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "Result",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "OpenInstance",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\n\u0000\u0000\u0000InstanceId\u0000\u0000\f\u0000\u0000\u0000OpenInstance\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "InstanceId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "TeleportTrigger",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\n\u0000\u0000\u0000TeleportId\u0000\u0000\u000f\u0000\u0000\u0000TeleportTrigger\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "TeleportId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "AudioEvent",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001<\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\t\u0000\u0000\u0000EventPath\u0000\u0000\u0000\n\u0000\u0000\u0000AudioEvent\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "EventPath",
+                "value": "String"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "SendGameplayEventToPlayer",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0001d\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0004\u0000\u0000\u0000Both\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u000b\u0000\u0000\u0000GameplayTag\u0000\u0019\u0000\u0000\u0000SendGameplayEventToPlayer\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "GameplayTag",
+                "value": "String"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Both",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "GuideFinish",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001<\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\r\u0000\u0000\u0000GuidePassword\u0000\u0000\u0000\u000b\u0000\u0000\u0000GuideFinish\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "GuidePassword",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "SceneStepFail",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000@\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0010\u0000\u0000\u0000SceneStepGroupId\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000SceneStepFail\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "SceneStepGroupId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "JumpToSceneStep",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000l\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000SceneStepId\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0010\u0000\u0000\u0000SceneStepGroupId\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000JumpToSceneStep\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "SceneStepGroupId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "SceneStepId",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "SetRevivePoint",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00008\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u000e\u0000\u0000\u0000SetRevivePoint\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "AdjustTodTime",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000Minute\u0000\u0000\r\u0000\u0000\u0000AdjustTodTime\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "Minute",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "SetReviveId",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00008\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\b\u0000\u0000\u0000ReviveId\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000SetReviveId\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "ReviveId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "AddReviveRegion",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00008\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\b\u0000\u0000\u0000ReviveId\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000AddReviveRegion\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "ReviveId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RemoveReviveRegion",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00008\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\b\u0000\u0000\u0000ReviveId\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000RemoveReviveRegion\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "ReviveId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "AddEntityCommonTag",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000l\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u000f\u0000\u0000\u0000EntityCommonTag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u0012\u0000\u0000\u0000AddEntityCommonTag\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "EntityCommonTag",
+                "value": "String"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RemoveEntityCommonTag",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u0000<\u0000\u0000\u0000l\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u000f\u0000\u0000\u0000EntityCommonTag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u0015\u0000\u0000\u0000RemoveEntityCommonTag\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "EntityCommonTag",
+                "value": "String"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "OpenUI",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0006\u0000\u0000\u0000UIName\u0000\u0000\u0006\u0000\u0000\u0000OpenUI\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "UIName",
+                "value": "String"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "Prompt",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0005\u0000\u0000\u0000TipId\u0000\u0000\u0000\u0006\u0000\u0000\u0000Prompt\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "TipId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "AddBuffToPlayer",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000Long\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\u000f\u0000\u0000\u0000AddBuffToPlayer\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "Long"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RemoveBuffFromPlayer",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000Long\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000Id\u0000\u0000\u0014\u0000\u0000\u0000RemoveBuffFromPlayer\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "Id",
+                "value": "Long"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "AddBuffToCreature",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000\u0000\u0000\u0000\u0001d\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000Long\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000BuffId\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u0011\u0000\u0000\u0000AddBuffToCreature\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "BuffId",
+                "value": "Long"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RemoveBuffFromCreature",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000\u0000\u0000\u0000\u0001d\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000Long\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000BuffId\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u0016\u0000\u0000\u0000RemoveBuffFromCreature\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "BuffId",
+                "value": "Long"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "OpenInstanceEntrance",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\n\u0000\u0000\u0000EntranceId\u0000\u0000\u0014\u0000\u0000\u0000OpenInstanceEntrance\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "EntranceId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "UnlockInstanceEntrance",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\n\u0000\u0000\u0000EntranceId\u0000\u0000\u0016\u0000\u0000\u0000UnlockInstanceEntrance\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "EntranceId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "UpdateInstanceEntranceUnlockStatus",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\n\u0000\u0000\u0000EntranceId\u0000\u0000\"\u0000\u0000\u0000UpdateInstanceEntranceUnlockStatus\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "EntranceId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RefreshCreatureGen",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0006\u0000\u0000\u0000AreaId\u0000\u0000\u0012\u0000\u0000\u0000RefreshCreatureGen\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "AreaId",
+                "value": "String"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "InstTrialRoleActivate",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000RoleId\u0000\u0000\u0015\u0000\u0000\u0000InstTrialRoleActivate\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "RoleId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "InstTrialRoletInactivate",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000RoleId\u0000\u0000\u0018\u0000\u0000\u0000InstTrialRoletInactivate\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "RoleId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "WorldTrialRoleActivate",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\b\u0000\u0000\u0000RegionId\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000RoleId\u0000\u0000\u0016\u0000\u0000\u0000WorldTrialRoleActivate\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "RoleId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "RegionId",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "WorldTrialRoleInactivate",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000RoleId\u0000\u0000\u0018\u0000\u0000\u0000WorldTrialRoleInactivate\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "RoleId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "UnlockExploreTool",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000<\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000e\u0000\u0000\u0000ExploreSkillId\u0000\u0000\u0011\u0000\u0000\u0000UnlockExploreTool\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "ExploreSkillId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "SetTargetPos",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0017\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0018\u0000\u0000\u0000@\u0000\u0000\u0000h\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000|���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0004\u0000\u0000\u0000zPos\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0004\u0000\u0000\u0000yPos\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0004\u0000\u0000\u0000xPos\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\f\u0000\u0000\u0000SetTargetPos\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "xPos",
+                "value": "Float"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "yPos",
+                "value": "Float"
+            }
+        ],
+        "Param4": [
+            {
+                "key": "zPos",
+                "value": "Float"
+            }
+        ],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "OpenDragonPool",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001<\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\f\u0000\u0000\u0000DragonPoolId\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000OpenDragonPool\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "DragonPoolId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "CameraLookAtPosition",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000(\u0000$\u0000#\u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u0000T\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000 \u0001\u0000\u0000\u0000\u0000\u0000\u0001H\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u000f\u0000\u0000\u0000LockCameraInput\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000 ���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u000b\u0000\u0000\u0000FadeOutTime\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000P���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\b\u0000\u0000\u0000StayTime\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\n\u0000\u0000\u0000FadeInTime\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0001\u0000\u0000\u0000Z\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0001\u0000\u0000\u0000Y\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0001\u0000\u0000\u0000X\u0000\u0000\u0000\u0014\u0000\u0000\u0000CameraLookAtPosition\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "X",
+                "value": "Float"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Y",
+                "value": "Float"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "Z",
+                "value": "Float"
+            }
+        ],
+        "Param4": [
+            {
+                "key": "FadeInTime",
+                "value": "Float"
+            }
+        ],
+        "Param5": [
+            {
+                "key": "StayTime",
+                "value": "Float"
+            }
+        ],
+        "Param6": [
+            {
+                "key": "FadeOutTime",
+                "value": "Float"
+            }
+        ],
+        "Param7": [
+            {
+                "key": "LockCameraInput",
+                "value": "Float"
+            }
+        ],
+        "Param8": []
     },
     {
         "Type": "ExitCameraLookAtPosition",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000ExitCameraLookAtPosition\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "SetPlayerMoveControl",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0017\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0018\u0000\u0000\u0000<\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0004\u0000\u0000\u0000Back\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000Forward\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0005\u0000\u0000\u0000Right\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0004\u0000\u0000\u0000Left\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000SetPlayerMoveControl\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "Left",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Right",
+                "value": "Int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "Forward",
+                "value": "Int"
+            }
+        ],
+        "Param4": [
+            {
+                "key": "Back",
+                "value": "Int"
+            }
+        ],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "SetPlayerCameraLockState",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000IsLock\u0000\u0000\u0018\u0000\u0000\u0000SetPlayerCameraLockState\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "IsLock",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "PlayPlot",
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u001b\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000L\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000H���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\r\u0000\u0000\u0000PlotConfigRes\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000|���\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\b\u0000\u0000\u0000WaitTick\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000IsCache\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\n\u0000\u0000\u0000NetworkRes\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\t\u0000\u0000\u0000NetworkId\u0000\u0000\u0000\b\u0000\u0000\u0000PlayPlot\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "NetworkId",
+                "value": "String"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "NetworkRes",
+                "value": "String"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "IsCache",
+                "value": "Int"
+            }
+        ],
+        "Param4": [
+            {
+                "key": "WaitTick",
+                "value": "Int"
+            }
+        ],
+        "Param5": [
+            {
+                "key": "PlotConfigRes",
+                "value": "String"
+            }
+        ],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "SetTimeSlowDown",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001<\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000f\u0000\u0000\u0000DilationPercent\u0000\u000f\u0000\u0000\u0000SetTimeSlowDown\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "DilationPercent",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "WaitFlyControl",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0012\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u00008\u0000\u0000\u0000\\\u0000\u0000\u0000\u0000\u0000\u0001\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000Failure\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000Success\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\b\u0000\u0000\u0000WaitTime\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000WaitFlyControl\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": true,
+        "Param1": [
+            {
+                "key": "WaitTime",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Success",
+                "value": "Int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "Failure",
+                "value": "Int"
+            }
+        ],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "WaitTime",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\n\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0001\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0004\u0000\u0000\u0000Time\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000WaitTime\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": true,
+        "Param1": [
+            {
+                "key": "Time",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "TriggerExit",
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\f\u0000\b\u0000\u0007\u0000\u0006\u0000\n\u0000\u0000\u0000\u0000\u0000\u0001\u0001\u0004\u0000\u0000\u0000\u000b\u0000\u0000\u0000TriggerExit\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": true,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "CheckFlyState",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0001\\\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000Failure\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000Success\u0000\r\u0000\u0000\u0000CheckFlyState\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "Success",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Failure",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "TimerController",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u00008\u0000\u0000\u0000`\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0005\u0000\u0000\u0000TipId\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\b\u0000\u0000\u0000Activate\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000TimerID\u0000\u000f\u0000\u0000\u0000TimerController\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "TimerID",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Activate",
+                "value": "Int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "TipId",
+                "value": "Int"
+            }
+        ],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "InstStepProgressFail",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0014\u0000\u0000\u0000InstStepProgressFail\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "DoDrop",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000DropId\u0000\u0000\u0006\u0000\u0000\u0000DoDrop\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "DropId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "DisableQuestStep",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000StepID\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0007\u0000\u0000\u0000QuestID\u0000\u0010\u0000\u0000\u0000DisableQuestStep\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "QuestID",
+                "value": "String"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "StepID",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "OpenJoinTeamView",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001<\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\r\u0000\u0000\u0000DescriptionId\u0000\u0000\u0000\u0010\u0000\u0000\u0000OpenJoinTeamView\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "DescriptionId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "CaptureRequest",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\n\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0001\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000Success\u0000\u000e\u0000\u0000\u0000CaptureRequest\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": true,
+        "Param1": [
+            {
+                "key": "Success",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ShowDialog",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0017\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0018\u0000\u0000\u0000@\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000x���\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\n\u0000\u0000\u0000RemoveTime\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\r\u0000\u0000\u0000DataTableName\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000RowName\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000IsCache\u0000\n\u0000\u0000\u0000ShowDialog\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "IsCache",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "RowName",
+                "value": "Int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "DataTableName",
+                "value": "String"
+            }
+        ],
+        "Param4": [
+            {
+                "key": "RemoveTime",
+                "value": "Int"
+            }
+        ],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ChangePatrol",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000PatrolIndex\u0000\f\u0000\u0000\u0000ChangePatrol\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "PatrolIndex",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "PlayWuYinSequence",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u0000@\u0000\u0000\u0000\u0000\u0000\u0000\u0001h\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\f\u0000\u0000\u0000SequenceName\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0011\u0000\u0000\u0000PlayWuYinSequence\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "SequenceName",
+                "value": "String"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "StartShootTarget",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000StartShootTarget\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ExchangeReward",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000@\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0010\u0000\u0000\u0000ExchangeRewardId\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000ExchangeReward\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "ExchangeRewardId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "TreasurBoxIdleFlow",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000<\u0000\u0000\u0000`\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\b\u0000\u0000\u0000EntityId\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0005\u0000\u0000\u0000GenId\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000StateId\u0000\u0012\u0000\u0000\u0000TreasurBoxIdleFlow\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "StateId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "GenId",
+                "value": "Int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "EntityId",
+                "value": "int"
+            }
+        ],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "TreasurBoxToDeath",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000\u0000\u0000\u0000\u0001`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\b\u0000\u0000\u0000EntityId\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0005\u0000\u0000\u0000GenId\u0000\u0000\u0000\u0011\u0000\u0000\u0000TreasurBoxToDeath\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "GenId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "EntityId",
+                "value": "int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "CameraShake",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000(\u0000$\u0000#\u0000\u0000\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\f\u0001\u0000\u00008\u0001\u0000\u0000\u0000\u0000\u0000\u0001p\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u001b\u0000\u0000\u0000OrientShakeTowardsEpicenter\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0014���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0007\u0000\u0000\u0000Falloff\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000@���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u000b\u0000\u0000\u0000OuterRadius\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000p���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u000b\u0000\u0000\u0000InnerRadius\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u000b\u0000\u0000\u0000MaxInterval\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u000b\u0000\u0000\u0000MinInterval\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0012\u0000\u0000\u0000MatineeCameraShake\u0000\u0000\u000b\u0000\u0000\u0000CameraShake\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "MatineeCameraShake",
+                "value": "String"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "MinInterval",
+                "value": "Float"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "MaxInterval",
+                "value": "Float"
+            }
+        ],
+        "Param4": [
+            {
+                "key": "InnerRadius",
+                "value": "Float"
+            }
+        ],
+        "Param5": [
+            {
+                "key": "OuterRadius",
+                "value": "Float"
+            }
+        ],
+        "Param6": [
+            {
+                "key": "Falloff",
+                "value": "Float"
+            }
+        ],
+        "Param7": [
+            {
+                "key": "OrientShakeTowardsEpicenter",
+                "value": "String"
+            }
+        ],
+        "Param8": []
     },
     {
         "Type": "OpenWorldMap",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\f\u0000\u0000\u0000OpenWorldMap\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "GamePlaySwitch",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000Switch\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\n\u0000\u0000\u0000GamePlayId\u0000\u0000\u000e\u0000\u0000\u0000GamePlaySwitch\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "GamePlayId",
+                "value": "int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Switch",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "GamePlayComplete",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00008\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\n\u0000\u0000\u0000GamePlayId\u0000\u0000\u0010\u0000\u0000\u0000GamePlayComplete\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "GamePlayId",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "GamePlayReward",
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000e\u0000\u0000\u0000GamePlayReward\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "LoadSceneStepGroup",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00008\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u000b\u0000\u0000\u0000StepGroupId\u0000\u0012\u0000\u0000\u0000LoadSceneStepGroup\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "StepGroupId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "AddTagTreasureBox",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\u0000\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0010\u0000\u0000\u0000@\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u000f\u0000\u0000\u0000EntityCommonTag\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u000e\u0000\u0000\u0000EntityConfigId\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000long\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u0011\u0000\u0000\u0000AddTagTreasureBox\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "long"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "EntityConfigId",
+                "value": "int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "EntityCommonTag",
+                "value": "String"
+            }
+        ],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RemoveTagTreasureBox",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\u0000\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0010\u0000\u0000\u0000@\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u000f\u0000\u0000\u0000EntityCommonTag\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u000e\u0000\u0000\u0000EntityConfigId\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000long\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u0014\u0000\u0000\u0000RemoveTagTreasureBox\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "long"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "EntityConfigId",
+                "value": "int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "EntityCommonTag",
+                "value": "String"
+            }
+        ],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RemoveAllNotTagTreasureBox",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u00008\u0000\u0000\u0000l\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u000e\u0000\u0000\u0000EntityConfigId\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000long\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u001a\u0000\u0000\u0000RemoveAllNotTagTreasureBox\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "long"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "EntityConfigId",
+                "value": "int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RemoveOneNotTagTreasureBox",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u00008\u0000\u0000\u0000l\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u000e\u0000\u0000\u0000EntityConfigId\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000long\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000CreatureGen\u0000\u001a\u0000\u0000\u0000RemoveOneNotTagTreasureBox\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CreatureGen",
+                "value": "long"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "EntityConfigId",
+                "value": "int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "OpenRegionQuest",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0007\u0000\u0000\u0000BoardId\u0000\u000f\u0000\u0000\u0000OpenRegionQuest\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "BoardId",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "OpenHelp",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u000b\u0000\u0000\u0000HelpGroupId\u0000\b\u0000\u0000\u0000OpenHelp\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "HelpGroupId",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "OpenContributionLevelView",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0007\u0000\u0000\u0000BoardId\u0000\u0019\u0000\u0000\u0000OpenContributionLevelView\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "BoardId",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "LevelEventStartSneak",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0007\u0000\u0000\u0000GroupId\u0000\u0014\u0000\u0000\u0000LevelEventStartSneak\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "GroupId",
+                "value": "int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "LevelEventFailSneak",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0013\u0000\u0000\u0000LevelEventFailSneak\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "InstReward",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000@\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000string\u0000\u0000\u000f\u0000\u0000\u0000EntityCommonTag\u0000\n\u0000\u0000\u0000InstReward\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "EntityCommonTag",
+                "value": "string"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ToggleAreaState",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0001\\\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0005\u0000\u0000\u0000State\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000int\u0000\u0006\u0000\u0000\u0000AreaID\u0000\u0000\u000f\u0000\u0000\u0000ToggleAreaState\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "AreaID",
+                "value": "int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "State",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "FloorFlowerInit",
-        "BinData": "\f\u0000\u0000\u0000\u0000\u0000\u0006\u0000\b\u0000\u0004\u0000\u0006\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000f\u0000\u0000\u0000FloorFlowerInit\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "FloorFlowerUse",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000\\\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0005\u0000\u0000\u0000State\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000PointId\u0000\u000e\u0000\u0000\u0000FloorFlowerUse\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "PointId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "State",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "LevelEventPlayerLoockAt",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0017\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0018\u0000\u0000\u0000D\u0000\u0000\u0000l\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000x���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\n\u0000\u0000\u0000CameraMove\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0004\u0000\u0000\u0000PosY\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0004\u0000\u0000\u0000PosY\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0004\u0000\u0000\u0000PosY\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000LevelEventPlayerLoockAt\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "PosY",
+                "value": "Float"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "PosY",
+                "value": "Float"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "PosY",
+                "value": "Float"
+            }
+        ],
+        "Param4": [
+            {
+                "key": "CameraMove",
+                "value": "String"
+            }
+        ],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "LevelEventToLocation",
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u001b\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000@\u0000\u0000\u0000h\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000T���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000|���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000Long\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000GenId\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0004\u0000\u0000\u0000RotZ\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0004\u0000\u0000\u0000RotY\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0004\u0000\u0000\u0000RotX\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000LevelEventToLocation\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "RotX",
+                "value": "Float"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "RotY",
+                "value": "Float"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "RotZ",
+                "value": "Float"
+            }
+        ],
+        "Param4": [
+            {
+                "key": "GenId",
+                "value": "Long"
+            }
+        ],
+        "Param5": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "AddInstTimer",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000TimerId\u0000\f\u0000\u0000\u0000AddInstTimer\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "TimerId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "DelInstTimer",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000TimerId\u0000\f\u0000\u0000\u0000DelInstTimer\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "TimerId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ResetInstTimer",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000TimerId\u0000\u000e\u0000\u0000\u0000ResetInstTimer\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "TimerId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "LevelEventLaunchBullet",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000<\u0000\u0000\u0000d\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0006\u0000\u0000\u0000Height\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000Float\u0000\u0000\u0000\u0006\u0000\u0000\u0000Radius\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\r\u0000\u0000\u0000BulletRowName\u0000\u0000\u0000\u0016\u0000\u0000\u0000LevelEventLaunchBullet\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "BulletRowName",
+                "value": "String"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Radius",
+                "value": "Float"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "Height",
+                "value": "Float"
+            }
+        ],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "LevelEventSetBlackBoardValue",
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u001b\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000D\u0000\u0000\u0000h\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000X���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0005\u0000\u0000\u0000Value\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Key\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0004\u0000\u0000\u0000Type\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0003\u0000\u0000\u0000Tag\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000Long\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000GenId\u0000\u0000\u0000\u001c\u0000\u0000\u0000LevelEventSetBlackBoardValue\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "GenId",
+                "value": "Long"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Tag",
+                "value": "String"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "Type",
+                "value": "String"
+            }
+        ],
+        "Param4": [
+            {
+                "key": "Key",
+                "value": "String"
+            }
+        ],
+        "Param5": [
+            {
+                "key": "Value",
+                "value": "String"
+            }
+        ],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "LevelEventSuccessSneak",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0016\u0000\u0000\u0000LevelEventSuccessSneak\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "TimerControllerServer",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\b\u0000\u0000\u0000Activate\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000TimerId\u0000\u0015\u0000\u0000\u0000TimerControllerServer\u0000\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "TimerId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Activate",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "TimerControllerServerAddSecond",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000\\\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000Second\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0007\u0000\u0000\u0000TimerId\u0000\u001e\u0000\u0000\u0000TimerControllerServerAddSecond\u0000\u0000"
+        "IsClientTrigger": false,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "TimerId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "Second",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "LevelEventControlTodTime",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000Bool\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000State\u0000\u0000\u0000\u0018\u0000\u0000\u0000LevelEventControlTodTime\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "State",
+                "value": "Bool"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "PlayMovie",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00018\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000String\u0000\u0000\u0006\u0000\u0000\u0000CgName\u0000\u0000\t\u0000\u0000\u0000PlayMovie\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "CgName",
+                "value": "String"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "LevelEventForceLockOnSpecialTagTarget",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u0000<\u0000\u0000\u0000\u0000\u0000\u0000\u0001h\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000Bool\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000IsLockOn\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\b\u0000\u0000\u0000EntityId\u0000\u0000\u0000\u0000%\u0000\u0000\u0000LevelEventForceLockOnSpecialTagTarget\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "EntityId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "IsLockOn",
+                "value": "Bool"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "DisableMapView",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0004\u0000\u0000\u0000IsOn\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000DisableMapView\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "IsOn",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "LevelEventUnlockElevator",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\u000f\u0000\u0000\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000\u0000\u0000\u0000\u0001`\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\b\u0000\u0000\u0000EntityId\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0005\u0000\u0000\u0000GenId\u0000\u0000\u0000\u0018\u0000\u0000\u0000LevelEventUnlockElevator\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "GenId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "EntityId",
+                "value": "Int"
+            }
+        ],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ToggleSceneItemLockState",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000ToggleSceneItemLockState\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ToggleSceneItemActiveState",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0007\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u001a\u0000\u0000\u0000ToggleSceneItemActiveState\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "RemoteActiveElevator",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0013\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u00004\u0000\u0000\u0000\\\u0000\u0000\u0000\u0000\u0000\u0000\u0001�\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0003\u0000\u0000\u0000Way\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\b\u0000\u0000\u0000EntityId\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0005\u0000\u0000\u0000GenId\u0000\u0000\u0000\u0014\u0000\u0000\u0000RemoteActiveElevator\u0000\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "GenId",
+                "value": "Int"
+            }
+        ],
+        "Param2": [
+            {
+                "key": "EntityId",
+                "value": "Int"
+            }
+        ],
+        "Param3": [
+            {
+                "key": "Way",
+                "value": "Int"
+            }
+        ],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     },
     {
         "Type": "ToggleVoiceCheckState",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\u000b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u00014\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Int\u0000\u0006\u0000\u0000\u0000IsOpen\u0000\u0000\u0015\u0000\u0000\u0000ToggleVoiceCheckState\u0000\u0000\u0000"
+        "IsClientTrigger": true,
+        "NeedTick": false,
+        "Param1": [
+            {
+                "key": "IsOpen",
+                "value": "Int"
+            }
+        ],
+        "Param2": [],
+        "Param3": [],
+        "Param4": [],
+        "Param5": [],
+        "Param6": [],
+        "Param7": [],
+        "Param8": []
     }
 ]

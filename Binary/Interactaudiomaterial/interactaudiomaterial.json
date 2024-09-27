@@ -1,54 +1,119 @@
 [
     {
         "CollisionMaterial": "Battery",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u001b\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000��L>\u0000\u0000�A\u0000@\u001cF\u0000\u0000�A\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001\\\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_iron.play_amb_interact_imp_iron\u0000\u0000\u0000\u0007\u0000\u0000\u0000Battery\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_iron.play_amb_interact_imp_iron",
+        "ImpactMass": 30.0,
+        "Maxforce": 10000.0,
+        "MinimumPosteventForce": 30.0,
+        "MinimumTimeBetweenAkevent": 0.20000000298023224
     },
     {
         "CollisionMaterial": "BurstCrystal",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u001b\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000?\u0000\u0000�A\u0000@\u001cF\u0000\u0000�A\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_stone.play_amb_interact_imp_stone\u0000\f\u0000\u0000\u0000BurstCrystal\u0000\u0000\u0000\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_stone.play_amb_interact_imp_stone",
+        "ImpactMass": 20.0,
+        "Maxforce": 10000.0,
+        "MinimumPosteventForce": 20.0,
+        "MinimumTimeBetweenAkevent": 0.5
     },
     {
         "CollisionMaterial": "GrowSolution",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\u000f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0000@\u001cF\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_stone.play_amb_interact_imp_stone\u0000\f\u0000\u0000\u0000GrowSolution\u0000\u0000\u0000\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_stone.play_amb_interact_imp_stone",
+        "ImpactMass": 0.0,
+        "Maxforce": 0.0,
+        "MinimumPosteventForce": 10000.0,
+        "MinimumTimeBetweenAkevent": 0.0
     },
     {
         "CollisionMaterial": "Ashbin",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\u000f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0000@\u001cF\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001\\\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_iron.play_amb_interact_imp_iron\u0000\u0000\u0000\u0006\u0000\u0000\u0000Ashbin\u0000\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_iron.play_amb_interact_imp_iron",
+        "ImpactMass": 0.0,
+        "Maxforce": 0.0,
+        "MinimumPosteventForce": 10000.0,
+        "MinimumTimeBetweenAkevent": 0.0
     },
     {
         "CollisionMaterial": "Port",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u001b\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000��L>\u0000\u0000�A\u0000@\u001cF\u0000\u0000�A\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001\\\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_iron.play_amb_interact_imp_iron\u0000\u0000\u0000\u0004\u0000\u0000\u0000Port\u0000\u0000\u0000\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_iron.play_amb_interact_imp_iron",
+        "ImpactMass": 30.0,
+        "Maxforce": 10000.0,
+        "MinimumPosteventForce": 30.0,
+        "MinimumTimeBetweenAkevent": 0.20000000298023224
     },
     {
         "CollisionMaterial": "PortContainer",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u001b\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000��L>\u0000\u0000�A\u0000@\u001cF\u0000\u0000�A\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001\\\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_iron.play_amb_interact_imp_iron\u0000\u0000\u0000\r\u0000\u0000\u0000PortContainer\u0000\u0000\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_iron.play_amb_interact_imp_iron",
+        "ImpactMass": 30.0,
+        "Maxforce": 10000.0,
+        "MinimumPosteventForce": 30.0,
+        "MinimumTimeBetweenAkevent": 0.20000000298023224
     },
     {
         "CollisionMaterial": "ExplodingFruit",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u001b\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000��L>\u0000\u0000�A\u0000@\u001cF\u0000\u0000�A\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_plant.play_amb_interact_imp_plant\u0000\u000e\u0000\u0000\u0000ExplodingFruit\u0000\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_plant.play_amb_interact_imp_plant",
+        "ImpactMass": 30.0,
+        "Maxforce": 10000.0,
+        "MinimumPosteventForce": 30.0,
+        "MinimumTimeBetweenAkevent": 0.20000000298023224
     },
     {
         "CollisionMaterial": "PulseDevice",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u001b\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000��L>\u0000\u0000�A\u0000@\u001cF\u0000\u0000�A\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001d\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_metalbox.play_amb_interact_imp_metalbox\u0000\u0000\u0000\u000b\u0000\u0000\u0000PulseDevice\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_metalbox.play_amb_interact_imp_metalbox",
+        "ImpactMass": 30.0,
+        "Maxforce": 10000.0,
+        "MinimumPosteventForce": 30.0,
+        "MinimumTimeBetweenAkevent": 0.20000000298023224
     },
     {
         "CollisionMaterial": "ExplosiveLance",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u001b\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000��L>\u0000\u0000�A\u0000@\u001cF\u0000\u0000�A\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001\\\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_lance.play_amb_interact_imp_lance\u0000\u000e\u0000\u0000\u0000ExplosiveLance\u0000\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_lance.play_amb_interact_imp_lance",
+        "ImpactMass": 30.0,
+        "Maxforce": 10000.0,
+        "MinimumPosteventForce": 30.0,
+        "MinimumTimeBetweenAkevent": 0.20000000298023224
     },
     {
         "CollisionMaterial": "Pipeline",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u001b\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000��L>\u0000\u0000�A\u0000@\u001cF\u0000\u0000�A\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001d\u0000\u0000\u0000[\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_metalpipe.play_amb_interact_imp_metalpipe\u0000\b\u0000\u0000\u0000Pipeline\u0000\u0000\u0000\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_metalpipe.play_amb_interact_imp_metalpipe",
+        "ImpactMass": 30.0,
+        "Maxforce": 10000.0,
+        "MinimumPosteventForce": 30.0,
+        "MinimumTimeBetweenAkevent": 0.20000000298023224
     },
     {
         "CollisionMaterial": "Jigsaw",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u001b\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000��L>\u0000\u0000�A\u0000@\u001cF\u0000\u0000�A\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001`\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_quanxi.play_amb_interact_imp_quanxi\u0000\u0000\u0000\u0006\u0000\u0000\u0000Jigsaw\u0000\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_quanxi.play_amb_interact_imp_quanxi",
+        "ImpactMass": 30.0,
+        "Maxforce": 10000.0,
+        "MinimumPosteventForce": 30.0,
+        "MinimumTimeBetweenAkevent": 0.20000000298023224
     },
     {
         "CollisionMaterial": "GravityCube",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u001b\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000��L>\u0000\u0000�A\u0000@\u001cF\u0000\u0000�A\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001d\u0000\u0000\u0000Y\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_metalbox.play_amb_interact_imp_metalbox\u0000\u0000\u0000\u000b\u0000\u0000\u0000GravityCube\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_metalbox.play_amb_interact_imp_metalbox",
+        "ImpactMass": 30.0,
+        "Maxforce": 10000.0,
+        "MinimumPosteventForce": 30.0,
+        "MinimumTimeBetweenAkevent": 0.20000000298023224
     },
     {
         "CollisionMaterial": "Mural",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u001b\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000��L>\u0000\u0000�A\u0000@\u001cF\u0000\u0000�A\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001`\u0000\u0000\u0000U\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_shiban.play_amb_interact_imp_shiban\u0000\u0000\u0000\u0005\u0000\u0000\u0000Mural\u0000\u0000\u0000"
+        "IsActiveImpacter": true,
+        "AudioEvent": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_shiban.play_amb_interact_imp_shiban",
+        "ImpactMass": 30.0,
+        "Maxforce": 10000.0,
+        "MinimumPosteventForce": 30.0,
+        "MinimumTimeBetweenAkevent": 0.20000000298023224
     }
 ]

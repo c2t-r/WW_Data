@@ -1,14 +1,32 @@
 [
     {
         "Id": 1,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000 A\u0000\u0000\u0000?\u0000\u0000pB\u0000\u0000\u0016C\u0001\u0000\u0000\u0000"
+        "BaseIncrease": 150.0,
+        "DecreaseByDist": 0.25,
+        "MaxDist": 60.0,
+        "ForwardAngle": 0.5,
+        "BackwardRate": 10.0,
+        "BaseDecrease": 1.401298464324817e-45,
+        "AlertnessType": 0
     },
     {
         "Id": 2,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000 A\u0000\u0000\u0000?\u0000\u0000pB\u0000\u0000\u0016C\u0002\u0000\u0000\u0000"
+        "BaseIncrease": 150.0,
+        "DecreaseByDist": 0.25,
+        "MaxDist": 60.0,
+        "ForwardAngle": 0.5,
+        "BackwardRate": 10.0,
+        "BaseDecrease": 2.802596928649634e-45,
+        "AlertnessType": 0
     },
     {
         "Id": 3,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000 A\u0000\u0000\u0000?\u0000\u0000pB���=\u0000\u0000\u0016C\u0003\u0000\u0000\u0000"
+        "BaseIncrease": 150.0,
+        "DecreaseByDist": 0.10000000149011612,
+        "MaxDist": 60.0,
+        "ForwardAngle": 0.5,
+        "BackwardRate": 10.0,
+        "BaseDecrease": 2.802596928649634e-45,
+        "AlertnessType": 0
     }
 ]

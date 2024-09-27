@@ -1,38 +1,74 @@
 [
     {
         "Id": 1001,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000@\u0000\u0000\u0000�\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\u0000\u0000\u0000CommonRewardViewDisplay_1001_ContinueText\u0000\u0000\u0000\"\u0000\u0000\u0000CommonRewardViewDisplay_1001_Title\u0000\u0000"
+        "Title": "CommonRewardViewDisplay_1001_Title",
+        "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
+        "IsItemVisible": true,
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 1003,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000@\u0000\u0000\u0000�\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\u0000\u0000\u0000CommonRewardViewDisplay_1001_ContinueText\u0000\u0000\u0000\"\u0000\u0000\u0000CommonRewardViewDisplay_1001_Title\u0000\u0000"
+        "Title": "CommonRewardViewDisplay_1001_Title",
+        "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
+        "IsItemVisible": true,
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 1004,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000@\u0000\u0000\u0000�\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\u0000\u0000\u0000CommonRewardViewDisplay_1001_ContinueText\u0000\u0000\u0000\"\u0000\u0000\u0000CommonRewardViewDisplay_1001_Title\u0000\u0000"
+        "Title": "CommonRewardViewDisplay_1001_Title",
+        "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
+        "IsItemVisible": true,
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 1005,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000@\u0000\u0000\u0000�\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\u0000\u0000\u0000CommonRewardViewDisplay_1001_ContinueText\u0000\u0000\u0000\"\u0000\u0000\u0000CommonRewardViewDisplay_1001_Title\u0000\u0000"
+        "Title": "CommonRewardViewDisplay_1001_Title",
+        "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
+        "IsItemVisible": true,
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 1006,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0010\u0000\u0000\u00004\u0000\u0000\u0000`\u0000\u0000\u0000�\u0003\u0000\u0000#\u0000\u0000\u0000play_ui_fx_spl_gen_robot_success_vo\u0000)\u0000\u0000\u0000CommonRewardViewDisplay_1001_ContinueText\u0000\u0000\u0000\"\u0000\u0000\u0000CommonRewardViewDisplay_1001_Title\u0000\u0000"
+        "Title": "CommonRewardViewDisplay_1001_Title",
+        "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
+        "IsItemVisible": true,
+        "IsSuccess": true,
+        "AudioId": "play_ui_fx_spl_gen_robot_success_vo"
     },
     {
         "Id": 1007,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000@\u0000\u0000\u0000�\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\u0000\u0000\u0000CommonRewardViewDisplay_1001_ContinueText\u0000\u0000\u0000\"\u0000\u0000\u0000CommonRewardViewDisplay_1001_Title\u0000\u0000"
+        "Title": "CommonRewardViewDisplay_1001_Title",
+        "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
+        "IsItemVisible": true,
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 1008,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000@\u0000\u0000\u0000�\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\u0000\u0000\u0000CommonRewardViewDisplay_1001_ContinueText\u0000\u0000\u0000\"\u0000\u0000\u0000CommonRewardViewDisplay_1002_Title\u0000\u0000"
+        "Title": "CommonRewardViewDisplay_1002_Title",
+        "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
+        "IsItemVisible": true,
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 1009,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000@\u0000\u0000\u0000�\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\u0000\u0000\u0000CommonRewardViewDisplay_1001_ContinueText\u0000\u0000\u0000\"\u0000\u0000\u0000CommonRewardViewDisplay_1001_Title\u0000\u0000"
+        "Title": "CommonRewardViewDisplay_1001_Title",
+        "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
+        "IsItemVisible": true,
+        "IsSuccess": true,
+        "AudioId": ""
     },
     {
         "Id": 1010,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000@\u0000\u0000\u0000�\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\u0000\u0000\u0000CommonRewardViewDisplay_1001_ContinueText\u0000\u0000\u0000\"\u0000\u0000\u0000CommonRewardViewDisplay_1002_Title\u0000\u0000"
+        "Title": "CommonRewardViewDisplay_1002_Title",
+        "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
+        "IsItemVisible": true,
+        "IsSuccess": true,
+        "AudioId": ""
     }
 ]

@@ -1,18 +1,18 @@
 [
     {
         "Id": 1,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001a\u0000\u0000\u0000MonsterRarity_1_RarityDesc\u0000\u0000"
+        "RarityDesc": "MonsterRarity_1_RarityDesc"
     },
     {
         "Id": 2,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001a\u0000\u0000\u0000MonsterRarity_2_RarityDesc\u0000\u0000"
+        "RarityDesc": "MonsterRarity_2_RarityDesc"
     },
     {
         "Id": 3,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u001a\u0000\u0000\u0000MonsterRarity_3_RarityDesc\u0000\u0000"
+        "RarityDesc": "MonsterRarity_3_RarityDesc"
     },
     {
         "Id": 4,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u001a\u0000\u0000\u0000MonsterRarity_4_RarityDesc\u0000\u0000"
+        "RarityDesc": "MonsterRarity_4_RarityDesc"
     }
 ]

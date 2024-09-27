@@ -3,6 +3,52 @@
         "Id": 1,
         "AxisName": "Zoom",
         "AxisType": 1,
-        "BinData": "\u0018\u0000\u0000\u0000\u0014\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000\u0014\u0001\u0000\u0000\u0001\u0000\u0000\u0000T\u0002\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u0000(\u0000\u0000\u0000<\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u00008���\u0000\u0000�?\u0004\u0000\u0000\u0000\u0002\u0000\u0000\u0000Up\u0000\u0000L���\u0000\u0000��\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000Down\u0000\u0000\u0000\u0000d���\u0000\u0000��\u0004\u0000\u0000\u0000\u0017\u0000\u0000\u0000Gamepad_LeftTriggerAxis\u0000����\u0000\u0000�B\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000Gamepad_RightTriggerAxis\u0000\u0000\u0000\u0000����\u0000\u0000��\u0004\u0000\u0000\u0000\u001a\u0000\u0000\u0000GenericUSBController_Axis2\u0000\u0000����\u0000\u0000�B\u0004\u0000\u0000\u0000\u001a\u0000\u0000\u0000GenericUSBController_Axis1\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000P\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000$���\b\u0000\u0000\u0000 \u0000\u0000\u0000\u0014\u0000\u0000\u0000Gamepad_LeftShoulder\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000Gamepad_LeftTriggerAxis\u0000h���\b\u0000\u0000\u0000 \u0000\u0000\u0000\u0014\u0000\u0000\u0000Gamepad_LeftShoulder\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000Gamepad_RightTriggerAxis\u0000\u0000\u0000\u0000����\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001c\u0000\u0000\u0000GenericUSBController_Button5\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000GenericUSBController_Axis2\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000(\u0000\u0000\u0000\u001c\u0000\u0000\u0000GenericUSBController_Button5\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000GenericUSBController_Axis1\u0000\u0000\u0004\u0000\u0000\u0000Zoom\u0000\u0000\u0000\u0000"
+        "PcKeyMap": [],
+        "GamepadKeyMap": [
+            {
+                "key": "Gamepad_LeftTriggerAxis",
+                "value": "Gamepad_LeftShoulder"
+            },
+            {
+                "key": "Gamepad_RightTriggerAxis",
+                "value": "Gamepad_LeftShoulder"
+            },
+            {
+                "key": "GenericUSBController_Axis2",
+                "value": "GenericUSBController_Button5"
+            },
+            {
+                "key": "GenericUSBController_Axis1",
+                "value": "GenericUSBController_Button5"
+            }
+        ],
+        "SecondaryKeyScaleMap": [
+            {
+                "key": "Up",
+                "value": 1.0
+            },
+            {
+                "key": "Down",
+                "value": -1.0
+            },
+            {
+                "key": "Gamepad_LeftTriggerAxis",
+                "value": -80.0
+            },
+            {
+                "key": "Gamepad_RightTriggerAxis",
+                "value": 80.0
+            },
+            {
+                "key": "GenericUSBController_Axis2",
+                "value": -80.0
+            },
+            {
+                "key": "GenericUSBController_Axis1",
+                "value": 80.0
+            }
+        ],
+        "MobileIconPath": "",
+        "DisplayName": ""
     }
 ]

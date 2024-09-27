@@ -2,46 +2,91 @@
     {
         "Id": 0,
         "MainId": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0010\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000QuestType_0_QuestTypeName\u0000\u0000\u0000"
+        "QuestTypeName": "QuestType_0_QuestTypeName",
+        "IsShowInQuestPanel": true,
+        "TypeColor": "",
+        "TextColor": "",
+        "NeedRedDot": false,
+        "MapId": []
     },
     {
         "Id": 1,
         "MainId": 1,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0007\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000$\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0006\u0000\u0000\u0000F7D16E\u0000\u0000\u0006\u0000\u0000\u0000A69B62\u0000\u0000\u0019\u0000\u0000\u0000QuestType_1_QuestTypeName\u0000\u0000\u0000"
+        "QuestTypeName": "QuestType_1_QuestTypeName",
+        "IsShowInQuestPanel": true,
+        "TypeColor": "A69B62",
+        "TextColor": "F7D16E",
+        "NeedRedDot": true,
+        "MapId": []
     },
     {
         "Id": 2,
         "MainId": 2,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0007\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000$\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0006\u0000\u0000\u000092D2E5\u0000\u0000\u0006\u0000\u0000\u00005F89A1\u0000\u0000\u0019\u0000\u0000\u0000QuestType_2_QuestTypeName\u0000\u0000\u0000"
+        "QuestTypeName": "QuestType_2_QuestTypeName",
+        "IsShowInQuestPanel": true,
+        "TypeColor": "5F89A1",
+        "TextColor": "92D2E5",
+        "NeedRedDot": true,
+        "MapId": []
     },
     {
         "Id": 3,
         "MainId": 3,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0007\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000$\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0006\u0000\u0000\u0000A972ED\u0000\u0000\u0006\u0000\u0000\u000074669C\u0000\u0000\u0019\u0000\u0000\u0000QuestType_3_QuestTypeName\u0000\u0000\u0000"
+        "QuestTypeName": "QuestType_3_QuestTypeName",
+        "IsShowInQuestPanel": true,
+        "TypeColor": "74669C",
+        "TextColor": "A972ED",
+        "NeedRedDot": true,
+        "MapId": []
     },
     {
         "Id": 4,
         "MainId": 4,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0007\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0014\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004\u0000\u0000\u0000\b\u0000\u0000\u0000AAD673FF\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u000082955C\u0000\u0000\u0019\u0000\u0000\u0000QuestType_4_QuestTypeName\u0000\u0000\u0000"
+        "QuestTypeName": "QuestType_4_QuestTypeName",
+        "IsShowInQuestPanel": true,
+        "TypeColor": "82955C",
+        "TextColor": "AAD673FF",
+        "NeedRedDot": true,
+        "MapId": []
     },
     {
         "Id": 100,
         "MainId": 100,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u000f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001c\u0000\u0000\u0000d\u0000\u0000\u0000d\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000QuestType_100_QuestTypeName\u0000"
+        "QuestTypeName": "QuestType_100_QuestTypeName",
+        "IsShowInQuestPanel": false,
+        "TypeColor": "",
+        "TextColor": "",
+        "NeedRedDot": false,
+        "MapId": []
     },
     {
         "Id": 7,
         "MainId": 7,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0007\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000$\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0006\u0000\u0000\u0000DCC186\u0000\u0000\u0006\u0000\u0000\u0000AC8C58\u0000\u0000\u0019\u0000\u0000\u0000QuestType_7_QuestTypeName\u0000\u0000\u0000"
+        "QuestTypeName": "QuestType_7_QuestTypeName",
+        "IsShowInQuestPanel": true,
+        "TypeColor": "AC8C58",
+        "TextColor": "DCC186",
+        "NeedRedDot": true,
+        "MapId": []
     },
     {
         "Id": 8,
         "MainId": 2,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0007\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000$\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0006\u0000\u0000\u000092D2E5\u0000\u0000\u0006\u0000\u0000\u00005F89A1\u0000\u0000\u0019\u0000\u0000\u0000QuestType_2_QuestTypeName\u0000\u0000\u0000"
+        "QuestTypeName": "QuestType_2_QuestTypeName",
+        "IsShowInQuestPanel": true,
+        "TypeColor": "5F89A1",
+        "TextColor": "92D2E5",
+        "NeedRedDot": true,
+        "MapId": []
     },
     {
         "Id": 9,
         "MainId": 9,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0007\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0014\u0000\u0000\u0000\u001c\u0000\u0000\u0000$\u0000\u0000\u0000\t\u0000\u0000\u0000\t\u0000\u0000\u0000\u0006\u0000\u0000\u000053BE94\u0000\u0000\u0006\u0000\u0000\u0000609177\u0000\u0000\u0019\u0000\u0000\u0000QuestType_9_QuestTypeName\u0000\u0000\u0000"
+        "QuestTypeName": "QuestType_9_QuestTypeName",
+        "IsShowInQuestPanel": true,
+        "TypeColor": "609177",
+        "TextColor": "53BE94",
+        "NeedRedDot": true,
+        "MapId": []
     }
 ]

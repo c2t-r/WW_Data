@@ -1,34 +1,50 @@
 [
     {
         "Id": 1001,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000T\u0000\u0000\u0000�\u0003\u0000\u0000E\u0000\u0000\u0000/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_CD_CZ.NS_Fx_LGUI_CD_CZ\u0000\u0000\u0000\u000f\u0000\u0000\u0000技能生效中\u0000"
+        "Name": "技能生效中",
+        "NiagaraPath": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_CD_CZ.NS_Fx_LGUI_CD_CZ",
+        "ElementId": 0
     },
     {
         "Id": 1203001,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000l\u0000\u0000\u00009[\u0012\u0000]\u0000\u0000\u0000/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_FightSkillBtn_001.NS_Fx_LGUI_FightSkillBtn_001\u0000\u0000\u0000\u0018\u0000\u0000\u0000安可大招失控提示\u0000\u0000\u0000\u0000"
+        "Name": "安可大招失控提示",
+        "NiagaraPath": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_FightSkillBtn_001.NS_Fx_LGUI_FightSkillBtn_001",
+        "ElementId": 0
     },
     {
         "Id": 11041004,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000X\u0000\u0000\u0000�x�\u0000I\u0000\u0000\u0000/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_E.NS_Fx_LGUI_Fight_E\u0000\u0000\u0000\u0012\u0000\u0000\u0000凌阳技能提示\u0000\u0000"
+        "Name": "凌阳技能提示",
+        "NiagaraPath": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_E.NS_Fx_LGUI_Fight_E",
+        "ElementId": 1
     },
     {
         "Id": 1002,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0003\u0000\u0000U\u0000\u0000\u0000/Game/Aki/Effect/UI/Niagaras/Gousuo/NS_Fx_LGUI_GouSuo_Button.NS_Fx_LGUI_GouSuo_Button\u0000\u0000\u0000\u0006\u0000\u0000\u0000蓝色\u0000\u0000"
+        "Name": "蓝色",
+        "NiagaraPath": "/Game/Aki/Effect/UI/Niagaras/Gousuo/NS_Fx_LGUI_GouSuo_Button.NS_Fx_LGUI_GouSuo_Button",
+        "ElementId": 0
     },
     {
         "Id": 1003,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000d\u0000\u0000\u0000�\u0003\u0000\u0000U\u0000\u0000\u0000/Game/Aki/Effect/UI/Niagaras/Gousuo/NS_Fx_LGUI_Kongwu_Button.NS_Fx_LGUI_Kongwu_Button\u0000\u0000\u0000\u0006\u0000\u0000\u0000黄色\u0000\u0000"
+        "Name": "黄色",
+        "NiagaraPath": "/Game/Aki/Effect/UI/Niagaras/Gousuo/NS_Fx_LGUI_Kongwu_Button.NS_Fx_LGUI_Kongwu_Button",
+        "ElementId": 0
     },
     {
         "Id": 14051005,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0004\u0000\u0000\u0000\f\u0000\u0000\u0000X\u0000\u0000\u0000�f�\u0000I\u0000\u0000\u0000/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_E.NS_Fx_LGUI_Fight_E\u0000\u0000\u0000\u0012\u0000\u0000\u0000鉴心技能提示\u0000\u0000"
+        "Name": "鉴心技能提示",
+        "NiagaraPath": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_E.NS_Fx_LGUI_Fight_E",
+        "ElementId": 4
     },
     {
         "Id": 50110001,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000X\u0000\u0000\u00001��\u0002I\u0000\u0000\u0000/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_E.NS_Fx_LGUI_Fight_E\u0000\u0000\u0000\u0015\u0000\u0000\u0000叮咚咚技能提示\u0000\u0000\u0000"
+        "Name": "叮咚咚技能提示",
+        "NiagaraPath": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_E.NS_Fx_LGUI_Fight_E",
+        "ElementId": 1
     },
     {
         "Id": 1304310,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0005\u0000\u0000\u0000\f\u0000\u0000\u0000X\u0000\u0000\u0000��\u0013\u0000I\u0000\u0000\u0000/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_E.NS_Fx_LGUI_Fight_E\u0000\u0000\u0000\u0012\u0000\u0000\u0000今汐技能提示\u0000\u0000"
+        "Name": "今汐技能提示",
+        "NiagaraPath": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_E.NS_Fx_LGUI_Fight_E",
+        "ElementId": 5
     }
 ]

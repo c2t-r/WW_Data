@@ -1,6 +1,33 @@
 [
     {
         "ActivityId": 101200001,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000t�\u0004\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�0\b\u0006\u0005\u0000\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000\u000e\u0000\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000�\u0003\u0000\u0000_\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiActivity/Image/ActivityAdventure/T_AdventureFrame2.T_AdventureFrame2\u0000 \u0000\u0000\u0000ActivityAdventure_101200001_Desc\u0000\u0000\u0000\u0000!\u0000\u0000\u0000ActivityAdventure_101200001_Title\u0000\u0000\u0000"
+        "AreaTitle": "ActivityAdventure_101200001_Title",
+        "AreaDescription": "ActivityAdventure_101200001_Desc",
+        "AreaPic": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityAdventure/T_AdventureFrame2.T_AdventureFrame2",
+        "AreaDefaultMarkId": 300404,
+        "TaskList": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008,
+            1009,
+            1010,
+            1011,
+            1012,
+            1013,
+            1014
+        ],
+        "RewardList": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005
+        ],
+        "TaskRefreshNum": 2
     }
 ]

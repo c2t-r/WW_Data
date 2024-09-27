@@ -1,66 +1,194 @@
 [
     {
         "Id": 1,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000\u0000\u0000�A\u0000\u0000�C\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "TurnSpeed": 360.0,
+        "WanderMoveState": 2,
+        "ResetMoveState": 2,
+        "MoveStateGA": 0,
+        "CompleteDistance": 30.0,
+        "ShowEffectDaPath": "",
+        "HideEffectDaPath": "",
+        "ShowMaterialDaPath": "",
+        "HideMaterialDaPath": ""
     },
     {
         "Id": 2,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000�A\u0001\u0000\u0000\u0000\u0000\u0000�C\u0002\u0000\u0000\u0000f\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Human_Death.DA_Fx_Ordinary_Human_Death\u0000\u0000S\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_JingNiao_Born.DA_Fx_JingNiao_Born\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "TurnSpeed": 360.0,
+        "WanderMoveState": 1,
+        "ResetMoveState": 2,
+        "MoveStateGA": 0,
+        "CompleteDistance": 30.0,
+        "ShowEffectDaPath": "",
+        "HideEffectDaPath": "",
+        "ShowMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_JingNiao_Born.DA_Fx_JingNiao_Born",
+        "HideMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Human_Death.DA_Fx_Ordinary_Human_Death"
     },
     {
         "Id": 3,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000\u0000\u0000�A\u0003\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000�C\u0003\u0000\u0000\u0000P\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_Monster_Hide.DA_Fx_Monster_Hide\u0000\u0000\u0000\u0000N\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/Common/DA_Fx_MonsterMask.DA_Fx_MonsterMask\u0000\u0000e\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1\u0000\u0000\u0000c\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti.DA_Fx_Group_Monster_Nengliangti\u0000"
+        "TurnSpeed": 360.0,
+        "WanderMoveState": 1,
+        "ResetMoveState": 3,
+        "MoveStateGA": 0,
+        "CompleteDistance": 30.0,
+        "ShowEffectDaPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti.DA_Fx_Group_Monster_Nengliangti",
+        "HideEffectDaPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1",
+        "ShowMaterialDaPath": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_MonsterMask.DA_Fx_MonsterMask",
+        "HideMaterialDaPath": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Monster_Hide.DA_Fx_Monster_Hide"
     },
     {
         "Id": 4,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000<\u0001\u0000\u0000\u0000\u0000�A\u0003\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000�C\u0004\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Death.DA_Fx_Ordinary_Death\u0000\u0000S\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_JingNiao_Born.DA_Fx_JingNiao_Born\u0000e\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1\u0000\u0000\u0000c\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti.DA_Fx_Group_Monster_Nengliangti\u0000"
+        "TurnSpeed": 360.0,
+        "WanderMoveState": 1,
+        "ResetMoveState": 3,
+        "MoveStateGA": 0,
+        "CompleteDistance": 30.0,
+        "ShowEffectDaPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti.DA_Fx_Group_Monster_Nengliangti",
+        "HideEffectDaPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1",
+        "ShowMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_JingNiao_Born.DA_Fx_JingNiao_Born",
+        "HideMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Death.DA_Fx_Ordinary_Death"
     },
     {
         "Id": 5,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000�C\u0001\u0000\u0000\u0000\u0000\u0000\u0007D\u0005\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Death.DA_Fx_Ordinary_Death\u0000\u0000S\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_JingNiao_Born.DA_Fx_JingNiao_Born\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "TurnSpeed": 540.0,
+        "WanderMoveState": 1,
+        "ResetMoveState": 2,
+        "MoveStateGA": 0,
+        "CompleteDistance": 300.0,
+        "ShowEffectDaPath": "",
+        "HideEffectDaPath": "",
+        "ShowMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_JingNiao_Born.DA_Fx_JingNiao_Born",
+        "HideMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Death.DA_Fx_Ordinary_Death"
     },
     {
         "Id": 80002,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000$\u0000 \u0000\u001c\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000X\u0001\u0000\u0000\u0000\u0000�A\u0003\u0000\u0000\u0000\u0000\u0000�C�8\u0001\u0000m\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_Lord_Linren_Shanxian_40001.DA_Fx_Lord_Linren_Shanxian_40001\u0000\u0000\u0000m\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_Lord_Linren_Shanxian_40001.DA_Fx_Lord_Linren_Shanxian_40001\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/ML1LinrenMd00301/DA_Fx_Group_Shunyi01.DA_Fx_Group_Shunyi01\u0000W\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/ML1LinrenMd00301/DA_Fx_Group_Shunyi01.DA_Fx_Group_Shunyi01\u0000"
+        "TurnSpeed": 300.0,
+        "WanderMoveState": 2,
+        "ResetMoveState": 3,
+        "MoveStateGA": 0,
+        "CompleteDistance": 30.0,
+        "ShowEffectDaPath": "/Game/Aki/Effect/EffectGroup/ML1LinrenMd00301/DA_Fx_Group_Shunyi01.DA_Fx_Group_Shunyi01",
+        "HideEffectDaPath": "/Game/Aki/Effect/EffectGroup/ML1LinrenMd00301/DA_Fx_Group_Shunyi01.DA_Fx_Group_Shunyi01",
+        "ShowMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_Lord_Linren_Shanxian_40001.DA_Fx_Lord_Linren_Shanxian_40001",
+        "HideMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_Lord_Linren_Shanxian_40001.DA_Fx_Lord_Linren_Shanxian_40001"
     },
     {
         "Id": 80003,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000$\u0000 \u0000\u001c\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0001\u0000\u0000X\u0001\u0000\u0000\u0000\u0000�A\u0003\u0000\u0000\u0000\u0000\u0000�C�8\u0001\u0000m\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_Lord_Linren_Shanxian_40004.DA_Fx_Lord_Linren_Shanxian_40004\u0000\u0000\u0000m\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_Lord_Linren_Shanxian_40004.DA_Fx_Lord_Linren_Shanxian_40004\u0000\u0000\u0000W\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/ML1LinrenMd00301/DA_Fx_Group_Shunyi01.DA_Fx_Group_Shunyi01\u0000W\u0000\u0000\u0000/Game/Aki/Effect/EffectGroup/ML1LinrenMd00301/DA_Fx_Group_Shunyi01.DA_Fx_Group_Shunyi01\u0000"
+        "TurnSpeed": 300.0,
+        "WanderMoveState": 2,
+        "ResetMoveState": 3,
+        "MoveStateGA": 0,
+        "CompleteDistance": 30.0,
+        "ShowEffectDaPath": "/Game/Aki/Effect/EffectGroup/ML1LinrenMd00301/DA_Fx_Group_Shunyi01.DA_Fx_Group_Shunyi01",
+        "HideEffectDaPath": "/Game/Aki/Effect/EffectGroup/ML1LinrenMd00301/DA_Fx_Group_Shunyi01.DA_Fx_Group_Shunyi01",
+        "ShowMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_Lord_Linren_Shanxian_40004.DA_Fx_Lord_Linren_Shanxian_40004",
+        "HideMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_Lord_Linren_Shanxian_40004.DA_Fx_Lord_Linren_Shanxian_40004"
     },
     {
         "Id": 80004,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000\u0000\u0000�C�8\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "TurnSpeed": 480.0,
+        "WanderMoveState": 2,
+        "ResetMoveState": 2,
+        "MoveStateGA": 0,
+        "CompleteDistance": 10.0,
+        "ShowEffectDaPath": "",
+        "HideEffectDaPath": "",
+        "ShowMaterialDaPath": "",
+        "HideMaterialDaPath": ""
     },
     {
         "Id": 80008,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000\u0000\u0000�C�8\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "TurnSpeed": 480.0,
+        "WanderMoveState": 2,
+        "ResetMoveState": 2,
+        "MoveStateGA": 0,
+        "CompleteDistance": 10.0,
+        "ShowEffectDaPath": "",
+        "HideEffectDaPath": "",
+        "ShowMaterialDaPath": "",
+        "HideMaterialDaPath": ""
     },
     {
         "Id": 100001,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000��\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "TurnSpeed": 180.0,
+        "WanderMoveState": 2,
+        "ResetMoveState": 2,
+        "MoveStateGA": 0,
+        "CompleteDistance": 10.0,
+        "ShowEffectDaPath": "",
+        "HideEffectDaPath": "",
+        "ShowMaterialDaPath": "",
+        "HideMaterialDaPath": ""
     },
     {
         "Id": 90001,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000\u0000\u0000�@�_\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "TurnSpeed": 5.0,
+        "WanderMoveState": 2,
+        "ResetMoveState": 2,
+        "MoveStateGA": 0,
+        "CompleteDistance": 10.0,
+        "ShowEffectDaPath": "",
+        "HideEffectDaPath": "",
+        "ShowMaterialDaPath": "",
+        "HideMaterialDaPath": ""
     },
     {
         "Id": 21017,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000\u0000\u0000�B\u0019R\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "TurnSpeed": 80.0,
+        "WanderMoveState": 2,
+        "ResetMoveState": 2,
+        "MoveStateGA": 0,
+        "CompleteDistance": 10.0,
+        "ShowEffectDaPath": "",
+        "HideEffectDaPath": "",
+        "ShowMaterialDaPath": "",
+        "HideMaterialDaPath": ""
     },
     {
         "Id": 21018,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000\u0000\u0000�B\u001aR\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "TurnSpeed": 80.0,
+        "WanderMoveState": 2,
+        "ResetMoveState": 2,
+        "MoveStateGA": 0,
+        "CompleteDistance": 10.0,
+        "ShowEffectDaPath": "",
+        "HideEffectDaPath": "",
+        "ShowMaterialDaPath": "",
+        "HideMaterialDaPath": ""
     },
     {
         "Id": 21015,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000\u0000\u0000�B\u0017R\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "TurnSpeed": 120.0,
+        "WanderMoveState": 2,
+        "ResetMoveState": 2,
+        "MoveStateGA": 0,
+        "CompleteDistance": 10.0,
+        "ShowEffectDaPath": "",
+        "HideEffectDaPath": "",
+        "ShowMaterialDaPath": "",
+        "HideMaterialDaPath": ""
     },
     {
         "Id": 6,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000$\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000�A\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000�C\u0006\u0000\u0000\u0000Z\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Death.DA_Fx_Ordinary_Death\u0000\u0000S\u0000\u0000\u0000/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_JingNiao_Born.DA_Fx_JingNiao_Born\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "TurnSpeed": 360.0,
+        "WanderMoveState": 1,
+        "ResetMoveState": 1,
+        "MoveStateGA": 0,
+        "CompleteDistance": 30.0,
+        "ShowEffectDaPath": "",
+        "HideEffectDaPath": "",
+        "ShowMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_JingNiao_Born.DA_Fx_JingNiao_Born",
+        "HideMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Death.DA_Fx_Ordinary_Death"
     },
     {
         "Id": 80005,
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000(\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000�C�8\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        "TurnSpeed": 300.0,
+        "WanderMoveState": 2,
+        "ResetMoveState": 3,
+        "MoveStateGA": 0,
+        "CompleteDistance": 10.0,
+        "ShowEffectDaPath": "",
+        "HideEffectDaPath": "",
+        "ShowMaterialDaPath": "",
+        "HideMaterialDaPath": ""
     }
 ]

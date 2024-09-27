@@ -2,26 +2,46 @@
     {
         "Id": 1,
         "Name": "测试难度",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0012\u0000\u0000\u0000Z\u0000\u0000\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000测试难度\u0000\u0000\u0000\u0000"
+        "SpeedRate": 1.0,
+        "TapTimeWindow": 100,
+        "PressTimeWindow": 100,
+        "ReleaseTimeWindow": 100,
+        "TargetCompletion": 90
     },
     {
         "Id": 2,
         "Name": "忌炎线难度",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000}\u0000\u0000\u0000}\u0000\u0000\u0000}\u0000\u0000\u0000\u0000\u0000@@\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000忌炎线难度\u0000"
+        "SpeedRate": 3.0,
+        "TapTimeWindow": 125,
+        "PressTimeWindow": 125,
+        "ReleaseTimeWindow": 125,
+        "TargetCompletion": 80
     },
     {
         "Id": 3,
         "Name": "主线难度",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000@@\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000\f\u0000\u0000\u0000主线难度\u0000\u0000\u0000\u0000"
+        "SpeedRate": 3.0,
+        "TapTimeWindow": 250,
+        "PressTimeWindow": 250,
+        "ReleaseTimeWindow": 250,
+        "TargetCompletion": 0
     },
     {
         "Id": 4,
         "Name": "吟霖线难度",
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000}\u0000\u0000\u0000}\u0000\u0000\u0000}\u0000\u0000\u0000\u0000\u0000@@\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u000f\u0000\u0000\u0000吟霖线难度\u0000"
+        "SpeedRate": 3.0,
+        "TapTimeWindow": 125,
+        "PressTimeWindow": 125,
+        "ReleaseTimeWindow": 125,
+        "TargetCompletion": 80
     },
     {
         "Id": 800001,
         "Name": "千歆支线难度",
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000<\u0000\u0000\u0000}\u0000\u0000\u0000}\u0000\u0000\u0000}\u0000\u0000\u0000\u0000\u0000@@\b\u0000\u0000\u0000\u00015\f\u0000\u0012\u0000\u0000\u0000千歆支线难度\u0000\u0000"
+        "SpeedRate": 3.0,
+        "TapTimeWindow": 125,
+        "PressTimeWindow": 125,
+        "ReleaseTimeWindow": 125,
+        "TargetCompletion": 60
     }
 ]

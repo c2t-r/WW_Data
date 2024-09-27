@@ -1,98 +1,218 @@
 [
     {
         "Id": 8,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000$\u0000\u0000\u00004\u0000\u0000\u0000@\u0000\u0000\u0000\b\u0000\u0000\u0000\u000e\u0000\u0000\u0000map_world_exit\u0000\u0000\u000f\u0000\u0000\u0000map_world_enter\u0000\t\u0000\u0000\u0000map_world\u0000\u0000\u0000\u000b\u0000\u0000\u0000AkiWorld_WP\u0000"
+        "Name": "AkiWorld_WP",
+        "Event": "map_world",
+        "EnterEvent": "map_world_enter",
+        "ExitEvent": "map_world_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 40,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00004\u0000\u0000\u0000T\u0000\u0000\u0000l\u0000\u0000\u0000(\u0000\u0000\u0000\u001c\u0000\u0000\u0000map_main_longzhujusuo02_exit\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000map_main_longzhujusuo02_enter\u0000\u0000\u0000\u0017\u0000\u0000\u0000map_main_longzhujusuo02\u0000\u001c\u0000\u0000\u0000InstanceTree_longzhujusuo-02\u0000\u0000\u0000\u0000"
+        "Name": "InstanceTree_longzhujusuo-02",
+        "Event": "map_main_longzhujusuo02",
+        "EnterEvent": "map_main_longzhujusuo02_enter",
+        "ExitEvent": "map_main_longzhujusuo02_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 49,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000L\u0000\u0000\u0000d\u0000\u0000\u00001\u0000\u0000\u0000\u001a\u0000\u0000\u0000map_main_longzhujusuo_exit\u0000\u0000\u001b\u0000\u0000\u0000map_main_longzhujusuo_enter\u0000\u0015\u0000\u0000\u0000map_main_longzhujusuo\u0000\u0000\u0000\u0019\u0000\u0000\u0000InstanceTree_longzhujusuo\u0000\u0000\u0000"
+        "Name": "InstanceTree_longzhujusuo",
+        "Event": "map_main_longzhujusuo",
+        "EnterEvent": "map_main_longzhujusuo_enter",
+        "ExitEvent": "map_main_longzhujusuo_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 68,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000P\u0000\u0000\u0000h\u0000\u0000\u0000D\u0000\u0000\u0000\u001b\u0000\u0000\u0000map_world_longzhujusuo_exit\u0000\u001c\u0000\u0000\u0000map_world_longzhujusuo_enter\u0000\u0000\u0000\u0000\u0016\u0000\u0000\u0000map_world_longzhujusuo\u0000\u0000\u001b\u0000\u0000\u0000InstanceTree_longzhujusuo-W\u0000"
+        "Name": "InstanceTree_longzhujusuo-W",
+        "Event": "map_world_longzhujusuo",
+        "EnterEvent": "map_world_longzhujusuo_enter",
+        "ExitEvent": "map_world_longzhujusuo_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 90,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000,\u0000\u0000\u0000D\u0000\u0000\u0000X\u0000\u0000\u0000Z\u0000\u0000\u0000\u0015\u0000\u0000\u0000map_system_tower_exit\u0000\u0000\u0000\u0016\u0000\u0000\u0000map_system_tower_enter\u0000\u0000\u0010\u0000\u0000\u0000map_system_tower\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000InstanceTree_NewTower\u0000\u0000\u0000"
+        "Name": "InstanceTree_NewTower",
+        "Event": "map_system_tower",
+        "EnterEvent": "map_system_tower_enter",
+        "ExitEvent": "map_system_tower_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 91,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000(\u0000\u0000\u0000@\u0000\u0000\u0000P\u0000\u0000\u0000[\u0000\u0000\u0000\u0013\u0000\u0000\u0000map_role_jiyan_exit\u0000\u0014\u0000\u0000\u0000map_role_jiyan_enter\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000map_role_jiyan\u0000\u0000\u0014\u0000\u0000\u0000InstanceTree_Jiyan_1\u0000\u0000\u0000\u0000"
+        "Name": "InstanceTree_Jiyan_1",
+        "Event": "map_role_jiyan",
+        "EnterEvent": "map_role_jiyan_enter",
+        "ExitEvent": "map_role_jiyan_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 94,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000,\u0000\u0000\u0000D\u0000\u0000\u0000X\u0000\u0000\u0000^\u0000\u0000\u0000\u0016\u0000\u0000\u0000map_role_lingyang_exit\u0000\u0000\u0017\u0000\u0000\u0000map_role_lingyang_enter\u0000\u0011\u0000\u0000\u0000map_role_lingyang\u0000\u0000\u0000\u0015\u0000\u0000\u0000InstanceTree_Lingyang\u0000\u0000\u0000"
+        "Name": "InstanceTree_Lingyang",
+        "Event": "map_role_lingyang",
+        "EnterEvent": "map_role_lingyang_enter",
+        "ExitEvent": "map_role_lingyang_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 95,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000,\u0000\u0000\u0000D\u0000\u0000\u0000T\u0000\u0000\u0000_\u0000\u0000\u0000\u0014\u0000\u0000\u0000map_role_yinlin_exit\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000map_role_yinlin_enter\u0000\u0000\u0000\u000f\u0000\u0000\u0000map_role_yinlin\u0000\n\u0000\u0000\u0000yinlinMain\u0000\u0000"
+        "Name": "yinlinMain",
+        "Event": "map_role_yinlin",
+        "EnterEvent": "map_role_yinlin_enter",
+        "ExitEvent": "map_role_yinlin_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 1501,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000L\u0000\u0000\u0000`\u0000\u0000\u0000�\u0005\u0000\u0000\u0018\u0000\u0000\u0000map_main_shanghen01_exit\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000map_main_shanghen01_enter\u0000\u0000\u0000\u0013\u0000\u0000\u0000map_main_shanghen01\u0000\u0016\u0000\u0000\u0000InstanceTree_ShangHen1\u0000\u0000"
+        "Name": "InstanceTree_ShangHen1",
+        "Event": "map_main_shanghen01",
+        "EnterEvent": "map_main_shanghen01_enter",
+        "ExitEvent": "map_main_shanghen01_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 1504,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000,\u0000\u0000\u0000D\u0000\u0000\u0000X\u0000\u0000\u0000�\u0005\u0000\u0000\u0016\u0000\u0000\u0000map_main_beiluoye_exit\u0000\u0000\u0017\u0000\u0000\u0000map_main_beiluoye_enter\u0000\u0011\u0000\u0000\u0000map_main_beiluoye\u0000\u0000\u0000\u0015\u0000\u0000\u0000InstanceTree_BeiLuoYe\u0000\u0000\u0000"
+        "Name": "InstanceTree_BeiLuoYe",
+        "Event": "map_main_beiluoye",
+        "EnterEvent": "map_main_beiluoye_enter",
+        "ExitEvent": "map_main_beiluoye_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 2002,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000L\u0000\u0000\u0000d\u0000\u0000\u0000�\u0007\u0000\u0000\u001a\u0000\u0000\u0000map_onetime_2dparkour_exit\u0000\u0000\u001b\u0000\u0000\u0000map_onetime_2dparkour_enter\u0000\u0015\u0000\u0000\u0000map_onetime_2dparkour\u0000\u0000\u0000\u0016\u0000\u0000\u0000InstanceTree_2DParkour\u0000\u0000"
+        "Name": "InstanceTree_2DParkour",
+        "Event": "map_onetime_2dparkour",
+        "EnterEvent": "map_onetime_2dparkour_enter",
+        "ExitEvent": "map_onetime_2dparkour_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 2021,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000L\u0000\u0000\u0000`\u0000\u0000\u0000�\u0007\u0000\u0000\u0018\u0000\u0000\u0000map_main_shanghen02_exit\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000map_main_shanghen02_enter\u0000\u0000\u0000\u0013\u0000\u0000\u0000map_main_shanghen02\u0000\u0016\u0000\u0000\u0000InstanceTree_ShangHen2\u0000\u0000"
+        "Name": "InstanceTree_ShangHen2",
+        "Event": "map_main_shanghen02",
+        "EnterEvent": "map_main_shanghen02_enter",
+        "ExitEvent": "map_main_shanghen02_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 2502,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000L\u0000\u0000\u0000`\u0000\u0000\u0000�\t\u0000\u0000\u0018\u0000\u0000\u0000map_world_yanjiusuo_exit\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000map_world_yanjiusuo_enter\u0000\u0000\u0000\u0013\u0000\u0000\u0000map_world_yanjiusuo\u0000\u0016\u0000\u0000\u0000InstanceTree_yanjiusuo\u0000\u0000"
+        "Name": "InstanceTree_yanjiusuo",
+        "Event": "map_world_yanjiusuo",
+        "EnterEvent": "map_world_yanjiusuo_enter",
+        "ExitEvent": "map_world_yanjiusuo_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 4021,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000,\u0000\u0000\u0000D\u0000\u0000\u0000X\u0000\u0000\u0000�\u000f\u0000\u0000\u0015\u0000\u0000\u0000map_system_break_exit\u0000\u0000\u0000\u0016\u0000\u0000\u0000map_system_break_enter\u0000\u0000\u0010\u0000\u0000\u0000map_system_break\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000InstanceTree_Break\u0000\u0000"
+        "Name": "InstanceTree_Break",
+        "Event": "map_system_break",
+        "EnterEvent": "map_system_break_enter",
+        "ExitEvent": "map_system_break_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 4041,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000L\u0000\u0000\u0000d\u0000\u0000\u0000�\u000f\u0000\u0000\u001a\u0000\u0000\u0000map_system_jzmaterial_exit\u0000\u0000\u001b\u0000\u0000\u0000map_system_jzmaterial_enter\u0000\u0015\u0000\u0000\u0000map_system_jzmaterial\u0000\u0000\u0000\u0018\u0000\u0000\u0000InstanceTree_JZ_Material\u0000\u0000\u0000\u0000"
+        "Name": "InstanceTree_JZ_Material",
+        "Event": "map_system_jzmaterial",
+        "EnterEvent": "map_system_jzmaterial_enter",
+        "ExitEvent": "map_system_jzmaterial_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 5001,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000L\u0000\u0000\u0000d\u0000\u0000\u0000�\u0013\u0000\u0000\u001a\u0000\u0000\u0000map_system_roletrials_exit\u0000\u0000\u001b\u0000\u0000\u0000map_system_roletrials_enter\u0000\u0015\u0000\u0000\u0000map_system_roletrials\u0000\u0000\u0000\u0017\u0000\u0000\u0000InstanceTree_RoleTrials\u0000"
+        "Name": "InstanceTree_RoleTrials",
+        "Event": "map_system_roletrials",
+        "EnterEvent": "map_system_roletrials_enter",
+        "ExitEvent": "map_system_roletrials_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 6001,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000P\u0000\u0000\u0000h\u0000\u0000\u0000q\u0017\u0000\u0000\u001b\u0000\u0000\u0000map_onetime_rotateroom_exit\u0000\u001c\u0000\u0000\u0000map_onetime_rotateroom_enter\u0000\u0000\u0000\u0000\u0016\u0000\u0000\u0000map_onetime_rotateroom\u0000\u0000\u0017\u0000\u0000\u0000InstanceTree_RotateRoom\u0000"
+        "Name": "InstanceTree_RotateRoom",
+        "Event": "map_onetime_rotateroom",
+        "EnterEvent": "map_onetime_rotateroom_enter",
+        "ExitEvent": "map_onetime_rotateroom_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 8002,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000,\u0000\u0000\u0000D\u0000\u0000\u0000X\u0000\u0000\u0000B\u001f\u0000\u0000\u0016\u0000\u0000\u0000map_system_roguea_exit\u0000\u0000\u0017\u0000\u0000\u0000map_system_roguea_enter\u0000\u0011\u0000\u0000\u0000map_system_roguea\u0000\u0000\u0000\u0014\u0000\u0000\u0000InstanceTree_Rogue_A\u0000\u0000\u0000\u0000"
+        "Name": "InstanceTree_Rogue_A",
+        "Event": "map_system_roguea",
+        "EnterEvent": "map_system_roguea_enter",
+        "ExitEvent": "map_system_roguea_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 201000,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000,\u0000\u0000\u0000D\u0000\u0000\u0000X\u0000\u0000\u0000(\u0011\u0003\u0000\u0015\u0000\u0000\u0000map_system_skill_exit\u0000\u0000\u0000\u0016\u0000\u0000\u0000map_system_skill_enter\u0000\u0000\u0010\u0000\u0000\u0000map_system_skill\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000InstanceTree_Skill\u0000\u0000"
+        "Name": "InstanceTree_Skill",
+        "Event": "map_system_skill",
+        "EnterEvent": "map_system_skill_enter",
+        "ExitEvent": "map_system_skill_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 301000,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000,\u0000\u0000\u0000D\u0000\u0000\u0000X\u0000\u0000\u0000ȗ\u0004\u0000\u0016\u0000\u0000\u0000map_system_weapon_exit\u0000\u0000\u0017\u0000\u0000\u0000map_system_weapon_enter\u0000\u0011\u0000\u0000\u0000map_system_weapon\u0000\u0000\u0000\u0013\u0000\u0000\u0000InstanceTree_Weapon\u0000"
+        "Name": "InstanceTree_Weapon",
+        "Event": "map_system_weapon",
+        "EnterEvent": "map_system_weapon_enter",
+        "ExitEvent": "map_system_weapon_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 1505,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000,\u0000\u0000\u0000H\u0000\u0000\u0000\\\u0000\u0000\u0000�\u0005\u0000\u0000\u0017\u0000\u0000\u0000map_main_yanjiusuo_exit\u0000\u0018\u0000\u0000\u0000map_main_yanjiusuo_enter\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000map_main_yanjiusuo\u0000\u0000\u001c\u0000\u0000\u0000InstanceTree_YanjiusuoBattle\u0000\u0000\u0000\u0000"
+        "Name": "InstanceTree_YanjiusuoBattle",
+        "Event": "map_main_yanjiusuo",
+        "EnterEvent": "map_main_yanjiusuo_enter",
+        "ExitEvent": "map_main_yanjiusuo_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 8101,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000L\u0000\u0000\u0000d\u0000\u0000\u0000�\u001f\u0000\u0000\u001a\u0000\u0000\u0000map_system_roletrials_exit\u0000\u0000\u001b\u0000\u0000\u0000map_system_roletrials_enter\u0000\u0015\u0000\u0000\u0000map_system_roletrials\u0000\u0000\u0000!\u0000\u0000\u0000InstanceTree_Activity_Role_trials\u0000\u0000\u0000"
+        "Name": "InstanceTree_Activity_Role_trials",
+        "Event": "map_system_roletrials",
+        "EnterEvent": "map_system_roletrials_enter",
+        "ExitEvent": "map_system_roletrials_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 8000,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000P\u0000\u0000\u0000h\u0000\u0000\u0000@\u001f\u0000\u0000\u001b\u0000\u0000\u0000map_huodong_huodong001_exit\u0000\u001c\u0000\u0000\u0000map_huodong_huodong001_enter\u0000\u0000\u0000\u0000\u0016\u0000\u0000\u0000map_huodong_huodong001\u0000\u0000\u0017\u0000\u0000\u0000InstanceTree_Huodong001\u0000"
+        "Name": "InstanceTree_Huodong001",
+        "Event": "map_huodong_huodong001",
+        "EnterEvent": "map_huodong_huodong001_enter",
+        "ExitEvent": "map_huodong_huodong001_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     },
     {
         "Id": 8150,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000P\u0000\u0000\u0000h\u0000\u0000\u0000�\u001f\u0000\u0000\u001b\u0000\u0000\u0000map_huodong_huodong002_exit\u0000\u001c\u0000\u0000\u0000map_huodong_huodong002_enter\u0000\u0000\u0000\u0000\u0016\u0000\u0000\u0000map_huodong_huodong002\u0000\u0000\u0017\u0000\u0000\u0000InstanceTree_Huodong002\u0000"
+        "Name": "InstanceTree_Huodong002",
+        "Event": "map_huodong_huodong002",
+        "EnterEvent": "map_huodong_huodong002_enter",
+        "ExitEvent": "map_huodong_huodong002_exit",
+        "ResetEvent": null,
+        "MusicResetEvent": null
     }
 ]

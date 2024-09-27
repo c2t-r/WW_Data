@@ -1,154 +1,306 @@
 [
     {
         "ViewName": "DefaultView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000DefaultView\u0000"
+        "Area": "",
+        "Priority": 0,
+        "OnlyShowInMain": false,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "AreaView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\b\u0000\u0000\u0000AreaView\u0000\u0000\u0000\u0000"
+        "Area": "Center",
+        "Priority": 4,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "NewItemTipsView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u000b\u0000\u0000\u0000NewItemTips\u0000\u000f\u0000\u0000\u0000NewItemTipsView\u0000"
+        "Area": "NewItemTips",
+        "Priority": 0,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "ItemHintView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\b\u0000\u0000\u0000ItemHint\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000ItemHintView\u0000\u0000\u0000\u0000"
+        "Area": "ItemHint",
+        "Priority": 0,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "GenericPromptView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\r\u0000\u0000\u0000GenericPrompt\u0000\u0000\u0000\u0011\u0000\u0000\u0000GenericPromptView\u0000\u0000\u0000"
+        "Area": "GenericPrompt",
+        "Priority": 0,
+        "OnlyShowInMain": false,
+        "RootItemIndex": 2,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "EventConditionFloatTips",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0005\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u0017\u0000\u0000\u0000EventConditionFloatTips\u0000"
+        "Area": "Center",
+        "Priority": 5,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "ChallengeAchieveFloatTips",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0005\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u0019\u0000\u0000\u0000ChallengeAchieveFloatTips\u0000\u0000\u0000"
+        "Area": "Center",
+        "Priority": 5,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "ChallengeSuccessFloatTips",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0005\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u0019\u0000\u0000\u0000ChallengeSuccessFloatTips\u0000\u0000\u0000"
+        "Area": "Center",
+        "Priority": 5,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "ChallengeFailedFloatTips",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0005\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u0018\u0000\u0000\u0000ChallengeFailedFloatTips\u0000\u0000\u0000\u0000"
+        "Area": "Center",
+        "Priority": 5,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "AdditionalTasksFloatTips",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0005\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u0018\u0000\u0000\u0000AdditionalTasksFloatTips\u0000\u0000\u0000\u0000"
+        "Area": "Center",
+        "Priority": 5,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "DelegateCompletionFloatTips",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0005\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u001b\u0000\u0000\u0000DelegateCompletionFloatTips\u0000"
+        "Area": "Center",
+        "Priority": 5,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "LevelUpView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Top\u0000\u000b\u0000\u0000\u0000LevelUpView\u0000"
+        "Area": "Top",
+        "Priority": 2,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "WorldLevelUpView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0003\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Top\u0000\u0010\u0000\u0000\u0000WorldLevelUpView\u0000\u0000\u0000\u0000"
+        "Area": "Top",
+        "Priority": 3,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "ItemRewardView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0005\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u000e\u0000\u0000\u0000ItemRewardView\u0000\u0000"
+        "Area": "Center",
+        "Priority": 5,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "DungeonClearanceFloatTips",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Bottom\u0000\u0000\u0019\u0000\u0000\u0000DungeonClearanceFloatTips\u0000\u0000\u0000"
+        "Area": "Bottom",
+        "Priority": 0,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "DungeonAutoExitFloatTips",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u0000BottomSecond\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000DungeonAutoExitFloatTips\u0000\u0000\u0000\u0000"
+        "Area": "BottomSecond",
+        "Priority": 0,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "CountDownFloatTips",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\t\u0000\u0000\u0000CountDown\u0000\u0000\u0000\u0012\u0000\u0000\u0000CountDownFloatTips\u0000\u0000"
+        "Area": "CountDown",
+        "Priority": 0,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "GameplayEnterView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\n\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u0011\u0000\u0000\u0000GameplayEnterView\u0000\u0000\u0000"
+        "Area": "Center",
+        "Priority": 10,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "GameplayFirstPassView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0014\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u0015\u0000\u0000\u0000GameplayFirstPassView\u0000\u0000\u0000"
+        "Area": "Center",
+        "Priority": 20,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "GuideTutorialTipsView",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001c\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Bottom\u0000\u0000\u0015\u0000\u0000\u0000GuideTutorialTipsView\u0000\u0000\u0000"
+        "Area": "Bottom",
+        "Priority": 99,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 1,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "CalabashUnlockItemView",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Bottom\u0000\u0000\u0016\u0000\u0000\u0000CalabashUnlockItemView\u0000\u0000"
+        "Area": "Bottom",
+        "Priority": 98,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 1,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "OnlineApplyView",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000f\u0000\u0000\u0000OnlineApplyView\u0000\u000f\u0000\u0000\u0000OnlineApplyView\u0000"
+        "Area": "OnlineApplyView",
+        "Priority": 0,
+        "OnlyShowInMain": false,
+        "RootItemIndex": 1,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "AdviceInfoView",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u0000AdviceInfoView\u0000\u0000\u000e\u0000\u0000\u0000AdviceInfoView\u0000\u0000"
+        "Area": "AdviceInfoView",
+        "Priority": 0,
+        "OnlyShowInMain": false,
+        "RootItemIndex": 1,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "AchievementFinishView",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u0015\u0000\u0000\u0000AchievementFinishView\u0000\u0000\u0000"
+        "Area": "Center",
+        "Priority": 0,
+        "OnlyShowInMain": false,
+        "RootItemIndex": 1,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "ComboTeachingView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u0011\u0000\u0000\u0000ComboTeachingView\u0000\u0000\u0000"
+        "Area": "Center",
+        "Priority": 1,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 2,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "OnlineChallengeApplyView",
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000f\u0000\u0000\u0000OnlineApplyView\u0000\u0018\u0000\u0000\u0000OnlineChallengeApplyView\u0000\u0000\u0000\u0000"
+        "Area": "OnlineApplyView",
+        "Priority": 0,
+        "OnlyShowInMain": false,
+        "RootItemIndex": 1,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "DailyTaskEndTips",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0005\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u0010\u0000\u0000\u0000DailyTaskEndTips\u0000\u0000\u0000\u0000"
+        "Area": "Center",
+        "Priority": 5,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "PrepareCountdownFloatTips",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0005\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Top\u0000\u0019\u0000\u0000\u0000PrepareCountdownFloatTips\u0000\u0000\u0000"
+        "Area": "Top",
+        "Priority": 5,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "CommunicateView",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001c\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Bottom\u0000\u0000\u000f\u0000\u0000\u0000CommunicateView\u0000"
+        "Area": "Bottom",
+        "Priority": 99,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 1,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "QuestFailRangeTipsView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001c\u0000\u0000\u0000\b\u0000\u0000\u0000\u0014\u0000\u0000\u0000\t\u0000\u0000\u0000CountDown\u0000\u0000\u0000\u0016\u0000\u0000\u0000QuestFailRangeTipsView\u0000\u0000"
+        "Area": "CountDown",
+        "Priority": 99,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "CalabashUpgradeSuccessView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Top\u0000\u001a\u0000\u0000\u0000CalabashUpgradeSuccessView\u0000\u0000"
+        "Area": "Top",
+        "Priority": 1,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "PingView",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0007\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000Ping\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000PingView\u0000\u0000\u0000\u0000"
+        "Area": "Ping",
+        "Priority": 0,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 1,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "FrozenQteView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0001\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Qte\u0000\r\u0000\u0000\u0000FrozenQteView\u0000\u0000\u0000"
+        "Area": "Qte",
+        "Priority": 0,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 2,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "BattleFloatTipsView",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u001e\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u0013\u0000\u0000\u0000BattleFloatTipsView\u0000"
+        "Area": "Center",
+        "Priority": 30,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 1,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "NewMissionTips",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0005\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Center\u0000\u0000\u000e\u0000\u0000\u0000NewMissionTips\u0000\u0000"
+        "Area": "Center",
+        "Priority": 5,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 0,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "AchievementCompleteTipsView",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Bottom\u0000\u0000\u001b\u0000\u0000\u0000AchievementCompleteTipsView\u0000"
+        "Area": "Bottom",
+        "Priority": 98,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 1,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "InteractQteView",
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\u000b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0001\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0003\u0000\u0000\u0000Qte\u0000\u000f\u0000\u0000\u0000InteractQteView\u0000"
+        "Area": "Qte",
+        "Priority": 0,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 2,
+        "IsWaitNormal": true
     },
     {
         "ViewName": "VisionNewQualityView",
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0007\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0001b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000Bottom\u0000\u0000\u0014\u0000\u0000\u0000VisionNewQualityView\u0000\u0000\u0000\u0000"
+        "Area": "Bottom",
+        "Priority": 98,
+        "OnlyShowInMain": true,
+        "RootItemIndex": 1,
+        "IsWaitNormal": true
     }
 ]

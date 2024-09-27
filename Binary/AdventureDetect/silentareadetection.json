@@ -1,86 +1,1251 @@
 [
     {
         "Id": 30000000,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�'\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000P\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0015\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000,\u0003\u0000\u0000\u0003\u0000\u0000\u0000,\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000����'\u0000\u0000\u0001\u0000\u0000\u0000�����'\u0000\u0000\u0002\u0000\u0000\u0000�����'\u0000\u0000\u0003\u0000\u0000\u0000�����'\u0000\u0000\u0004\u0000\u0000\u0000�����'\u0000\u0000\u0005\u0000\u0000\u0000�����'\u0000\u0000\u0006\u0000\u0000\u0000�����'\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�'\u0000\u0000\b\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI\u00005\u0000\u0000\u0000MonsterDetection_10010056_AttributesDescriptionUnlock\u0000\u0000\u00003\u0000\u0000\u0000MonsterDetection_10010056_AttributesDescriptionLock\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000�w�\u0006\u001a\u0000\u0000\u0000MonsterInfo_340000010_Name\u0000\u0000"
+        "Name": "MonsterInfo_340000010_Name",
+        "GuideId": 3,
+        "LevelPlayList": [
+            110000000
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 21,
+        "TypeDescription2": 21,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MonsterDetection_10010056_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "MonsterDetection_10010056_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI",
+        "ShowReward": 10118,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 10111
+            },
+            {
+                "key": 2,
+                "value": 10112
+            },
+            {
+                "key": 3,
+                "value": 10113
+            },
+            {
+                "key": 4,
+                "value": 10114
+            },
+            {
+                "key": 5,
+                "value": 10115
+            },
+            {
+                "key": 6,
+                "value": 10116
+            },
+            {
+                "key": 7,
+                "value": 10117
+            },
+            {
+                "key": 8,
+                "value": 10118
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5021,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30000001,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�'\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000P\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0015\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000,\u0003\u0000\u0000\u0003\u0000\u0000\u0000,\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000�����'\u0000\u0000\u0001\u0000\u0000\u0000�����'\u0000\u0000\u0002\u0000\u0000\u0000�����'\u0000\u0000\u0003\u0000\u0000\u0000�����'\u0000\u0000\u0004\u0000\u0000\u0000�����'\u0000\u0000\u0005\u0000\u0000\u0000�����'\u0000\u0000\u0006\u0000\u0000\u0000�����'\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�'\u0000\u0000\b\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_225_UI.T_IconMonsterHead_225_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_225_UI.T_IconMonsterHead_225_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_225_UI.T_IconMonsterHead_225_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_225_UI.T_IconMonsterHead_225_UI\u00005\u0000\u0000\u0000MonsterDetection_10010051_AttributesDescriptionUnlock\u0000\u0000\u00003\u0000\u0000\u0000MonsterDetection_10010051_AttributesDescriptionLock\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000Bk�\u0007\u001a\u0000\u0000\u0000MonsterInfo_330000010_Name\u0000\u0000"
+        "Name": "MonsterInfo_330000010_Name",
+        "GuideId": 3,
+        "LevelPlayList": [
+            133000002
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 21,
+        "TypeDescription2": 21,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MonsterDetection_10010051_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "MonsterDetection_10010051_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_225_UI.T_IconMonsterHead_225_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_225_UI.T_IconMonsterHead_225_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_225_UI.T_IconMonsterHead_225_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_225_UI.T_IconMonsterHead_225_UI",
+        "ShowReward": 10198,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 10191
+            },
+            {
+                "key": 2,
+                "value": 10192
+            },
+            {
+                "key": 3,
+                "value": 10193
+            },
+            {
+                "key": 4,
+                "value": 10194
+            },
+            {
+                "key": 5,
+                "value": 10195
+            },
+            {
+                "key": 6,
+                "value": 10196
+            },
+            {
+                "key": 7,
+                "value": 10197
+            },
+            {
+                "key": 8,
+                "value": 10198
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5030,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30000002,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�'\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000P\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0015\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000,\u0003\u0000\u0000\u0003\u0000\u0000\u0000,\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000�����'\u0000\u0000\u0001\u0000\u0000\u0000�����'\u0000\u0000\u0002\u0000\u0000\u0000�����'\u0000\u0000\u0003\u0000\u0000\u0000�����'\u0000\u0000\u0004\u0000\u0000\u0000�����'\u0000\u0000\u0005\u0000\u0000\u0000�����'\u0000\u0000\u0006\u0000\u0000\u0000�����'\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�'\u0000\u0000\b\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI\u00005\u0000\u0000\u0000MonsterDetection_10010051_AttributesDescriptionUnlock\u0000\u0000\u00003\u0000\u0000\u0000MonsterDetection_10010051_AttributesDescriptionLock\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000�w�\u0006\u001a\u0000\u0000\u0000MonsterInfo_340000080_Name\u0000\u0000"
+        "Name": "MonsterInfo_340000080_Name",
+        "GuideId": 3,
+        "LevelPlayList": [
+            110000002
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 21,
+        "TypeDescription2": 21,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MonsterDetection_10010051_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "MonsterDetection_10010051_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI",
+        "ShowReward": 10128,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 10121
+            },
+            {
+                "key": 2,
+                "value": 10122
+            },
+            {
+                "key": 3,
+                "value": 10123
+            },
+            {
+                "key": 4,
+                "value": 10124
+            },
+            {
+                "key": 5,
+                "value": 10125
+            },
+            {
+                "key": 6,
+                "value": 10126
+            },
+            {
+                "key": 7,
+                "value": 10127
+            },
+            {
+                "key": 8,
+                "value": 10128
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5023,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30000003,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�'\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000P\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0015\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000,\u0003\u0000\u0000\u0003\u0000\u0000\u0000,\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000�����'\u0000\u0000\u0001\u0000\u0000\u0000�����'\u0000\u0000\u0002\u0000\u0000\u0000�����'\u0000\u0000\u0003\u0000\u0000\u0000�����'\u0000\u0000\u0004\u0000\u0000\u0000�����'\u0000\u0000\u0005\u0000\u0000\u0000�����'\u0000\u0000\u0006\u0000\u0000\u0000�����'\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�'\u0000\u0000\b\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI\u00005\u0000\u0000\u0000MonsterDetection_10010052_AttributesDescriptionUnlock\u0000\u0000\u00003\u0000\u0000\u0000MonsterDetection_10010052_AttributesDescriptionLock\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000�w�\u0006\u001a\u0000\u0000\u0000MonsterInfo_330000020_Name\u0000\u0000"
+        "Name": "MonsterInfo_330000020_Name",
+        "GuideId": 3,
+        "LevelPlayList": [
+            110000050
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 21,
+        "TypeDescription2": 21,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MonsterDetection_10010052_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "MonsterDetection_10010052_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI",
+        "ShowReward": 10148,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 10141
+            },
+            {
+                "key": 2,
+                "value": 10142
+            },
+            {
+                "key": 3,
+                "value": 10143
+            },
+            {
+                "key": 4,
+                "value": 10144
+            },
+            {
+                "key": 5,
+                "value": 10145
+            },
+            {
+                "key": 6,
+                "value": 10146
+            },
+            {
+                "key": 7,
+                "value": 10147
+            },
+            {
+                "key": 8,
+                "value": 10148
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5025,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30000004,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�'\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000P\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0015\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000,\u0003\u0000\u0000\u0003\u0000\u0000\u0000,\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000�����'\u0000\u0000\u0001\u0000\u0000\u0000�����'\u0000\u0000\u0002\u0000\u0000\u0000�����'\u0000\u0000\u0003\u0000\u0000\u0000�����'\u0000\u0000\u0004\u0000\u0000\u0000�����'\u0000\u0000\u0005\u0000\u0000\u0000�����'\u0000\u0000\u0006\u0000\u0000\u0000�����'\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�'\u0000\u0000\b\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_996_UI.T_IconMonsterHead_996_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_996_UI.T_IconMonsterHead_996_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_996_UI.T_IconMonsterHead_996_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_996_UI.T_IconMonsterHead_996_UI\u00005\u0000\u0000\u0000MonsterDetection_10010054_AttributesDescriptionUnlock\u0000\u0000\u00003\u0000\u0000\u0000MonsterDetection_10010054_AttributesDescriptionLock\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000B��\u0006\u001a\u0000\u0000\u0000MonsterInfo_330000050_Name\u0000\u0000"
+        "Name": "MonsterInfo_330000050_Name",
+        "GuideId": 3,
+        "LevelPlayList": [
+            112000066
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 21,
+        "TypeDescription2": 21,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MonsterDetection_10010054_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "MonsterDetection_10010054_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_996_UI.T_IconMonsterHead_996_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_996_UI.T_IconMonsterHead_996_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_996_UI.T_IconMonsterHead_996_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_996_UI.T_IconMonsterHead_996_UI",
+        "ShowReward": 10158,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 10151
+            },
+            {
+                "key": 2,
+                "value": 10152
+            },
+            {
+                "key": 3,
+                "value": 10153
+            },
+            {
+                "key": 4,
+                "value": 10154
+            },
+            {
+                "key": 5,
+                "value": 10155
+            },
+            {
+                "key": 6,
+                "value": 10156
+            },
+            {
+                "key": 7,
+                "value": 10157
+            },
+            {
+                "key": 8,
+                "value": 10158
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5026,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30000005,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�'\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000P\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0015\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0002\u0000\u0000\u0010\u0003\u0000\u0000\u0003\u0000\u0000\u0000\u0010\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000�����'\u0000\u0000\u0001\u0000\u0000\u0000�����'\u0000\u0000\u0002\u0000\u0000\u0000�����'\u0000\u0000\u0003\u0000\u0000\u0000�����'\u0000\u0000\u0004\u0000\u0000\u0000�����'\u0000\u0000\u0005\u0000\u0000\u0000�����'\u0000\u0000\u0006\u0000\u0000\u0000�����'\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�'\u0000\u0000\b\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_997_UI.T_IconMonsterHead_997_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_997_UI.T_IconMonsterHead_997_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_997_UI.T_IconMonsterHead_997_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_997_UI.T_IconMonsterHead_997_UI\u0000%\u0000\u0000\u0000MonsterHandBook_330000060_Descrtption\u0000\u0000\u0000%\u0000\u0000\u0000MonsterHandBook_330000060_Descrtption\u0000\u0000\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f8\u0013\u0007\u001a\u0000\u0000\u0000MonsterInfo_330000060_Name\u0000\u0000"
+        "Name": "MonsterInfo_330000060_Name",
+        "GuideId": 3,
+        "LevelPlayList": [
+            118700044
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 21,
+        "TypeDescription2": 21,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MonsterHandBook_330000060_Descrtption",
+        "AttributesDescriptionUnlock": "MonsterHandBook_330000060_Descrtption",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_997_UI.T_IconMonsterHead_997_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_997_UI.T_IconMonsterHead_997_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_997_UI.T_IconMonsterHead_997_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_997_UI.T_IconMonsterHead_997_UI",
+        "ShowReward": 10138,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 10131
+            },
+            {
+                "key": 2,
+                "value": 10132
+            },
+            {
+                "key": 3,
+                "value": 10133
+            },
+            {
+                "key": 4,
+                "value": 10134
+            },
+            {
+                "key": 5,
+                "value": 10135
+            },
+            {
+                "key": 6,
+                "value": 10136
+            },
+            {
+                "key": 7,
+                "value": 10137
+            },
+            {
+                "key": 8,
+                "value": 10138
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5027,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30000006,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�'\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000P\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0015\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0002\u0000\u0000\u0010\u0003\u0000\u0000\u0003\u0000\u0000\u0000\u0010\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000�����'\u0000\u0000\u0001\u0000\u0000\u0000�����'\u0000\u0000\u0002\u0000\u0000\u0000�����'\u0000\u0000\u0003\u0000\u0000\u0000�����'\u0000\u0000\u0004\u0000\u0000\u0000�����'\u0000\u0000\u0005\u0000\u0000\u0000�����'\u0000\u0000\u0006\u0000\u0000\u0000�����'\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�'\u0000\u0000\b\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_995_UI.T_IconMonsterHead_995_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_995_UI.T_IconMonsterHead_995_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_995_UI.T_IconMonsterHead_995_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_995_UI.T_IconMonsterHead_995_UI\u0000%\u0000\u0000\u0000MonsterHandBook_330000030_Descrtption\u0000\u0000\u0000%\u0000\u0000\u0000MonsterHandBook_330000030_Descrtption\u0000\u0000\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000v�E\u0007\u001a\u0000\u0000\u0000MonsterInfo_330000030_Name\u0000\u0000"
+        "Name": "MonsterInfo_330000030_Name",
+        "GuideId": 3,
+        "LevelPlayList": [
+            122000246
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 21,
+        "TypeDescription2": 21,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MonsterHandBook_330000030_Descrtption",
+        "AttributesDescriptionUnlock": "MonsterHandBook_330000030_Descrtption",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_995_UI.T_IconMonsterHead_995_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_995_UI.T_IconMonsterHead_995_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_995_UI.T_IconMonsterHead_995_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_995_UI.T_IconMonsterHead_995_UI",
+        "ShowReward": 10168,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 10161
+            },
+            {
+                "key": 2,
+                "value": 10162
+            },
+            {
+                "key": 3,
+                "value": 10163
+            },
+            {
+                "key": 4,
+                "value": 10164
+            },
+            {
+                "key": 5,
+                "value": 10165
+            },
+            {
+                "key": 6,
+                "value": 10166
+            },
+            {
+                "key": 7,
+                "value": 10167
+            },
+            {
+                "key": 8,
+                "value": 10168
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5028,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30000007,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�'\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000P\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0015\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000,\u0003\u0000\u0000\u0003\u0000\u0000\u0000,\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000�����'\u0000\u0000\u0001\u0000\u0000\u0000�����'\u0000\u0000\u0002\u0000\u0000\u0000�����'\u0000\u0000\u0003\u0000\u0000\u0000�����'\u0000\u0000\u0004\u0000\u0000\u0000�����'\u0000\u0000\u0005\u0000\u0000\u0000�����'\u0000\u0000\u0006\u0000\u0000\u0000�����'\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�'\u0000\u0000\b\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_994_UI.T_IconMonsterHead_994_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_994_UI.T_IconMonsterHead_994_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_994_UI.T_IconMonsterHead_994_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_994_UI.T_IconMonsterHead_994_UI\u00005\u0000\u0000\u0000MonsterDetection_10010053_AttributesDescriptionUnlock\u0000\u0000\u00003\u0000\u0000\u0000MonsterDetection_10010053_AttributesDescriptionLock\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000�w�\u0006\u001a\u0000\u0000\u0000MonsterInfo_330000040_Name\u0000\u0000"
+        "Name": "MonsterInfo_330000040_Name",
+        "GuideId": 3,
+        "LevelPlayList": [
+            110000046
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 21,
+        "TypeDescription2": 21,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MonsterDetection_10010053_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "MonsterDetection_10010053_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_994_UI.T_IconMonsterHead_994_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_994_UI.T_IconMonsterHead_994_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_994_UI.T_IconMonsterHead_994_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_994_UI.T_IconMonsterHead_994_UI",
+        "ShowReward": 10178,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 10171
+            },
+            {
+                "key": 2,
+                "value": 10172
+            },
+            {
+                "key": 3,
+                "value": 10173
+            },
+            {
+                "key": 4,
+                "value": 10174
+            },
+            {
+                "key": 5,
+                "value": 10175
+            },
+            {
+                "key": 6,
+                "value": 10176
+            },
+            {
+                "key": 7,
+                "value": 10177
+            },
+            {
+                "key": 8,
+                "value": 10178
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5031,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30000008,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�'\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000P\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0015\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000�����'\u0000\u0000\u0001\u0000\u0000\u0000�����'\u0000\u0000\u0002\u0000\u0000\u0000�����'\u0000\u0000\u0003\u0000\u0000\u0000�����'\u0000\u0000\u0004\u0000\u0000\u0000�����'\u0000\u0000\u0005\u0000\u0000\u0000�����'\u0000\u0000\u0006\u0000\u0000\u0000�����'\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�'\u0000\u0000\b\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_993_UI.T_IconMonsterHead_993_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_993_UI.T_IconMonsterHead_993_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_993_UI.T_IconMonsterHead_993_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_993_UI.T_IconMonsterHead_993_UI\u0000\u001f\u0000\u0000\u0000ItemInfo_70010042_BgDescription\u0000\u001f\u0000\u0000\u0000ItemInfo_70010042_BgDescription\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000�\b\u0007\u001a\u0000\u0000\u0000MonsterInfo_340000060_Name\u0000\u0000"
+        "Name": "MonsterInfo_340000060_Name",
+        "GuideId": 3,
+        "LevelPlayList": [
+            118000128
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 21,
+        "TypeDescription2": 21,
+        "MatType": 0,
+        "AttributesDescriptionLock": "ItemInfo_70010042_BgDescription",
+        "AttributesDescriptionUnlock": "ItemInfo_70010042_BgDescription",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_993_UI.T_IconMonsterHead_993_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_993_UI.T_IconMonsterHead_993_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_993_UI.T_IconMonsterHead_993_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_993_UI.T_IconMonsterHead_993_UI",
+        "ShowReward": 10188,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 10181
+            },
+            {
+                "key": 2,
+                "value": 10182
+            },
+            {
+                "key": 3,
+                "value": 10183
+            },
+            {
+                "key": 4,
+                "value": 10184
+            },
+            {
+                "key": 5,
+                "value": 10185
+            },
+            {
+                "key": 6,
+                "value": 10186
+            },
+            {
+                "key": 7,
+                "value": 10187
+            },
+            {
+                "key": 8,
+                "value": 10188
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5029,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30000009,
-        "BinData": "4\u0000\u0000\u0000\u0000\u0000.\u0000P\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000\u0000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000.\u0000\u0000\u0000�.�\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�'\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0002\u0000\u0000P\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0007\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000,\u0003\u0000\u0000\u0003\u0000\u0000\u0000,\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000�����'\u0000\u0000\u0001\u0000\u0000\u0000�����'\u0000\u0000\u0002\u0000\u0000\u0000�����'\u0000\u0000\u0003\u0000\u0000\u0000�����'\u0000\u0000\u0004\u0000\u0000\u0000�����'\u0000\u0000\u0005\u0000\u0000\u0000�����'\u0000\u0000\u0006\u0000\u0000\u0000�����'\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�'\u0000\u0000\b\u0000\u0000\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_992_UI.T_IconMonsterHead_992_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_992_UI.T_IconMonsterHead_992_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_992_UI.T_IconMonsterHead_992_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000g\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_992_UI.T_IconMonsterHead_992_UI\u00005\u0000\u0000\u0000MonsterDetection_10010057_AttributesDescriptionUnlock\u0000\u0000\u00003\u0000\u0000\u0000MonsterDetection_10010057_AttributesDescriptionLock\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000�w�\u0006\u001a\u0000\u0000\u0000MonsterInfo_340000020_Name\u0000\u0000"
+        "Name": "MonsterInfo_340000020_Name",
+        "GuideId": 3,
+        "LevelPlayList": [
+            110000001
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 7,
+        "TypeDescription2": 7,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MonsterDetection_10010057_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "MonsterDetection_10010057_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_992_UI.T_IconMonsterHead_992_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_992_UI.T_IconMonsterHead_992_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_992_UI.T_IconMonsterHead_992_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_992_UI.T_IconMonsterHead_992_UI",
+        "ShowReward": 10218,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 10211
+            },
+            {
+                "key": 2,
+                "value": 10212
+            },
+            {
+                "key": 3,
+                "value": 10213
+            },
+            {
+                "key": 4,
+                "value": 10214
+            },
+            {
+                "key": 5,
+                "value": 10215
+            },
+            {
+                "key": 6,
+                "value": 10216
+            },
+            {
+                "key": 7,
+                "value": 10217
+            },
+            {
+                "key": 8,
+                "value": 10218
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5022,
+        "LockCon": 12005117,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30010001,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�6\u0000\u0000�\u0000\u0000\u00004\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0016\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0018\u0003\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000�����6\u0000\u0000\u0001\u0000\u0000\u0000�����6\u0000\u0000\u0002\u0000\u0000\u0000�����6\u0000\u0000\u0003\u0000\u0000\u0000�����6\u0000\u0000\u0004\u0000\u0000\u0000�����6\u0000\u0000\u0005\u0000\u0000\u0000�����6\u0000\u0000\u0006\u0000\u0000\u0000�����6\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�6\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u00008\u0000\u0000\u0000SilentAreaDetection_30010001_AttributesDescriptionUnlock\u0000\u0000\u0000\u00006\u0000\u0000\u0000SilentAreaDetection_30010001_AttributesDescriptionLock\u0000\u0000\u0016\u0000\u0000\u0000InpuBoxText_TacetField\u0000\u0000\u0001\u0000\u0000\u0000\u0017��\u000b\u0016\u0000\u0000\u0000MapMark_5001_MarkTitle\u0000\u0000"
+        "Name": "MapMark_5001_MarkTitle",
+        "GuideId": 3,
+        "LevelPlayList": [
+            200000023
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_TacetField",
+        "DangerType": 3,
+        "Secondary": 22,
+        "TypeDescription2": 22,
+        "MatType": 0,
+        "AttributesDescriptionLock": "SilentAreaDetection_30010001_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "SilentAreaDetection_30010001_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "ShowReward": 14008,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 14001
+            },
+            {
+                "key": 2,
+                "value": 14002
+            },
+            {
+                "key": 3,
+                "value": 14003
+            },
+            {
+                "key": 4,
+                "value": 14004
+            },
+            {
+                "key": 5,
+                "value": 14005
+            },
+            {
+                "key": 6,
+                "value": 14006
+            },
+            {
+                "key": 7,
+                "value": 14007
+            },
+            {
+                "key": 8,
+                "value": 14008
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5001,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30010009,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�8\u0000\u0000�\u0000\u0000\u00004\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0016\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0018\u0003\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000�����8\u0000\u0000\u0001\u0000\u0000\u0000�����8\u0000\u0000\u0002\u0000\u0000\u0000�����8\u0000\u0000\u0003\u0000\u0000\u0000�����8\u0000\u0000\u0004\u0000\u0000\u0000�����8\u0000\u0000\u0005\u0000\u0000\u0000�����8\u0000\u0000\u0006\u0000\u0000\u0000�����8\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�8\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u00008\u0000\u0000\u0000SilentAreaDetection_30010009_AttributesDescriptionUnlock\u0000\u0000\u0000\u00006\u0000\u0000\u0000SilentAreaDetection_30010009_AttributesDescriptionLock\u0000\u0000\u0016\u0000\u0000\u0000InpuBoxText_TacetField\u0000\u0000\u0001\u0000\u0000\u0000@\r8\f\u0016\u0000\u0000\u0000MapMark_5002_MarkTitle\u0000\u0000"
+        "Name": "MapMark_5002_MarkTitle",
+        "GuideId": 3,
+        "LevelPlayList": [
+            205000000
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_TacetField",
+        "DangerType": 3,
+        "Secondary": 22,
+        "TypeDescription2": 22,
+        "MatType": 0,
+        "AttributesDescriptionLock": "SilentAreaDetection_30010009_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "SilentAreaDetection_30010009_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "ShowReward": 14508,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 14501
+            },
+            {
+                "key": 2,
+                "value": 14502
+            },
+            {
+                "key": 3,
+                "value": 14503
+            },
+            {
+                "key": 4,
+                "value": 14504
+            },
+            {
+                "key": 5,
+                "value": 14505
+            },
+            {
+                "key": 6,
+                "value": 14506
+            },
+            {
+                "key": 7,
+                "value": 14507
+            },
+            {
+                "key": 8,
+                "value": 14508
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5002,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30010010,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000H8\u0000\u0000�\u0000\u0000\u00004\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0016\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0018\u0003\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000����A8\u0000\u0000\u0001\u0000\u0000\u0000����B8\u0000\u0000\u0002\u0000\u0000\u0000����C8\u0000\u0000\u0003\u0000\u0000\u0000����D8\u0000\u0000\u0004\u0000\u0000\u0000����E8\u0000\u0000\u0005\u0000\u0000\u0000����F8\u0000\u0000\u0006\u0000\u0000\u0000����G8\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000H8\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u00008\u0000\u0000\u0000SilentAreaDetection_30010010_AttributesDescriptionUnlock\u0000\u0000\u0000\u00006\u0000\u0000\u0000SilentAreaDetection_30010010_AttributesDescriptionLock\u0000\u0000\u0016\u0000\u0000\u0000InpuBoxText_TacetField\u0000\u0000\u0001\u0000\u0000\u0000\u0019��\u000b\u0016\u0000\u0000\u0000MapMark_5003_MarkTitle\u0000\u0000"
+        "Name": "MapMark_5003_MarkTitle",
+        "GuideId": 3,
+        "LevelPlayList": [
+            200000025
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_TacetField",
+        "DangerType": 3,
+        "Secondary": 22,
+        "TypeDescription2": 22,
+        "MatType": 0,
+        "AttributesDescriptionLock": "SilentAreaDetection_30010010_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "SilentAreaDetection_30010010_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "ShowReward": 14408,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 14401
+            },
+            {
+                "key": 2,
+                "value": 14402
+            },
+            {
+                "key": 3,
+                "value": 14403
+            },
+            {
+                "key": 4,
+                "value": 14404
+            },
+            {
+                "key": 5,
+                "value": 14405
+            },
+            {
+                "key": 6,
+                "value": 14406
+            },
+            {
+                "key": 7,
+                "value": 14407
+            },
+            {
+                "key": 8,
+                "value": 14408
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5003,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30010011,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000\u001c7\u0000\u0000�\u0000\u0000\u00004\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0016\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0018\u0003\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000����\u00157\u0000\u0000\u0001\u0000\u0000\u0000����\u00167\u0000\u0000\u0002\u0000\u0000\u0000����\u00177\u0000\u0000\u0003\u0000\u0000\u0000����\u00187\u0000\u0000\u0004\u0000\u0000\u0000����\u00197\u0000\u0000\u0005\u0000\u0000\u0000����\u001a7\u0000\u0000\u0006\u0000\u0000\u0000����\u001b7\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u001c7\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u00008\u0000\u0000\u0000SilentAreaDetection_30010011_AttributesDescriptionUnlock\u0000\u0000\u0000\u00006\u0000\u0000\u0000SilentAreaDetection_30010011_AttributesDescriptionLock\u0000\u0000\u0016\u0000\u0000\u0000InpuBoxText_TacetField\u0000\u0000\u0001\u0000\u0000\u0000@\u0000�\u0012\u0016\u0000\u0000\u0000MapMark_5004_MarkTitle\u0000\u0000"
+        "Name": "MapMark_5004_MarkTitle",
+        "GuideId": 3,
+        "LevelPlayList": [
+            313000000
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_TacetField",
+        "DangerType": 3,
+        "Secondary": 22,
+        "TypeDescription2": 22,
+        "MatType": 0,
+        "AttributesDescriptionLock": "SilentAreaDetection_30010011_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "SilentAreaDetection_30010011_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "ShowReward": 14108,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 14101
+            },
+            {
+                "key": 2,
+                "value": 14102
+            },
+            {
+                "key": 3,
+                "value": 14103
+            },
+            {
+                "key": 4,
+                "value": 14104
+            },
+            {
+                "key": 5,
+                "value": 14105
+            },
+            {
+                "key": 6,
+                "value": 14106
+            },
+            {
+                "key": 7,
+                "value": 14107
+            },
+            {
+                "key": 8,
+                "value": 14108
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5004,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30010012,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�7\u0000\u0000�\u0000\u0000\u00004\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0016\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0018\u0003\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000����y7\u0000\u0000\u0001\u0000\u0000\u0000����z7\u0000\u0000\u0002\u0000\u0000\u0000����{7\u0000\u0000\u0003\u0000\u0000\u0000����|7\u0000\u0000\u0004\u0000\u0000\u0000����}7\u0000\u0000\u0005\u0000\u0000\u0000����~7\u0000\u0000\u0006\u0000\u0000\u0000����7\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�7\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u00008\u0000\u0000\u0000SilentAreaDetection_30010012_AttributesDescriptionUnlock\u0000\u0000\u0000\u00006\u0000\u0000\u0000SilentAreaDetection_30010012_AttributesDescriptionLock\u0000\u0000\u0016\u0000\u0000\u0000InpuBoxText_TacetField\u0000\u0000\u0001\u0000\u0000\u0000\u0018��\u000b\u0016\u0000\u0000\u0000MapMark_5005_MarkTitle\u0000\u0000"
+        "Name": "MapMark_5005_MarkTitle",
+        "GuideId": 3,
+        "LevelPlayList": [
+            200000024
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_TacetField",
+        "DangerType": 3,
+        "Secondary": 22,
+        "TypeDescription2": 22,
+        "MatType": 0,
+        "AttributesDescriptionLock": "SilentAreaDetection_30010012_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "SilentAreaDetection_30010012_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "ShowReward": 14208,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 14201
+            },
+            {
+                "key": 2,
+                "value": 14202
+            },
+            {
+                "key": 3,
+                "value": 14203
+            },
+            {
+                "key": 4,
+                "value": 14204
+            },
+            {
+                "key": 5,
+                "value": 14205
+            },
+            {
+                "key": 6,
+                "value": 14206
+            },
+            {
+                "key": 7,
+                "value": 14207
+            },
+            {
+                "key": 8,
+                "value": 14208
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5005,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30010013,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000\u00109\u0000\u0000�\u0000\u0000\u00004\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0016\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0018\u0003\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000����\t9\u0000\u0000\u0001\u0000\u0000\u0000����\n9\u0000\u0000\u0002\u0000\u0000\u0000����\u000b9\u0000\u0000\u0003\u0000\u0000\u0000����\f9\u0000\u0000\u0004\u0000\u0000\u0000����\r9\u0000\u0000\u0005\u0000\u0000\u0000����\u000e9\u0000\u0000\u0006\u0000\u0000\u0000����\u000f9\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u00109\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u00008\u0000\u0000\u0000SilentAreaDetection_30010013_AttributesDescriptionUnlock\u0000\u0000\u0000\u00006\u0000\u0000\u0000SilentAreaDetection_30010013_AttributesDescriptionLock\u0000\u0000\u0016\u0000\u0000\u0000InpuBoxText_TacetField\u0000\u0000\u0001\u0000\u0000\u0000\u0000��\u0012\u0016\u0000\u0000\u0000MapMark_5006_MarkTitle\u0000\u0000"
+        "Name": "MapMark_5006_MarkTitle",
+        "GuideId": 3,
+        "LevelPlayList": [
+            312000000
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_TacetField",
+        "DangerType": 3,
+        "Secondary": 22,
+        "TypeDescription2": 22,
+        "MatType": 0,
+        "AttributesDescriptionLock": "SilentAreaDetection_30010013_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "SilentAreaDetection_30010013_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "ShowReward": 14608,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 14601
+            },
+            {
+                "key": 2,
+                "value": 14602
+            },
+            {
+                "key": 3,
+                "value": 14603
+            },
+            {
+                "key": 4,
+                "value": 14604
+            },
+            {
+                "key": 5,
+                "value": 14605
+            },
+            {
+                "key": 6,
+                "value": 14606
+            },
+            {
+                "key": 7,
+                "value": 14607
+            },
+            {
+                "key": 8,
+                "value": 14608
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5006,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30010016,
-        "BinData": "0\u0000\u0000\u0000,\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000,\u0000\u0000\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000,\u0000\u0000\u0000�\u0013\u0000\u0000D\u0000\u0000\u0000�7\u0000\u0000�\u0000\u0000\u00004\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0016\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0018\u0003\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0003\u0000\u0000���\u0001\b\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000@\u0000\u0000\u0000H\u0000\u0000\u0000P\u0000\u0000\u0000`\u0000\u0000\u0000�����7\u0000\u0000\u0001\u0000\u0000\u0000�����7\u0000\u0000\u0002\u0000\u0000\u0000�����7\u0000\u0000\u0003\u0000\u0000\u0000�����7\u0000\u0000\u0004\u0000\u0000\u0000�����7\u0000\u0000\u0005\u0000\u0000\u0000�����7\u0000\u0000\u0006\u0000\u0000\u0000�����7\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�7\u0000\u0000\b\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000h\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI\u0000\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI\u0000Q\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI\u0000\u0000\u00008\u0000\u0000\u0000SilentAreaDetection_30010016_AttributesDescriptionUnlock\u0000\u0000\u0000\u00006\u0000\u0000\u0000SilentAreaDetection_30010016_AttributesDescriptionLock\u0000\u0000\u0016\u0000\u0000\u0000InpuBoxText_TacetField\u0000\u0000\u0001\u0000\u0000\u0000\u0001��\u0012\u0016\u0000\u0000\u0000MapMark_5007_MarkTitle\u0000\u0000"
+        "Name": "MapMark_5007_MarkTitle",
+        "GuideId": 3,
+        "LevelPlayList": [
+            312000001
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_TacetField",
+        "DangerType": 3,
+        "Secondary": 22,
+        "TypeDescription2": 22,
+        "MatType": 0,
+        "AttributesDescriptionLock": "SilentAreaDetection_30010016_AttributesDescriptionLock",
+        "AttributesDescriptionUnlock": "SilentAreaDetection_30010016_AttributesDescriptionUnlock",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_004_UI.T_ImgCopy_004_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_01_UI.T_IconA_shlb_01_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
+        "ShowReward": 14308,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 14301
+            },
+            {
+                "key": 2,
+                "value": 14302
+            },
+            {
+                "key": 3,
+                "value": 14303
+            },
+            {
+                "key": 4,
+                "value": 14304
+            },
+            {
+                "key": 5,
+                "value": 14305
+            },
+            {
+                "key": 6,
+                "value": 14306
+            },
+            {
+                "key": 7,
+                "value": 14307
+            },
+            {
+                "key": 8,
+                "value": 14308
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 5007,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 0
     },
     {
         "Id": 30020001,
-        "BinData": "8\u0000\u0000\u00004\u0000P\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000\u0000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u00004\u0000\u0000\u0000\u001a'\u0000\u0000�\u000f\u0000\u0000D\u0000\u0000\u0000��\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000H\u0001\u0000\u0000�\u0001\u0000\u0000\u0004\u0002\u0000\u0000p\u0002\u0000\u0000�\u0002\u0000\u0000=\u0000\u0000\u0000=\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0002\u0000\u0000\u0000�\u0002\u0000\u0000�\u0011�\u0001\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000H\u0000\u0000\u0000������\u0000\u0000\u0001\u0000\u0000\u0000������\u0000\u0000\u0002\u0000\u0000\u0000������\u0000\u0000\u0003\u0000\u0000\u0000������\u0000\u0000\u0004\u0000\u0000\u0000������\u0000\u0000\u0005\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000��\u0000\u0000\u0006\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000j\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_227_UI.T_IconMonsterGoods_227_UI\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000j\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_227_UI.T_IconMonsterGoods_227_UI\u0000\u0000\u0015\u0000\u0000\u0000MapMark_4020_MarkDesc\u0000\u0000\u0000\u0015\u0000\u0000\u0000MapMark_4020_MarkDesc\u0000\u0000\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000���\u0007\u0016\u0000\u0000\u0000MapMark_4020_MarkTitle\u0000\u0000"
+        "Name": "MapMark_4020_MarkTitle",
+        "GuideId": 2,
+        "LevelPlayList": [
+            130000008
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 61,
+        "TypeDescription2": 61,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MapMark_4020_MarkDesc",
+        "AttributesDescriptionUnlock": "MapMark_4020_MarkDesc",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_227_UI.T_IconMonsterGoods_227_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_227_UI.T_IconMonsterGoods_227_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "ShowReward": 48306,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 48301
+            },
+            {
+                "key": 2,
+                "value": 48302
+            },
+            {
+                "key": 3,
+                "value": 48303
+            },
+            {
+                "key": 4,
+                "value": 48304
+            },
+            {
+                "key": 5,
+                "value": 48305
+            },
+            {
+                "key": 6,
+                "value": 48306
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 4020,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 10010
     },
     {
         "Id": 30020002,
-        "BinData": "8\u0000\u0000\u00004\u0000P\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000\u0000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u00004\u0000\u0000\u0000\u0002+\u0000\u0000�\u000f\u0000\u0000D\u0000\u0000\u0000\u0016�\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000H\u0001\u0000\u0000�\u0001\u0000\u0000\b\u0002\u0000\u0000x\u0002\u0000\u0000�\u0002\u0000\u0000=\u0000\u0000\u0000=\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0002\u0000\u0000\u0000�\u0002\u0000\u0000�\u0011�\u0001\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000H\u0000\u0000\u0000����\u0011�\u0000\u0000\u0001\u0000\u0000\u0000����\u0012�\u0000\u0000\u0002\u0000\u0000\u0000����\u0013�\u0000\u0000\u0003\u0000\u0000\u0000����\u0014�\u0000\u0000\u0004\u0000\u0000\u0000����\u0015�\u0000\u0000\u0005\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\u0016�\u0000\u0000\u0006\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_006_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000l\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_1013_UI.T_IconMonsterGoods_1013_UI\u0000\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000l\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_1013_UI.T_IconMonsterGoods_1013_UI\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000MapMark_4021_MarkDesc\u0000\u0000\u0000\u0015\u0000\u0000\u0000MapMark_4021_MarkDesc\u0000\u0000\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000���\u0007\u0016\u0000\u0000\u0000MapMark_4021_MarkTitle\u0000\u0000"
+        "Name": "MapMark_4021_MarkTitle",
+        "GuideId": 2,
+        "LevelPlayList": [
+            130000007
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 61,
+        "TypeDescription2": 61,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MapMark_4021_MarkDesc",
+        "AttributesDescriptionUnlock": "MapMark_4021_MarkDesc",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_1013_UI.T_IconMonsterGoods_1013_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_1013_UI.T_IconMonsterGoods_1013_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_006_UI",
+        "ShowReward": 48406,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 48401
+            },
+            {
+                "key": 2,
+                "value": 48402
+            },
+            {
+                "key": 3,
+                "value": 48403
+            },
+            {
+                "key": 4,
+                "value": 48404
+            },
+            {
+                "key": 5,
+                "value": 48405
+            },
+            {
+                "key": 6,
+                "value": 48406
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 4021,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 11010
     },
     {
         "Id": 30020003,
-        "BinData": "8\u0000\u0000\u00004\u0000P\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000\u0000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u00004\u0000\u0000\u0000�.\u0000\u0000�\u000f\u0000\u0000D\u0000\u0000\u0000�\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000H\u0001\u0000\u0000�\u0001\u0000\u0000\b\u0002\u0000\u0000x\u0002\u0000\u0000�\u0002\u0000\u0000=\u0000\u0000\u0000=\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0002\u0000\u0000\u0000�\u0002\u0000\u0000�\u0011�\u0001\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000H\u0000\u0000\u0000�����\u0000\u0000\u0001\u0000\u0000\u0000�����\u0000\u0000\u0002\u0000\u0000\u0000�����\u0000\u0000\u0003\u0000\u0000\u0000�����\u0000\u0000\u0004\u0000\u0000\u0000�����\u0000\u0000\u0005\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0000\u0000\u0006\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_007_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000l\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_1011_UI.T_IconMonsterGoods_1011_UI\u0000\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000l\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_1011_UI.T_IconMonsterGoods_1011_UI\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000MapMark_4022_MarkDesc\u0000\u0000\u0000\u0015\u0000\u0000\u0000MapMark_4022_MarkDesc\u0000\u0000\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000���\u0007\u0016\u0000\u0000\u0000MapMark_4022_MarkTitle\u0000\u0000"
+        "Name": "MapMark_4022_MarkTitle",
+        "GuideId": 2,
+        "LevelPlayList": [
+            130000006
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 61,
+        "TypeDescription2": 61,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MapMark_4022_MarkDesc",
+        "AttributesDescriptionUnlock": "MapMark_4022_MarkDesc",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_1011_UI.T_IconMonsterGoods_1011_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_1011_UI.T_IconMonsterGoods_1011_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_007_UI",
+        "ShowReward": 48106,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 48101
+            },
+            {
+                "key": 2,
+                "value": 48102
+            },
+            {
+                "key": 3,
+                "value": 48103
+            },
+            {
+                "key": 4,
+                "value": 48104
+            },
+            {
+                "key": 5,
+                "value": 48105
+            },
+            {
+                "key": 6,
+                "value": 48106
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 4022,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 12010
     },
     {
         "Id": 30020004,
-        "BinData": "8\u0000\u0000\u00004\u0000P\u0000L\u0000H\u0000D\u0000@\u0000<\u00008\u00004\u00000\u0000\u0000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u00004\u0000\u0000\u0000�2\u0000\u0000�\u000f\u0000\u0000D\u0000\u0000\u0000N�\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000H\u0001\u0000\u0000�\u0001\u0000\u0000\b\u0002\u0000\u0000x\u0002\u0000\u0000�\u0002\u0000\u0000=\u0000\u0000\u0000=\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0002\u0000\u0000�\u0002\u0000\u0000\u0002\u0000\u0000\u0000�\u0002\u0000\u0000�\u0011�\u0001\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u00000\u0000\u0000\u00008\u0000\u0000\u0000H\u0000\u0000\u0000����I�\u0000\u0000\u0001\u0000\u0000\u0000����J�\u0000\u0000\u0002\u0000\u0000\u0000����K�\u0000\u0000\u0003\u0000\u0000\u0000����L�\u0000\u0000\u0004\u0000\u0000\u0000����M�\u0000\u0000\u0005\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000N�\u0000\u0000\u0006\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_008_UI\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000l\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_1012_UI.T_IconMonsterGoods_1012_UI\u0000\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI\u0000l\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_1012_UI.T_IconMonsterGoods_1012_UI\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000MapMark_4023_MarkDesc\u0000\u0000\u0000\u0015\u0000\u0000\u0000MapMark_4023_MarkDesc\u0000\u0000\u0000\u0011\u0000\u0000\u0000InpuBoxText_empty\u0000\u0000\u0000\u0001\u0000\u0000\u0000���\u0007\u0016\u0000\u0000\u0000MapMark_4023_MarkTitle\u0000\u0000"
+        "Name": "MapMark_4023_MarkTitle",
+        "GuideId": 2,
+        "LevelPlayList": [
+            130000009
+        ],
+        "InstanceSubTypeDescription": "InpuBoxText_empty",
+        "DangerType": 3,
+        "Secondary": 61,
+        "TypeDescription2": 61,
+        "MatType": 0,
+        "AttributesDescriptionLock": "MapMark_4023_MarkDesc",
+        "AttributesDescriptionUnlock": "MapMark_4023_MarkDesc",
+        "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_1012_UI.T_IconMonsterGoods_1012_UI",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_1012_UI.T_IconMonsterGoods_1012_UI",
+        "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+        "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_008_UI",
+        "ShowReward": 48206,
+        "ShowRewardMap": [
+            {
+                "key": 1,
+                "value": 48201
+            },
+            {
+                "key": 2,
+                "value": 48202
+            },
+            {
+                "key": 3,
+                "value": 48203
+            },
+            {
+                "key": 4,
+                "value": 48204
+            },
+            {
+                "key": 5,
+                "value": 48205
+            },
+            {
+                "key": 6,
+                "value": 48206
+            }
+        ],
+        "BeginTimeStamp": 0,
+        "MarkId": 4023,
+        "LockCon": 0,
+        "PhantomId": [],
+        "FirstDropId": 0,
+        "AdditionalId": 13010
     }
 ]

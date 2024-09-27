@@ -1,126 +1,250 @@
 [
     {
         "Id": 1,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0018\u0000\u0000\u0000SilentArea_1_Description\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000SilentArea_1_Title\u0000\u0000"
+        "BuffTitle": "SilentArea_1_Title",
+        "BuffDescription": "SilentArea_1_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 2,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0018\u0000\u0000\u0000SilentArea_2_Description\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000SilentArea_2_Title\u0000\u0000"
+        "BuffTitle": "SilentArea_2_Title",
+        "BuffDescription": "SilentArea_2_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 3,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u00000\u0000\u0000\u0000\u0003\u0000\u0000\u0000 \u0000\u0000\u0000RoleSkillTreeInfo_13_Description\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000RoleSkillTreeInfo_12_Title\u0000\u0000"
+        "BuffTitle": "RoleSkillTreeInfo_12_Title",
+        "BuffDescription": "RoleSkillTreeInfo_13_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 21,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0019\u0000\u0000\u0000SilentArea_21_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000SilentArea_21_Title\u0000"
+        "BuffTitle": "SilentArea_21_Title",
+        "BuffDescription": "SilentArea_21_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 22,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0019\u0000\u0000\u0000SilentArea_22_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000SilentArea_22_Title\u0000"
+        "BuffTitle": "SilentArea_22_Title",
+        "BuffDescription": "SilentArea_22_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 31,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000\u001f\u0000\u0000\u0000\u0019\u0000\u0000\u0000SilentArea_31_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000SilentArea_31_Title\u0000"
+        "BuffTitle": "SilentArea_31_Title",
+        "BuffDescription": "SilentArea_31_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 32,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000 \u0000\u0000\u0000\u0019\u0000\u0000\u0000SilentArea_32_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000SilentArea_32_Title\u0000"
+        "BuffTitle": "SilentArea_32_Title",
+        "BuffDescription": "SilentArea_32_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 41,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000\u0019\u0000\u0000\u0000SilentArea_41_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000SilentArea_41_Title\u0000"
+        "BuffTitle": "SilentArea_41_Title",
+        "BuffDescription": "SilentArea_41_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 42,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000*\u0000\u0000\u0000\u0019\u0000\u0000\u0000SilentArea_42_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000SilentArea_42_Title\u0000"
+        "BuffTitle": "SilentArea_42_Title",
+        "BuffDescription": "SilentArea_42_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 51,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u00003\u0000\u0000\u0000\u0019\u0000\u0000\u0000SilentArea_51_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000SilentArea_51_Title\u0000"
+        "BuffTitle": "SilentArea_51_Title",
+        "BuffDescription": "SilentArea_51_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 52,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u00004\u0000\u0000\u0000\u0019\u0000\u0000\u0000SilentArea_52_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000SilentArea_52_Title\u0000"
+        "BuffTitle": "SilentArea_52_Title",
+        "BuffDescription": "SilentArea_52_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 61,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000=\u0000\u0000\u0000\u0019\u0000\u0000\u0000SilentArea_61_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000SilentArea_61_Title\u0000"
+        "BuffTitle": "SilentArea_61_Title",
+        "BuffDescription": "SilentArea_61_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 62,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000>\u0000\u0000\u0000\u0019\u0000\u0000\u0000SilentArea_62_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000SilentArea_62_Title\u0000"
+        "BuffTitle": "SilentArea_62_Title",
+        "BuffDescription": "SilentArea_62_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 71,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000G\u0000\u0000\u0000\u0019\u0000\u0000\u0000SilentArea_71_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000SilentArea_71_Title\u0000"
+        "BuffTitle": "SilentArea_71_Title",
+        "BuffDescription": "SilentArea_71_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 1001001,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0005\u0000\u0000\u0000\f\u0000\u0000\u00008\u0000\u0000\u0000)F\u000f\u0000)\u0000\u0000\u0000SoundAreaPlayInfo_1001001_BuffDescription\u0000\u0000\u0000#\u0000\u0000\u0000SoundAreaPlayInfo_1001001_BuffTitle\u0000"
+        "BuffTitle": "SoundAreaPlayInfo_1001001_BuffTitle",
+        "BuffDescription": "SoundAreaPlayInfo_1001001_BuffDescription",
+        "ShowTitle": true,
+        "Time": 5,
+        "MaxCount": 3
     },
     {
         "Id": 1001002,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0005\u0000\u0000\u0000\f\u0000\u0000\u00008\u0000\u0000\u0000*F\u000f\u0000)\u0000\u0000\u0000SoundAreaPlayInfo_1001002_BuffDescription\u0000\u0000\u0000#\u0000\u0000\u0000SoundAreaPlayInfo_1001002_BuffTitle\u0000"
+        "BuffTitle": "SoundAreaPlayInfo_1001002_BuffTitle",
+        "BuffDescription": "SoundAreaPlayInfo_1001002_BuffDescription",
+        "ShowTitle": true,
+        "Time": 5,
+        "MaxCount": 3
     },
     {
         "Id": 1001003,
-        "BinData": "\u0014\u0000\u0000\u0000\u0010\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0004\u0000\u0010\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0005\u0000\u0000\u0000\f\u0000\u0000\u00008\u0000\u0000\u0000+F\u000f\u0000)\u0000\u0000\u0000SoundAreaPlayInfo_1001003_BuffDescription\u0000\u0000\u0000#\u0000\u0000\u0000SoundAreaPlayInfo_1001003_BuffTitle\u0000"
+        "BuffTitle": "SoundAreaPlayInfo_1001003_BuffTitle",
+        "BuffDescription": "SoundAreaPlayInfo_1001003_BuffDescription",
+        "ShowTitle": true,
+        "Time": 5,
+        "MaxCount": 3
     },
     {
         "Id": 1001,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0003\u0000\u0000\u0019\u0000\u0000\u0000Activity_1001_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_1001_Title\u0000"
+        "BuffTitle": "Activity_1001_Title",
+        "BuffDescription": "Activity_1001_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 1002,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0003\u0000\u0000\u0019\u0000\u0000\u0000Activity_1002_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_1002_Title\u0000"
+        "BuffTitle": "Activity_1002_Title",
+        "BuffDescription": "Activity_1002_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 1003,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0003\u0000\u0000\u0019\u0000\u0000\u0000Activity_1003_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_1003_Title\u0000"
+        "BuffTitle": "Activity_1003_Title",
+        "BuffDescription": "Activity_1003_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 1004,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0003\u0000\u0000\u0019\u0000\u0000\u0000Activity_1004_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_1004_Title\u0000"
+        "BuffTitle": "Activity_1004_Title",
+        "BuffDescription": "Activity_1004_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 1005,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0003\u0000\u0000\u0019\u0000\u0000\u0000Activity_1005_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_1005_Title\u0000"
+        "BuffTitle": "Activity_1005_Title",
+        "BuffDescription": "Activity_1005_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 1006,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0003\u0000\u0000\u0019\u0000\u0000\u0000Activity_1006_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_1006_Title\u0000"
+        "BuffTitle": "Activity_1006_Title",
+        "BuffDescription": "Activity_1006_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 1007,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0003\u0000\u0000\u0019\u0000\u0000\u0000Activity_1007_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_1007_Title\u0000"
+        "BuffTitle": "Activity_1007_Title",
+        "BuffDescription": "Activity_1007_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 1008,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0003\u0000\u0000\u0019\u0000\u0000\u0000Activity_1008_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_1008_Title\u0000"
+        "BuffTitle": "Activity_1008_Title",
+        "BuffDescription": "Activity_1008_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 1009,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0003\u0000\u0000\u0019\u0000\u0000\u0000Activity_1009_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_1009_Title\u0000"
+        "BuffTitle": "Activity_1009_Title",
+        "BuffDescription": "Activity_1009_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 1010,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0003\u0000\u0000\u0019\u0000\u0000\u0000Activity_1010_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_1010_Title\u0000"
+        "BuffTitle": "Activity_1010_Title",
+        "BuffDescription": "Activity_1010_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 2002,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0007\u0000\u0000\u0019\u0000\u0000\u0000Activity_2002_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_2002_Title\u0000"
+        "BuffTitle": "Activity_2002_Title",
+        "BuffDescription": "Activity_2002_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 2003,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0007\u0000\u0000\u0019\u0000\u0000\u0000Activity_2002_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_2003_Title\u0000"
+        "BuffTitle": "Activity_2003_Title",
+        "BuffDescription": "Activity_2002_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 2004,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000�\u0007\u0000\u0000\u0019\u0000\u0000\u0000Activity_2002_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000Activity_2004_Title\u0000"
+        "BuffTitle": "Activity_2004_Title",
+        "BuffDescription": "Activity_2002_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     },
     {
         "Id": 72,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000(\u0000\u0000\u0000H\u0000\u0000\u0000\u0019\u0000\u0000\u0000SilentArea_72_Description\u0000\u0000\u0000\u0013\u0000\u0000\u0000SilentArea_72_Title\u0000"
+        "BuffTitle": "SilentArea_72_Title",
+        "BuffDescription": "SilentArea_72_Description",
+        "ShowTitle": true,
+        "Time": 3,
+        "MaxCount": 0
     }
 ]

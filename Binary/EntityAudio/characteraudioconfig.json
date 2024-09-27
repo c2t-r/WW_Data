@@ -1,74 +1,1082 @@
 [
     {
         "Id": 1502,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000h\u0001\u0000\u0000\u0000\u0000\u0000A\u0004\u0004\u0000\u0000P\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000@\u0006\u0000\u0000�\u0005\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_hx_summon.play_vo_nvzhu_hx_summon\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_hx_change.play_vo_nvzhu_hx_change\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_join_team.play_vo_nvzhu_join_team\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000,\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup01.play_vo_nvzhu_rankup01\u0000\u0000\u0000<���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup02.play_vo_nvzhu_rankup02\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup01.play_vo_nvzhu_rankup01\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup02.play_vo_nvzhu_rankup02\u0000\u0000\u0000P���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup03.play_vo_nvzhu_rankup03\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup04.play_vo_nvzhu_rankup04\u0000\u0000\u0000\b���\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup05.play_vo_nvzhu_rankup05\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_tired_low.play_vo_nvzhu_tired_low\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_tired.play_vo_nvzhu_tired\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_chest.play_vo_nvzhu_chest\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0001\u0000\u0000X���\b\u0000\u0000\u0000F\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_hp70.play_vo_nvzhu_hp70\u0000\u0000\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_hp50.play_vo_nvzhu_hp50\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_hp30.play_vo_nvzhu_hp30\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_die.play_vo_nvzhu_die\u0000\u0005\u0000\u0000\u0000nvzhu\u0000\u0000\u0000"
+        "Name": "nvzhu",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_hp70.play_vo_nvzhu_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_hp50.play_vo_nvzhu_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_hp30.play_vo_nvzhu_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_die.play_vo_nvzhu_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_chest.play_vo_nvzhu_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_tired.play_vo_nvzhu_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_tired_low.play_vo_nvzhu_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup01.play_vo_nvzhu_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup02.play_vo_nvzhu_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup01.play_vo_nvzhu_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup02.play_vo_nvzhu_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup03.play_vo_nvzhu_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup04.play_vo_nvzhu_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_rankup05.play_vo_nvzhu_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_join_team.play_vo_nvzhu_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_hx_change.play_vo_nvzhu_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_nvzhu_hx_summon.play_vo_nvzhu_hx_summon"
     },
     {
         "Id": 1102,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000t\u0001\u0000\u0000\u0000\u0000\u0000A\u0010\u0004\u0000\u0000`\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000\\\u0006\u0000\u0000N\u0004\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_hx_summon.play_vo_sanhua_hx_summon\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_hx_change.play_vo_sanhua_hx_change\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_join_team.play_vo_sanhua_join_team\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000,\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup01.play_vo_sanhua_rankup01\u00000���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup02.play_vo_sanhua_rankup02\u0000����\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup01.play_vo_sanhua_rankup01\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup02.play_vo_sanhua_rankup02\u0000D���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup03.play_vo_sanhua_rankup03\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup04.play_vo_sanhua_rankup04\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup05.play_vo_sanhua_rankup05\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_tired_low.play_vo_sanhua_tired_low\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_tired.play_vo_sanhua_tired\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_chest.play_vo_sanhua_chest\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0001\u0000\u0000X���\b\u0000\u0000\u0000F\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_hp70.play_vo_sanhua_hp70\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_hp50.play_vo_sanhua_hp50\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_hp30.play_vo_sanhua_hp30\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_sanhua_die.play_vo_sanhua_die\u0000\u0000\u0000\u0006\u0000\u0000\u0000sanhua\u0000\u0000"
+        "Name": "sanhua",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_hp70.play_vo_sanhua_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_hp50.play_vo_sanhua_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_hp30.play_vo_sanhua_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_die.play_vo_sanhua_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_chest.play_vo_sanhua_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_tired.play_vo_sanhua_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_tired_low.play_vo_sanhua_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup01.play_vo_sanhua_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup02.play_vo_sanhua_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup01.play_vo_sanhua_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup02.play_vo_sanhua_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup03.play_vo_sanhua_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup04.play_vo_sanhua_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_rankup05.play_vo_sanhua_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_join_team.play_vo_sanhua_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_hx_change.play_vo_sanhua_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_sanhua_hx_summon.play_vo_sanhua_hx_summon"
     },
     {
         "Id": 1103,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000t\u0001\u0000\u0000\u0000\u0000\u0000A\u0010\u0004\u0000\u0000`\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000\\\u0006\u0000\u0000O\u0004\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_hx_summon.play_vo_baizhi_hx_summon\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_hx_change.play_vo_baizhi_hx_change\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_join_team.play_vo_baizhi_join_team\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000,\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup01.play_vo_baizhi_rankup01\u00000���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup02.play_vo_baizhi_rankup02\u0000����\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup01.play_vo_baizhi_rankup01\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup02.play_vo_baizhi_rankup02\u0000D���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup03.play_vo_baizhi_rankup03\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup04.play_vo_baizhi_rankup04\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup05.play_vo_baizhi_rankup05\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_tired_low.play_vo_baizhi_tired_low\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_tired.play_vo_baizhi_tired\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_chest.play_vo_baizhi_chest\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0001\u0000\u0000X���\b\u0000\u0000\u0000F\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_hp70.play_vo_baizhi_hp70\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_hp50.play_vo_baizhi_hp50\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_hp30.play_vo_baizhi_hp30\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_baizhi_die.play_vo_baizhi_die\u0000\u0000\u0000\u0006\u0000\u0000\u0000baizhi\u0000\u0000"
+        "Name": "baizhi",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_hp70.play_vo_baizhi_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_hp50.play_vo_baizhi_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_hp30.play_vo_baizhi_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_die.play_vo_baizhi_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_chest.play_vo_baizhi_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_tired.play_vo_baizhi_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_tired_low.play_vo_baizhi_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup01.play_vo_baizhi_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup02.play_vo_baizhi_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup01.play_vo_baizhi_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup02.play_vo_baizhi_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup03.play_vo_baizhi_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup04.play_vo_baizhi_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_rankup05.play_vo_baizhi_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_join_team.play_vo_baizhi_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_hx_change.play_vo_baizhi_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_baizhi_hx_summon.play_vo_baizhi_hx_summon"
     },
     {
         "Id": 1202,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000t\u0001\u0000\u0000\u0000\u0000\u0000A\u0010\u0004\u0000\u0000`\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000\\\u0006\u0000\u0000�\u0004\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_hx_summon.play_vo_chixia_hx_summon\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_hx_change.play_vo_chixia_hx_change\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_join_team.play_vo_chixia_join_team\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000,\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup01.play_vo_chixia_rankup01\u00000���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup02.play_vo_chixia_rankup02\u0000����\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup01.play_vo_chixia_rankup01\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup02.play_vo_chixia_rankup02\u0000D���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup03.play_vo_chixia_rankup03\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup04.play_vo_chixia_rankup04\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup05.play_vo_chixia_rankup05\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_tired_low.play_vo_chixia_tired_low\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_tired.play_vo_chixia_tired\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_chest.play_vo_chixia_chest\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0001\u0000\u0000X���\b\u0000\u0000\u0000F\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_hp70.play_vo_chixia_hp70\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_hp50.play_vo_chixia_hp50\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_hp30.play_vo_chixia_hp30\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_chixia_die.play_vo_chixia_die\u0000\u0000\u0000\u0006\u0000\u0000\u0000chixia\u0000\u0000"
+        "Name": "chixia",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_hp70.play_vo_chixia_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_hp50.play_vo_chixia_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_hp30.play_vo_chixia_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_die.play_vo_chixia_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_chest.play_vo_chixia_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_tired.play_vo_chixia_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_tired_low.play_vo_chixia_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup01.play_vo_chixia_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup02.play_vo_chixia_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup01.play_vo_chixia_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup02.play_vo_chixia_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup03.play_vo_chixia_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup04.play_vo_chixia_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_rankup05.play_vo_chixia_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_join_team.play_vo_chixia_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_hx_change.play_vo_chixia_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_chixia_hx_summon.play_vo_chixia_hx_summon"
     },
     {
         "Id": 1203,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000h\u0001\u0000\u0000\u0000\u0000\u0000A�\u0003\u0000\u00004\u0004\u0000\u0000x\u0004\u0000\u0000�\u0004\u0000\u0000\u0018\u0006\u0000\u0000�\u0004\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_hx_summon.play_vo_anke_hx_summon\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_hx_change.play_vo_anke_hx_change\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_join_team.play_vo_anke_join_team\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000\u0018\u0001\u0000\u0000l\u0001\u0000\u0000�\u0001\u0000\u0000\u0014\u0002\u0000\u0000\u0004���\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup01.play_vo_anke_rankup01\u0000\\���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup02.play_vo_anke_rankup02\u0000����\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup01.play_vo_anke_rankup01\u0000\f���\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup02.play_vo_anke_rankup02\u0000d���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup03.play_vo_anke_rankup03\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup04.play_vo_anke_rankup04\u0000\u0014���\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup05.play_vo_anke_rankup05\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_tired_low.play_vo_anke_tired_low\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_tired.play_vo_anke_tired\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_chest.play_vo_anke_chest\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000\\\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0001\u0000\u0000`���\b\u0000\u0000\u0000F\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_hp70.play_vo_anke_hp70\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_hp50.play_vo_anke_hp50\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_hp30.play_vo_anke_hp30\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000=\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_anke_die.play_vo_anke_die\u0000\u0000\u0000\u0004\u0000\u0000\u0000anke\u0000\u0000\u0000\u0000"
+        "Name": "anke",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_anke_hp70.play_vo_anke_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_anke_hp50.play_vo_anke_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_anke_hp30.play_vo_anke_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_anke_die.play_vo_anke_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_anke_chest.play_vo_anke_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_anke_tired.play_vo_anke_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_anke_tired_low.play_vo_anke_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup01.play_vo_anke_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup02.play_vo_anke_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup01.play_vo_anke_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup02.play_vo_anke_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup03.play_vo_anke_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup04.play_vo_anke_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_anke_rankup05.play_vo_anke_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_anke_join_team.play_vo_anke_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_anke_hx_change.play_vo_anke_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_anke_hx_summon.play_vo_anke_hx_summon"
     },
     {
         "Id": 1204,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000t\u0001\u0000\u0000\u0000\u0000\u0000A,\u0004\u0000\u0000|\u0004\u0000\u0000�\u0004\u0000\u0000\f\u0005\u0000\u0000�\u0006\u0000\u0000�\u0004\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_hx_summon.play_vo_motefei_hx_summon\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_hx_change.play_vo_motefei_hx_change\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_join_team.play_vo_motefei_join_team\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup01.play_vo_motefei_rankup01\u0000\u0000\u0000\u0010���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup02.play_vo_motefei_rankup02\u0000\u0000\u0000p���\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup01.play_vo_motefei_rankup01\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup02.play_vo_motefei_rankup02\u0000\u0000\u00000���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup03.play_vo_motefei_rankup03\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup04.play_vo_motefei_rankup04\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup05.play_vo_motefei_rankup05\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_tired_low.play_vo_motefei_tired_low\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_tired.play_vo_motefei_tired\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_chest.play_vo_motefei_chest\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000P���\b\u0000\u0000\u0000F\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_hp70.play_vo_motefei_hp70\u0000\u0000\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_hp50.play_vo_motefei_hp50\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_hp30.play_vo_motefei_hp30\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_motefei_die.play_vo_motefei_die\u0000\u0007\u0000\u0000\u0000motefei\u0000"
+        "Name": "motefei",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_hp70.play_vo_motefei_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_hp50.play_vo_motefei_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_hp30.play_vo_motefei_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_die.play_vo_motefei_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_chest.play_vo_motefei_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_tired.play_vo_motefei_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_tired_low.play_vo_motefei_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup01.play_vo_motefei_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup02.play_vo_motefei_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup01.play_vo_motefei_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup02.play_vo_motefei_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup03.play_vo_motefei_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup04.play_vo_motefei_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_rankup05.play_vo_motefei_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_join_team.play_vo_motefei_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_hx_change.play_vo_motefei_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_motefei_hx_summon.play_vo_motefei_hx_summon"
     },
     {
         "Id": 1302,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000t\u0001\u0000\u0000\u0000\u0000\u0000A\u0010\u0004\u0000\u0000`\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000\\\u0006\u0000\u0000\u0016\u0005\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_hx_summon.play_vo_yinlin_hx_summon\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_hx_change.play_vo_yinlin_hx_change\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_join_team.play_vo_yinlin_join_team\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000,\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup01.play_vo_yinlin_rankup01\u00000���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup02.play_vo_yinlin_rankup02\u0000����\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup01.play_vo_yinlin_rankup01\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup02.play_vo_yinlin_rankup02\u0000D���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup03.play_vo_yinlin_rankup03\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup04.play_vo_yinlin_rankup04\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup05.play_vo_yinlin_rankup05\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_tired_low.play_vo_yinlin_tired_low\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_tired.play_vo_yinlin_tired\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_chest.play_vo_yinlin_chest\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0001\u0000\u0000X���\b\u0000\u0000\u0000F\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_hp70.play_vo_yinlin_hp70\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_hp50.play_vo_yinlin_hp50\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_hp30.play_vo_yinlin_hp30\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yinlin_die.play_vo_yinlin_die\u0000\u0000\u0000\u0006\u0000\u0000\u0000yinlin\u0000\u0000"
+        "Name": "yinlin",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_hp70.play_vo_yinlin_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_hp50.play_vo_yinlin_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_hp30.play_vo_yinlin_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_die.play_vo_yinlin_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_chest.play_vo_yinlin_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_tired.play_vo_yinlin_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_tired_low.play_vo_yinlin_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup01.play_vo_yinlin_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup02.play_vo_yinlin_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup01.play_vo_yinlin_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup02.play_vo_yinlin_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup03.play_vo_yinlin_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup04.play_vo_yinlin_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_rankup05.play_vo_yinlin_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_join_team.play_vo_yinlin_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_hx_change.play_vo_yinlin_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_yinlin_hx_summon.play_vo_yinlin_hx_summon"
     },
     {
         "Id": 1303,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000t\u0001\u0000\u0000\u0000\u0000\u0000A\u0010\u0004\u0000\u0000`\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000\\\u0006\u0000\u0000\u0017\u0005\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_hx_summon.play_vo_yuanwu_hx_summon\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_hx_change.play_vo_yuanwu_hx_change\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_join_team.play_vo_yuanwu_join_team\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000,\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup01.play_vo_yuanwu_rankup01\u00000���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup02.play_vo_yuanwu_rankup02\u0000����\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup01.play_vo_yuanwu_rankup01\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup02.play_vo_yuanwu_rankup02\u0000D���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup03.play_vo_yuanwu_rankup03\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup04.play_vo_yuanwu_rankup04\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup05.play_vo_yuanwu_rankup05\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_tired_low.play_vo_yuanwu_tired_low\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_tired.play_vo_yuanwu_tired\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_chest.play_vo_yuanwu_chest\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0001\u0000\u0000X���\b\u0000\u0000\u0000F\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_hp70.play_vo_yuanwu_hp70\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_hp50.play_vo_yuanwu_hp50\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_hp30.play_vo_yuanwu_hp30\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_die.play_vo_yuanwu_die\u0000\u0000\u0000\u0006\u0000\u0000\u0000yuanwu\u0000\u0000"
+        "Name": "yuanwu",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_hp70.play_vo_yuanwu_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_hp50.play_vo_yuanwu_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_hp30.play_vo_yuanwu_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_die.play_vo_yuanwu_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_chest.play_vo_yuanwu_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_tired.play_vo_yuanwu_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_tired_low.play_vo_yuanwu_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup01.play_vo_yuanwu_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup02.play_vo_yuanwu_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup01.play_vo_yuanwu_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup02.play_vo_yuanwu_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup03.play_vo_yuanwu_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup04.play_vo_yuanwu_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_rankup05.play_vo_yuanwu_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_join_team.play_vo_yuanwu_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_hx_change.play_vo_yuanwu_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_yuanwu_hx_summon.play_vo_yuanwu_hx_summon"
     },
     {
         "Id": 1402,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000,\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0000\u0000A8\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000$\u0005\u0000\u0000�\u0006\u0000\u0000z\u0005\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_hx_summon.play_vo_yangyang_hx_summon\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_hx_change.play_vo_yangyang_hx_change\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_join_team.play_vo_yangyang_join_team\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup01.play_vo_yangyang_rankup01\u0000\u0004���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup02.play_vo_yangyang_rankup02\u0000d���\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup01.play_vo_yangyang_rankup01\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup02.play_vo_yangyang_rankup02\u0000$���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup03.play_vo_yangyang_rankup03\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup04.play_vo_yangyang_rankup04\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup05.play_vo_yangyang_rankup05\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_tired_low.play_vo_yangyang_tired_low\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_tired.play_vo_yangyang_tired\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_chest.play_vo_yangyang_chest\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000P���\b\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_hp70.play_vo_yangyang_hp70\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_hp50.play_vo_yangyang_hp50\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_hp30.play_vo_yangyang_hp30\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_yangyang_die.play_vo_yangyang_die\u0000\u0000\u0000\b\u0000\u0000\u0000yangyang\u0000\u0000\u0000\u0000"
+        "Name": "yangyang",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_hp70.play_vo_yangyang_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_hp50.play_vo_yangyang_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_hp30.play_vo_yangyang_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_die.play_vo_yangyang_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_chest.play_vo_yangyang_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_tired.play_vo_yangyang_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_tired_low.play_vo_yangyang_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup01.play_vo_yangyang_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup02.play_vo_yangyang_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup01.play_vo_yangyang_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup02.play_vo_yangyang_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup03.play_vo_yangyang_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup04.play_vo_yangyang_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_rankup05.play_vo_yangyang_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_join_team.play_vo_yangyang_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_hx_change.play_vo_yangyang_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_yangyang_hx_summon.play_vo_yangyang_hx_summon"
     },
     {
         "Id": 1403,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000t\u0001\u0000\u0000\u0000\u0000\u0000A,\u0004\u0000\u0000|\u0004\u0000\u0000�\u0004\u0000\u0000\f\u0005\u0000\u0000�\u0006\u0000\u0000{\u0005\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_hx_summon.play_vo_qiushui_hx_summon\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_hx_change.play_vo_qiushui_hx_change\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_join_team.play_vo_qiushui_join_team\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup01.play_vo_qiushui_rankup01\u0000\u0000\u0000\u0010���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup02.play_vo_qiushui_rankup02\u0000\u0000\u0000p���\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup01.play_vo_qiushui_rankup01\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup02.play_vo_qiushui_rankup02\u0000\u0000\u00000���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup03.play_vo_qiushui_rankup03\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup04.play_vo_qiushui_rankup04\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup05.play_vo_qiushui_rankup05\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_tired_low.play_vo_qiushui_tired_low\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_tired.play_vo_qiushui_tired\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_chest.play_vo_qiushui_chest\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000P���\b\u0000\u0000\u0000F\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_hp70.play_vo_qiushui_hp70\u0000\u0000\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_hp50.play_vo_qiushui_hp50\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_hp30.play_vo_qiushui_hp30\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_qiushui_die.play_vo_qiushui_die\u0000\u0007\u0000\u0000\u0000qiushui\u0000"
+        "Name": "qiushui",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_hp70.play_vo_qiushui_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_hp50.play_vo_qiushui_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_hp30.play_vo_qiushui_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_die.play_vo_qiushui_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_chest.play_vo_qiushui_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_tired.play_vo_qiushui_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_tired_low.play_vo_qiushui_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup01.play_vo_qiushui_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup02.play_vo_qiushui_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup01.play_vo_qiushui_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup02.play_vo_qiushui_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup03.play_vo_qiushui_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup04.play_vo_qiushui_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_rankup05.play_vo_qiushui_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_join_team.play_vo_qiushui_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_hx_change.play_vo_qiushui_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_qiushui_hx_summon.play_vo_qiushui_hx_summon"
     },
     {
         "Id": 1404,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000h\u0001\u0000\u0000\u0000\u0000\u0000A\u0004\u0004\u0000\u0000P\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000@\u0006\u0000\u0000|\u0005\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_hx_summon.play_vo_jiyan_hx_summon\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_hx_change.play_vo_jiyan_hx_change\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_join_team.play_vo_jiyan_join_team\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000,\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup01.play_vo_jiyan_rankup01\u0000\u0000\u0000<���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup02.play_vo_jiyan_rankup02\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup01.play_vo_jiyan_rankup01\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup02.play_vo_jiyan_rankup02\u0000\u0000\u0000P���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup03.play_vo_jiyan_rankup03\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup04.play_vo_jiyan_rankup04\u0000\u0000\u0000\b���\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup05.play_vo_jiyan_rankup05\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_tired_low.play_vo_jiyan_tired_low\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_tired.play_vo_jiyan_tired\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_chest.play_vo_jiyan_chest\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0001\u0000\u0000X���\b\u0000\u0000\u0000F\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_hp70.play_vo_jiyan_hp70\u0000\u0000\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_hp50.play_vo_jiyan_hp50\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_hp30.play_vo_jiyan_hp30\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jiyan_die.play_vo_jiyan_die\u0000\u0005\u0000\u0000\u0000jiyan\u0000\u0000\u0000"
+        "Name": "jiyan",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_hp70.play_vo_jiyan_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_hp50.play_vo_jiyan_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_hp30.play_vo_jiyan_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_die.play_vo_jiyan_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_chest.play_vo_jiyan_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_tired.play_vo_jiyan_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_tired_low.play_vo_jiyan_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup01.play_vo_jiyan_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup02.play_vo_jiyan_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup01.play_vo_jiyan_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup02.play_vo_jiyan_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup03.play_vo_jiyan_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup04.play_vo_jiyan_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_rankup05.play_vo_jiyan_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_join_team.play_vo_jiyan_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_hx_change.play_vo_jiyan_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_jiyan_hx_summon.play_vo_jiyan_hx_summon"
     },
     {
         "Id": 1501,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000t\u0001\u0000\u0000\u0000\u0000\u0000A\u0010\u0004\u0000\u0000`\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000\\\u0006\u0000\u0000�\u0005\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_hx_summon.play_vo_nanzhu_hx_summon\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_hx_change.play_vo_nanzhu_hx_change\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_join_team.play_vo_nanzhu_join_team\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000,\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup01.play_vo_nanzhu_rankup01\u00000���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup02.play_vo_nanzhu_rankup02\u0000����\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup01.play_vo_nanzhu_rankup01\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup02.play_vo_nanzhu_rankup02\u0000D���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup03.play_vo_nanzhu_rankup03\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup04.play_vo_nanzhu_rankup04\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup05.play_vo_nanzhu_rankup05\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_tired_low.play_vo_nanzhu_tired_low\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_tired.play_vo_nanzhu_tired\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_chest.play_vo_nanzhu_chest\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0001\u0000\u0000X���\b\u0000\u0000\u0000F\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_hp70.play_vo_nanzhu_hp70\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_hp50.play_vo_nanzhu_hp50\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_hp30.play_vo_nanzhu_hp30\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_die.play_vo_nanzhu_die\u0000\u0000\u0000\u0006\u0000\u0000\u0000nanzhu\u0000\u0000"
+        "Name": "nanzhu",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_hp70.play_vo_nanzhu_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_hp50.play_vo_nanzhu_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_hp30.play_vo_nanzhu_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_die.play_vo_nanzhu_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_chest.play_vo_nanzhu_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_tired.play_vo_nanzhu_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_tired_low.play_vo_nanzhu_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup01.play_vo_nanzhu_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup02.play_vo_nanzhu_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup01.play_vo_nanzhu_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup02.play_vo_nanzhu_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup03.play_vo_nanzhu_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup04.play_vo_nanzhu_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_rankup05.play_vo_nanzhu_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_join_team.play_vo_nanzhu_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_hx_change.play_vo_nanzhu_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_nanzhu_hx_summon.play_vo_nanzhu_hx_summon"
     },
     {
         "Id": 1503,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000,\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0000\u0000A8\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000$\u0005\u0000\u0000�\u0006\u0000\u0000�\u0005\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_hx_summon.play_vo_weilinai_hx_summon\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_hx_change.play_vo_weilinai_hx_change\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_join_team.play_vo_weilinai_join_team\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup01.play_vo_weilinai_rankup01\u0000\u0004���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup02.play_vo_weilinai_rankup02\u0000d���\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup01.play_vo_weilinai_rankup01\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup02.play_vo_weilinai_rankup02\u0000$���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup03.play_vo_weilinai_rankup03\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup04.play_vo_weilinai_rankup04\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup05.play_vo_weilinai_rankup05\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_tired_low.play_vo_weilinai_tired_low\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_tired.play_vo_weilinai_tired\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_chest.play_vo_weilinai_chest\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000P���\b\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_hp70.play_vo_weilinai_hp70\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_hp50.play_vo_weilinai_hp50\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_hp30.play_vo_weilinai_hp30\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_weilinai_die.play_vo_weilinai_die\u0000\u0000\u0000\b\u0000\u0000\u0000weilinai\u0000\u0000\u0000\u0000"
+        "Name": "weilinai",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_hp70.play_vo_weilinai_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_hp50.play_vo_weilinai_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_hp30.play_vo_weilinai_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_die.play_vo_weilinai_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_chest.play_vo_weilinai_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_tired.play_vo_weilinai_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_tired_low.play_vo_weilinai_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup01.play_vo_weilinai_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup02.play_vo_weilinai_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup01.play_vo_weilinai_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup02.play_vo_weilinai_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup03.play_vo_weilinai_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup04.play_vo_weilinai_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_rankup05.play_vo_weilinai_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_join_team.play_vo_weilinai_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_hx_change.play_vo_weilinai_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_weilinai_hx_summon.play_vo_weilinai_hx_summon"
     },
     {
         "Id": 1601,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000|\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000h\u0001\u0000\u0000\u0000\u0000\u0000A\u0004\u0004\u0000\u0000P\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000@\u0006\u0000\u0000A\u0006\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_hx_summon.play_vo_taoqi_hx_summon\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_hx_change.play_vo_taoqi_hx_change\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_join_team.play_vo_taoqi_join_team\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000,\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup01.play_vo_taoqi_rankup01\u0000\u0000\u0000<���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup02.play_vo_taoqi_rankup02\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup01.play_vo_taoqi_rankup01\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup02.play_vo_taoqi_rankup02\u0000\u0000\u0000P���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup03.play_vo_taoqi_rankup03\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup04.play_vo_taoqi_rankup04\u0000\u0000\u0000\b���\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup05.play_vo_taoqi_rankup05\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_tired_low.play_vo_taoqi_tired_low\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_tired.play_vo_taoqi_tired\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_chest.play_vo_taoqi_chest\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0001\u0000\u0000X���\b\u0000\u0000\u0000F\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_hp70.play_vo_taoqi_hp70\u0000\u0000\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_hp50.play_vo_taoqi_hp50\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_hp30.play_vo_taoqi_hp30\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000?\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_taoqi_die.play_vo_taoqi_die\u0000\u0005\u0000\u0000\u0000taoqi\u0000\u0000\u0000"
+        "Name": "taoqi",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_hp70.play_vo_taoqi_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_hp50.play_vo_taoqi_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_hp30.play_vo_taoqi_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_die.play_vo_taoqi_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_chest.play_vo_taoqi_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_tired.play_vo_taoqi_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_tired_low.play_vo_taoqi_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup01.play_vo_taoqi_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup02.play_vo_taoqi_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup01.play_vo_taoqi_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup02.play_vo_taoqi_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup03.play_vo_taoqi_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup04.play_vo_taoqi_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_rankup05.play_vo_taoqi_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_join_team.play_vo_taoqi_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_hx_change.play_vo_taoqi_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_taoqi_hx_summon.play_vo_taoqi_hx_summon"
     },
     {
         "Id": 1602,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000t\u0001\u0000\u0000\u0000\u0000\u0000A\u0010\u0004\u0000\u0000`\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000\\\u0006\u0000\u0000B\u0006\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_hx_summon.play_vo_danjin_hx_summon\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_hx_change.play_vo_danjin_hx_change\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_join_team.play_vo_danjin_join_team\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000,\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup01.play_vo_danjin_rankup01\u00000���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup02.play_vo_danjin_rankup02\u0000����\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup01.play_vo_danjin_rankup01\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup02.play_vo_danjin_rankup02\u0000D���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup03.play_vo_danjin_rankup03\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup04.play_vo_danjin_rankup04\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000K\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup05.play_vo_danjin_rankup05\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_tired_low.play_vo_danjin_tired_low\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_tired.play_vo_danjin_tired\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_chest.play_vo_danjin_chest\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000`\u0000\u0000\u0000�\u0000\u0000\u0000\u0010\u0001\u0000\u0000X���\b\u0000\u0000\u0000F\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_hp70.play_vo_danjin_hp70\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_hp50.play_vo_danjin_hp50\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_hp30.play_vo_danjin_hp30\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000A\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_danjin_die.play_vo_danjin_die\u0000\u0000\u0000\u0006\u0000\u0000\u0000danjin\u0000\u0000"
+        "Name": "danjin",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_hp70.play_vo_danjin_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_hp50.play_vo_danjin_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_hp30.play_vo_danjin_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_die.play_vo_danjin_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_chest.play_vo_danjin_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_tired.play_vo_danjin_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_tired_low.play_vo_danjin_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup01.play_vo_danjin_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup02.play_vo_danjin_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup01.play_vo_danjin_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup02.play_vo_danjin_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup03.play_vo_danjin_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup04.play_vo_danjin_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_rankup05.play_vo_danjin_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_join_team.play_vo_danjin_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_hx_change.play_vo_danjin_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_danjin_hx_summon.play_vo_danjin_hx_summon"
     },
     {
         "Id": 1104,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000,\u0001\u0000\u0000�\u0001\u0000\u0000\u0000\u0000\u0000A8\u0004\u0000\u0000�\u0004\u0000\u0000�\u0004\u0000\u0000$\u0005\u0000\u0000�\u0006\u0000\u0000P\u0004\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_hx_summon.play_vo_lingyang_hx_summon\u0000\u0000\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_hx_change.play_vo_lingyang_hx_change\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_join_team.play_vo_lingyang_join_team\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup01.play_vo_lingyang_rankup01\u0000\u0004���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup02.play_vo_lingyang_rankup02\u0000d���\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup01.play_vo_lingyang_rankup01\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup02.play_vo_lingyang_rankup02\u0000$���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup03.play_vo_lingyang_rankup03\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup04.play_vo_lingyang_rankup04\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup05.play_vo_lingyang_rankup05\u0000Q\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_tired_low.play_vo_lingyang_tired_low\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_tired.play_vo_lingyang_tired\u0000\u0000\u0000I\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_chest.play_vo_lingyang_chest\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000P���\b\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_hp70.play_vo_lingyang_hp70\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_hp50.play_vo_lingyang_hp50\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_hp30.play_vo_lingyang_hp30\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_lingyang_die.play_vo_lingyang_die\u0000\u0000\u0000\b\u0000\u0000\u0000lingyang\u0000\u0000\u0000\u0000"
+        "Name": "lingyang",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_hp70.play_vo_lingyang_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_hp50.play_vo_lingyang_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_hp30.play_vo_lingyang_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_die.play_vo_lingyang_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_chest.play_vo_lingyang_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_tired.play_vo_lingyang_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_tired_low.play_vo_lingyang_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup01.play_vo_lingyang_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup02.play_vo_lingyang_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup01.play_vo_lingyang_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup02.play_vo_lingyang_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup03.play_vo_lingyang_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup04.play_vo_lingyang_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_rankup05.play_vo_lingyang_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_join_team.play_vo_lingyang_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_hx_change.play_vo_lingyang_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_lingyang_hx_summon.play_vo_lingyang_hx_summon"
     },
     {
         "Id": 1301,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000t\u0001\u0000\u0000\u0000\u0000\u0000A,\u0004\u0000\u0000|\u0004\u0000\u0000�\u0004\u0000\u0000\f\u0005\u0000\u0000�\u0006\u0000\u0000\u0015\u0005\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_hx_summon.play_vo_kakaluo_hx_summon\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_hx_change.play_vo_kakaluo_hx_change\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_join_team.play_vo_kakaluo_join_team\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup01.play_vo_kakaluo_rankup01\u0000\u0000\u0000\u0010���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup02.play_vo_kakaluo_rankup02\u0000\u0000\u0000p���\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup01.play_vo_kakaluo_rankup01\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup02.play_vo_kakaluo_rankup02\u0000\u0000\u00000���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup03.play_vo_kakaluo_rankup03\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup04.play_vo_kakaluo_rankup04\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup05.play_vo_kakaluo_rankup05\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_tired_low.play_vo_kakaluo_tired_low\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_tired.play_vo_kakaluo_tired\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_chest.play_vo_kakaluo_chest\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000P���\b\u0000\u0000\u0000F\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_hp70.play_vo_kakaluo_hp70\u0000\u0000\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_hp50.play_vo_kakaluo_hp50\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_hp30.play_vo_kakaluo_hp30\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_die.play_vo_kakaluo_die\u0000\u0007\u0000\u0000\u0000kakaluo\u0000"
+        "Name": "kakaluo",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_hp70.play_vo_kakaluo_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_hp50.play_vo_kakaluo_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_hp30.play_vo_kakaluo_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_die.play_vo_kakaluo_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_chest.play_vo_kakaluo_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_tired.play_vo_kakaluo_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_tired_low.play_vo_kakaluo_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup01.play_vo_kakaluo_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup02.play_vo_kakaluo_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup01.play_vo_kakaluo_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup02.play_vo_kakaluo_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup03.play_vo_kakaluo_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup04.play_vo_kakaluo_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_rankup05.play_vo_kakaluo_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_join_team.play_vo_kakaluo_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_hx_change.play_vo_kakaluo_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_kakaluo_hx_summon.play_vo_kakaluo_hx_summon"
     },
     {
         "Id": 1405,
-        "BinData": " \u0000\u0000\u0000\u001c\u00004\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001c\u0000\u0000\u00000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000$\u0001\u0000\u0000t\u0001\u0000\u0000\u0000\u0000\u0000A,\u0004\u0000\u0000|\u0004\u0000\u0000�\u0004\u0000\u0000\f\u0005\u0000\u0000�\u0006\u0000\u0000}\u0005\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_hx_summon.play_vo_jianxin_hx_summon\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_hx_change.play_vo_jianxin_hx_change\u0000S\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_join_team.play_vo_jianxin_join_team\u0000\u0007\u0000\u0000\u0000\u001c\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u00000\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000D\u0002\u0000\u0000����\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup01.play_vo_jianxin_rankup01\u0000\u0000\u0000\u0010���\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup02.play_vo_jianxin_rankup02\u0000\u0000\u0000p���\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup01.play_vo_jianxin_rankup01\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup02.play_vo_jianxin_rankup02\u0000\u0000\u00000���\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup03.play_vo_jianxin_rankup03\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup04.play_vo_jianxin_rankup04\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup05.play_vo_jianxin_rankup05\u0000\u0000\u0000O\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_tired_low.play_vo_jianxin_tired_low\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_tired.play_vo_jianxin_tired\u0000G\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_chest.play_vo_jianxin_chest\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000P���\b\u0000\u0000\u0000F\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_hp70.play_vo_jianxin_hp70\u0000\u0000\u0000����\b\u0000\u0000\u00002\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_hp50.play_vo_jianxin_hp50\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u001e\u0000\u0000\u0000E\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_hp30.play_vo_jianxin_hp30\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000C\u0000\u0000\u0000/Game/Aki/WwiseAudio/Events/play_vo_jianxin_die.play_vo_jianxin_die\u0000\u0007\u0000\u0000\u0000jianxin\u0000"
+        "Name": "jianxin",
+        "HpLost": [
+            {
+                "key": 70,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_hp70.play_vo_jianxin_hp70"
+            },
+            {
+                "key": 50,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_hp50.play_vo_jianxin_hp50"
+            },
+            {
+                "key": 30,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_hp30.play_vo_jianxin_hp30"
+            },
+            {
+                "key": 0,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_die.play_vo_jianxin_die"
+            }
+        ],
+        "Chest": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_chest.play_vo_jianxin_chest",
+        "Effort": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_tired.play_vo_jianxin_tired",
+        "EffortLow": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_tired_low.play_vo_jianxin_tired_low",
+        "EffortCd": 8.0,
+        "Rankup": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup01.play_vo_jianxin_rankup01"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup02.play_vo_jianxin_rankup02"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup01.play_vo_jianxin_rankup01"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup02.play_vo_jianxin_rankup02"
+            },
+            {
+                "key": 5,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup03.play_vo_jianxin_rankup03"
+            },
+            {
+                "key": 6,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup04.play_vo_jianxin_rankup04"
+            },
+            {
+                "key": 7,
+                "value": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_rankup05.play_vo_jianxin_rankup05"
+            }
+        ],
+        "JoinTeam": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_join_team.play_vo_jianxin_join_team",
+        "FirstGet": "/Game/Aki/WwiseAudio/Events/play_vo_silence_placeholder.play_vo_silence_placeholder",
+        "MutantTransform": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_hx_change.play_vo_jianxin_hx_change",
+        "MutantSummon": "/Game/Aki/WwiseAudio/Events/play_vo_jianxin_hx_summon.play_vo_jianxin_hx_summon"
     }
 ]

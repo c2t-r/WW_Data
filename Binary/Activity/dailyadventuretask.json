@@ -1,58 +1,205 @@
 [
     {
         "TaskId": 1001,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000H\u0000\u0000\u0000h\u0000\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000\u0004\u0000\u0000\u00005001\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1001_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1001_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1001_Title",
+        "TaskDescription": "ActivityAdventureTask_1001_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "2",
+            "5001"
+        ]
     },
     {
         "TaskId": 1002,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000 \u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u00001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1002_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1002_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1002_Title",
+        "TaskDescription": "ActivityAdventureTask_1002_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "1"
+        ]
     },
     {
         "TaskId": 1003,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000 \u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u00001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1003_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1003_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1003_Title",
+        "TaskDescription": "ActivityAdventureTask_1003_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "1"
+        ]
     },
     {
         "TaskId": 1004,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000H\u0000\u0000\u0000h\u0000\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000\u0004\u0000\u0000\u00005021\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1004_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1004_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1004_Title",
+        "TaskDescription": "ActivityAdventureTask_1004_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "2",
+            "5021"
+        ]
     },
     {
         "TaskId": 1005,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u00000\u0000\u0000\u0000H\u0000\u0000\u0000h\u0000\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00002\u0000\u0000\u0000\u0006\u0000\u0000\u0000380000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1005_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1005_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1005_Title",
+        "TaskDescription": "ActivityAdventureTask_1005_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "2",
+            "380000"
+        ]
     },
     {
         "TaskId": 1006,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000 \u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u00001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1006_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1006_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1006_Title",
+        "TaskDescription": "ActivityAdventureTask_1006_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "1"
+        ]
     },
     {
         "TaskId": 1007,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000 \u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u00001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1007_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1007_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1007_Title",
+        "TaskDescription": "ActivityAdventureTask_1007_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "1"
+        ]
     },
     {
         "TaskId": 1008,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000 \u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u00001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1008_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1008_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1008_Title",
+        "TaskDescription": "ActivityAdventureTask_1008_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "1"
+        ]
     },
     {
         "TaskId": 1009,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000 \u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u00001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1009_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1009_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1009_Title",
+        "TaskDescription": "ActivityAdventureTask_1009_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "1"
+        ]
     },
     {
         "TaskId": 1010,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000 \u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u00001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1010_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1010_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1010_Title",
+        "TaskDescription": "ActivityAdventureTask_1010_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "1"
+        ]
     },
     {
         "TaskId": 1011,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000<\u0000\u0000\u0000T\u0000\u0000\u0000t\u0000\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00003\u0000\u0000\u0000\u0012\u0000\u0000\u0000RolePhantomTabView\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1011_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1011_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1011_Title",
+        "TaskDescription": "ActivityAdventureTask_1011_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "3",
+            "RolePhantomTabView"
+        ]
     },
     {
         "TaskId": 1012,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000<\u0000\u0000\u0000T\u0000\u0000\u0000t\u0000\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00003\u0000\u0000\u0000\u0012\u0000\u0000\u0000RolePhantomTabView\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1012_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1012_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1012_Title",
+        "TaskDescription": "ActivityAdventureTask_1012_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "3",
+            "RolePhantomTabView"
+        ]
     },
     {
         "TaskId": 1013,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000@\u0000\u0000\u0000X\u0000\u0000\u0000x\u0000\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00003\u0000\u0000\u0000\u0014\u0000\u0000\u0000RoleAttributeTabView\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1013_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1013_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1013_Title",
+        "TaskDescription": "ActivityAdventureTask_1013_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "3",
+            "RoleAttributeTabView"
+        ]
     },
     {
         "TaskId": 1014,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000<\u0000\u0000\u0000T\u0000\u0000\u0000t\u0000\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\f\u0000\u0000\u0000\u0001\u0000\u0000\u00003\u0000\u0000\u0000\u0011\u0000\u0000\u0000RoleWeaponTabView\u0000\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\n\u0000\u0000\u0000\r\u0000\u0000\u0000\u001f\u0000\u0000\u0000ActivityAdventureTask_1014_Desc\u0000 \u0000\u0000\u0000ActivityAdventureTask_1014_Title\u0000\u0000\u0000\u0000"
+        "TaskTitle": "ActivityAdventureTask_1014_Title",
+        "TaskDescription": "ActivityAdventureTask_1014_Desc",
+        "TaskReward": [
+            {
+                "key": 13,
+                "value": 10
+            }
+        ],
+        "TaskFunc": [
+            "3",
+            "RoleWeaponTabView"
+        ]
     }
 ]

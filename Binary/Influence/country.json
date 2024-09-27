@@ -1,10 +1,22 @@
 [
     {
         "Id": 0,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0010\u0000\u0000\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000Country_0_Title\u0000"
+        "Influences": [],
+        "Title": "Country_0_Title",
+        "Desc": "",
+        "Logo": "",
+        "DailyTaskShow": 1
     },
     {
         "Id": 1,
-        "BinData": "\u0014\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u000e\u0000\u0000\u0000\u0014\u0000\u0000\u0000d\u0000\u0000\u0000t\u0000\u0000\u0000�\u0000\u0000\u0000\u0001\u0000\u0000\u0000M\u0000\u0000\u0000/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_03_UI.T_Logo_03_UI\u0000\u0000\u0000\u000e\u0000\u0000\u0000Country_1_Desc\u0000\u0000\u000f\u0000\u0000\u0000Country_1_Title\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000"
+        "Influences": [
+            0,
+            1,
+            2
+        ],
+        "Title": "Country_1_Title",
+        "Desc": "Country_1_Desc",
+        "Logo": "/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_03_UI.T_Logo_03_UI",
+        "DailyTaskShow": 1
     }
 ]

@@ -3,30 +3,115 @@
         "Id": 1,
         "Times": 1,
         "Quality": 3,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001a\u0000\u0000\u0000,\u0000\u0000\u0000�p}?��(?\u0000\u0000\u0000?��\u0019>p\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve\u0000����\u0000\u0000�?�\u0016y?\u0000\u0000�?\u001f�k?\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0000\u0000�?\u0000\u0000�?\u0000\u0000�?\u0000\u0000�?O\u0000\u0000\u0000/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_One_S.Seq_Gacha_One_S\u0000"
+        "FinalShowSequencePath": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_One_S.Seq_Gacha_One_S",
+        "DefaultColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0
+        },
+        "FinalColor": {
+            "R": 0.9200000166893005,
+            "G": 1.0,
+            "B": 0.9729999899864197,
+            "A": 1.0
+        },
+        "DefaultProcess": 0.15000000596046448,
+        "ChangeColorProcess": 0.5,
+        "CompleteChangeColorProcess": 0.6600000262260437,
+        "PlaySequenceProcess": 0.9900000095367432,
+        "SlideCurveAssetPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
     },
     {
         "Id": 2,
         "Times": 1,
         "Quality": 4,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001a\u0000\u0000\u0000,\u0000\u0000\u0000�p}?��(?\u0000\u0000\u0000?��\u0019>p\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve\u0000����\u0000\u0000�?\u0000\u0000�?��5?w�_?\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0000\u0000�?\u0000\u0000�?\u0000\u0000�?\u0000\u0000�?Q\u0000\u0000\u0000/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_One_SR.Seq_Gacha_One_SR\u0000\u0000\u0000"
+        "FinalShowSequencePath": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_One_SR.Seq_Gacha_One_SR",
+        "DefaultColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0
+        },
+        "FinalColor": {
+            "R": 0.8740000128746033,
+            "G": 0.7099999785423279,
+            "B": 1.0,
+            "A": 1.0
+        },
+        "DefaultProcess": 0.15000000596046448,
+        "ChangeColorProcess": 0.5,
+        "CompleteChangeColorProcess": 0.6600000262260437,
+        "PlaySequenceProcess": 0.9900000095367432,
+        "SlideCurveAssetPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
     },
     {
         "Id": 3,
         "Times": 10,
         "Quality": 4,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001a\u0000\u0000\u0000,\u0000\u0000\u0000�p}?��(?\u0000\u0000\u0000?��\u0019>p\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0000\u0000\u0000\n\u0000\u0000\u0000\u0003\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve\u0000����\u0000\u0000�?\u0000\u0000�?��5?w�_?\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0000\u0000�?\u0000\u0000�?\u0000\u0000�?\u0000\u0000�?Q\u0000\u0000\u0000/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_Ten_SR.Seq_Gacha_Ten_SR\u0000\u0000\u0000"
+        "FinalShowSequencePath": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_Ten_SR.Seq_Gacha_Ten_SR",
+        "DefaultColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0
+        },
+        "FinalColor": {
+            "R": 0.8740000128746033,
+            "G": 0.7099999785423279,
+            "B": 1.0,
+            "A": 1.0
+        },
+        "DefaultProcess": 0.15000000596046448,
+        "ChangeColorProcess": 0.5,
+        "CompleteChangeColorProcess": 0.6600000262260437,
+        "PlaySequenceProcess": 0.9900000095367432,
+        "SlideCurveAssetPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
     },
     {
         "Id": 4,
         "Times": 1,
         "Quality": 5,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001a\u0000\u0000\u0000,\u0000\u0000\u0000�p}?��(?\u0000\u0000\u0000?��\u0019>p\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve\u0000����\u0000\u0000�?�Q8?��h?\u0000\u0000�?\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0000\u0000�?\u0000\u0000�?\u0000\u0000�?\u0000\u0000�?S\u0000\u0000\u0000/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_One_SSR.Seq_Gacha_One_SSR\u0000"
+        "FinalShowSequencePath": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_One_SSR.Seq_Gacha_One_SSR",
+        "DefaultColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0
+        },
+        "FinalColor": {
+            "R": 1.0,
+            "G": 0.9100000262260437,
+            "B": 0.7200000286102295,
+            "A": 1.0
+        },
+        "DefaultProcess": 0.15000000596046448,
+        "ChangeColorProcess": 0.5,
+        "CompleteChangeColorProcess": 0.6600000262260437,
+        "PlaySequenceProcess": 0.9900000095367432,
+        "SlideCurveAssetPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
     },
     {
         "Id": 5,
         "Times": 10,
         "Quality": 5,
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u00000\u0000,\u0000(\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u001a\u0000\u0000\u0000,\u0000\u0000\u0000�p}?��(?\u0000\u0000\u0000?��\u0019>p\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0005\u0000\u0000\u0000\n\u0000\u0000\u0000\u0005\u0000\u0000\u0000S\u0000\u0000\u0000/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve\u0000����\u0000\u0000�?�Q8?��h?\u0000\u0000�?\f\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\f\u0000\u0000\u0000\u0000\u0000�?\u0000\u0000�?\u0000\u0000�?\u0000\u0000�?S\u0000\u0000\u0000/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_Ten_SSR.Seq_Gacha_Ten_SSR\u0000"
+        "FinalShowSequencePath": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_Ten_SSR.Seq_Gacha_Ten_SSR",
+        "DefaultColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0
+        },
+        "FinalColor": {
+            "R": 1.0,
+            "G": 0.9100000262260437,
+            "B": 0.7200000286102295,
+            "A": 1.0
+        },
+        "DefaultProcess": 0.15000000596046448,
+        "ChangeColorProcess": 0.5,
+        "CompleteChangeColorProcess": 0.6600000262260437,
+        "PlaySequenceProcess": 0.9900000095367432,
+        "SlideCurveAssetPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
     }
 ]

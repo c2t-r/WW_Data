@@ -1,34 +1,34 @@
 [
     {
         "PackageId": 1,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000"
+        "PackageCapacity": 1000
     },
     {
         "PackageId": 2,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0007\u0000\u0000\u0002\u0000\u0000\u0000"
+        "PackageCapacity": 2000
     },
     {
         "PackageId": 3,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0007\u0000\u0000\u0003\u0000\u0000\u0000"
+        "PackageCapacity": 2000
     },
     {
         "PackageId": 4,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\u0004\u0000\u0000\u0000"
+        "PackageCapacity": 1000
     },
     {
         "PackageId": 7,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\u0007\u0000\u0000\u0000"
+        "PackageCapacity": 1000
     },
     {
         "PackageId": 5,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\u0005\u0000\u0000\u0000"
+        "PackageCapacity": 1000
     },
     {
         "PackageId": 6,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000\u0006\u0000\u0000\u0000"
+        "PackageCapacity": 1000
     },
     {
         "PackageId": 0,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\b\u0000\u0000\u0000\u0004\u0000\b\u0000\u0000\u0000�\u0003\u0000\u0000"
+        "PackageCapacity": 1000
     }
 ]

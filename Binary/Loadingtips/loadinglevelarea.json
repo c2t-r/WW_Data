@@ -1,18 +1,66 @@
 [
     {
         "Id": 1,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000�\u0003\u0000\u0000"
+        "LevelRange": [
+            2,
+            999
+        ],
+        "AreaId": [],
+        "MapId": [
+            8
+        ],
+        "ConditionGroup": 0,
+        "IsLimitShow": false,
+        "BeginTime": 0,
+        "EndTime": 0,
+        "ActivityId": 0
     },
     {
         "Id": 800201,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000�5\f\u0000\u0001\u0000\u0000\u0000B\u001f\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0003\u0000\u0000"
+        "LevelRange": [
+            1,
+            999
+        ],
+        "AreaId": [],
+        "MapId": [
+            8002
+        ],
+        "ConditionGroup": 0,
+        "IsLimitShow": false,
+        "BeginTime": 0,
+        "EndTime": 0,
+        "ActivityId": 0
     },
     {
         "Id": 6801,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000�\u001a\u0000\u0000\u0001\u0000\u0000\u0000D\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0003\u0000\u0000"
+        "LevelRange": [
+            1,
+            999
+        ],
+        "AreaId": [],
+        "MapId": [
+            68
+        ],
+        "ConditionGroup": 0,
+        "IsLimitShow": false,
+        "BeginTime": 0,
+        "EndTime": 0,
+        "ActivityId": 0
     },
     {
         "Id": 99999,
-        "BinData": "\u0010\u0000\u0000\u0000\f\u0000\u0010\u0000\f\u0000\b\u0000\u0000\u0000\u0004\u0000\f\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000��\u0001\u0000\u0001\u0000\u0000\u0000\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000"
+        "LevelRange": [
+            1,
+            1
+        ],
+        "AreaId": [],
+        "MapId": [
+            8
+        ],
+        "ConditionGroup": 0,
+        "IsLimitShow": false,
+        "BeginTime": 0,
+        "EndTime": 0,
+        "ActivityId": 0
     }
 ]

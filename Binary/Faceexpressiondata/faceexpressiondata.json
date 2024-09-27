@@ -1,50 +1,62 @@
 [
     {
         "Id": 1,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000{\"Type\":\"Texture\",\"FaceIndex\":1}\u0000\u0000\u0000\u0000"
+        "FaceExpression": "{\"Type\":\"Texture\",\"FaceIndex\":1}",
+        "MaleVariant": ""
     },
     {
         "Id": 4,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000{\"Type\":\"Texture\",\"FaceIndex\":2}\u0000\u0000\u0000\u0000"
+        "FaceExpression": "{\"Type\":\"Texture\",\"FaceIndex\":2}",
+        "MaleVariant": ""
     },
     {
         "Id": 5,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000{\"Type\":\"Texture\",\"FaceIndex\":3}\u0000\u0000\u0000\u0000"
+        "FaceExpression": "{\"Type\":\"Texture\",\"FaceIndex\":3}",
+        "MaleVariant": ""
     },
     {
         "Id": 6,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000{\"Type\":\"Texture\",\"FaceIndex\":4}\u0000\u0000\u0000\u0000"
+        "FaceExpression": "{\"Type\":\"Texture\",\"FaceIndex\":4}",
+        "MaleVariant": ""
     },
     {
         "Id": 3,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000%\u0000\u0000\u0000{\"Type\":\"Morph\",\"MorphData\":\"Aa:0.5\"}\u0000\u0000\u0000"
+        "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"Aa:0.5\"}",
+        "MaleVariant": ""
     },
     {
         "Id": 7,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000%\u0000\u0000\u0000{\"Type\":\"Morph\",\"MorphData\":\"Aa:0.5\"}\u0000\u0000\u0000"
+        "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"Aa:0.5\"}",
+        "MaleVariant": ""
     },
     {
         "Id": 8,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(\u0000\u0000\u0000{\"Type\":\"Morph\",\"MorphData\":\"E_Sad:0.5\"}\u0000\u0000\u0000\u0000"
+        "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"E_Sad:0.5\"}",
+        "MaleVariant": ""
     },
     {
         "Id": 9,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000+\u0000\u0000\u0000{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}\u0000"
+        "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
+        "MaleVariant": ""
     },
     {
         "Id": 10,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000+\u0000\u0000\u0000{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}\u0000"
+        "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
+        "MaleVariant": ""
     },
     {
         "Id": 11,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000+\u0000\u0000\u0000{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}\u0000"
+        "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
+        "MaleVariant": ""
     },
     {
         "Id": 12,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000+\u0000\u0000\u0000{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}\u0000"
+        "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
+        "MaleVariant": ""
     },
     {
         "Id": 13,
-        "BinData": "\u0010\u0000\u0000\u0000\u0000\u0000\n\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\r\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000+\u0000\u0000\u0000{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}\u0000"
+        "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
+        "MaleVariant": ""
     }
 ]

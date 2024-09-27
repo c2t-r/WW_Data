@@ -2,316 +2,1330 @@
     {
         "Id": 1001,
         "ViewName": "MailBoxView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u0000MailBoxView\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "FunctionView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1003,
         "ViewName": "RoleBreachView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u00000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000RoleLevelUpView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000H���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001013_M\u0000\u0000\u0007\u0000\u0000\u0000FemaleM\u0000l���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001013_M\u0000\u0000\u0005\u0000\u0000\u0000MaleM\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001013_S\u0000\u0000\u0007\u0000\u0000\u0000FemaleS\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0007\u0000\u0000\u00001013_MS\u0000\u0005\u0000\u0000\u0000MaleS\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001013_M\u0000\u0000\b\u0000\u0000\u0000FemaleXL\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0007\u0000\u0000\u00001013_XL\u0000\u0006\u0000\u0000\u0000MaleXL\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u00001013_M\u0000\u0000\u000e\u0000\u0000\u0000RoleBreachView\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1013_M",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 3,
+        "BodyCameraSettingsNameMap": [
+            {
+                "key": "FemaleM",
+                "value": "1013_M"
+            },
+            {
+                "key": "MaleM",
+                "value": "1013_M"
+            },
+            {
+                "key": "FemaleS",
+                "value": "1013_S"
+            },
+            {
+                "key": "MaleS",
+                "value": "1013_MS"
+            },
+            {
+                "key": "FemaleXL",
+                "value": "1013_M"
+            },
+            {
+                "key": "MaleXL",
+                "value": "1013_XL"
+            }
+        ],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            },
+            {
+                "key": "RoleLevelUpView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1004,
         "ViewName": "RoleSkillView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001008\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000RoleSkillView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1008",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1005,
         "ViewName": "RoleLevelUpView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u00000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000RoleBreachView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000H���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001018_M\u0000\u0000\u0007\u0000\u0000\u0000FemaleM\u0000l���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001018_M\u0000\u0000\u0005\u0000\u0000\u0000MaleM\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001018_S\u0000\u0000\u0007\u0000\u0000\u0000FemaleS\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0007\u0000\u0000\u00001018_MS\u0000\u0005\u0000\u0000\u0000MaleS\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001018_M\u0000\u0000\b\u0000\u0000\u0000FemaleXL\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0007\u0000\u0000\u00001018_XL\u0000\u0006\u0000\u0000\u0000MaleXL\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u00001018_M\u0000\u0000\u000f\u0000\u0000\u0000RoleLevelUpView\u0000"
+        "DefaultUiCameraSettingsName": "1018_M",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 3,
+        "BodyCameraSettingsNameMap": [
+            {
+                "key": "FemaleM",
+                "value": "1018_M"
+            },
+            {
+                "key": "MaleM",
+                "value": "1018_M"
+            },
+            {
+                "key": "FemaleS",
+                "value": "1018_S"
+            },
+            {
+                "key": "MaleS",
+                "value": "1018_MS"
+            },
+            {
+                "key": "FemaleXL",
+                "value": "1018_M"
+            },
+            {
+                "key": "MaleXL",
+                "value": "1018_XL"
+            }
+        ],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            },
+            {
+                "key": "RoleBreachView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1006,
         "ViewName": "RoleElementView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u00008\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000RoleLevelUpView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u00001018_M\u0000\u0000\u000f\u0000\u0000\u0000RoleElementView\u0000"
+        "DefaultUiCameraSettingsName": "1018_M",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            },
+            {
+                "key": "RoleLevelUpView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1007,
         "ViewName": "ShopView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0018\u0001\u0000\u0000 \u0001\u0000\u0000(\u0001\u0000\u0000�\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000H���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\u0007\u0000\u0000\u0000FemaleM\u0000l���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000MaleM\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\u0007\u0000\u0000\u0000FemaleS\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000MaleS\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000FemaleXL\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000MaleXL\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000ShopView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1069",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 2,
+        "BodyCameraSettingsNameMap": [
+            {
+                "key": "FemaleM",
+                "value": "1069"
+            },
+            {
+                "key": "MaleM",
+                "value": "1069"
+            },
+            {
+                "key": "FemaleS",
+                "value": "1069"
+            },
+            {
+                "key": "MaleS",
+                "value": "1069"
+            },
+            {
+                "key": "FemaleXL",
+                "value": "1069"
+            },
+            {
+                "key": "MaleXL",
+                "value": "1069"
+            }
+        ],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1008,
         "ViewName": "QuestView",
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u001a\u0000\u0000\u0000^\u0001\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000QuestView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "FunctionView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 350
     },
     {
         "Id": 1009,
         "ViewName": "FunctionView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0004\u0002\u0000\u0000\b\u0002\u0000\u0000\u0010\u0002\u0000\u0000\u0018\u0002\u0000\u0000�\u0003\u0000\u0000\n\u0000\u0000\u0000(\u0000\u0000\u0000P\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u001c\u0001\u0000\u0000D\u0001\u0000\u0000l\u0001\u0000\u0000�\u0001\u0000\u0000p���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010003\u0000\u0000\u0000\f\u0000\u0000\u0000WorldMapView\u0000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010005\u0000\u0000\u0000\r\u0000\u0000\u0000InventoryView\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010005\u0000\u0000\u0000\t\u0000\u0000\u0000QuestView\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010005\u0000\u0000\u0000\u0011\u0000\u0000\u0000EditFormationView\u0000\u0000\u0000 ���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010005\u0000\u0000\u0000\u000f\u0000\u0000\u0000InventoryPcView\u0000L���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010005\u0000\u0000\u0000\u0010\u0000\u0000\u0000PhantomGuideView\u0000\u0000\u0000\u0000|���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010004\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010005\u0000\u0000\u0000\r\u0000\u0000\u0000TimeOfDayView\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010005\u0000\u0000\u0000\r\u0000\u0000\u0000GachaMainView\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010005\u0000\u0000\u0000\u000f\u0000\u0000\u0000PayShopRootView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "WorldMapView",
+                "value": "10003"
+            },
+            {
+                "key": "InventoryView",
+                "value": "10005"
+            },
+            {
+                "key": "QuestView",
+                "value": "10005"
+            },
+            {
+                "key": "EditFormationView",
+                "value": "10005"
+            },
+            {
+                "key": "InventoryPcView",
+                "value": "10005"
+            },
+            {
+                "key": "PhantomGuideView",
+                "value": "10005"
+            },
+            {
+                "key": "RoleRootView",
+                "value": "10004"
+            },
+            {
+                "key": "TimeOfDayView",
+                "value": "10005"
+            },
+            {
+                "key": "GachaMainView",
+                "value": "10005"
+            },
+            {
+                "key": "PayShopRootView",
+                "value": "10005"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1011,
         "ViewName": "InventoryView",
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u001a\u0000\u0000\u0000^\u0001\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000InventoryView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "FunctionView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 350
     },
     {
         "Id": 1012,
         "ViewName": "RoleSelectionView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\u0003\u0000\u0000\u0000L\u0001\u0000\u0000T\u0001\u0000\u0000\\\u0001\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\u0004\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000H���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001018_M\u0000\u0000\u0007\u0000\u0000\u0000FemaleM\u0000l���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001018_M\u0000\u0000\u0005\u0000\u0000\u0000MaleM\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001018_S\u0000\u0000\u0007\u0000\u0000\u0000FemaleS\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0007\u0000\u0000\u00001018_MS\u0000\u0005\u0000\u0000\u0000MaleS\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001018_M\u0000\u0000\b\u0000\u0000\u0000FemaleXL\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0007\u0000\u0000\u00001018_XL\u0000\u0006\u0000\u0000\u0000MaleXL\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u00001018_M\u0000\u0000\u0011\u0000\u0000\u0000RoleSelectionView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1018_M",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 3,
+        "BodyCameraSettingsNameMap": [
+            {
+                "key": "FemaleM",
+                "value": "1018_M"
+            },
+            {
+                "key": "MaleM",
+                "value": "1018_M"
+            },
+            {
+                "key": "FemaleS",
+                "value": "1018_S"
+            },
+            {
+                "key": "MaleS",
+                "value": "1018_MS"
+            },
+            {
+                "key": "FemaleXL",
+                "value": "1018_M"
+            },
+            {
+                "key": "MaleXL",
+                "value": "1018_XL"
+            }
+        ],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1013,
         "ViewName": "WeaponRootView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0004\u0001\u0000\u0000\f\u0001\u0000\u0000�\u0003\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000p���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000WeaponReplaceView\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000WeaponBreachSuccessView\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000WeaponResonanceSuccessView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001016\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000WeaponRootView\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1016",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            },
+            {
+                "key": "WeaponReplaceView",
+                "value": "1001"
+            },
+            {
+                "key": "WeaponBreachSuccessView",
+                "value": "1001"
+            },
+            {
+                "key": "WeaponResonanceSuccessView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1014,
         "ViewName": "WeaponReplaceView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000|\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u00000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010013\u0000\u0000\u0000\u000e\u0000\u0000\u0000WeaponRootView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000H���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001011_M\u0000\u0000\u0007\u0000\u0000\u0000FemaleM\u0000l���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001011_M\u0000\u0000\u0005\u0000\u0000\u0000MaleM\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001011_S\u0000\u0000\u0007\u0000\u0000\u0000FemaleS\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0007\u0000\u0000\u00001011_MS\u0000\u0005\u0000\u0000\u0000MaleS\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0006\u0000\u0000\u00001011_M\u0000\u0000\b\u0000\u0000\u0000FemaleXL\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0007\u0000\u0000\u00001011_XL\u0000\u0006\u0000\u0000\u0000MaleXL\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u00001011_M\u0000\u0000\u0011\u0000\u0000\u0000WeaponReplaceView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1011_M",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 3,
+        "BodyCameraSettingsNameMap": [
+            {
+                "key": "FemaleM",
+                "value": "1011_M"
+            },
+            {
+                "key": "MaleM",
+                "value": "1011_M"
+            },
+            {
+                "key": "FemaleS",
+                "value": "1011_S"
+            },
+            {
+                "key": "MaleS",
+                "value": "1011_MS"
+            },
+            {
+                "key": "FemaleXL",
+                "value": "1011_M"
+            },
+            {
+                "key": "MaleXL",
+                "value": "1011_XL"
+            }
+        ],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            },
+            {
+                "key": "WeaponRootView",
+                "value": "10013"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1015,
         "ViewName": "WeaponBreachSuccessView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000WeaponRootView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001031\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000WeaponBreachSuccessView\u0000"
+        "DefaultUiCameraSettingsName": "1031",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "WeaponRootView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1016,
         "ViewName": "WeaponResonanceSuccessView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000WeaponRootView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001031\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000WeaponResonanceSuccessView\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1031",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "WeaponRootView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1017,
         "ViewName": "MingSuView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0018\u0001\u0000\u0000 \u0001\u0000\u0000(\u0001\u0000\u0000�\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000H���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001071\u0000\u0000\u0000\u0000\u0007\u0000\u0000\u0000FemaleM\u0000l���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001071\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000MaleM\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001071\u0000\u0000\u0000\u0000\u0007\u0000\u0000\u0000FemaleS\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001071\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000MaleS\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001071\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000FemaleXL\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001071\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000MaleXL\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001071\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000MingSuView\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1071",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 2,
+        "BodyCameraSettingsNameMap": [
+            {
+                "key": "FemaleM",
+                "value": "1071"
+            },
+            {
+                "key": "MaleM",
+                "value": "1071"
+            },
+            {
+                "key": "FemaleS",
+                "value": "1071"
+            },
+            {
+                "key": "MaleS",
+                "value": "1071"
+            },
+            {
+                "key": "FemaleXL",
+                "value": "1071"
+            },
+            {
+                "key": "MaleXL",
+                "value": "1071"
+            }
+        ],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1018,
         "ViewName": "TapeRootView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u00008\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000TapeReplaceView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001024\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000TapeRootView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1024",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            },
+            {
+                "key": "TapeReplaceView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1019,
         "ViewName": "TapeReplaceView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0003\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u00008\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000TapeRootView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001023\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000TapeReplaceView\u0000"
+        "DefaultUiCameraSettingsName": "1023",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            },
+            {
+                "key": "TapeRootView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1020,
         "ViewName": "InventoryPcView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000InventoryPcView\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "FunctionView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1021,
         "ViewName": "TimeOfDayView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000TimeOfDayView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "FunctionView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1022,
         "ViewName": "InstanceDungeonEntranceView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000�\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001036\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000InstanceDungeonEntranceView\u0000"
+        "DefaultUiCameraSettingsName": "1036",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1023,
         "ViewName": "InstanceDungeonVictoryView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000�\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001034\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000InstanceDungeonVictoryView\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1034",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1024,
         "ViewName": "InstanceDungeonFailView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001034\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000InstanceDungeonFailView\u0000"
+        "DefaultUiCameraSettingsName": "1034",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1025,
         "ViewName": "RegionalQuestView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000RegionalQuestView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1002",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1026,
         "ViewName": "SceneGameplayItemRewardView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u0002\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001035\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000SceneGameplayItemRewardView\u0000"
+        "DefaultUiCameraSettingsName": "1035",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1027,
         "ViewName": "MenuView",
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u001a\u0000\u0000\u0000^\u0001\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000\u0003\u0004\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000MenuView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "FunctionView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 350
     },
     {
         "Id": 1028,
         "ViewName": "RegionContributionLevelView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u0004\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000RegionContributionLevelView\u0000"
+        "DefaultUiCameraSettingsName": "1002",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1029,
         "ViewName": "ChatView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u0005\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000ChatView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1030,
         "ViewName": "PayShopRootView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0006\u0004\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u00008\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionView\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000GachaMainView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000PayShopRootView\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "FunctionView",
+                "value": "1001"
+            },
+            {
+                "key": "GachaMainView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1031,
         "ViewName": "OnlineWorldHallView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000\u0007\u0004\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000OnlineWorldHallView\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "FunctionView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1032,
         "ViewName": "GachaMainView",
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u001a\u0000\u0000\u0000^\u0001\u0000\u0000\u0018\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\b\u0004\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u00008\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionView\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010005\u0000\u0000\u0000\u000f\u0000\u0000\u0000PayShopRootView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000GachaMainView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "FunctionView",
+                "value": "1001"
+            },
+            {
+                "key": "PayShopRootView",
+                "value": "10005"
+            }
+        ],
+        "UiCameraDelayTime": 350
     },
     {
         "Id": 1033,
         "ViewName": "GachaScanView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000,\u0000\u0000\u0000\t\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\b\u0000\u0000\u00001041_New\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000GachaScanView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1041_New",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1034,
         "ViewName": "DrawMainView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000,\u0000\u0000\u0000\n\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\b\u0000\u0000\u00001041_New\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000DrawMainView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1041_New",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1035,
         "ViewName": "TutorialView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000\u000b\u0004\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000TutorialView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "FunctionView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1036,
         "ViewName": "WeaponPreviewView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u00000\u0000\u0000\u0000\f\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\f\u0000\u0000\u00001016_preview\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000WeaponPreviewView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1016_preview",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1037,
         "ViewName": "RoleSkillTreeInfoView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000$\u0000\u0000\u0000\r\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000RoleSkillTreeInfoView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1038,
         "ViewName": "CookRootView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000\u000e\u0004\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001044\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000CookRootView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1044",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1039,
         "ViewName": "SingleTimeTowerVictoryView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u000f\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001034\u0000\u0000\u0000\u0000\u001a\u0000\u0000\u0000SingleTimeTowerVictoryView\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1034",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1040,
         "ViewName": "SingleTimeTowerFailView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u0010\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001034\u0000\u0000\u0000\u0000\u0017\u0000\u0000\u0000SingleTimeTowerFailView\u0000"
+        "DefaultUiCameraSettingsName": "1034",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1041,
         "ViewName": "ComposeRootView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000\u0011\u0004\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001045\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000ComposeRootView\u0000"
+        "DefaultUiCameraSettingsName": "1045",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1042,
         "ViewName": "ForgingRootView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000\u0012\u0004\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001045\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000ForgingRootView\u0000"
+        "DefaultUiCameraSettingsName": "1045",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1043,
         "ViewName": "TurntableControlView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u0013\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001067\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000TurntableControlView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1067",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1044,
         "ViewName": "RoleRootView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000(\u0001\u0000\u0000,\u0001\u0000\u00004\u0001\u0000\u0000D\u0001\u0000\u0000\u0014\u0004\u0000\u0000\u0005\u0000\u0000\u0000\u0014\u0000\u0000\u0000D\u0000\u0000\u0000p\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000<���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000RoleAttributeTabView\u0000\u0000\u0000\u0000p���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000RoleWeaponTabView\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010012\u0000\u0000\u0000\u0012\u0000\u0000\u0000RolePhantomTabView\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000RoleFavorTabView\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010012\u0000\u0000\u0000\u0013\u0000\u0000\u0000VisionEquipmentView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u00001006_Female154\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1006_Female154",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleAttributeTabView",
+                "value": "1001"
+            },
+            {
+                "key": "RoleWeaponTabView",
+                "value": "1001"
+            },
+            {
+                "key": "RolePhantomTabView",
+                "value": "10012"
+            },
+            {
+                "key": "RoleFavorTabView",
+                "value": "1001"
+            },
+            {
+                "key": "VisionEquipmentView",
+                "value": "10012"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1045,
         "ViewName": "PersonalRootView",
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u001a\u0000\u0000\u0000^\u0001\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u0015\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001068\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000PersonalRootView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1068",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 350
     },
     {
         "Id": 1046,
         "ViewName": "PhantomExploreSetView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u0016\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000PhantomExploreSetView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1047,
         "ViewName": "FriendView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u0017\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000FriendView\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1048,
         "ViewName": "RoguelikeSelectRoleView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000\u0018\u0004\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u00000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000InstanceDungeonEntranceView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u0000@\u0000\u0000\u0000h\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000 ���\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u00001006_Female154\u0000\u0000\u0007\u0000\u0000\u0000FemaleM\u0000L���\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u00001006_Female154\u0000\u0000\u0005\u0000\u0000\u0000MaleM\u0000\u0000\u0000x���\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u00001006_Female121\u0000\u0000\u0007\u0000\u0000\u0000FemaleS\u0000����\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u00001006_Male130\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000MaleS\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u00001006_Female154\u0000\u0000\b\u0000\u0000\u0000FemaleXL\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u00001006_Male180\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000MaleXL\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u00001006_Female154\u0000\u0000\u0017\u0000\u0000\u0000RoguelikeSelectRoleView\u0000"
+        "DefaultUiCameraSettingsName": "1006_Female154",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 3,
+        "BodyCameraSettingsNameMap": [
+            {
+                "key": "FemaleM",
+                "value": "1006_Female154"
+            },
+            {
+                "key": "MaleM",
+                "value": "1006_Female154"
+            },
+            {
+                "key": "FemaleS",
+                "value": "1006_Female121"
+            },
+            {
+                "key": "MaleS",
+                "value": "1006_Male130"
+            },
+            {
+                "key": "FemaleXL",
+                "value": "1006_Female154"
+            },
+            {
+                "key": "MaleXL",
+                "value": "1006_Male180"
+            }
+        ],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            },
+            {
+                "key": "InstanceDungeonEntranceView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1049,
         "ViewName": "AdventureGuideView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u0019\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000AdventureGuideView\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1050,
         "ViewName": "SundialControlView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u001a\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001070\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000SundialControlView\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1070",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1051,
         "ViewName": "HandBookEntranceView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u001b\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001061\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000HandBookEntranceView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1061",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1052,
         "ViewName": "AchievementMainView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000\u001c\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001016\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000AchievementMainView\u0000"
+        "DefaultUiCameraSettingsName": "1016",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1053,
         "ViewName": "RoleFavorInfoView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000\u001d\u0004\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001063\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000RoleFavorInfoView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1063",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "1001"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1054,
         "ViewName": "VisionIntensifyView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000`\u0000\u0000\u0000h\u0000\u0000\u0000\u001e\u0004\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010014\u0000\u0000\u0000\u0013\u0000\u0000\u0000VisionEquipmentView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001026\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000VisionIntensifyView\u0000"
+        "DefaultUiCameraSettingsName": "1026",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "VisionEquipmentView",
+                "value": "10014"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1055,
         "ViewName": "RolePreviewRootView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u00000\u0000\u0000\u0000\u001f\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u00001006_Female154\u0000\u0000\u0013\u0000\u0000\u0000RolePreviewRootView\u0000"
+        "DefaultUiCameraSettingsName": "1006_Female154",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1056,
         "ViewName": "RoleNewJoinView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000,\u0000\u0000\u0000 \u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\b\u0000\u0000\u00001041_New\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000RoleNewJoinView\u0000"
+        "DefaultUiCameraSettingsName": "1041_New",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1057,
         "ViewName": "VisionEquipmentView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000!\u0004\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0000\u0000\u00008\u0000\u0000\u0000d\u0000\u0000\u0000�\u0000\u0000\u0000t���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010012\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010012\u0000\u0000\u0000\u0012\u0000\u0000\u0000RolePhantomTabView\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010014\u0000\u0000\u0000\u0013\u0000\u0000\u0000VisionIntensifyView\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010014\u0000\u0000\u0000\u000e\u0000\u0000\u0000VisionSkinView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001025\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000VisionEquipmentView\u0000"
+        "DefaultUiCameraSettingsName": "1025",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "10012"
+            },
+            {
+                "key": "RolePhantomTabView",
+                "value": "10012"
+            },
+            {
+                "key": "VisionIntensifyView",
+                "value": "10014"
+            },
+            {
+                "key": "VisionSkinView",
+                "value": "10014"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1058,
         "ViewName": "BattlePassMainView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u00000\u0000\u0000\u0000\"\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\f\u0000\u0000\u00001016_preview\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000BattlePassMainView\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1016_preview",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1059,
         "ViewName": "CalabashRootView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000#\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000800031\u0000\u0000\u0010\u0000\u0000\u0000CalabashRootView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "800031",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1060,
         "ViewName": "LordGymEntranceView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000$\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001073\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000LordGymEntranceView\u0000"
+        "DefaultUiCameraSettingsName": "1073",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1061,
         "ViewName": "RogueShopView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u001c\u0000\u0000\u0000 \u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0018\u0001\u0000\u0000 \u0001\u0000\u0000(\u0001\u0000\u0000%\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u00008\u0000\u0000\u0000X\u0000\u0000\u0000x\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000H���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\u0007\u0000\u0000\u0000FemaleM\u0000l���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000MaleM\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\u0007\u0000\u0000\u0000FemaleS\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000MaleS\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000FemaleXL\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000MaleXL\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001069\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000RogueShopView\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1069",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 2,
+        "BodyCameraSettingsNameMap": [
+            {
+                "key": "FemaleM",
+                "value": "1069"
+            },
+            {
+                "key": "MaleM",
+                "value": "1069"
+            },
+            {
+                "key": "FemaleS",
+                "value": "1069"
+            },
+            {
+                "key": "MaleS",
+                "value": "1069"
+            },
+            {
+                "key": "FemaleXL",
+                "value": "1069"
+            },
+            {
+                "key": "MaleXL",
+                "value": "1069"
+            }
+        ],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1062,
         "ViewName": "VisionSkinView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000\u0018\u0000\u0000\u0000T\u0000\u0000\u0000X\u0000\u0000\u0000`\u0000\u0000\u0000h\u0000\u0000\u0000&\u0004\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010014\u0000\u0000\u0000\u0013\u0000\u0000\u0000VisionEquipmentView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001026\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000VisionSkinView\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1026",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "VisionEquipmentView",
+                "value": "10014"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1063,
         "ViewName": "PhantomBattleFettersView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0018\u0000$\u0000 \u0000\u001c\u0000\u0018\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000�\u0001\u0000\u0000'\u0004\u0000\u0000\u0003\u0000\u0000\u0000\f\u0000\u0000\u00004\u0000\u0000\u0000`\u0000\u0000\u0000t���\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010007\u0000\u0000\u0000\f\u0000\u0000\u0000RoleRootView\u0000\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010014\u0000\u0000\u0000\u0013\u0000\u0000\u0000VisionIntensifyView\u0000����\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010014\u0000\u0000\u0000\u000e\u0000\u0000\u0000VisionSkinView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u0000@\u0000\u0000\u0000h\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000 ���\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u00001012_Female154\u0000\u0000\u0007\u0000\u0000\u0000FemaleM\u0000L���\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u00001012_Female154\u0000\u0000\u0005\u0000\u0000\u0000MaleM\u0000\u0000\u0000x���\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u00001012_Female121\u0000\u0000\u0007\u0000\u0000\u0000FemaleS\u0000����\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u00001012_Male130\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000MaleS\u0000\u0000\u0000����\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u000e\u0000\u0000\u00001012_Female154\u0000\u0000\b\u0000\u0000\u0000FemaleXL\u0000\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000\f\u0000\u0000\u00001012_Male180\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000MaleXL\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u00001012_Female154\u0000\u0000\u0018\u0000\u0000\u0000PhantomBattleFettersView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1012_Female154",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 3,
+        "BodyCameraSettingsNameMap": [
+            {
+                "key": "FemaleM",
+                "value": "1012_Female154"
+            },
+            {
+                "key": "MaleM",
+                "value": "1012_Female154"
+            },
+            {
+                "key": "FemaleS",
+                "value": "1012_Female121"
+            },
+            {
+                "key": "MaleS",
+                "value": "1012_Male130"
+            },
+            {
+                "key": "FemaleXL",
+                "value": "1012_Female154"
+            },
+            {
+                "key": "MaleXL",
+                "value": "1012_Male180"
+            }
+        ],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "RoleRootView",
+                "value": "10007"
+            },
+            {
+                "key": "VisionIntensifyView",
+                "value": "10014"
+            },
+            {
+                "key": "VisionSkinView",
+                "value": "10014"
+            }
+        ],
+        "UiCameraDelayTime": 0
     },
     {
         "Id": 1002,
         "ViewName": "WorldMapView",
-        "BinData": " \u0000\u0000\u0000\u0000\u0000\u001a\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\b\u0000\u0004\u0000\u001a\u0000\u0000\u0000,\u0001\u0000\u0000\u0018\u0000\u0000\u0000P\u0000\u0000\u0000T\u0000\u0000\u0000\\\u0000\u0000\u0000d\u0000\u0000\u0000�\u0003\u0000\u0000\u0001\u0000\u0000\u0000\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0005\u0000\u0000\u000010002\u0000\u0000\u0000\f\u0000\u0000\u0000FunctionView\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000WorldMapView\u0000\u0000\u0000\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [
+            {
+                "key": "FunctionView",
+                "value": "10002"
+            }
+        ],
+        "UiCameraDelayTime": 300
     },
     {
         "Id": 1065,
         "ViewName": "GachaResultView",
-        "BinData": "\u001c\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0016\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000 \u0000\u0000\u0000(\u0000\u0000\u0000)\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001002\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u00001001\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000GachaResultView\u0000"
+        "DefaultUiCameraSettingsName": "1001",
+        "IsCheckSpecialState": false,
+        "SpecialStateCameraSettingName": "1002",
+        "bPlayLoadingCameraAnimation": true,
+        "BodyTargetType": 0,
+        "BodyCameraSettingsNameMap": [],
+        "DefaultCameraBlendName": "",
+        "UiCameraBlendNameMap": [],
+        "UiCameraDelayTime": 0
     }
 ]

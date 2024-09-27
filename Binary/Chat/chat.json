@@ -1,10 +1,20 @@
 [
     {
         "Id": 1,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0000\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000�\u0001\u0000\u0000\u001e\u0000\u0000\u0000d\u0000\u0000\u0000\u001e\u0000\u0000\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u000b\u0000\u0000\u0000Chat_1_Name\u0000"
+        "Name": "Chat_1_Name",
+        "BuildLimit": 0,
+        "SaveMsgLimit": 30,
+        "LocalSaveMsgLimit": 100,
+        "SaveMsgTime": 30,
+        "ChatCd": 500
     },
     {
         "Id": 2,
-        "BinData": "\u0018\u0000\u0000\u0000\u0000\u0000\u0012\u0000 \u0000\u001c\u0000\u0018\u0000\u0014\u0000\u0010\u0000\f\u0000\b\u0000\u0004\u0000\u0012\u0000\u0000\u0000�\u0001\u0000\u0000\u0005\u0000\u0000\u0000d\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u0001\u0000\u0000\u0000\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u000b\u0000\u0000\u0000Chat_2_Name\u0000"
+        "Name": "Chat_2_Name",
+        "BuildLimit": 1,
+        "SaveMsgLimit": 30,
+        "LocalSaveMsgLimit": 100,
+        "SaveMsgTime": 5,
+        "ChatCd": 500
     }
 ]

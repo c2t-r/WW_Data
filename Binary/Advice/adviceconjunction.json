@@ -1,38 +1,38 @@
 [
     {
         "Id": 1,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0018\u0000\u0000\u0000AdviceConjunction_1_Text\u0000\u0000\u0000\u0000"
+        "Text": "AdviceConjunction_1_Text"
     },
     {
         "Id": 2,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0018\u0000\u0000\u0000AdviceConjunction_2_Text\u0000\u0000\u0000\u0000"
+        "Text": "AdviceConjunction_2_Text"
     },
     {
         "Id": 3,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u0000\u0000\u0000AdviceConjunction_3_Text\u0000\u0000\u0000\u0000"
+        "Text": "AdviceConjunction_3_Text"
     },
     {
         "Id": 4,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0018\u0000\u0000\u0000AdviceConjunction_4_Text\u0000\u0000\u0000\u0000"
+        "Text": "AdviceConjunction_4_Text"
     },
     {
         "Id": 5,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0018\u0000\u0000\u0000AdviceConjunction_5_Text\u0000\u0000\u0000\u0000"
+        "Text": "AdviceConjunction_5_Text"
     },
     {
         "Id": 6,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0018\u0000\u0000\u0000AdviceConjunction_6_Text\u0000\u0000\u0000\u0000"
+        "Text": "AdviceConjunction_6_Text"
     },
     {
         "Id": 7,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0018\u0000\u0000\u0000AdviceConjunction_7_Text\u0000\u0000\u0000\u0000"
+        "Text": "AdviceConjunction_7_Text"
     },
     {
         "Id": 8,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\u0018\u0000\u0000\u0000AdviceConjunction_8_Text\u0000\u0000\u0000\u0000"
+        "Text": "AdviceConjunction_8_Text"
     },
     {
         "Id": 9,
-        "BinData": "\f\u0000\u0000\u0000\b\u0000\f\u0000\b\u0000\u0004\u0000\b\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\u0018\u0000\u0000\u0000AdviceConjunction_9_Text\u0000\u0000\u0000\u0000"
+        "Text": "AdviceConjunction_9_Text"
     }
 ]
